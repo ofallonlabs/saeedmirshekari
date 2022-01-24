@@ -2091,3 +2091,48 @@ section {
 .events .card:hover .card-body .card-title a {
   color: #94c045;
 }
+
+/*--------------------------------------------------------------
+# Services2
+--------------------------------------------------------------*/
+.services2 .icon-box {
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 0 10px 40px 10px;
+  background: #fff;
+  box-shadow: 0 2px 29px 0 rgba(68, 88, 144, 0.12);
+  transition: all 0.3s ease-in-out;
+}
+.services2 .icon-box:hover {
+  transform: translateY(-5px);
+}
+.services2 .icon {
+  position: absolute;
+  left: 0px;
+  top: calc(25% - 20px);
+}
+.services2 .icon i {
+  font-size: 64px;
+  line-height: 1;
+  transition: 0.5s;
+}
+.services2 .title {
+  margin-left: 40px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+.services2 .title a {
+  color: #111;
+}
+.services2 .icon-box:hover .title a {
+  color: #94c045;
+}
+.services2 .description {
+  font-size: 14px;
+  margin-left: 40px;
+  line-height: 24px;
+  margin-bottom: 0;
+}
