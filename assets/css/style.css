@@ -593,6 +593,30 @@ section {
   border-radius: 0;
 }
 
+.about .btn-wrap {
+  margin: 20px -20px -20px -20px;
+  padding: 20px 15px;
+  background: #f8f8f8;
+  text-align: center;
+}
+.about .btn-buy {
+  background: #94c045;
+  display: inline-block;
+  padding: 6px 35px 8px 35px;
+  border-radius: 4px;
+  color: #fff;
+  transition: none;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  box-shadow: 0 3px 7px rgba(148, 192, 69, 0.4);
+  transition: 0.3s;
+}
+.pricing .btn-buy:hover {
+  background: #aacd6b;
+}
+
 @-webkit-keyframes pulsate-btn {
   0% {
     transform: scale(0.6, 0.6);
@@ -1897,7 +1921,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #0563bb;
+  border-left: 2px solid #94c045;
   position: relative;
 }
 .resume .resume-item h4 {
@@ -1906,7 +1930,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0563bb;
+  color: #94c045;
   margin-bottom: 10px;
 }
 .resume .resume-item h5 {
@@ -1935,7 +1959,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #0563bb;
+  border: 2px solid #94c045;
 }
 
 
