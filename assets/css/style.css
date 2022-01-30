@@ -2160,3 +2160,15 @@ section {
   line-height: 24px;
   margin-bottom: 0;
 }
+
+/*------------------------------------------------------------------
+# Hovering
+--------------------------------------------------------------------*/
+.hide {
+  display: none;
+}
+
+.myDIV:hover + .hide {
+  display: block;
+  color: #darkseagreen;
+}
