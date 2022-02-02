@@ -106,28 +106,14 @@
 
              <p></p>
 
-             <p>Let me motivate you to get started! Leave your email address below now to get notified when the next cohort enrollment opens.</p>
-
-             <div class="col-md-12 text-center">
+             <p style="font-size: 14px;">Feeling like procrastinating? Let me motivate you to get started! Leave your email address down below now to get notified immediately when the next cohort enrollment opens.</p>
 
               <form name="notifyme_nextcohort" method="POST" data-netlify="true">
-
-                <p>
-                  <label>Email: <input class="btn-buy" style="background:#ffffff; color:#000000" type="email" name="email" /></label>
-                  <!-- <a class="btn-buy" type="submit">Send</a> -->
-                  <button class="btn-buy" type="submit">Subscribe</button>
-                </p>  
-
+                  <input type="email" name="email" style="color: red;"><input type="submit" value="Notify Me">
               </form>
-
-             </div>
-
           </div>
 
           <div class="col-lg-6 pt-3 pt-lg-0 content">
-            <h3>
-              Let me talk to you about Becoming a Data-Scientist Fast! 
-            </h3>
             <h3>
               This course will get you off the ground on your feet quickly & strongly...
             </h3>
@@ -146,7 +132,7 @@
 
               <div class="col-md-12 text-center">
                 <a href="pricing.html" class="btn-buy">Join The Next Cohort</a>
-                <p><span><i class="bx bi-gift"></i> Start Learning for Free</span></p>
+                <p style="color: #94c045;"><span><i class="bx bi-gift"></i> Start Learning for Free</span></p>
               </div>
 
           <!-- Calendly badge widget begin -->
@@ -683,9 +669,10 @@
           <div class="col-lg-3 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
             <p>Insert your email address below in the box to subscribe to our newsletter.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
+              <form name="newsletter" method="POST" data-netlify="true">
+                  <input type="email" name="email"><input type="submit" value="Subscribe">
+              </form>
+            
           </div>
 
         </div>
