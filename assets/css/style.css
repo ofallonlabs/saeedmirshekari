@@ -2176,23 +2176,13 @@ section {
 /*------------------------------------------------------------------
 # Video Background
 --------------------------------------------------------------------*/
-#background-video {
-
-    /* Your background image */
-    
-    text-align:center;
-    background-image: url('http://placehold.it/580x460');
-
-    background-repeat: no-repeat;
-    padding: 50px;
-}
 
 #vidwrap {
 
     /* Your thumbnail image */
 
-    background: url('http://www.edu.uwo.ca/img/click_to_play.png') no-repeat center;
-
+    background: url('https://www.saeedmirshekari.com/assets/img/cover_video.png') no-repeat center;
+    display:block;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -2205,7 +2195,14 @@ section {
 }
 
 /*------------------------------------------------------------------
-# xxx
+# iframe
 --------------------------------------------------------------------*/
 
- 
+ div, iframe {
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
