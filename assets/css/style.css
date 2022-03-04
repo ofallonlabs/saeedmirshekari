@@ -339,7 +339,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
-  font-size: 13px;
+  font-size: 14px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 8px 28px;
@@ -348,9 +348,11 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px;
   border: 2px solid #94c045;
   text-transform: uppercase;
-  color: #fff;
+  background: #E5FCBA;
+  color: #000;
 }
 #hero .btn-get-started:hover {
+  color: #fff;
   background: #94c045;
 }
 @media (min-width: 1024px) {
