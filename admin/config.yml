@@ -6,13 +6,13 @@ backend:
 publish_mode: editorial_workflow
 
 # This line should *not* be indented
-media_folder: "../img/uploads" # Media files will be stored in the repo under images/uploads
+media_folder: "assets/img/uploads" # Media files will be stored in the repo under images/uploads
 
 ---
 layout: blog
 title: "Let's Party"
 date: 1999-12-31 11:59:59 -0800
-thumbnail: "/images/prince.jpg"
+thumbnail: "assets/img/logo.png"
 rating: 5
 ---
 
@@ -31,15 +31,4 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-collections:
-  - name: "posts"
-    label: "Post"
-    folder: "_posts"
-    filter:
-      field: language
-      value: en
-    fields:
-      - {label: "Language", name: "language"}
-
 
