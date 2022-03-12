@@ -1,0 +1,34 @@
+{
+  "name": "saeedmirshekari",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smirs/saeedmirshekari.git"
+  },
+  "keywords": [
+    "consulting",
+    "data",
+    "science",
+    "machine",
+    "learning",
+    "career"
+  ],
+  "author": "Saeed Mirshekari, PhD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smirs/saeedmirshekari/issues"
+  },
+  "homepage": "https://github.com/smirs/saeedmirshekari#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  },
+  "dependencies": {
+    "npm-css": "^0.2.3"
+  }
+}
