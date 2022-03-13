@@ -15,7 +15,7 @@ layout: blog_base.njk
                 {{post.data.title}}
             {%- endfor -%} #}
 
-            {% for post in collections.post | reverse -%}
+            {%- for post in collections.post | reverse -%}
 
               <article class="entry">
 
@@ -46,7 +46,7 @@ layout: blog_base.njk
                 </div>
 
               </article><!-- End blog entry -->
-            {% endfor -%}
+            {%- endfor -%}
 
           </div><!-- End blog entries list -->
 
