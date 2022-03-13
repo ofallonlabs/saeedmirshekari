@@ -4,16 +4,7 @@ description: I love writing about my experiences and sharing my learnings to hel
 layout: blog_base.njk
 ---
     <!-- ======= Blog Section ======= -->
-    <section id="blog" class="blog">
-      <div class="container" data-aos="fade-up">
 
-        <div class="row">
-
-          <div class="col-lg-8 entries">
-
-            {# {%- for post in collections.post | reverse -%}
-                {{post.data.title}}
-            {%- endfor -%} #}
 
             {%- for post in collections.post | reverse -%}
 
@@ -38,8 +29,9 @@ layout: blog_base.njk
 
                 <div class="entry-content">
                   <p>
-                    Are we still in agreement that Data Scientists are unicorns?! Well, I believe true Data Scientists are still unicorns! However, over time some of them turn into other creatures if they don't take care of themselves. Later in this note, I'll explain how some Data Scientists can turn into Unhappy Elephants, Dinosaurs, and Mules and how to avoid that...
+                    {{post.data.description}}
                   </p>
+
                   <div class="read-more">
                     <a href="{{post.url}}">Read More</a>
                   </div>
@@ -47,11 +39,3 @@ layout: blog_base.njk
 
               </article><!-- End blog entry -->
             {%- endfor -%}
-
-          </div><!-- End blog entries list -->
-
-
-        </div>
-
-      </div>
-    </section><!-- End Blog Section -->

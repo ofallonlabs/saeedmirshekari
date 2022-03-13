@@ -15,6 +15,7 @@ layout: 'base.njk'
               <div class="entry-content">
                 {{content | safe}}
               </div>
+              
             </article><!-- End blog entry -->
 
             <div class="blog-author d-flex align-items-center">
@@ -56,7 +57,7 @@ layout: 'base.njk'
 
               <div class="sidebar-item recent-posts">
 
-                {% for post in collections.feed | reverse -%}
+                {% for post in collections.feed -%}
 
                   <div class="post-item clearfix">
                     <a href="{{post.url}}"><img src="{{post.data.thumbnail}}" alt=""></a>
