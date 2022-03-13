@@ -1,0 +1,5 @@
+{
+    "layout": "blog_base.njk",
+    "tags": "post",
+    "author": "Saeed Mirshekari, PhD" 
+}
