@@ -42,17 +42,17 @@ After you have done all the hard work and completed all the requirements to buil
 
 Most people will find out in one way or another—unfortunately, many learn it the hard way—that the ultimate goal is to make sure you get a great work experience over time. However, the quality of work experience means different things to different people. How do you define a good working experience? Is it all about higher salary? Is it about job security? Is it about self-development opportunities? Or maybe a combination of all of these? Before sharing my views, let’s take a quick look at a couple of underlying facts and their supporting survey data.
 
-> FACT#1: On average, job satisfaction drops over time in early years of employment specially among people with higher educations. So be prepared and proactive.
+> **FACT#1: On average, job satisfaction drops over time in early years of employment specially among people with higher educations. So be prepared and proactive.**
 
 ![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/plot1.jpg)
 
 A fairly recent KDnuggets poll (2018), based on a small sample of 635 voters in data profession including Data Scientists, Data Engineers, etc. shows that the s
 
-atisfaction (green line) drops with time, becoming close to zero after 4 years and staying low between 4 and 16, and rising sharply for the few people with over 16 years on the job.
+Satisfaction (green line) drops with time, becoming close to zero after 4 years and staying low between 4 and 16, and rising sharply for the few people with over 16 years on the job.
 
 This means on average most people (most probably including yourself) are going to face some challenges in the early years of their career path and most of the time this leads to a drop in the level of job satisfaction. Therefore, it is important to be cautious and take care of the unicorn Data Scientist you have built in yourself over years.
 
-> FACT#2: There is a specific set of common factors that derives the job satisfaction. And it's not always about money. So be aware and take precautions.
+> **FACT#2: There is a specific set of common factors that derives the job satisfaction. And it's not always about money. So be aware and take precautions.**
 
 ![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/plot2.jpg)
 
