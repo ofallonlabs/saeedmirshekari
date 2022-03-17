@@ -11,7 +11,8 @@ rating: 5
 ---
 ### Take Care of Your Unicorn
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/unicorn.png)
+<img src="assets/img/blog/post-PTDS2/unicorn.png" class="img-fluid" alt="" >
+
 
 There were times in the past years that a lot of people were all in agreement that Data Scientists are unicorns! They have super powers but they are extremely hard to find. If you can find and hire a Data Scientist for your company, you are extremely lucky!
 
@@ -21,7 +22,7 @@ Well, I believe true Data Scientists are still unicorns! However, over time some
 
 ### Whom I’m Writing This Note to and Why?
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/audience.png)
+<img src="assets/img/blog/post-PTDS2/audience.png" class="img-fluid" alt="" >
 
 About 6 years ago, just after I landed on my first Data Scientist job in late 2015, I wrote a note on my journey [you can read it here: [Physicist Turned Data Scientist: A Path from Academia to Industry](https://www.saeedmirshekari.com/blog-single-PTDS1.html)]. My goal in that note was to share my experience with my fellow young academics as well as people with other backgrounds—who want to step in the same path of switching to the field of Data Science and Machine Learning as I did—to help them succeed in their journeys with less pain.
 
@@ -36,7 +37,7 @@ Why am I writing this note? I am writing this note to help my target audience mi
 
 ### I’m a Data Scientist; Now What?
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/question.jpg)
+<img src="assets/img/blog/post-PTDS2/question.jpg" class="img-fluid" alt="" >
 
 After you have done all the hard work and completed all the requirements to build up a solid skillset for a Data Scientist job (if you want to learn more about what is available and what is needed, check out my earlier note to see the details of my journey), you sooner or later will face the question: “Now what?”
 
@@ -44,7 +45,7 @@ Most people will find out in one way or another—unfortunately, many learn it t
 
 > **FACT#1: On average, job satisfaction drops over time in early years of employment specially among people with higher educations. So be prepared and proactive.**
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/plot1.jpg)
+<img src="assets/img/blog/post-PTDS2/plot1.jpg" class="img-fluid" alt="" >
 
 A fairly recent KDnuggets poll (2018), based on a small sample of 635 voters in data profession including Data Scientists, Data Engineers, etc. shows that the s
 
@@ -54,7 +55,8 @@ This means on average most people (most probably including yourself) are going t
 
 > **FACT#2: There is a specific set of common factors that derives the job satisfaction. And it's not always about money. So be aware and take precautions.**
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/plot2.jpg)
+<img src="assets/img/blog/post-PTDS2/plot2.jpg" class="img-fluid" alt="" >
+
 
 *The top 10 responses when PwC asked 19,000+ people their reasons for leaving as a part of exit interviews they conducted for clients. As reported in (2005) The 7 Hidden Reasons Employees Leave by Leigh Branham, page 21, Figure 3.1*
 
@@ -64,7 +66,8 @@ That means despite various reasons that might cause a drop in job satisfaction, 
 
 ### What Keeps You Happy at Work? A Triangle Model
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/bdsf-02.png)
+<img src="assets/img/blog/post-PTDS2/bdsf-02.png" class="img-fluid" alt="" >
+
 
 *I borrow the terminology from RGB (for Red-Green-Blue) color model to make my point about the 3 fundamental factors in the quality of work experience.*
 
@@ -74,7 +77,8 @@ What are the the first questions that come to your mind when you evaluate a new 
 
 Based on my experience, my top 3 most important ingredients for an excellent work experience—in no particular order—are: self-development, financial freedom, and mental health. Below you see an illustration of my happy-unicorn triangle model!
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/happy_unicorn.png)
+<img src="assets/img/blog/post-PTDS2/happy_unicorn.png" class="img-fluid" alt="" >
+
 
 *Happy Unicorns live in utopia! They have a great relationship with their supervisor/team, they work on the most challenging problems, and their paychecks reflect their skillset and contribution. They love going to work every morning! \[Just kidding! They work from home since 2020.]*
 
@@ -89,7 +93,7 @@ In the Unhappy-Elephant scenario, your job pays well and helps you towards your 
 
 Even if you have to compromise on a single factor, this case is probably the worst case scenario! Been there, done that! I’ve had times dealing with crazy dumbass bullying boss on top of terrible toxic company culture and it was the worst! The lesson learnt was to never compromise anything with your mental health in the workplace and get out now, because tomorrow is too late! Nothing is worth more than your peace of mind at work and it will affect everything from your productivity to personal life.
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/dinosaur.png)
+<img src="assets/img/blog/post-PTDS2/dinosaur.png" class="img-fluid" alt="" >
 
 *Happy Dinosaurs have a great relationship with their bosses and get paid well. They usually feel really comfortable in their positions for years. They live a happy life in their own world. But because they have been working on the exact same things for years, they’ve got only a few opportunities to develop any new skills. That makes them unattractive to others; it is hard for them to move too.*
 
@@ -97,7 +101,7 @@ In the Happy-Dinosaur scenario, you get paid well and also get a really good rel
 
 In this case, you need a change! Either change your TEAM or CHANGE your team! As a younger person in your early years of your career, you have to always keep your eyes open not to turn into a dinosaur! Reflect on your past year progress and do your best to create opportunities for self-development as much as you can. It could be within your role or outside of it.
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/mule.png)
+<img src="assets/img/blog/post-PTDS2/mule.png" class="img-fluid" alt="" >
 
 *Everybody loves the Happy Mules except their future selves. They work on challenging problems every day and they’ve got a fantastic work relationship with their bosses/teams. The problem is that they usually don’t get the opportunity to reach to their financial freedom in a reasonable period of time on their careers. They are well under-paid and they don’t realize it until they do!*
 
@@ -107,13 +111,13 @@ The Happy-Mule case is certainly not the best situation to be in, but it is the 
 
 In this case, you have to speak up as soon as you realize that. Your future yourself will hate you if you don’t. This is your life and when you spend your precious time and skills—that you have developed over years—on somebody else’s dream to come true, you need to make sure you get paid for it accordingly just so you can spend the same amount on your own life dreams, whatever it may be. But never sign up for an unfair deal specially when it comes to your precious lifetime on earth. That sh*t is unique!
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/destiny.png)
+<img src="assets/img/blog/post-PTDS2/destiny.png" class="img-fluid" alt="" >
 
 *Here is a summary table of all possible scenarios in the triangle model and my projections and suggestions.*
 
 ### The Quality of Work Experience: Do’s and Don’ts
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/happy_kids.png)
+<img src="assets/img/blog/post-PTDS2/happy_kids.png" class="img-fluid" alt="" >
 
 After sharing my definition for the quality of work experience, I would also like to share a list of actions that I found very useful and applicable in my early years of career in Tech industry and more specifically in the field of Data Science.
 
