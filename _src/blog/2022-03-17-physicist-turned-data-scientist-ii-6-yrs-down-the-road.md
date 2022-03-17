@@ -29,9 +29,8 @@ This note has been viewed thousands of times on the web since then and the feedb
 
 Whom am I trying to talk to in this new note? I am writing to two groups of people as the main audiences of this note:
 
-**(1) Data Scientists** in their early careers (1-5 years on the job) who are thinking about improving their work experience in their current and/or next roles. That may also include Data Scientists entering middle career stage that are also reflecting on their career journey and next steps!
-
-**(2) Younger Academics** (specifically graduate students and post-docs in STEM) who are prepared for a transition from academia to industry and now are available on the job market. They may be either in the process of job searching, evaluating a job offer, or anywhere in between.
+1. **Data Scientists** in their early careers (1-5 years on the job) who are thinking about improving their work experience in their current and/or next roles. That may also include Data Scientists entering middle career stage that are also reflecting on their career journey and next steps!
+2. **Younger Academics** (specifically graduate students and post-docs in STEM) who are prepared for a transition from academia to industry and now are available on the job market. They may be either in the process of job searching, evaluating a job offer, or anywhere in between.
 
 Why am I writing this note? I am writing this note to help my target audience minimize the pain and maximize the joy through the process of finding their dream job and creating the best work experience early on in their career path for themselves and the people around them.
 
@@ -43,23 +42,21 @@ After you have done all the hard work and completed all the requirements to buil
 
 Most people will find out in one way or another—unfortunately, many learn it the hard way—that the ultimate goal is to make sure you get a great work experience over time. However, the quality of work experience means different things to different people. How do you define a good working experience? Is it all about higher salary? Is it about job security? Is it about self-development opportunities? Or maybe a combination of all of these? Before sharing my views, let’s take a quick look at a couple of underlying facts and their supporting survey data.
 
-> 1.
-> 2.
+> FACT#1: On average, job satisfaction drops over time in early years of employment specially among people with higher educations. So be prepared and proactive.
 
 ![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/plot1.jpg)
 
-A fairly recent KDnuggets poll (2018), based on a small sample of 635 voters in data profession including Data Scientists, Data Engineers, etc. shows that the satisfaction (green line) drops with time, becoming close to zero after 4 years and staying low between 4 and 16, and rising sharply for the few people with over 16 years on the job.
+A fairly recent KDnuggets poll (2018), based on a small sample of 635 voters in data profession including Data Scientists, Data Engineers, etc. shows that the s
+
+atisfaction (green line) drops with time, becoming close to zero after 4 years and staying low between 4 and 16, and rising sharply for the few people with over 16 years on the job.
 
 This means on average most people (most probably including yourself) are going to face some challenges in the early years of their career path and most of the time this leads to a drop in the level of job satisfaction. Therefore, it is important to be cautious and take care of the unicorn Data Scientist you have built in yourself over years.
 
-> 1.
-> 2.
+> FACT#2: There is a specific set of common factors that derives the job satisfaction. And it's not always about money. So be aware and take precautions.
 
 ![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/plot2.jpg)
 
 *The top 10 responses when PwC asked 19,000+ people their reasons for leaving as a part of exit interviews they conducted for clients. As reported in (2005) The 7 Hidden Reasons Employees Leave by Leigh Branham, page 21, Figure 3.1*
-
-
 
 A relatively big survey with 19,000 employees in 2005 shows that the deriving factors in job satisfaction are quite common and unlike the common perception, it is not always the compensation. In fact, most of the people are leaving their jobs because of bigger opportunities elsewhere towards self-development and to get out of an annoying situation in the relationship with their supervisors.
 
@@ -71,8 +68,6 @@ That means despite various reasons that might cause a drop in job satisfaction, 
 
 *I borrow the terminology from RGB (for Red-Green-Blue) color model to make my point about the 3 fundamental factors in the quality of work experience.*
 
-
-
 Here I’d like to share my view on how I “define” the quality of work experience. In addition to that, later in this note, I will also share a short list of things that did work and didn’t work for me to improve the quality of my work experience on my journey and I hope it can be useful to others for a better decision making on what to try and what to avoid.
 
 What are the the first questions that come to your mind when you evaluate a new job opportunity? Write them down and look at them carefully. There might be a single thing or a long list of factors. Name the top 3 on your list! Those questions mainly define your perception of the quality of work experience.
@@ -83,15 +78,11 @@ Based on my experience, my top 3 most important ingredients for an excellent wor
 
 *Happy Unicorns live in utopia! They have a great relationship with their supervisor/team, they work on the most challenging problems, and their paychecks reflect their skillset and contribution. They love going to work every morning! \[Just kidding! They work from home since 2020.]*
 
-
-
 This is the best case scenario in which all of the 3 factors are there. That means this job helps you towards all of these important factors. Therefore, this situation guarantees a high quality work experience over time to me. The bigger the area of this triangle, the better the quality of work experience. On the other hand, the lack or shortage on either of these 3 factors can quickly shrink the quality of working experience. Now let’s also look at other possible scenarios…
 
 ![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/elephant.png)
 
 *Unhappy Elephants get paid well and work on some quite challenging problems but they’ve got a terrible relationship with their supervisors/teams. Most of them will not survive! They need to get their a\*\* out of this situation ASAP! Tomorrow is too late for them.*
-
-
 
 In the Unhappy-Elephant scenario, your job pays well and helps you towards your financial freedom and also provides good opportunities to develop your skills (both hard and soft skills) towards a great self-development, but it destroys your mental health because of the bad relationships in your team or bad company culture in general. This situation sooner or later will turn you into an Unhappy Elephant!
 
@@ -101,8 +92,6 @@ Even if you have to compromise on a single factor, this case is probably the wor
 
 *Happy Dinosaurs have a great relationship with their bosses and get paid well. They usually feel really comfortable in their positions for years. They live a happy life in their own world. But because they have been working on the exact same things for years, they’ve got only a few opportunities to develop any new skills. That makes them unattractive to others; it is hard for them to move too.*
 
-
-
 In the Happy-Dinosaur scenario, you get paid well and also get a really good relationship with your manager and team members. However, that job offers very limited opportunities for self-development. As a result, it gets harder and harder for you over time to move around and develop new skills.
 
 In this case, you need a change! Either change your TEAM or CHANGE your team! As a younger person in your early years of your career, you have to always keep your eyes open not to turn into a dinosaur! Reflect on your past year progress and do your best to create opportunities for self-development as much as you can. It could be within your role or outside of it.
@@ -110,8 +99,6 @@ In this case, you need a change! Either change your TEAM or CHANGE your team! As
 ![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/mule.png)
 
 *Everybody loves the Happy Mules except their future selves. They work on challenging problems every day and they’ve got a fantastic work relationship with their bosses/teams. The problem is that they usually don’t get the opportunity to reach to their financial freedom in a reasonable period of time on their careers. They are well under-paid and they don’t realize it until they do!*
-
-
 
 Happy Mules work for companies which offer great opportunities to build and enjoy happy and healthy work relationships. Their jobs also offer good opportunities to work on new and challenging problems that lead to self-development. But the only problem is that those jobs don’t pay what you actually deserve based on your skillset, contribution, and market norms.
 
@@ -122,8 +109,6 @@ In this case, you have to speak up as soon as you realize that. Your future your
 ![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/destiny.png)
 
 *Here is a summary table of all possible scenarios in the triangle model and my projections and suggestions.*
-
-
 
 ### The Quality of Work Experience: Do’s and Don’ts
 
