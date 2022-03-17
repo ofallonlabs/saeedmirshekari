@@ -80,7 +80,8 @@ Based on my experience, my top 3 most important ingredients for an excellent wor
 
 This is the best case scenario in which all of the 3 factors are there. That means this job helps you towards all of these important factors. Therefore, this situation guarantees a high quality work experience over time to me. The bigger the area of this triangle, the better the quality of work experience. On the other hand, the lack or shortage on either of these 3 factors can quickly shrink the quality of working experience. Now let’s also look at other possible scenarios…
 
-![](https://www.saeedmirshekari.com/assets/img/blog/post-PTDS2/elephant.png)
+<img src="assets/img/blog/post-PTDS2/elephant.png" class="img-fluid" alt="" >
+
 
 *Unhappy Elephants get paid well and work on some quite challenging problems but they’ve got a terrible relationship with their supervisors/teams. Most of them will not survive! They need to get their a\*\* out of this situation ASAP! Tomorrow is too late for them.*
 
