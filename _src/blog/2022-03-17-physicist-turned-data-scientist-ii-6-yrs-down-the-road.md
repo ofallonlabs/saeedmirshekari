@@ -1,7 +1,11 @@
 ---
 layout: blog_base.njk
 title: "Physicist Turned Data Scientist II: 6 Yrs Down the Road"
-description: description
+description: "In this note you will see me reflecting to my early career years
+  in Data Science. I share my personal experience through the journey and also
+  share my thoughts on how to stay happy at work place. In particular, I
+  metaphorically talk about happy unicorn, happy mule, happy dinosaur, and
+  unhappy elephant! Read more to see which one you can relate to more...  "
 author: Saeed Mirshekari
 date: 2022-03-17T04:51:16.889Z
 tags:
