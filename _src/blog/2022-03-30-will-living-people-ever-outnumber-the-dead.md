@@ -3,7 +3,7 @@ layout: blog_base.njk
 title: Will Living People Ever Outnumber the Dead?
 description: 'Louis CK once asked his audience: "Do you know where are most of
   the people?" He replied, most of the people are dead. Id that actually true?
-  Will living people ever outnumber the dead again?'
+  Will living people ever outnumber the dead?'
 author: Saeed Mirshekari
 date: 2022-03-30T07:01:20.249Z
 tags:
