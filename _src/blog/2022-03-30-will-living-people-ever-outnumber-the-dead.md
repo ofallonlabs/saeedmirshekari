@@ -49,6 +49,8 @@ be growing as
 <img src="https://render.githubusercontent.com/render/math?math=Alive (t) = N_0 (1 \pm r) \times t" height="30px">
 
 
+
+
 where <img src="https://render.githubusercontent.com/render/math?math=N_0"> is the living population at the initial time.
 Population in the world is currently growing at a rate
 of about 1:14% per year [2] and the current world's
@@ -57,6 +59,8 @@ average life expectancy is 67.88 years [3].
 <img src="/assets/img/dead-alive.png">
 Figure 1: The estimated size of human population from
 10,000 BCE-2000 CE. [3]
+
+
 
 
 ## How Many People Are Dead?
@@ -81,12 +85,16 @@ future times in which <img src="https://render.githubusercontent.com/render/math
 <img src="https://render.githubusercontent.com/render/math?math=Dead(t^*) = \sum^{N-1}_{n=1} Alive(n [ L ]) \pm  Dead (t_0)" height="40px">
 
 
+
+
 where N is an integer number and Dead(t0) is the
 number of all people who have died at any time in
 the history before t = t0. Using Equation (1), the
 above summation can get as simplified as
 
 <img src="https://render.githubusercontent.com/render/math?math=Dead(t) = N0\frac{(1 \pm r)^t - 1}{(1 \pm r)^{[ L ]} - 1} \pm Dead(t0)" height="63px">
+
+
 
 
 ## Critical Values of <img src="https://render.githubusercontent.com/render/math?math=r" height="20px"> and <img src="https://render.githubusercontent.com/render/math?math=< L >" height="20px">
@@ -97,6 +105,8 @@ if and only if:
 
 
 <img src="https://render.githubusercontent.com/render/math?math=(1 \pm r) [ L ] > 2" height="30px">
+
+
 
 
 For example, with the current value of the world
