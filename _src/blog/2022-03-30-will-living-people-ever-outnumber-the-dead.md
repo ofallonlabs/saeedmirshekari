@@ -12,6 +12,8 @@ thumbnail: /assets/img/uploads/sand-clock.jpg
 rating: 5
 ---
 
+<img src="/assets/img/uploads/sand-clock.jpg" width="75%">
+
 ## Abstract:
 
 <p>Will Living People Ever Outnumber the Dead? Probably not! It has been shown that
@@ -50,7 +52,7 @@ rate at which the number of individuals in a population increases in a year as a
 
 
 
-<img src="/assets/img/dead-alive.png">
+<img src="/assets/img/dead-alive.png" width="100%">
 Figure 1: The estimated size of human population from
 10,000 BCE-2000 CE. [3]
 
