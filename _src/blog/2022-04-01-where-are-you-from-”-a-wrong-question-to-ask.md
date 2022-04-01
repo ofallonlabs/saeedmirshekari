@@ -8,7 +8,7 @@ author: Saeed Mirshekari
 date: 2013-11-21T05:54:09.654Z
 tags:
   - post
-thumbnail: /assets/img/uploads/whare-are-you.jpg
+thumbnail: /assets/img/uploads/where-are-you.jpg
 rating: 5
 ---
 <img src="/assets/img/uploads/where-are-you.jpg" width="100%">
