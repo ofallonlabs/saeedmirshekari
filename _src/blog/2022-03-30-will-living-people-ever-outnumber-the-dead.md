@@ -42,11 +42,11 @@ future.
 The ''annual population growth rat'' (r) is the
 rate at which the number of individuals in a population increases in a year as a fraction of the initial
 population. It is very easy to show that for a constant population rate of r the living population will
-be growing as
+be growing as [eq.1]
 
 
 
-<img src="https://render.githubusercontent.com/render/math?math=Alive (t) = N_0 (1 %2B r) \times t" width="33%">
+<img src="https://render.githubusercontent.com/render/math?math=Alive (t) = N_0 (1 %2B r) \times t" width="25%">
 
 
 
@@ -73,16 +73,15 @@ the number of dead people at time <img src="https://render.githubusercontent.com
 
 
 Suppose after <img src="https://render.githubusercontent.com/render/math?math=t = t_0"> the annual growth rate and
-the average life expectancy reach their constant values. The number of living people at this time is
-given by Equation (1) as <img src="https://render.githubusercontent.com/render/math?math=Alive(t_0)">. Now the question is that after a single period of the average life
+the average life expectancy reach their constant values. The number of living people at this time is given by Equation (1) as <img src="https://render.githubusercontent.com/render/math?math=Alive(t_0)">. Now the question is that after a single period of the average life
 expectancy, i.e. at <img src="https://render.githubusercontent.com/render/math?math=t = t_0 %2B <L>">, how many people
 have died in average in this time period? The answer is simply Alive(<img src="https://render.githubusercontent.com/render/math?math=t_0">). In other words, in average, the number of people who have died since <img src="https://render.githubusercontent.com/render/math?math=t=t_0"> until
 <img src="https://render.githubusercontent.com/render/math?math=t = t_0 %2B <L>"> is same as the number of people who
 were alive at <img src="https://render.githubusercontent.com/render/math?math=t = t_0"> . Without losing any generality
 we can set <img src="https://render.githubusercontent.com/render/math?math=t_0 = 0"> and generalize this idea to the
-future times in which <img src="https://render.githubusercontent.com/render/math?math=t*=N\times <L>"> and write
+future times in which <img src="https://render.githubusercontent.com/render/math?math=t*=N\times <L>"> and write [eq.2]
 
-<img src="https://render.githubusercontent.com/render/math?math=Dead(t^*) = \sum^{N-1}_{n=1} Alive(n [ L ]) %2B Dead (t_0)" width="37%">
+<img src="https://render.githubusercontent.com/render/math?math=Dead(t^*) = \sum^{N-1}_{n=1} Alive(n [ L ]) %2B Dead (t_0)" width="50%">
 
 
 
@@ -90,10 +89,10 @@ future times in which <img src="https://render.githubusercontent.com/render/math
 where N is an integer number and Dead(t0) is the
 number of all people who have died at any time in
 the history before t = t0. Using Equation (1), the
-above summation can get as simplified as
+above summation can get as simplified as [eq.3]
 
-<img src="https://render.githubusercontent.com/render/math?math=Dead(t) = N0\frac{(1 %2B r)^t - 1}{(1 %2B r)^{[ L ]} - 1} %2B Dead(t_0)" width="33%">
-
+<img src="https://render.githubusercontent.com/render/math?math=Dead(t) = N0\frac{(1 %2B r)^t - 1}{(1 %2B r)^{[ L ]} - 1} %2B Dead(t_0)" width="40%">
+<br>
 
 
 
