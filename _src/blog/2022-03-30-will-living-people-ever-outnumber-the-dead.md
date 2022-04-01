@@ -12,7 +12,7 @@ thumbnail: /assets/img/uploads/sand-clock.jpg
 rating: 5
 ---
 
-<img src="/assets/img/uploads/sand-clock.jpg" width="75%">
+<img src="/assets/img/uploads/sand-clock.jpg" width="100%">
 <br><br>
 
 ## Abstract
