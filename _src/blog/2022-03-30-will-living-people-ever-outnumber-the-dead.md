@@ -44,6 +44,7 @@ rate at which the number of individuals in a population increases in a year as a
 
 
 <img src="https://render.githubusercontent.com/render/math?math=Alive (t) = N_0 (1 %2B r) \times t" width="25%">
+<br><br><br>
 
 
 
@@ -74,6 +75,7 @@ Figure 1: The estimated size of human population from
 
 
 <img src="https://render.githubusercontent.com/render/math?math=Dead(t^*) = \sum^{N-1}_{n=1} Alive(n [ L ]) %2B Dead (t_0)" width="50%">
+<br><br><br>
 
 <p>where N is an integer number and Dead(t0) is the number of all people who have died at any time in the history before t = t0. Using Equation (1), the above summation can get as simplified as [eq.3]</p>
 
@@ -83,7 +85,7 @@ Figure 1: The estimated size of human population from
 
 
 <img src="https://render.githubusercontent.com/render/math?math=Dead(t) = N0\frac{(1 %2B r)^t - 1}{(1 %2B r)^{[ L ]} - 1} %2B Dead(t_0)" width="40%">
-<br>
+<br><br><br>
 
 
 
@@ -98,6 +100,7 @@ if and only if:</p>
 
 
 <img src="https://render.githubusercontent.com/render/math?math=(1 %2B r) [ L ] > 2" width="13%">
+<br><br><br>
 
 <p>For example, with the current value of the world average life expectancy, i.e. 67.88 years, the living population can outnumber the dead if and only if the annual population growth rate is not less than the critical value of 1.02%. This number is only slightly smaller than the current value for the world i.e. 1.14%. Although we have considered r to be
 constant, recent studies [2] predict a small decrease in the rate of population growth to a value less than 1% in close future. This small decrease would be enough to conclude that the living population never outnumber the dead with the current world average
