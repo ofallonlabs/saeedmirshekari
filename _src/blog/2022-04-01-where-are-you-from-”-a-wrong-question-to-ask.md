@@ -12,6 +12,7 @@ thumbnail: /assets/img/uploads/whare-are-you.jpg
 rating: 5
 ---
 <img src="/assets/img/uploads/where-are-you.jpg" width="100%">
+<br><br>
 
 # Why people ask this question?
 
