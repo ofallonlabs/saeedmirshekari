@@ -5,7 +5,7 @@ description: 'Louis CK once asked his audience: "Do you know where are most of
   the people?". "Most of the people are dead", he replied. Is that actually
   true? Will living people ever outnumber the dead?'
 author: Saeed Mirshekari
-date: 2022-03-30T07:01:20.249Z
+date: 2014-02-28T08:01:20.249Z
 tags:
   - post
 thumbnail: /assets/img/uploads/sand-clock.jpg
@@ -14,7 +14,7 @@ rating: 5
 
 ## Abstract:
 
-Probably not! It has been shown that
+Will Living People Ever Outnumber the Dead? Probably not! It has been shown that
 only about 6.5 percent of all people ever
 born were alive in 2011 [1]. But the human population on Earth has been growing
 very rapidly in the recent decades such that
@@ -46,7 +46,7 @@ be growing as
 
 
 
-<img src="https://render.githubusercontent.com/render/math?math=Alive (t) = N_0 (1 \pm r) \times t" height="30px">
+<img src="https://render.githubusercontent.com/render/math?math=Alive (t) = N_0 (1 %2B r) \times t" width="33%">
 
 
 
@@ -75,14 +75,14 @@ the number of dead people at time <img src="https://render.githubusercontent.com
 Suppose after <img src="https://render.githubusercontent.com/render/math?math=t = t_0"> the annual growth rate and
 the average life expectancy reach their constant values. The number of living people at this time is
 given by Equation (1) as <img src="https://render.githubusercontent.com/render/math?math=Alive(t_0)">. Now the question is that after a single period of the average life
-expectancy, i.e. at <img src="https://render.githubusercontent.com/render/math?math=t = t_0 \pm <L>">, how many people
+expectancy, i.e. at <img src="https://render.githubusercontent.com/render/math?math=t = t_0 %2B <L>">, how many people
 have died in average in this time period? The answer is simply Alive(<img src="https://render.githubusercontent.com/render/math?math=t_0">). In other words, in average, the number of people who have died since <img src="https://render.githubusercontent.com/render/math?math=t=t_0"> until
-<img src="https://render.githubusercontent.com/render/math?math=t = t_0 \pm <L>"> is same as the number of people who
+<img src="https://render.githubusercontent.com/render/math?math=t = t_0 %2B <L>"> is same as the number of people who
 were alive at <img src="https://render.githubusercontent.com/render/math?math=t = t_0"> . Without losing any generality
 we can set <img src="https://render.githubusercontent.com/render/math?math=t_0 = 0"> and generalize this idea to the
 future times in which <img src="https://render.githubusercontent.com/render/math?math=t*=N\times <L>"> and write
 
-<img src="https://render.githubusercontent.com/render/math?math=Dead(t^*) = \sum^{N-1}_{n=1} Alive(n [ L ]) \pm  Dead (t_0)" height="40px">
+<img src="https://render.githubusercontent.com/render/math?math=Dead(t^*) = \sum^{N-1}_{n=1} Alive(n [ L ]) %2B Dead (t_0)" width="37%">
 
 
 
@@ -92,7 +92,7 @@ number of all people who have died at any time in
 the history before t = t0. Using Equation (1), the
 above summation can get as simplified as
 
-<img src="https://render.githubusercontent.com/render/math?math=Dead(t) = N0\frac{(1 \pm r)^t - 1}{(1 \pm r)^{[ L ]} - 1} \pm Dead(t0)" height="63px">
+<img src="https://render.githubusercontent.com/render/math?math=Dead(t) = N0\frac{(1 %2B r)^t - 1}{(1 %2B r)^{[ L ]} - 1} %2B Dead(t_0)" width="33%">
 
 
 
@@ -104,7 +104,7 @@ the living population ultimately outnumber the dead
 if and only if:
 
 
-<img src="https://render.githubusercontent.com/render/math?math=(1 \pm r) [ L ] > 2" height="30px">
+<img src="https://render.githubusercontent.com/render/math?math=(1 %2B r) [ L ] > 2" width="13%">
 
 
 
