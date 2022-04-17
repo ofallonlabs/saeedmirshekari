@@ -6,11 +6,11 @@ author: Saeed Mirshekari
 date: 2022-04-17T05:32:21.790Z
 tags:
   - post
-thumbnail: /assets/img/uploads/pexels-tima-miroshnichenko-5439428.jpg
+thumbnail: /assets/img/uploads/different-nationalities-g0ac115a8a_640.png
 rating: 5
 ---
-# 1- Learning
-# 2- Projects
-# 3- Resume
-# 4- Search
-# 5- Interview
+# 1- Base Knowledge: Learn the Required Technical Skills
+# 2- Projects: Demonstrate Your Skills in Action
+# 3- Resume: Position Yourself in the Job Market
+# 4- Search: Find and Apply for Your Desired Jobs
+# 5- Interview: Communicate Yourself and Your Abilities
