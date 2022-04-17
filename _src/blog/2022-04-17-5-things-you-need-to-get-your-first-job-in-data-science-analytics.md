@@ -6,7 +6,7 @@ author: Saeed Mirshekari
 date: 2022-04-17T05:32:21.790Z
 tags:
   - post
-thumbnail: /assets/img/uploads/programmer-gefea65705_640.jpg
+thumbnail: /assets/img/uploads/pexels-tima-miroshnichenko-5439428.jpg
 rating: 5
 ---
 # 1- Learning
