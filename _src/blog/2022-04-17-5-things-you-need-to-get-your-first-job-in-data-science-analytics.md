@@ -9,8 +9,12 @@ tags:
 thumbnail: /assets/img/uploads/different-nationalities-g0ac115a8a_640.png
 rating: 5
 ---
+# Introduction
+
 # 1- Base Knowledge: Learn the Required Technical Skills
 # 2- Projects: Demonstrate Your Skills in Action
 # 3- Resume: Position Yourself in the Job Market
 # 4- Search: Find and Apply for Your Desired Jobs
 # 5- Interview: Communicate Yourself and Your Abilities
+
+# Conclusion
