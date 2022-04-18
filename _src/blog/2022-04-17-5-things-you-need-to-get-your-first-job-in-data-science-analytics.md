@@ -1,7 +1,10 @@
 ---
 layout: blog_base.njk
 title: "5 Stages Between You and Your First Data-Science Job "
-description: This is a description
+description: Regardless of your background, there are 5 major stages between you
+  and your dream job as a non Data Scientist to a Data Scientist. This note list
+  these stages and provides some tips and tricks for better results in each
+  stage.
 author: Saeed Mirshekari
 date: 2022-04-17T05:32:21.790Z
 tags:
