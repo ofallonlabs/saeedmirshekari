@@ -12,7 +12,7 @@ tags:
 thumbnail: /assets/img/uploads/5-stages.png
 rating: 5
 ---
-<img src="/assets/img/uploads/5-stages" width="100%">
+<img src="/assets/img/uploads/5-stages.png" width="100%">
 
 Data Science is probably one of the fields that people come into it from all sort of different backgrounds and education levels. If you ask 10 Data Scientists about their background and their prior experiences before landing on their first Data Science job, you will probably get 10 different answers!
 
