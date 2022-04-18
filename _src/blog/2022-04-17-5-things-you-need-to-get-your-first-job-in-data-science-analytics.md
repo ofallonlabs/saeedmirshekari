@@ -9,9 +9,11 @@ author: Saeed Mirshekari
 date: 2022-04-17T05:32:21.790Z
 tags:
   - post
-thumbnail: /assets/img/uploads/pexels-andrea-piacquadio-3778966-3-.png
+thumbnail: /assets/img/uploads/5-stages.png
 rating: 5
 ---
+<img src="/assets/img/uploads/5-stages" width="100%">
+
 Data Science is probably one of the fields that people come into it from all sort of different backgrounds and education levels. If you ask 10 Data Scientists about their background and their prior experiences before landing on their first Data Science job, you will probably get 10 different answers!
 
 However, regardless of your background, there are 5 common stages between you and your first Data Scientist job. Being aware of these steps and improving each one of them helped me and many of the people I worked with to land on their first job faster and easier.
