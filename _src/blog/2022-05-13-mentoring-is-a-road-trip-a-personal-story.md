@@ -12,7 +12,7 @@ thumbnail: /assets/img/uploads/mentoring_is_a_road_trip.jpg
 rating: 5
 ---
 
-![](/assets/img/uploads/mentoring_is_a_road_trip.jpg width="100%")
+![](/assets/img/uploads/mentoring_is_a_road_trip.jpg, width=\"100%")
 
 Following is an interview with me on [MentorCruise](https://mentorcruise.com/mentor/saeedmirshekari/) about my story as a Data Science mentor.
 
