@@ -13,7 +13,7 @@ rating: 5
 ---
 ![](https://d33wubrfki0l68.cloudfront.net/b5305a70a090614a3f6a0594ec03340f1e1dc870/dea2c/assets/img/team/team-0.jpg "Saeed Mirshekari, 2017")
 
-<h4> This is an interview with me on [MentorCruise ](https://mentorcruise.com/mentor/saeedmirshekari/)about my story as a Data Science mentor. </h4>
+<h4> This is an interview with me on [MentorCruise](https://mentorcruise.com/mentor/saeedmirshekari/) about my story as a Data Science mentor. </h4>
 
 <h1> Why did you decide to become a mentor? </h1>
 
