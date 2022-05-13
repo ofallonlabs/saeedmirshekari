@@ -11,9 +11,9 @@ tags:
 thumbnail: /assets/img/uploads/mentoring_is_a_road_trip.jpg
 rating: 5
 ---
-
-
 ![](https://d33wubrfki0l68.cloudfront.net/b5305a70a090614a3f6a0594ec03340f1e1dc870/dea2c/assets/img/team/team-0.jpg "Saeed Mirshekari, 2017")
+
+<h4> This is an interview with me on [MentorCruise ](https://mentorcruise.com/mentor/saeedmirshekari/)about my story as a Data Science mentor. </h4>
 
 <h1> Why did you decide to become a mentor? </h1>
 
@@ -28,7 +28,7 @@ My broad range of experience in both academia and industry gives me the opportun
 
 As an immigrant and a former physicist in academia turned into a Data Scientist in industry, I understand the challenges and know many of the obstacles and working solutions on the way that come with these big life changes. Been there, done that! 
 
-If you are new to the US tech job market or new to the field of Data Science, feel free to reach out to me. In fact, a lot of people think about these moves but never take action. If you are thinking about these, let me talk to you. I will be delighted to chat with you and learn more about your background and goals. Let's schedule a 30-minutes 1on1 now: https://calendly.com/saeedmirshekari/introduction
+If you are new to the US tech job market or new to the field of Data Science, feel free to reach out to me. In fact, a lot of people think about these moves but never take action. If you are thinking about these, let me talk to you. I will be delighted to chat with you and learn more about your background and goals. Let's [schedule a 30-minutes 1on1 now](https://calendly.com/saeedmirshekari/introduction).
 
 <h1> How did you get your career start?</h1>
 Since I was a kid, I’ve always been passionate about how things work in this universe. I chose Math & Physics in high school and continued that path all the way to a PhD in Physics under the supervision of the top gurus of the field. Immediately after my PhD, I joined the Data Analysis team of LIGO (Laser Interferometer Gravitational-Wave Observatory) and contributed to the first-ever detection of the Gravitation Waves. The LIGO founders, later, won the Nobel Prize in Physics (2017) for this discovery.
@@ -44,7 +44,7 @@ I believe the two pillars of any successful mentorship are: (1) the willing of t
 
 But without either of these two, no mentorship can be sustained. There is no force in the world that can teach you anything if you are not truly open to learn and willing to change. On the other hand, if a mentor is not making her/himself and her/his story visible and available, there is not much to catch.
 
-I was fortunate to have direct mentors like Clifford Will (https://www.phys.ufl.edu/~cmw) in my life. I was a fresh master’s student in the Physics Department of the University of Tehran that I found Cliff's website online and was absolutely impressed by the work he had done in the field of my interest through his career. So, I wanted to know more about him and I did the effort.
+I was fortunate to have direct mentors like [Clifford Will](https://www.phys.ufl.edu/~cmw) in my life. I was a fresh master’s student in the Physics Department of the University of Tehran that I found Cliff's website online and was absolutely impressed by the work he had done in the field of my interest through his career. So, I wanted to know more about him and I did the effort.
 
 I still remember I looked for and eventually found and purchased a Farsi-translated version of his famous book \[title: Was Einstein Right?] in Tehran (2007) before even knowing that I would start a PhD program in his research group a year after. That little effort eventually opened up a lot of hidden doors to big opportunities in my future life.
 
