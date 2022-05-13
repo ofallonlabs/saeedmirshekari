@@ -2,8 +2,8 @@
 layout: blog_base.njk
 title: "Mentoring is a Road Trip: A Personal Story"
 description: Mentoring is a road trip with a buddy of yours who has been on this
-  trip in the past. This is an interview with MentorCruise.com about my story as
-  a Data Science mentor.
+  trip in the past. This is an interview with me on MentorCruise.com about my
+  story as a Data Science mentor.
 author: Saeed Mirshekari
 date: 2022-05-13T19:29:02.548Z
 tags:
