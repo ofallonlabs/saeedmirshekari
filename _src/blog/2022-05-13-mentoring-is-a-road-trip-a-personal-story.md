@@ -11,6 +11,10 @@ tags:
 thumbnail: /assets/img/uploads/mentoring_is_a_road_trip.jpg
 rating: 5
 ---
+
+
+![](https://d33wubrfki0l68.cloudfront.net/b5305a70a090614a3f6a0594ec03340f1e1dc870/dea2c/assets/img/team/team-0.jpg "Saeed Mirshekari, 2017")
+
 <h1> Why did you decide to become a mentor? </h1>
 
 It started small and I had no idea why I was doing what I was doing, but over time I realized I enjoy that a lot. I also learned that being a mentor is a great way to spend my time. So, I decided to continue that!
@@ -36,15 +40,13 @@ I still work with people and numbers every day!
 <h1> What was your experience with mentors as you grew in your career? </h1> 
 Mentors have always played a crucial role as I grew in my career. Mentorship has come to me in many different forms from direct supervisor-student type of mentorship all the way to an "anonymous" type of mentorship in which my mentors did not even realize they were playing a mentor-role in my journey. I just watched them over a certain period and I learned from them, and sometimes actually a lot!
 
-
-
 I believe the two pillars of any successful mentorship are: (1) the willing of the mentee and (2) the visibility/availability of the mentor. There are much more into a mentorship relationship but these two are crucial and the rest can be figured out. 
 
 But without either of these two, no mentorship can be sustained. There is no force in the world that can teach you anything if you are not truly open to learn and willing to change. On the other hand, if a mentor is not making her/himself and her/his story visible and available, there is not much to catch.
 
 I was fortunate to have direct mentors like Clifford Will (https://www.phys.ufl.edu/~cmw) in my life. I was a fresh master’s student in the Physics Department of the University of Tehran that I found Cliff's website online and was absolutely impressed by the work he had done in the field of my interest through his career. So, I wanted to know more about him and I did the effort.
 
-I still remember I looked for and eventually found and purchased a Farsi-translated version of his famous book [title: Was Einstein Right?] in Tehran (2007) before even knowing that I would start a PhD program in his research group a year after. That little effort eventually opened up a lot of hidden doors to big opportunities in my future life.
+I still remember I looked for and eventually found and purchased a Farsi-translated version of his famous book \[title: Was Einstein Right?] in Tehran (2007) before even knowing that I would start a PhD program in his research group a year after. That little effort eventually opened up a lot of hidden doors to big opportunities in my future life.
 
 <h1> How do you usually set up mentorships?</h1> 
 Mentorship is like going on a relatively long road-trip with your buddy who has done this trip in the past. I’m that buddy of yours in this road trip! And I will guide you through the best routes I know of and, equally importantly, I will try to stop you from taking dead-end routes.
