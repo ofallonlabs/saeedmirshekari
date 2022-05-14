@@ -4,7 +4,7 @@ title: The Talent Gap in Data Science Today and Tomorrow
 description: Learn everything you need to know about data scientists and find
   customized solutions to fill the talent gap in data science with O’Fallon
   Labs.
-author: Saeed Mirshekari
+author: Afifa M.
 date: 2022-05-14T14:59:09.847Z
 tags:
   - post
