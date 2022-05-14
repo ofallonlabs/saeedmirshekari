@@ -61,8 +61,6 @@ Both are quite important! Long-term goals take us far in a certain direction, an
 
 Without setting up long-term goals, you can hardly go any far in long term into any certain direction because you have no final destination set up at the beginning. In this scenario, every day is a new trip for you and you can go any direction every morning! On the other hand, with no short-term goals, many days you may find yourself not moving at all because you may feel too comfortable in where you are today and want to procrastinate.
 
-<img src="https://d33wubrfki0l68.cloudfront.net/b5305a70a090614a3f6a0594ec03340f1e1dc870/dea2c/assets/img/team/team-0.jpg" class="img-fluid" alt="" >
-
 <h1> What are you getting out of being a mentor?</h1>
 Every mentorship road-trip is unique and the mentees have their own unique stories! The learning is not always for the mentee, but for the mentor too. I learned a lot of new things (technical and non-technical) just by being on a new road-trip every time.
 
