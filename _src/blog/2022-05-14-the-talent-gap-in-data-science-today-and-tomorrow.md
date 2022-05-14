@@ -1,5 +1,5 @@
 ---
-layout: blog_base.njk
+layout: blog_base_afeefa.njk
 title: The Talent Gap in Data Science
 description: Learn everything you need to know about data scientists and find
   customized solutions to fill the talent gap in data science with O’Fallon
