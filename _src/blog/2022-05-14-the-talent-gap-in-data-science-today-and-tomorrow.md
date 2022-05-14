@@ -37,17 +37,17 @@ Today, more and more organizations are transitioning to data science as it is be
 
 Here is everything you need to know about a data scientist: 
 
-<h1>Education and Skills</h1>
+<h3>Education and Skills</h3>
 
 Data scientists usually have a bachelor’s degree in data science or any other closely related field such as computer, programming, or mathematics. A bachelor's degree is not enough to be a skilled data scientist which is why a master's in data science is needed to pursue it as a career.
 
 Then there are special skills that a person has to learn in order to be an effective data scientist. These include; data visualization, statistical analysis, machine learning, programming, software engineering, data mining, reporting and cleaning, cloud tools, and many more. Most data scientists get their first job after specializing in a particular area. 
 
-<h1>Salary</h1>
+<h3>Salary</h3>
 
 According to [Glassdoor](https://www.glassdoor.com/Salaries/data-scientist-salary-SRCH_KO0,14.htm), a data scientist in the United States earns as much as $123,480 yearly, with a base salary starting from 104,496 per year. The demand for data scientists in businesses and organizations is significantly increasing. [The US Bureau of Labor Statistics](https://www.bls.gov/ooh/about/data-for-occupations-not-covered-in-detail.htm) predicts a growth of 31% between 2020 to 2030 in the field of data science. 
 
-<h1>Responsibilities </h1>
+<h3>Responsibilities </h3>
 
 Following are the responsibilities of a data scientist: 
 
