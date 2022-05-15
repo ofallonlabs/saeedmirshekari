@@ -11,7 +11,7 @@ tags:
 thumbnail: /assets/img/uploads/mentoring_is_a_road_trip.jpg
 rating: 5
 ---
-<img src="/assets/img/uploads/mentoring_is_a_road_trip.jpg" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/saeedonview.jpg" class="img-fluid" alt="" > *Saeed on a road trip sitting on the edge of his universe trying to see Seven States on Lookup Mountain, Chattanooga, TN 2015*  \[photo credit: Masoud A.]
 
 Following is an interview with me on [MentorCruise](https://mentorcruise.com/mentor/saeedmirshekari/) about my story as a Data Science mentor.
 
@@ -30,7 +30,11 @@ However, I recently discovered that most of my current and previous clients who 
 
 As an immigrant and a former physicist in academia turned into a Data Scientist in industry, I understand the challenges and know many of the obstacles and working solutions on the way that come with these big life changes. Been there, done that!
 
-If you are new to the US tech job market or new to the field of Data Science, feel free to reach out to me. In fact, a lot of people think about these moves but never take action. If you are thinking about these, let me talk to you. I will be delighted to chat with you and learn more about your background and goals. Let's [schedule a 30-minutes 1on1 now](https://calendly.com/saeedmirshekari/introduction).
+If you are new to the US tech job market or new to the field of Data Science, feel free to reach out to me. In fact, a lot of people think about these moves but never take action. If you are thinking about these, let me talk to you. 
+
+
+
+I will be delighted to chat with you and learn more about your background and goals. Let's [schedule a 30-minutes 1on1 now](https://calendly.com/saeedmirshekari/introduction).
 
 <h1> How did you get your career start?</h1>
 
@@ -64,11 +68,13 @@ In order to enjoy this trip, we both need to know where we are starting (your cu
 
 After that, we are in this journey together to take you from point A to point B. As my mentee, you will quickly realize that I am not your driver, but I am absolutely willing to drive when you can’t. I will show you around from what I know and I am willing to discover what is unknown to both of us too. I can get super technical or stay high-level. I will adjust our speed with your pace. At the end of the day, this is YOUR journey!
 
-<img src="/assets/img/uploads/saeedonview.jpg" class="img-fluid" alt="" > *Saeed on a road trip sitting on the edge of his universe trying to see Seven States on Lookup Mountain, Chattanooga, TN 2015*  \[photo credit: Masoud A.]
+
 
 <h1> How important is setting short- and long-term goals for your mentorships?</h1> 
 
 Both are quite important! Long-term goals take us far in a certain direction, and short-term goals keep us moving daily in our mentorship road-trip. 
+
+
 
 Again, metaphorically speaking, I see a mentorship as getting into a relatively long road-trip with your best buddy who has done this trip in the past. Setting up long-term goals is like knowing where your final destination is and setting up short-term goals is like knowing where you'll stay tonight!
 
