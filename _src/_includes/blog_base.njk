@@ -60,7 +60,7 @@ layout: 'base.njk'
                 {% for post in collections.feed -%}
 
                   <div class="post-item clearfix">
-                    <a href="{{post.url}}"><img src="{{post.data.thumbnail}}" alt=""></a>
+                    <a href="{{post.url}}"><img src="{{post.data.thumbnail}}"></a>
                     <h4><a href="{{post.url}}">{{post.data.title}}</a></h4>
                     <time>{{post.date|postDate}}</time>
                   </div>
