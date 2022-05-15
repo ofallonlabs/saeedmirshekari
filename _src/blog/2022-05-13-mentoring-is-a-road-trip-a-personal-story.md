@@ -59,10 +59,6 @@ After that, we are in this journey together to take you from point A to point B.
 
 <img src="/assets/img/uploads/saeedonview.jpg" class="img-fluid" alt="" > *Saeed on a road trip trying to see Seven States on Lookup Mountain, Chattanooga, TN 2015* 
 
-# See Seven States on Lookout Mountain
-
-<!--EndFragment-->
-
 <h1> How important is setting short- and long-term goals for your mentorships?</h1> 
 Both are quite important! Long-term goals take us far in a certain direction, and short-term goals keep us moving daily in our mentorship road-trip. Again, metaphorically speaking, I see a mentorship as getting into a relatively long road-trip with your best buddy who has done this trip in the past. Setting up long-term goals is like knowing where your final destination is and setting up short-term goals is like knowing where you'll stay tonight!
 
