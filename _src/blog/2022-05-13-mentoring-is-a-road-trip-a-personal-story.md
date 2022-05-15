@@ -64,11 +64,7 @@ In order to enjoy this trip, we both need to know where we are starting (your cu
 
 After that, we are in this journey together to take you from point A to point B. As my mentee, you will quickly realize that I am not your driver, but I am absolutely willing to drive when you can’t. I will show you around from what I know and I am willing to discover what is unknown to both of us too. I can get super technical or stay high-level. I will adjust our speed with your pace. At the end of the day, this is YOUR journey!
 
-
-
-<img src="/assets/img/uploads/saeedonview.jpg" class="img-fluid" alt="" > *Saeed on a road trip sitting on the edge of his universe trying to see Seven States on Lookup Mountain, Chattanooga, TN 2015*  
-
-
+<img src="/assets/img/uploads/saeedonview.jpg" class="img-fluid" alt="" > *Saeed on a road trip sitting on the edge of his universe trying to see Seven States on Lookup Mountain, Chattanooga, TN 2015*  \[photo credit: Masoud A.]
 
 <h1> How important is setting short- and long-term goals for your mentorships?</h1> 
 
