@@ -117,13 +117,17 @@ Here are major obstacles that immigrants new to the job market or new in the tec
 
 <!--EndFragment-->
 
-# Talent Gap and Opportunities Today: How Many Open Positions are in Data Science in the US?
+# Talent Gap and Opportunities Today: 
 
-<!--StartFragment-->
+### <!--StartFragment-->
+
+### How Many Open Positions are in Data Science in the US?
 
 The demand for data science specialists is high and it continues to rise, but the talent supply does not maintain pace. This supply imbalance/talent gap is mostly caused by a lack of major educational focus in graduate programs and insufficient college courses. Only around a third of the Top 100 Global Universities offer data science degrees, and the majority of them are only offered at the graduate or doctoral level.
 
 [QuantHub](https://quanthub.com/data-scientist-shortage-2020/) estimates a shortage of 250,000 data scientists in 2020. Data science and analytics skills were at the top of the hiring list for 31% of the CIOs responding to the [2021 State of the CIO survey, ](https://www.cio.com/article/189346/exclusive-survey-cios-outline-tech-priorities-for-2021-22.html)but 20% expected to have trouble sourcing AI and machine learning experts and 19% anticipated challenges finding and hiring Data Scientists.
+
+what opportunies exists toda?Employers in the Technology, Healthcare, Cybersecurity, Telecommunications, and automotive industry are increasingly recognizing the impact of data scientists professionals and the value they can bring into the company. 
 
 Also, LinkedIn ranked data science as one of its top jobs of 2021, noting that hiring for roles like data scientist and data visualization expert has grown nearly 46% since 2019. Similarly, the hiring of machine learning engineers and AI specialists has surged 32% between 2019 and 2020.
 
@@ -133,7 +137,7 @@ As of 2020, it was reported that there were abou[t 2.7 million open jobs in data
 
 
 
-The highest growth jobs with high paying salaries (their average salary according to Payscale) related to data science and data analysis include:
+The below data shows the highest growth jobs with high paying salaries (their average salary according to Payscale) related to data science and data analysis
 
 
 
@@ -153,11 +157,7 @@ The highest growth jobs with high paying salaries (their average salary accordin
 
 
 
-* Director of Data Science: 9X job growth. Average salary: $158,911.
-
-
-
-Employers in the Technology, Healthcare, Cybersecurity, Telecommunications, and automotive industry are increasingly recognizing the impact of data scientists professionals and the value they can bring into the company. 
+* Director of Data Science: 9X job growth. Average salary: $158,911
 
 
 
