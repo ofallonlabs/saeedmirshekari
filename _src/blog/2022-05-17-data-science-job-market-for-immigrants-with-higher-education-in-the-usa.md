@@ -113,7 +113,7 @@ Here are major obstacles that immigrants new to the job market or new in the tec
 2. Most immigrants fall into the ["hidden workers"](https://www.hbs.edu/managing-the-future-of-work/Documents/research/hiddenworkers09032021.pdf) category in the workforce. Hidden workers are people who want to work and possess or [could develop—many of the skills that current employers seek.](http://saeedmirshekari.com/services)
 
 
-3. Lack of guidance: This is one of the major obstacles facing immigrant  with higher education in getting their first job in data science. Many employers have a data-related requirement that needs candidates to have a thorough understanding of various parts of data science. In the competitive data science industry, [having a mentor](https://saeedmirshekari.com/services/) is vital for shaping your career.
+3. Lack of guidance: This is one of the major obstacles immigrant with higher education encounter in getting their first job in data science. Many employers have a data-related requirement that needs candidates to have a thorough understanding of various parts of data science. In the competitive data science industry, [having a mentor](https://saeedmirshekari.com/services/) is vital for shaping your career.
 
 <!--EndFragment-->
 
@@ -123,9 +123,7 @@ Here are major obstacles that immigrants new to the job market or new in the tec
 
 The demand for data science specialists is high and it continues to rise, but the talent supply does not maintain pace. This supply imbalance/talent gap is mostly caused by a lack of major educational focus in graduate programs and insufficient college courses. Only around a third of the Top 100 Global Universities offer data science degrees, and the majority of them are only offered at the graduate or doctoral level.
 
-[QuantHub](https://quanthub.com/data-scientist-shortage-2020/) estimates a shortage of 250,000 data scientists in 2020. Data science and analytics skills were at the top of the hiring list for 31% of the CIOs responding to the 2021 State of the CIO survey, but 20% expected to have trouble sourcing AI and machine learning experts and 19% anticipated challenges finding and hiring Data Scientists.
-
-
+[QuantHub](https://quanthub.com/data-scientist-shortage-2020/) estimates a shortage of 250,000 data scientists in 2020. Data science and analytics skills were at the top of the hiring list for 31% of the CIOs responding to the [2021 State of the CIO survey, ](https://www.cio.com/article/189346/exclusive-survey-cios-outline-tech-priorities-for-2021-22.html)but 20% expected to have trouble sourcing AI and machine learning experts and 19% anticipated challenges finding and hiring Data Scientists.
 
 Also, LinkedIn ranked data science as one of its top jobs of 2021, noting that hiring for roles like data scientist and data visualization expert has grown nearly 46% since 2019. Similarly, the hiring of machine learning engineers and AI specialists has surged 32% between 2019 and 2020.
 
