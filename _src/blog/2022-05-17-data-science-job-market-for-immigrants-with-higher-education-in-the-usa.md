@@ -32,7 +32,7 @@ Data science practitioners are referred to as data scientists and they are indiv
 
 In simple terms, a data scientist's job is to examine data in order to find useful information. Organizations in every sector are now discovering the value of big data and want to leverage its power to drive smart business decisions, which is driving up the wages of data scientists across almost every industry.
 
-Data science creates an intersection between statistics, software engineering, and domain or business knowledge. Therefore as a job seeker or an individual transitioning career into data science, you must be creative, possess a little bit of coding skills and statistics skills to begin.
+Data science creates an intersection between statistics, software engineering, and domain or business knowledge. Therefore as a job seeker or [an individual transitioning career into data science,](https://saeedmirshekari.com/blog/2022-03-17-physicist-turned-data-scientist-ii-6-yrs-down-the-road/) you must be creative, possess a little bit of coding skills and statistics skills to begin.
 
 <!--StartFragment-->
 
@@ -113,13 +113,96 @@ Here are major obstacles that immigrants new to the job market or new in the tec
 2. Most immigrants fall into the ["hidden workers"](https://www.hbs.edu/managing-the-future-of-work/Documents/research/hiddenworkers09032021.pdf) category in the workforce. Hidden workers are people who want to work and possess or [could develop—many of the skills that current employers seek.](http://saeedmirshekari.com/services)
 
 
-
-3. Lack of necessary skills and technical know-how. 
+3. Lack of guidance: This is one of the major obstacles facing immigrant  with higher education in getting their first job in data science. Many employers have a data-related requirement that needs candidates to have a thorough understanding of various parts of data science. In the competitive data science industry, [having a mentor](https://saeedmirshekari.com/services/) is vital for shaping your career.
 
 <!--EndFragment-->
 
+# Talent Gap and Opportunities Today: How Many Open Positions are in Data Science in the US?
+
 <!--StartFragment-->
 
-# Talent Gap and Opportunities Today: How Many Open Positions are in Data Science in the US?
+The demand for data science specialists is high and it continues to rise, but the talent supply does not maintain pace. This supply imbalance/talent gap is mostly caused by a lack of major educational focus in graduate programs and insufficient college courses. Only around a third of the Top 100 Global Universities offer data science degrees, and the majority of them are only offered at the graduate or doctoral level.
+
+[QuantHub](https://quanthub.com/data-scientist-shortage-2020/) estimates a shortage of 250,000 data scientists in 2020. Data science and analytics skills were at the top of the hiring list for 31% of the CIOs responding to the 2021 State of the CIO survey, but 20% expected to have trouble sourcing AI and machine learning experts and 19% anticipated challenges finding and hiring Data Scientists.
+
+
+
+Also, LinkedIn ranked data science as one of its top jobs of 2021, noting that hiring for roles like data scientist and data visualization expert has grown nearly 46% since 2019. Similarly, the hiring of machine learning engineers and AI specialists has surged 32% between 2019 and 2020.
+
+
+
+As of 2020, it was reported that there were abou[t 2.7 million open jobs in data analysis, data science, and other related careers](https://www.ibm.com/downloads/cas/3RL3VXGA) (source — IBM). It has been estimated that 11.5 million new jobs will be open by 2026. The demand for skilled and knowledgeable data scientists will boost, leading to a [27.9%](https://www.bls.gov/opub/btn/volume-7/big-data-adds-up.htm) rise in employment. 
+
+
+
+The highest growth jobs with high paying salaries (their average salary according to Payscale) related to data science and data analysis include:
+
+
+
+* Machine Learning Engineer: 8X job growth. Average salary: $100,956.
+
+
+
+* Data Scientist: 5X job growth. Average salary according to Glassdoor: $120,931.
+
+
+
+* Customer Success Manager: 6X job growth. Average salary according to Glassdoor: $78,818.
+
+
+
+* Big Data Developer: 5X job growth. Average salary: $85,000.
+
+
+
+* Director of Data Science: 9X job growth. Average salary: $158,911.
+
+
+
+Employers in the Technology, Healthcare, Cybersecurity, Telecommunications, and automotive industry are increasingly recognizing the impact of data scientists professionals and the value they can bring into the company. 
+
+
+
+[Here is a list of top companies hiring Data Scientists](https://www.glassdoor.com/Explore/top-data-scientist-companies_IO.4,18.htm) with their respective locations and average salaries. 
+
+
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+# The Future Solutions and Opportunities in Data Science
+
+The continued growth in the applications of data science has led to increasing numbers of highly skilled and specialized employment areas that require skills in data analytics, machine learning, decision science, data engineering, and other related areas, as well as in foundational tools such as Python, SQL, and TensorFlow. 
+
+
+
+Research has disclosed just how strong this demand is and how big the gap is between companies’ needs and the supply of data science skills.
+
+
+
+Custom solutions to beginning a successful career without having to go to school to get a degree include:
+
+
+
+* 1-on-1 Mentoring programs
+* Training Programs
+* and Online Courses
+
+
+
+Saeed Mirshekari's Firm can help. 
+
+
+
+If you want to start on a new career path in the rewarding and in-demand field of data science, [Saeed  Mirshekari - O' Fallon Labs](https://saeedmirshekari.com/) is ready and can help you make that dream a reality. You can change your future by learning how to do a data science project from scratch with little to no coding background. Becoming Data Scientist Fast offers a 5-week hands-on learning experience transforming you from zero to a hero by walking you through the end-to-end process of a real-world data science problem.
+
+
+
+Kick start your journey now at [saeedmirshekari.com/services](http://saeedmirshekari.com/services)
+
+
 
 <!--EndFragment-->
