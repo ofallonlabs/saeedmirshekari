@@ -12,7 +12,7 @@ tags:
 thumbnail: /assets/img/uploads/photo-1498050108023-c5249f4df085.jpeg
 rating: 4
 ---
-Companies in a variety of industries have begun to embrace and acknowledge data science as a method of obtaining and leveraging smarter business decisions. Industries that do not keep up will be unable to compete in the future. It's an exciting moment to be a data scientist, or an aspiring data scientist, as intriguing and lucrative new opportunities continue to emerge at a rapid pace.
+Companies in a variety of industries have begun to embrace and acknowledge data science as a method of obtaining and leveraging smarter business decisions. Industries that do not keep up will be unable to compete in the future. It is such an exciting time to be a data scientist, or an aspiring data scientist, as intriguing and lucrative new opportunities continue to emerge at a rapid pace.
 
 <h1> What exactly is Data Science?  </h1>
 
@@ -40,7 +40,7 @@ Data science creates an intersection between statistics, software engineering, a
 
 [According to the US Bureau of Labor Statistics](https://www.bls.gov/oes/current/oes152051.htm), the average salary of a data scientist is $100,560 as of May 2021. 
 
-Among data scientists, 20.4% of them are women compared to 79.6% obtained from an [analysis by Zippa](https://www.zippia.com/data-scientist-jobs/demographics/). Interestingly, the average age of data scientists is 40+ years, which represents 41% of the population.
+Among data scientists, 20.4% of them are women compared to 79.6% obtained from an [analysis by Zippa](https://www.zippia.com/data-scientist-jobs/demographics/) in 2019. Interestingly, the average age of data scientists is 40+ years, which represents 41% of the population.
 
 The [most common ethnicity among data scientists](https://www.zippia.com/data-scientist-jobs/demographics/) are the Whites, this makes up about 66.1% of all Data Scientists. Comparatively, there are 25.0% of the Asian ethnicity and 5.2% of the Hispanic/ Latino ethnicity. 
 
@@ -58,18 +58,9 @@ Now that there has been a shortage of data scientists in the American workforce,
 
 **How many new immigrants are in the US?**
 
-An analysis of the[ Census Bureau’s monthly Current Population Survey (CPS)](https://www.census.gov/programs-surveys/cps.html) from November 2021 shows the total immigrant population (legal and illegal) in the U.S. hit 46.2 million.  
+An analysis of the[ Census Bureau’s monthly Current Population Survey (CPS)](https://www.census.gov/programs-surveys/cps.html) from November 2021 shows that the total immigrant population (legal and illegal) in the U.S. hit 46.2 million.  
 
-Also, a report by Forbes has revealed that [one in three data scientists are born outside the US.](https://www.forbes.com/sites/gilpress/2015/04/30/the-supply-and-demand-of-data-scientists-what-the-surveys-say/?sh=24caae3e6b90) [Report shows](<Statistical analysis and computing
-Machine Learning
-Deep Learning
-Processing large data sets
-Data Visualization
-Data Wrangling
-Mathematics
-Programming
-Statistics
-Big Data>) that the immigrant and refugee communities have immense hidden data skills and with targeted training, creativity, and an open mind,  these skills can emerge to the surface and form a strong foundation for building new data science analytics, engineering, and AI skills.
+Also, a report by Forbes has revealed that [one in three data scientists are born outside the US.](https://www.forbes.com/sites/gilpress/2015/04/30/the-supply-and-demand-of-data-scientists-what-the-surveys-say/?sh=24caae3e6b90) This report also revealed that the immigrant and refugee communities have immense hidden data skills and with targeted training, creativity, and an open mind,  these skills can emerge to the surface and form a strong foundation for building new data science analytics, engineering, and AI skills.
 
 <!--EndFragment-->
 
@@ -77,11 +68,11 @@ Big Data>) that the immigrant and refugee communities have immense hidden data s
 
 ### <h1> Number of Immigrants in the STEM Workforce </h1>
 
-In 2015 the American Community Survey reported that foreign-born workers comprised one-fifth to one-quarter of the Science, Technology, Engineering, and Mathematics (STEM) workforce. 
+In 2015 the American Community Survey reported that foreign-born workers comprised one-fifth to one-quarter of the STEM (Science, Technology, Engineering, and Mathematics) workforce. 
 
 **What value do they bring?**
 
-Immigrants have brought about incredible change to the US economy in terms of productivity and new innovations. As the demand for STEM workers continues to increase, foreign-born STEM workers will likely continue to complement U.S. workers and play a key role in U.S. productivity and innovation. 
+Over the years, immigrants have brought about incredible change to the US economy in terms of productivity and new innovations. As the demand for STEM workers continues to increase, foreign-born STEM workers will likely continue to complement U.S. workers and play a key role in U.S. productivity and innovation. 
 
 <!--EndFragment-->
 
@@ -92,7 +83,7 @@ Immigrants have brought about incredible change to the US economy in terms of pr
 Here are major obstacles that immigrants new to the job market or new in the tech industry face in getting their first job in Data Science. 
 
 1. Immigrants face numerous cultural and systemic barriers that inhibit their full participation in the US workforce and economy.
-2. Most immigrants fall into the ["hidden workers"](https://www.hbs.edu/managing-the-future-of-work/Documents/research/hiddenworkers09032021.pdf) category in the workforce. Hidden workers are people who want to work and possess or [could develop—many of the skills that current employers seek.](http://saeedmirshekari.com/services)
+2. Most immigrants fall into the ["hidden workers"](https://www.hbs.edu/managing-the-future-of-work/Documents/research/hiddenworkers09032021.pdf) category in the workforce. Hidden workers are people who are eager to work and possess the skills or [—](http://saeedmirshekari.com/services)[could develop—many of the skills that current employers seek.](http://saeedmirshekari.com/services)
 3. Lack of guidance: This is one of the major obstacles immigrant with higher education encounter in getting their first job in data science. Many employers have a data-related requirement that needs candidates to have a thorough understanding of various parts of data science. In the competitive data science industry, [having a mentor](https://saeedmirshekari.com/services/) is vital for shaping your career.
 
 <!--EndFragment-->
@@ -103,15 +94,15 @@ Here are major obstacles that immigrants new to the job market or new in the tec
 
 ### How Many Open Positions are in Data Science in the US?
 
-The demand for data science specialists is high and it continues to rise, but the talent supply does not maintain pace. This supply imbalance/talent gap is mostly caused by a lack of major educational focus in graduate programs and insufficient college courses. Only around a third of the Top 100 Global Universities offer data science degrees, and the majority of them are only offered at the graduate or doctoral level.
+The demand for data science specialists is high and it continues to rise, but the talent supply does not maintain this pace. This supply imbalance/talent gap is mostly caused by a lack of major educational focus in graduate programs and insufficient college courses. Only around a third of the top 100 global universities offer data science degrees, and the majority of them are only offered at the graduate or doctoral level.
 
 [QuantHub](https://quanthub.com/data-scientist-shortage-2020/) estimates a shortage of 250,000 data scientists in 2020. Data science and analytics skills were at the top of the hiring list for 31% of the CIOs responding to the [2021 State of the CIO survey, ](https://www.cio.com/article/189346/exclusive-survey-cios-outline-tech-priorities-for-2021-22.html)but 20% expected to have trouble sourcing AI and machine learning experts and 19% anticipated challenges finding and hiring Data Scientists.
 
 **What opportunities exists today?** 
 
-Employers in the Technology, Healthcare, Cyber-security, Telecommunications, and automotive industry are increasingly recognizing the impact of data scientists professionals and the value they can bring into the company. 
+Employers in the Technology, Healthcare, Cyber-security, Telecommunications, and automotive industries are increasingly recognizing the impact of data scientists professionals and the value they can bring into the company. 
 
-Also, LinkedIn ranked data science as one of its top jobs of 2021, noting that hiring for roles like data scientist and data visualization expert has grown nearly 46% since 2019. Similarly, the hiring of machine learning engineers and AI specialists has surged 32% between 2019 and 2020.
+ [LinkedIn ranked data science as one of its top jobs of 2021,](https://opendatascience.com/linkedin-names-data-science-ai-as-in-demand-jobs-for-2021/) noting that hiring for roles like data scientist and data visualization expert has grown nearly 46% since 2019. Similarly, the hiring of machine learning engineers and AI specialists has surged 32% between 2019 and 2020.
 
 As of 2020, it was reported that there were abou[t 2.7 million open jobs in data analysis, data science, and other related careers](https://www.ibm.com/downloads/cas/3RL3VXGA) (source — IBM). It has been estimated that 11.5 million new jobs will be open by 2026. The demand for skilled and knowledgeable data scientists will boost, leading to a [27.9%](https://www.bls.gov/opub/btn/volume-7/big-data-adds-up.htm) rise in employment. 
 
@@ -127,22 +118,22 @@ The below data shows the highest growth jobs with high paying salaries (their av
 
 **What are the required skills in data science?**
 
-Certain technical skill sets are required in becoming a data scientist. They include the following: 
+Certain technical skill sets are required for a data scientists. They include: 
 
-* <!--StartFragment-->
+<!--StartFragment-->
 
-  * Statistical analysis and computing
-  * [Machine Learning](https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning "Machine Learning")
-  * [Deep Learning](https://www.simplilearn.com/tutorials/deep-learning-tutorial/what-is-deep-learning "Deep Learning")
-  * Processing large data sets
-  * [Data Visualization](https://www.simplilearn.com/data-visualization-article "Data Visualization")
-  * Data Wrangling
-  * Mathematics
-  * Programming
-  * Statistics
-  * [Big Data](https://www.simplilearn.com/tutorials/big-data-tutorial/what-is-big-data "Big Data")
+* Statistical analysis and computing
+* [Machine Learning](https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning "Machine Learning")
+* [Deep Learning](https://www.simplilearn.com/tutorials/deep-learning-tutorial/what-is-deep-learning "Deep Learning")
+* Processing large data sets
+* [Data Visualization](https://www.simplilearn.com/data-visualization-article "Data Visualization")
+* Data Wrangling
+* Mathematics
+* Programming
+* Statistics
+* [Big Data](https://www.simplilearn.com/tutorials/big-data-tutorial/what-is-big-data "Big Data")
 
-  <!--EndFragment-->
+<!--EndFragment-->
 
 <!--EndFragment-->
 
