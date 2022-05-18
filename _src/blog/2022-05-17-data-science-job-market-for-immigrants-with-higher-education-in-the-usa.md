@@ -12,7 +12,7 @@ tags:
 thumbnail: /assets/img/uploads/photo-1498050108023-c5249f4df085.jpeg
 rating: 4
 ---
-<https://www.forbes.com/sites/gilpress/2015/04/30/the-supply-and-demand-of-data-scientists-what-the-surveys-say/?sh=24caae3e6b90>Companies in a variety of industries have begun to embrace and acknowledge data science as a method of obtaining and leveraging smarter business decisions. Industries that do not keep up will be unable to compete in the future. It's an exciting moment to be a data scientist, or an aspiring data scientist, as intriguing and lucrative new opportunities continue to emerge at a rapid pace.
+Companies in a variety of industries have begun to embrace and acknowledge data science as a method of obtaining and leveraging smarter business decisions. Industries that do not keep up will be unable to compete in the future. It's an exciting moment to be a data scientist, or an aspiring data scientist, as intriguing and lucrative new opportunities continue to emerge at a rapid pace.
 
 <h1> What exactly is Data Science?  </h1>
 
@@ -98,7 +98,9 @@ The demand for data science specialists is high and it continues to rise, but th
 
 [QuantHub](https://quanthub.com/data-scientist-shortage-2020/) estimates a shortage of 250,000 data scientists in 2020. Data science and analytics skills were at the top of the hiring list for 31% of the CIOs responding to the [2021 State of the CIO survey, ](https://www.cio.com/article/189346/exclusive-survey-cios-outline-tech-priorities-for-2021-22.html)but 20% expected to have trouble sourcing AI and machine learning experts and 19% anticipated challenges finding and hiring Data Scientists.
 
-What opportunities exists today? Employers in the Technology, Healthcare, Cyber-security, Telecommunications, and automotive industry are increasingly recognizing the impact of data scientists professionals and the value they can bring into the company. 
+**What opportunities exists today?** 
+
+Employers in the Technology, Healthcare, Cyber-security, Telecommunications, and automotive industry are increasingly recognizing the impact of data scientists professionals and the value they can bring into the company. 
 
 Also, LinkedIn ranked data science as one of its top jobs of 2021, noting that hiring for roles like data scientist and data visualization expert has grown nearly 46% since 2019. Similarly, the hiring of machine learning engineers and AI specialists has surged 32% between 2019 and 2020.
 
