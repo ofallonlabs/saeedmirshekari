@@ -145,7 +145,7 @@ The continued growth in the applications of data science has led to increasing n
 
 Research has disclosed just how strong this demand is and how big the gap is between companies’ needs and the supply of data science skills.
 
-Custom solutions are now available to help individuals new to the tech industry or transitioning career into data science begin a successful career without having to go to school to get a degree.  These solutions that has been proven to work effectively include:
+Custom solutions are now available to help people new to the tech business or transitioning into data science start a successful career without having to go through college. These are solutions that have been demonstrated to work. They include:
 
 * 1-on-1 Mentoring programs
 * Training Programs
