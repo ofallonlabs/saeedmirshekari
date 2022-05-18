@@ -60,7 +60,16 @@ Now that there has been a shortage of data scientists in the American workforce,
 
 An analysis of the[ Census Bureau’s monthly Current Population Survey (CPS)](https://www.census.gov/programs-surveys/cps.html) from November 2021 shows the total immigrant population (legal and illegal) in the U.S. hit 46.2 million.  
 
-Also, a report by Forbes has revealed that [one in three data scientists are born outside the US.](https://www.forbes.com/sites/gilpress/2015/04/30/the-supply-and-demand-of-data-scientists-what-the-surveys-say/?sh=24caae3e6b90) It has also been discovered that the immigrant and refugee communities have immense hidden data skills and with targeted training, creativity, and an open mind,  these skills can emerge to the surface and form a strong foundation for building new data science analytics, engineering, and AI skills.
+Also, a report by Forbes has revealed that [one in three data scientists are born outside the US.](https://www.forbes.com/sites/gilpress/2015/04/30/the-supply-and-demand-of-data-scientists-what-the-surveys-say/?sh=24caae3e6b90) [Report shows](<Statistical analysis and computing
+Machine Learning
+Deep Learning
+Processing large data sets
+Data Visualization
+Data Wrangling
+Mathematics
+Programming
+Statistics
+Big Data>) that the immigrant and refugee communities have immense hidden data skills and with targeted training, creativity, and an open mind,  these skills can emerge to the surface and form a strong foundation for building new data science analytics, engineering, and AI skills.
 
 <!--EndFragment-->
 
