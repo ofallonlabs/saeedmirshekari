@@ -118,6 +118,23 @@ The below data shows the highest growth jobs with high paying salaries (their av
 
 **What are the required skills in data science?**
 
+Certain technical skill sets are required in becoming a data scientist. They include the following: 
+
+* <!--StartFragment-->
+
+  * Statistical analysis and computing
+  * [Machine Learning](https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning "Machine Learning")
+  * [Deep Learning](https://www.simplilearn.com/tutorials/deep-learning-tutorial/what-is-deep-learning "Deep Learning")
+  * Processing large data sets
+  * [Data Visualization](https://www.simplilearn.com/data-visualization-article "Data Visualization")
+  * Data Wrangling
+  * Mathematics
+  * Programming
+  * Statistics
+  * [Big Data](https://www.simplilearn.com/tutorials/big-data-tutorial/what-is-big-data "Big Data")
+
+  <!--EndFragment-->
+
 <!--EndFragment-->
 
 <!--StartFragment-->
