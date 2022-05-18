@@ -145,13 +145,13 @@ The continued growth in the applications of data science has led to increasing n
 
 Research has disclosed just how strong this demand is and how big the gap is between companies’ needs and the supply of data science skills.
 
-Custom solutions to beginning a successful career without having to go to school to get a degree include:
+Custom solutions are now available to help individuals new to the tech industry or transitioning career into data science begin a successful career without having to go to school to get a degree.  These solutions that has been proven to work effectively include:
 
 * 1-on-1 Mentoring programs
 * Training Programs
 * and Online Courses
 
-Saeed Mirshekari's Firm can help. 
+You can start here. Saeed Mirshekari's Firm can help. 
 
 If you want to start on a new career path in the rewarding and in-demand field of data science, [Saeed  Mirshekari - O' Fallon Labs](https://saeedmirshekari.com/) is ready and can help you make that dream a reality. You can change your future by learning how to do a data science project from scratch with little to no coding background. Becoming Data Scientist Fast offers a 5-week hands-on learning experience transforming you from zero to a hero by walking you through the end-to-end process of a real-world data science problem.
 
