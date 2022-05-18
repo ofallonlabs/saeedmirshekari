@@ -116,6 +116,8 @@ The below data shows the highest growth jobs with high paying salaries (their av
 
 [Here is a list of top companies hiring Data Scientists](https://www.glassdoor.com/Explore/top-data-scientist-companies_IO.4,18.htm) with their respective locations and average salaries. 
 
+**What are the required skills in data science?**
+
 <!--EndFragment-->
 
 <!--StartFragment-->
