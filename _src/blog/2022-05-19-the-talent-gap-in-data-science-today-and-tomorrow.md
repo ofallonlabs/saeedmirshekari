@@ -1,6 +1,6 @@
 ---
 layout: blog_base_adil.njk
-title: The Talent Gap in Data Science Today and Tomorrow
+title: Data Science Opportunities Today and Tomorrow
 description: Data Science is a field full of untapped possibilities and
   opportunities. However, the daily demand is increasing, and according to a
   report published by the US Bureau of Labor Statistics, the number of data
@@ -9,10 +9,10 @@ author: Adil Ansari
 date: 2022-05-19T00:39:55.875Z
 tags:
   - post
-thumbnail: /assets/img/uploads/pexels-alexander-suhorucov-6457579.jpg
+thumbnail: /assets/img/uploads/pexels-markus-spiske-3970330.jpg
 rating: 5
 ---
-<img src="/assets/img/uploads/pexels-alexander-suhorucov-6457579.jpg" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/c9cfc4b6-d073-4075-b002-5be91393f029" class="img-fluid" alt="" >
 
 
 Data has always been at the forefront of improvements and breakthroughs in technology. It helps make the user experience more seamless. Organizations worldwide have started to embrace data science to gather and leverage data and make better decisions. If you’re new to job market, here’s what you should know about data science and how to become a Data Scientist.
