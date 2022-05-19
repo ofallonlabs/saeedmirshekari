@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: "Data Science Job Market For Immigrants With Higher Education in the USA  "
+title: Data Science Job Market in the USA for Immigrants with Higher Educations
 description: "Several business sectors are about to be transformed by data
   science. With customized solutions from O'Fallon Labs LLC, learn about the
   employment market opportunities and how to start a data science career as an
@@ -9,10 +9,10 @@ author: Katherine Olowookere
 date: 2022-05-17T19:52:22.505Z
 tags:
   - post
-thumbnail: /assets/img/uploads/pexels-hitesh-choudhary-879109.jpg
+thumbnail: /assets/img/uploads/different-nationalities-g0ac115a8a_640.png
 rating: 4
 ---
-<img src="/assets/img/uploads/pexels-hitesh-choudhary-879109.jpg" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/b14c234b-98ac-4d9d-9b56-ba8d11194562" class="img-fluid" alt="" >
 
 
 
