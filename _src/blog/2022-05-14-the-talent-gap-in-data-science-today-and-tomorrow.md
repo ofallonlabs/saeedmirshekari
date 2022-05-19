@@ -11,7 +11,7 @@ tags:
 thumbnail: /assets/img/uploads/crowd-ge8e4bc45a_640.png
 rating: 4
 ---
-<img src="/assets/img/uploads/c9a198ee-6d30-4fbd-b754-98b3f0c1a5a4.png" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/crowd-ge8e4bc45a_640.png" class="img-fluid" alt="" >
 
 
 With every business, organization, and enterprise adopting digital work structures, it is no wonder data science is drawing more attention than ever. However, despite its rising popularity, there is a huge talent gap in data science which is why most people don’t even understand how it can revolutionize their businesses. So, with that being said, let’s take a journey with me down the data science road and learn possible solutions to the talent gap in data science.
