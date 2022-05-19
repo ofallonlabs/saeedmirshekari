@@ -1,5 +1,5 @@
 ---
-layout: blog_base.njk
+layout: blog_base_katherine.njk
 title: "Data Science Job Market For Immigrants With Higher Education in the USA  "
 description: "Several business sectors are about to be transformed by data
   science. With customized solutions from O'Fallon Labs LLC, learn about the
