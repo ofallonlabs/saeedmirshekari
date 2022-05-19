@@ -89,7 +89,7 @@ According to *[Indeed](https://www.indeed.com/career/data-scientist/salaries)*, 
 
 ## [](<>)Talent Gap and Opportunities Today
 
-According to the Stitch Benchmark *[report](https://www.stitchdata.com/resources/the-state-of-data-science/)*, there were only 11,400 data scientists available worldwide in 2014. Although now this number has increased to more than 50%, it’s still a lot less than what the industry requires.
+According to the Stitch Benchmark *[report](https://www.stitchdata.com/resources/the-state-of-data-science/)*, there were only 11,400 data scientists available worldwide in 2014. Although now this number has increased so much, it’s still a lot less than what the industry requires.
 
 
 
@@ -136,7 +136,7 @@ Moreover, the future opportunities for Data Science are spread across multiple i
 
 
 
-So, if you want a career change and land your first Data Science job, you will need a data science mentor. O’Fallon Labs provides multiple *[mentoring](https://saeedmirshekari.com/services/)*, *[coaching](https://saeedmirshekari.com/coaching-plan/)*, and *[learning programs](https://saeedmirshekari.com/ecourse-bdsf/)*.
+So, if you want a career change and land your first Data Science job, you will need a data science mentor. O’Fallon Labs provides multiple *[mentoring](https://saeedmirshekari.com/coaching-plan/)*, *[training](https://saeedmirshekari.com/services/)*, and *[learning programs](https://saeedmirshekari.com/ecourse-bdsf/)*.
 
 
 
