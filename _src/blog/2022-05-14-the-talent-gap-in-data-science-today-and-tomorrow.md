@@ -8,7 +8,7 @@ author: Afeefa Maryam
 date: 2022-05-14T14:59:09.847Z
 tags:
   - post
-thumbnail: /assets/img/uploads/lukas-blazek-mcsdtbwxuzu-unsplash.jpg
+thumbnail: /assets/img/uploads/pexels-kindel-media-7688082.jpg
 rating: 4
 ---
 <img src="/assets/img/uploads/lukas-blazek-mcsdtbwxuzu-unsplash.jpg" class="img-fluid" alt="" >
