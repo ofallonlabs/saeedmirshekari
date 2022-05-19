@@ -12,7 +12,7 @@ tags:
 thumbnail: /assets/img/uploads/different-nationalities-g0ac115a8a_640.png
 rating: 4
 ---
-<img src="/assets/img/uploads/b14c234b-98ac-4d9d-9b56-ba8d11194562" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/different-nationalities-g0ac115a8a_640.png" class="img-fluid" alt="" >
 
 
 
