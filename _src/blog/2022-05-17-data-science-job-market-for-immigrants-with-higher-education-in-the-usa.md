@@ -9,10 +9,10 @@ author: Katherine Olowookere
 date: 2022-05-17T19:52:22.505Z
 tags:
   - post
-thumbnail: /assets/img/uploads/pexels-hitesh-choudhary-879109.jpg
+thumbnail: /assets/img/uploads/different-nationalities-g0ac115a8a_640.png
 rating: 4
 ---
-<img src="/assets/img/uploads/pexels-hitesh-choudhary-879109.jpg" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/b14c234b-98ac-4d9d-9b56-ba8d11194562" class="img-fluid" alt="" >
 
 
 
