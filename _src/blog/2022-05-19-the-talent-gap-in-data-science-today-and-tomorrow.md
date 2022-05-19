@@ -9,10 +9,10 @@ author: Adil Ansari
 date: 2022-05-19T00:39:55.875Z
 tags:
   - post
-thumbnail: /assets/img/uploads/pexels-rodnae-productions-5922676.jpg
+thumbnail: /assets/img/uploads/pexels-alexander-suhorucov-6457579.jpg
 rating: 5
 ---
-<img src="/assets/img/uploads/pexels-rodnae-productions-5922676.jpg" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/pexels-alexander-suhorucov-6457579.jpg" class="img-fluid" alt="" >
 
 Data has always been at the forefront of improvements and breakthroughs in technology. It helps make the user experience more seamless. Organizations worldwide have started to embrace **data science** to gather and leverage data and make better decisions. If you’re **new to job market**, here’s what you should know about **data science** and how to become a Data Scientist.
 
