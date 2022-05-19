@@ -9,9 +9,13 @@ author: Katherine Olowookere
 date: 2022-05-17T19:52:22.505Z
 tags:
   - post
-thumbnail: /assets/img/uploads/photo-1498050108023-c5249f4df085.jpeg
+thumbnail: /assets/img/uploads/pexels-hitesh-choudhary-879109.jpg
 rating: 4
 ---
+<img src="/assets/img/uploads/pexels-hitesh-choudhary-879109.jpg" class="img-fluid" alt="" >
+
+
+
 Companies in a variety of industries have begun to embrace and acknowledge data science as a method of obtaining and leveraging smarter business decisions. Industries that do not keep up will be unable to compete in the future. It is such an exciting time to be a data scientist, or an aspiring data scientist, as intriguing and lucrative new opportunities continue to emerge at a rapid pace.
 
 <h1> What exactly is Data Science?  </h1>
