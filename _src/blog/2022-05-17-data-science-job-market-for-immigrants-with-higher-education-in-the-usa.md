@@ -135,8 +135,6 @@ Certain technical skill sets are required for a data scientists. They include:
 
 <!--EndFragment-->
 
-<!--EndFragment-->
-
 <!--StartFragment-->
 
 # The Future Solutions and Opportunities in Data Science
