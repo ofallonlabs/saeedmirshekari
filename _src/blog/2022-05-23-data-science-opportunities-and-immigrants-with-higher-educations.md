@@ -164,7 +164,3 @@ Even if you possess the required degree to enter the data science field, you mig
 **Bottom Line**
 
 The data science tech industry in the US holds tremendous potential for the deserving candidates. However, for overseas job seekers things may seem challenging at the start. The immigration process coupled with preparing for job interviews is not a piece of cake. You may find things overwhelming to manage. Thus, immigrants wanting to become a part of the American data science sector should consider going for *[counseling and mentoring](https://saeedmirshekari.com/services/)* under leading industry experts. They shall suggest the right online courses and also help you find conducive employment prospects. Put in the needed efforts in the right direction with the appropriate mentor. Discover *[eminent data science pundits](https://saeedmirshekari.com/blog/2022-05-13-mentoring-is-a-road-trip-a-personal-story/)* online and choose the ones ready to be your partner in your job searching endeavor.
-
-
-
-…
