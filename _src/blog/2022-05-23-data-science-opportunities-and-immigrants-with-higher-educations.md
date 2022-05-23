@@ -12,7 +12,7 @@ tags:
 thumbnail: /assets/img/uploads/career-path-g01dbc330a_640.png
 rating: 4
 ---
-
+<img src="/assets/img/uploads/career-path-g01dbc330a_640.PNG" class="img-fluid" alt="" >
 
 **What can Immigrants with Higher Education expect from the US Data Science Job Market?** 
 
