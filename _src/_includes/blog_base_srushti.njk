@@ -18,6 +18,18 @@ layout: 'base.njk'
               
             </article><!-- End blog entry -->
 
+            <div class="blog-author d-flex align-items-center">
+              <img src="/assets/img/blog/srushti.webp" class="rounded-circle float-left" alt="">
+              <div>
+                <h4>Srushti Pargat</h4>
+                {# <div class="social-links">
+                  <a href="https://twitter.com/smirshekari_"><i class="bi bi-twitter"></i></a>
+                </div> #}
+                <p>
+                  Srushti is a talent writer at upwork. She is interested in writing about a varioty of topics including careers in technology.
+                </p>
+              </div>
+            </div>
 
           </div><!-- End blog entries list -->
           <div class="col-lg-4">
@@ -48,7 +60,7 @@ layout: 'base.njk'
                 {% for post in collections.feed -%}
 
                   <div class="post-item clearfix">
-                    <a href="{{post.url}}"><img src="{{post.data.thumbnail}}"></a>
+                    <a href="{{post.url}}"><img src="{{post.data.thumbnail}}" alt=""></a>
                     <h4><a href="{{post.url}}">{{post.data.title}}</a></h4>
                     <time>{{post.date|postDate}}</time>
                   </div>
