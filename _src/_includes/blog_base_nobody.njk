@@ -1,0 +1,89 @@
+---
+layout: 'base.njk'
+---
+
+    <!-- ======= Blog Single Section ======= -->
+    <section id="blog" class="blog">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-8 entries">
+
+
+
+              <div class="entry-content">
+                {{content | safe}}
+              </div>
+              
+            </article><!-- End blog entry -->
+
+            <div class="blog-author d-flex align-items-center">
+              <img src="/assets/img/blog/saeed.jpg" class="rounded-circle float-left" alt="">
+              <div>
+                <h4>Saeed Mirshekari</h4>
+                <div class="social-links">
+                  <a href="https://twitter.com/smirshekari_"><i class="bi bi-twitter"></i></a>
+                </div>
+                <p>
+                  Saeed Mirshekari is a Director Data Scientist in FinTech. His background is in Physicist with PhD from Washington University in St. Louis, USA. He is also a former research scholar at LIGO team (Physics Nobel Prize of 2017).
+                </p>
+              </div>
+            </div>
+
+          </div><!-- End blog entries list -->
+          <div class="col-lg-4">
+
+            <div class="sidebar">
+
+              <h3 class="sidebar-title">Search</h3>
+              <div class="sidebar-item search-form">
+                <form action="">
+                  <input type="text">
+                  <button type="submit"><i class="bi bi-search"></i></button>
+                </form>
+              </div><!-- End sidebar search formn-->
+
+              {# <h3 class="sidebar-title">Categories</h3>
+              <div class="sidebar-item categories">
+                <ul>
+                  <li><a href="#">Data Science<span>(2)</span></a></li>
+                  <li><a href="#">Personal Development<span>(2)</span></a></li>
+                  <li><a href="#">Career Coaching<span>(2)</span></a></li>
+                </ul>
+              </div><!-- End sidebar categories--> #}
+
+              <h3 class="sidebar-title">Recent Posts</h3>
+
+              <div class="sidebar-item recent-posts">
+
+                {% for post in collections.feed -%}
+
+                  <div class="post-item clearfix">
+                    <a href="{{post.url}}"><img src="{{post.data.thumbnail}}"></a>
+                    <h4><a href="{{post.url}}">{{post.data.title}}</a></h4>
+                    <time>{{post.date|postDate}}</time>
+                  </div>
+
+                {% endfor -%}
+
+
+
+              </div><!-- End sidebar recent posts-->
+              {# <h3 class="sidebar-title">Tags</h3>
+              <div class="sidebar-item tags">
+
+                {% for post in collections.post | reverse -%}
+                <ul>
+                  <li><a href="{{post.url}}">{{post.data.tags}}</a></li>
+                </ul>
+                {% endfor -%}
+
+              </div><!-- End sidebar tags--> #}
+
+            </div><!-- End sidebar -->
+          </div><!-- End blog sidebar -->
+
+        </div>
+      </div>
+
