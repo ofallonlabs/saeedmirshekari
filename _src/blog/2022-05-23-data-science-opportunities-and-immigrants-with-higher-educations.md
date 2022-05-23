@@ -1,5 +1,5 @@
 ---
-layout: blog_base_blog.njk
+layout: blog_base_srushti.njk
 title: Data Science Opportunities and Immigrants with Higher Educations
 description: "The US is rightly termed as the land of immigrants. The immigrant
   populace has contributed copiously to the country's development. The facts and
