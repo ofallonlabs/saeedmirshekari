@@ -1,6 +1,6 @@
 ---
 layout: blog_base_afeefa.njk
-title: The Talent Gap in Data Science
+title: The Global Talent Gap in Data Science (2022)
 description: In this note you will learn about Data Science and Data Scientists
   and find customized solutions to fill the talent gap in data science with
   O’Fallon Labs.
