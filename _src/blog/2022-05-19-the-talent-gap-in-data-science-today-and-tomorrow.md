@@ -1,6 +1,6 @@
 ---
 layout: blog_base_adil.njk
-title: Data Science Opportunities Today and Tomorrow
+title: Career Opportunities in Data Science Today and Tomorrow
 description: Data Science is a field full of untapped possibilities and
   opportunities. However, the daily demand is increasing, and according to a
   report published by the US Bureau of Labor Statistics, the number of data
