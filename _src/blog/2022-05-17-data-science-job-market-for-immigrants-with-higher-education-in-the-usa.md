@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: Data Science Job Market in the USA for Immigrants with Higher Educations
+title: 1 in 3 Data Scientists is Born Outside the US
 description: "Several business sectors are about to be transformed by data
   science. With customized solutions from O'Fallon Labs LLC, learn about the
   employment market opportunities and how to start a data science career as an
