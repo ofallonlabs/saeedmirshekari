@@ -10,12 +10,13 @@ author: Saeed Mirshekari
 date: 2021-12-22T05:51:16.889Z
 tags:
   - post
-thumbnail: /assets/img/uploads/bdsf-02.png
+thumbnail: /assets/img/uploads/undraw_superhero_kguv.svg
 rating: 5
 ---
 ### Take Care of Your Unicorn
 
-<img src="assets/img/blog/post-PTDS2/unicorn.png" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/undraw_superhero_kguv.svg" width="100%">
+
 
 
 There were times in the past years that a lot of people were all in agreement that Data Scientists are unicorns! They have super powers but they are extremely hard to find. If you can find and hire a Data Scientist for your company, you are extremely lucky!
@@ -61,7 +62,6 @@ This means on average most people (most probably including yourself) are going t
 
 <img src="assets/img/blog/post-PTDS2/plot2.jpg" class="img-fluid" alt="" >
 
-
 *The top 10 responses when PwC asked 19,000+ people their reasons for leaving as a part of exit interviews they conducted for clients. As reported in (2005) The 7 Hidden Reasons Employees Leave by Leigh Branham, page 21, Figure 3.1*
 
 A relatively big survey with 19,000 employees in 2005 shows that the deriving factors in job satisfaction are quite common and unlike the common perception, it is not always the compensation. In fact, most of the people are leaving their jobs because of bigger opportunities elsewhere towards self-development and to get out of an annoying situation in the relationship with their supervisors.
@@ -71,7 +71,6 @@ That means despite various reasons that might cause a drop in job satisfaction, 
 ### What Keeps You Happy at Work? A Triangle Model
 
 <img src="assets/img/blog/post-PTDS2/bdsf-02.png" class="img-fluid" alt="" >
-
 
 *I borrow the terminology from RGB (for Red-Green-Blue) color model to make my point about the 3 fundamental factors in the quality of work experience.*
 
@@ -83,13 +82,11 @@ Based on my experience, my top 3 most important ingredients for an excellent wor
 
 <img src="assets/img/blog/post-PTDS2/happy_unicorn.png" class="img-fluid" alt="" >
 
-
 *Happy Unicorns live in utopia! They have a great relationship with their supervisor/team, they work on the most challenging problems, and their paychecks reflect their skillset and contribution. They love going to work every morning! \[Just kidding! They work from home since 2020.]*
 
 This is the best case scenario in which all of the 3 factors are there. That means this job helps you towards all of these important factors. Therefore, this situation guarantees a high quality work experience over time to me. The bigger the area of this triangle, the better the quality of work experience. On the other hand, the lack or shortage on either of these 3 factors can quickly shrink the quality of working experience. Now let’s also look at other possible scenarios…
 
 <img src="assets/img/blog/post-PTDS2/elephant.png" class="img-fluid" alt="" >
-
 
 *Unhappy Elephants get paid well and work on some quite challenging problems but they’ve got a terrible relationship with their supervisors/teams. Most of them will not survive! They need to get their a\*\* out of this situation ASAP! Tomorrow is too late for them.*
 
