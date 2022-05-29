@@ -1,6 +1,6 @@
 ---
 layout: blog_base_afeefa.njk
-title: "The Talent Gap in Data Science: Do We Need More Data Scientists in 2022? "
+title: The Talent Gap in Data Science and Machine Learning (2022)
 description: Do we need more people in the field of Data Science in 2022? The
   short answer is absolutely yes. In this note you will learn about Data Science
   and Data Scientists and find customized solutions to fill the talent gap in
