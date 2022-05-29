@@ -9,10 +9,10 @@ author: Afeefa Maryam
 date: 2022-05-14T14:59:09.847Z
 tags:
   - post
-thumbnail: /assets/img/uploads/2102.i605.006.nationality_people.jpg
+thumbnail: /assets/img/uploads/undraw_grades_re_j7d6.svg
 rating: 4
 ---
-<img src="/assets/img/uploads/2102.i605.006.nationality_people.JPG" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/undraw_grades_re_j7d6.svg" class="img-fluid" alt="" >
 
 
 
