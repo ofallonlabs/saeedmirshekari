@@ -9,7 +9,7 @@ author: Saeed Mirshekari
 date: 2022-05-13T19:29:02.548Z
 tags:
   - post
-thumbnail: /assets/img/uploads/mentoring_is_a_road_trip.jpg
+thumbnail: /assets/img/uploads/undraw_by_the_road_re_vvs7-1-.svg
 rating: 5
 ---
 <img src="/assets/img/uploads/saeedonview.jpg" class="img-fluid" alt="" > *Saeed on a road trip sitting on the edge of his universe trying to see Seven States on Lookup Mountain, Chattanooga, TN 2015*  \[photo credit: Masoud A.]
