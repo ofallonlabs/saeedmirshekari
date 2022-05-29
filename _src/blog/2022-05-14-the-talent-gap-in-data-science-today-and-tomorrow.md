@@ -6,7 +6,7 @@ description: Do we need more people in the field of Data Science in 2022? The
   and Data Scientists and find customized solutions to fill the talent gap in
   data science with O’Fallon Labs.
 author: Afeefa Maryam
-date: 2022-05-14T14:59:09.847Z
+date: 2022-05-29T14:59:09.847Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_grades_re_j7d6.svg
