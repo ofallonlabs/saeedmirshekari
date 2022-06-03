@@ -10,7 +10,7 @@ author: Saeed Mirshekari
 date: 2016-01-10T18:36:32.726Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_unicorn_re_mi7i.svg
+thumbnail: /assets/img/uploads/undraw_unicorn_re_mi7i.png
 rating: 4
 ---
 <img src="/assets/img/uploads/undraw_unicorn_re_mi7i.png" width="100%">
