@@ -10,14 +10,12 @@ author: Saeed Mirshekari
 date: 2021-12-22T05:51:16.889Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_superhero_kguv.svg
+thumbnail: /assets/img/uploads/undraw_superhero_kguv.png
 rating: 5
 ---
 ### Take Care of Your Unicorn
 
-<img src="/assets/img/uploads/undraw_superhero_kguv.svg" width="100%">
-
-
+<img src="/assets/img/uploads/undraw_superhero_kguv.png" width="100%">
 
 There were times in the past years that a lot of people were all in agreement that Data Scientists are unicorns! They have super powers but they are extremely hard to find. If you can find and hire a Data Scientist for your company, you are extremely lucky!
 
