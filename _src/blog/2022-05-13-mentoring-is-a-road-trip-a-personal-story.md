@@ -12,7 +12,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_by_the_road_re_vvs7.png
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_by_the_road_re_vvs7-1-.png" width="100%">
+<img src="/assets/img/uploads/undraw_by_the_road_re_vvs7.png" width="100%">
 
 Following is an interview with me on [MentorCruise](https://mentorcruise.com/mentor/saeedmirshekari/) about my story as a Data Science mentor.
 
