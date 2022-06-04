@@ -1,6 +1,6 @@
 ---
 layout: blog_base_adil.njk
-title: "Job Market Opportunities in Data Science: How to Stand Out in 2022?"
+title: "Opportunities in Data Science Job Market: How to Stand Out in 2022?"
 description: Data Science is a field full of untapped possibilities and
   opportunities. However, the daily demand is increasing, and according to a
   report published by the US Bureau of Labor Statistics, the number of data
