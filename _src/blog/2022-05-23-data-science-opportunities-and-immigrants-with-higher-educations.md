@@ -6,7 +6,7 @@ description: "The US is rightly termed as the land of immigrants. The immigrant
   figures regarding the American data science job market testify to the
   significant career possibilities it offers. "
 author: Srushti Pargat
-date: 2022-05-23T13:39:10.283Z
+date: 2022-06-05T13:39:10.283Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_adventure_map_hnin.png
