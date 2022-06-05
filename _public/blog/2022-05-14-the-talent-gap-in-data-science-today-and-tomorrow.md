@@ -1,21 +1,20 @@
 ---
 layout: blog_base_afeefa.njk
-title: The Talent Gap in Data Science
-description: Learn everything you need to know about data scientists and find
-  customized solutions to fill the talent gap in data science with O’Fallon
-  Labs.
-author: Afifa M.
-date: 2022-05-14T14:59:09.847Z
+title: The Global Talent Gap in Data Science (2022)
+description: Do we need more people in the field of Data Science in 2022? The
+  short answer is absolutely yes. In this note you will learn about Data Science
+  and Data Scientists and find customized solutions to fill the talent gap in
+  data science with O’Fallon Labs.
+author: Afeefa Maryam
+date: 2022-05-29T14:59:09.847Z
 tags:
   - post
-thumbnail: /assets/img/uploads/lukas-blazek-mcsdtbwxuzu-unsplash.jpg
+thumbnail: /assets/img/uploads/undraw_grades_re_j7d6.svg
 rating: 4
 ---
-<img src="/assets/img/uploads/lukas-blazek-mcsdtbwxuzu-unsplash.jpg" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/undraw_grades_re_j7d6.svg" class="img-fluid" alt="" >
 
-Meta Description: Learn everything you need to know about data scientists and find customized solutions to fill the talent gap in data science with O’Fallon Labs.
-
-With every business, organization, and enterprise adopting digital work structures, it is no wonder data science is drawing more attention than ever. However, despite its rising popularity, there is a huge talent gap in data science which is why most people don’t even understand how it can revolutionize their businesses. So, with that being said, let’s take a journey with me down the data science road and learn possible solutions to the talent gap in data science.
+With every business, organization, and enterprise adopting digital work structures, it is no wonder data science is drawing more attention than ever. However, despite its rising popularity, there is a huge talent gap in data science which is why many people don’t understand how it can revolutionize their businesses. So, with that being said, let’s take a journey with me down the data science road and learn possible solutions to the talent gap in data science.
 
 <h1> What is Data Science?  </h1>
 
@@ -85,9 +84,9 @@ For those who are new to industry and seeking high paying salary, there are dive
 
 If you have a degree in mathematics, statistics or computer-related fields, or even social sciences, you can play an important part in the success of organizations by enrolling in the right online courses. 
 
-<h1>Solution for You!  – O’Fallon Labs </h1>
+<h1>Solution for You! </h1>
 
-Interested in becoming a data scientist but don’t know where to start? [O’Fallon Labs](https://saeedmirshekari.com/) has the perfect solution for you. Our data science mentors provide professional mentoring and training in machine learning, Al consultancy, and other data science skills to prepare you for your job interview. 
+Interested in becoming a data scientist but don’t know where to start? [O’Fallon Labs](https://saeedmirshekari.com/) has a great solution for you. Our data science mentors provide professional mentoring and training in machine learning, Al consultancy, and other data science skills to prepare you for your job interview. 
 
 So what are you waiting for? 
 

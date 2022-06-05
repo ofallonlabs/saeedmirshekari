@@ -2,6 +2,7 @@
 layout: 'base.njk'
 ---
 
+
     <!-- ======= Blog Single Section ======= -->
     <section id="blog" class="blog">
       <div class="container" data-aos="fade-up">
@@ -10,9 +11,13 @@ layout: 'base.njk'
 
           <div class="col-lg-8 entries">
 
-
-
               <div class="entry-content">
+
+              <div class="entry-meta">
+                  by <i class="bi bi-pen"></i> {{ author }}
+                    <i class="bi bi-clock"></i> {{date | postDate}}
+              </div>
+
                 {{content | safe}}
               </div>
               
