@@ -26,7 +26,7 @@ As a data science mentor, I realize the turmoil overseas aspirants might undergo
 
 # **Interesting facts about the current data science job market in the US**
 
-## *[Popular job titles in the data science field in the US](https://builtin.com/data-science/data-science-jobs)*
+## [Popular job titles in the data science field in the US](https://builtin.com/data-science/data-science-jobs)
 
 Here we have some in demand job positions in the data science domain that are prevalent in the American job market.
 
@@ -38,27 +38,27 @@ Here we have some in demand job positions in the data science domain that are pr
 * Data architect
 * Business intelligence developer
 
-*[Type of employment ](https://www.careerexplorer.com/careers/data-scientist/demographics/)*
+## [Type of employment ](https://www.careerexplorer.com/careers/data-scientist/demographics/)
 
 84 percent of the data scientists are full-time employees, while the residual 16 percent hold part-time positions. 
 
-## *[Salary ](https://www.careerexplorer.com/careers/data-scientist/salary/)*
+## [Salary](https://www.careerexplorer.com/careers/data-scientist/salary/)
 
 As per the figures for 2019-2020, the mean salary figure for data science professionals in the US is around $87,000, much better than the national average. Salaries usually begin at $67,000 and can move as high as $180,000. The average *[hourly wage rate](https://www.salary.com/research/salary/benchmark/data-scientist-i-hourly-wages)* is $35 as of the start of 2022.
 
-## *[Gender categorization ](https://www.careerexplorer.com/careers/data-scientist/demographics/)*
+## [Gender categorization ](https://www.careerexplorer.com/careers/data-scientist/demographics/)
 
 In the United States, about 62 percent of the total data science professionals are males, and the remaining 38 percent constitute females. 
 
-## *[Prominent age groups](https://www.zippia.com/data-scientist-jobs/demographics/)*
+## [Prominent age groups](https://www.zippia.com/data-scientist-jobs/demographics/)
 
 The average age of the data scientists population in the US is 40 years. Research suggests that about 41 percent of data science job holders are aged above 40. On the other hand, 24 percent of the data scientists lie in the 20-30 years age group, and the rest 36 percent in the age group of 30-40.
 
-## *[Ethnicity mix ](https://www.careerexplorer.com/careers/data-scientist/demographics/)*
+## [Ethnicity mix ](https://www.careerexplorer.com/careers/data-scientist/demographics/)
 
 A notable survey presents the following facts about the ethnic composition of the US data science job market. 45 percent of the overall data scientists are White. South and East Asians hold about 37 percent of the data science jobs. About 7 percent of the US data scientists are Hispanics or Latin. African Americans and Arabs constitute 3 percent and 1 percent of the total data science jobholders. 
 
-## *[Industry-wise composition of employers hiring data scientists](https://www.zippia.com/data-scientist-jobs/demographics/)*
+## [Industry-wise composition of employers hiring data scientists](https://www.zippia.com/data-scientist-jobs/demographics/)
 
 Fortune 500 companies in the US offer 22 percent of the total jobs for data scientists. Technology ventures and start-ups engage about 19 percent and 10 percent of data science professionals. At the same time, other industries like finance, manufacturing, pharma, insurance, construction, and retail make up for the remaining data science job positions. 
 
@@ -99,7 +99,7 @@ The job requisites that many companies put forth in their descriptions tend to b
 
 As somebody *[new to the data science industry](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/)* in the US, you can put your faith in reputed and experienced data science mentors. The mentoring programs offer A to Z support regarding various facades of the country's data science career options. You can know your place in the competition and work to enhance your skills with adequate *[guidance](https://saeedmirshekari.com/coaching-plan/)*.
 
-## **Join comprehensive *[online courses](https://saeedmirshekari.com/ecourse-bdsf/)***
+## **Join comprehensive [online courses](https://saeedmirshekari.com/ecourse-bdsf/)**
 
 Even if you possess the required degree to enter the data science field, you might need to brush up on your know-how and skills from time to time. The data science realm is transforming by the day, and you need to keep pace with the transformation. Various online courses on specific topics related to data science can prove rewarding.
 
