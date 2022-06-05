@@ -10,10 +10,10 @@ author: Saeed Mirshekari
 date: 2016-01-10T18:36:32.726Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_unicorn_re_mi7i.svg
+thumbnail: /assets/img/uploads/undraw_unicorn_re_mi7i.png
 rating: 4
 ---
-<img src="/assets/img/uploads/undraw_unicorn_re_mi7i.svg" width="100%">
+<img src="/assets/img/uploads/undraw_unicorn_re_mi7i.png" width="100%">
 
  <h3>Who am I and to whom I am writing this note?</h3>
 
@@ -96,8 +96,6 @@ rating: 4
                   In reality, because of the nature of this field, there is no unique definition for data science and data scientists. The definitions and descriptions can vary in a huge range. But here is my version:
 
                 </p>
-
-
 
 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
 A data scientist is a skilled professional with scientific mindset who uses the past and current data to ask \[and eventually answer] the right questions in order to make the most informed future decisions in an organization.
