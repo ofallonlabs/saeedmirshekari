@@ -9,10 +9,10 @@ author: Srushti Pargat
 date: 2022-05-23T13:39:10.283Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_adventure_map_hnin.svg
+thumbnail: /assets/img/uploads/undraw_adventure_map_hnin.png
 rating: 4
 ---
-<img src="/assets/img/uploads/undraw_adventure_map_hnin.svg" class="img-fluid" alt="" >
+<img src="/assets/img/uploads/undraw_adventure_map_hnin.png" class="img-fluid" alt="" >
 
 **What can Immigrants with Higher Education expect from the US Data Science Job Market?** 
 
