@@ -3,7 +3,7 @@ layout: blog_base.njk
 title: "Preparing For Success In Your First Data Science Job Interview "
 description: "How to Prepare For Success In Your First Data Science Job
   Interview. What to expect and what to do. "
-author: Saeed Mirshekari
+author: Katherine Olowookere
 date: 2022-06-11T09:47:40.296Z
 tags:
   - post
