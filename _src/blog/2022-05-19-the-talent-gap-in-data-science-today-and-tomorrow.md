@@ -16,7 +16,7 @@ rating: 5
 
 Data has always been at the forefront of improvements and breakthroughs in technology. It helps make the user experience more seamless. Organizations worldwide have started to embrace data science to gather and leverage data and make better decisions. If you’re new to job market, here’s what you should know about data science and how to become a Data Scientist.
 
-## [](<>)What is Data Science & Who is a Data Scientist?
+<h1> What is Data Science & Who is a Data Scientist? </h1>
 
 If you are new to data science, here’s a straightforward explanation of what the subject entails:
 
@@ -34,7 +34,7 @@ Their primary job is to acquire insights to help companies perform useful proces
 
 If you are transitioning to data science field or seeking a job in this department, you must be skilled in programming (Python, R, etc.), machine learning, mathematics, and statistics to extract insights from the data sets.
 
-## [](<>)Evolution of Data Science & Data Scientist Requirements
+<h1> Evolution of Data Science & Data Scientist Requirements </h1>
 
 Since 2012, data science has been a hot topic in the education and business industry. The Harvard Business *[Review](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion)* predicted that Data Science would be the next best thing and the most promising career choice in the 21st century.
 
@@ -44,13 +44,13 @@ Again, it is a data scientist’s responsibility to analyze the previous data re
 
 Their job revolves around designing statistical and economic models while working with cutting-edge machine learning tools to encapsulate data in one place and visualize it.
 
-### [](<>)Required Education
+<h2> Required Education </h2>
 
 If you want to become a data scientist, you need a qualification equivalent to Bachelors in Data Science or a closely computer-tech field. This will allow you to become a first-level data scientist. However, most careers related to data science have made it mandatory to acquire masters in DS.
 
 A data science degree will add more structure to your CV and resume. In contrast, if you have acquired a bachelor’s degree in another field, you may be required to develop more skills and internships specifically related to landing your first job as a data scientist. For this, you would need to enroll in short online courses or boot camps.
 
-### [](<>)Skills Required
+<h2> Skills Required </h2>
 
 Furthermore, the skills you should acquire before your first job in data science are:
 
@@ -65,11 +65,11 @@ Furthermore, the skills you should acquire before your first job in data science
 * Effective Communication
 * Data Mining, Cleaning, and Munging
 
-### [](<>)Salary Details of a Data Scientist
+<h2> Salary Details of a Data Scientist </h2>
 
 According to *[Indeed](https://www.indeed.com/career/data-scientist/salaries)*, the average base high paying salary of a data scientist is $139,000 per year in the United States. This figure was concluded based on 3700 salaries reported. For entry-level data scientists with less than a year’s experience, the median salary still stands at $117,000.
 
-## [](<>)Talent Gap and Opportunities Today
+<h1> Talent Gap and Opportunities Today </h1>
 
 According to the Stitch Benchmark *[report](https://www.stitchdata.com/resources/the-state-of-data-science/)*, there were only 11,400 data scientists available worldwide in 2014. Although now this number has increased so much, it’s still a lot less than what the industry requires.
 
@@ -85,7 +85,7 @@ The talent gap in the DS (data science) industry is so vast that currently, the 
 
 The DS industry is still a relatively new industry that requires more and more skilled professionals with each passing day.
 
-## [](<>)The Future Solutions and Opportunities
+<h1> The Future Solutions and Opportunities </h1>
 
 Data Science is a field full of untapped possibilities and opportunities. However, the daily demand is increasing, and according to a report published by the US Bureau of Labor Statistics, the number of data science jobs will increase to almost 26% by 2026.
 
