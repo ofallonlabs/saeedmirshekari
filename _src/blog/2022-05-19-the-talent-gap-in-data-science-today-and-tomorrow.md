@@ -6,7 +6,7 @@ description: Data Science is a field full of untapped possibilities and
   report published by the US Bureau of Labor Statistics, the number of data
   science jobs will increase to almost 26% by 2026.
 author: Adil Ansari
-date: 2022-05-19T00:39:55.875Z
+date: 2022-06-12T13:56:46.676Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_stand_out_-1-oag.svg
