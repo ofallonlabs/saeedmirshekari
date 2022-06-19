@@ -6,7 +6,7 @@ description: "Several business sectors are about to be transformed by data
   employment market opportunities and how to start a data science career as an
   immigrant in the United States  "
 author: Katherine Olowookere
-date: 2022-05-17T19:52:22.505Z
+date: 2022-06-19T05:30:06.244Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_well_done_i2wr.png
@@ -110,11 +110,11 @@ As of 2020, it was reported that there were abou[t 2.7 million open jobs in data
 
 The below data shows the highest growth jobs with high paying salaries (their average salary according to Payscale) related to data science and data analysis
 
-* Machine Learning Engineer: 8X job growth. Average salary: $100,956.
-* Data Scientist: 5X job growth. Average salary according to Glassdoor: $120,931.
-* Customer Success Manager: 6X job growth. Average salary according to Glassdoor: $78,818.
-* Big Data Developer: 5X job growth. Average salary: $85,000.
-* Director of Data Science: 9X job growth. Average salary: $158,911
+* Machine Learning Engineer: 8X job growth. Average salary: $100k.
+* Data Scientist: 5X job growth. Average salary according to Glassdoor: $120k.
+* Customer Success Manager: 6X job growth. Average salary according to Glassdoor: $78k.
+* Big Data Developer: 5X job growth. Average salary: $85k.
+* Director of Data Science: 9X job growth. Average salary: $158k
 
 [Here is a list of top companies hiring Data Scientists](https://www.glassdoor.com/Explore/top-data-scientist-companies_IO.4,18.htm) with their respective locations and average salaries. 
 
