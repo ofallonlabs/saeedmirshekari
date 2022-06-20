@@ -85,7 +85,7 @@ Over the years, immigrants have brought about incredible change to the US econom
 Here are major obstacles that immigrants new to the job market or new in the tech industry face in getting their first job in Data Science. 
 
 1. Immigrants face numerous cultural and systemic barriers that inhibit their full participation in the US workforce and economy.
-2. Most immigrants fall into the ["hidden workers"](https://www.hbs.edu/managing-the-future-of-work/Documents/research/hiddenworkers09032021.pdf) category in the workforce. Hidden workers are people who are eager to work -- but can't. Hence, hidden. They possess the skills or [—](http://saeedmirshekari.com/services)[could develop—many of the skills that current employers seek.](http://saeedmirshekari.com/services)
+2. Most immigrants fall into the ["hidden workers"](https://www.hbs.edu/managing-the-future-of-work/Documents/research/hiddenworkers09032021.pdf) category in the workforce. Hidden workers are people who are eager to work --- but can't. Hence, hidden. They possess the skills or [—](http://saeedmirshekari.com/services)[could develop—many of the skills that current employers seek.](http://saeedmirshekari.com/services)
 3. Lack of guidance: This is one of the major obstacles immigrant with higher education encounter in getting their first job in data science. Many employers have a data-related requirement that needs candidates to have a thorough understanding of various parts of data science. In the competitive data science industry, [having a mentor](https://saeedmirshekari.com/services/) is vital for shaping your career.
 
 <!--EndFragment-->
