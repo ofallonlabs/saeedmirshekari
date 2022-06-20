@@ -1,5 +1,5 @@
 ---
-layout: blog_base.njk
+layout: blog_base_katherine.njk
 title: "Preparing For Success In Your First Data Science Job Interview "
 description: "How to Prepare For Success In Your First Data Science Job
   Interview. What to expect and what to do. "
