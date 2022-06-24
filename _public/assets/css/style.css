@@ -2209,7 +2209,7 @@ section {
 
 .myDIV:hover + .hide {
   display: block;
-  color: #darkseagreen;
+  color: darkseagreen;
 }
 
 /*------------------------------------------------------------------
