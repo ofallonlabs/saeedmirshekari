@@ -110,4 +110,4 @@ You can change your future and career job search narrative by getting proper men
 
 We are ready to help you reach your Data Science career goals faster and make your dreams a reality.
 
-Kick start your journey now at [saeedmirshekari.com](http://saeedmirshekari.com/services)
+[Kick start your journey now!](saeedmirshekari.com)
