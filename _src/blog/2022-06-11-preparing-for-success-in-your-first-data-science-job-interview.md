@@ -6,7 +6,7 @@ description: Preparing for a data science job interview is never an overnight
   Science job interview in today's job market that will greatly help you to
   increase your chances to land on your first data scientist job.
 author: Katherine Olowookere
-date: 2022-06-11T09:47:40.296Z
+date: 2022-06-30T21:22:08.965Z
 tags:
   - post
 thumbnail: /assets/img/uploads/interview.png
