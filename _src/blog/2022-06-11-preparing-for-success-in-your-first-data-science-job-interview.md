@@ -4,7 +4,7 @@ title: How To Prepare For Success In Your First Data Science Job Interview
 description: Preparing for a data science job interview is never an overnight
   event. Learn more about the best practices before, during, and after a Data
   Science job interview in today's job market that will greatly help you to
-  increase your chances to land on your first data scientist job.
+  increase your chances to land on your first data analyst / data scientist job.
 author: Katherine Olowookere
 date: 2022-06-30T21:22:08.965Z
 tags:
