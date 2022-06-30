@@ -1,8 +1,10 @@
 ---
 layout: blog_base_katherine.njk
-title: "Preparing For Success In Your First Data Science Job Interview "
-description: "How to Prepare For Success In Your First Data Science Job
-  Interview. What to expect and what to do. "
+title: How To Prepare For Success In Your First Data Science Job Interview
+description: Preparing for a data science job interview is never an overnight
+  event. Learn more about the best practices before, during, and after a Data
+  Science job interview in today's job market that will greatly help you to
+  increase your chances to land on your first data scientist job.
 author: Katherine Olowookere
 date: 2022-06-11T09:47:40.296Z
 tags:
@@ -10,7 +12,6 @@ tags:
 thumbnail: /assets/img/uploads/interview.png
 rating: 5
 ---
-How To Prepare For Success In Your First Data Science Job Interview.
 
 Preparing for a data science job interview is never an overnight event. Data Science job interviews can bring tension and anxiety to anyone with (or even without) prior experience in a data science role. Every interview is a new learning process. To make a fantastic first impression, you'll have to adequately prepare for the interview. As the popular saying by  James Baker goes, “Proper Preparation Prevents Poor Performance.”
 
@@ -90,7 +91,6 @@ Certain platforms can help you in testing and improving your data science coding
 
 2. Communication– asking questions and salary Negotiation: Another important detail you should pay great attention to during your interview is how you communicate with your interviewers. Most candidates often just go about responding to questions and queries in a rather unprofessional and unstructured manner. 
 
-
 While it is okay to speak your mind and think out loud during the interview, it should be noted that your primary approach to communication should be a structured and well-organized one. Communication is more than just talking. Companies love structured communication. Your answer must be brief and straight to the point. Don't go on a random babble about irrelevant details. Always maintain a clear roadmap to the conversation. If you are asked a question you don't have an answer to, just say "I don't know" rather than going into irrelevant babbling that your interviewers might eventually catch. 
 
 You should also ask questions during your interview and also be prepared to discuss your salary. Prepare small interesting questions that you will like to ask your interviewers. Ask about the scope of the job, and ask questions about the teams that you will be part of and working with. Your main objective is Finding a data science role that challenges you and pushes your boundaries and provides you the opportunity to grow and develop in your career. 
@@ -102,7 +102,6 @@ Never include in your resume anything that you know you are not so confident of.
 <h1> What To Do After a Data Science Job Interview </h1> 
 
 1. Send a thank you message: Many data science job candidates don't bother to send a thank you message after their data science job interview. A thank you note or email does make a positive self-impression on your employers and this simple act can make you stand out from other equally qualified candidates. Your thank you note or email should be sent out no later than a day after your data science job interview 
-
 2. Follow up: The screening and selection process for a data science role isn't easy. It might take a while before your employers reach out to you again. Ensure you get your interviewers' business cards and contact info immediately after your interview so you can say thank you and follow up on the progress of your recruitment. Don't write the same email message to everyone rather send out personalized unique emails to each interviewer. Remember to keep your follow-up messages short and simple. 
 
 In your follow-up emails, reiterate your interest and, if appropriate, give examples of your data science and analytics projects.
