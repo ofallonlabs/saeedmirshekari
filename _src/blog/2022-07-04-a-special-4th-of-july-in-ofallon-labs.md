@@ -1,8 +1,9 @@
 ---
 layout: blog_base.njk
 title: A Special 4th of July in O'Fallon Labs
-description: A brief personal story of my journey becoming an American
-  by-choice. The story of a kid in Tehran who lived apart from his loved ones
+description: A brief personal story of my journey becoming a US citizen this
+  weekend after 14 years of living and contributing in the United States. The
+  story of a kid born and raised in Tehran who lived apart from his loved ones
   for years for the hope of building a better life for others.
 author: Saeed Mirshekari
 date: 2022-07-04T18:45:45.885Z
