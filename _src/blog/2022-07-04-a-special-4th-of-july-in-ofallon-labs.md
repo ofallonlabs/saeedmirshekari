@@ -35,3 +35,5 @@ As you can see from the attached pictures (almost 40 years apart) you may loose 
 ![student card Washington university in st. louis](/assets/img/uploads/007.jpg "Saeed at his 1st year of his PhD in Washington University issued just a week before his arrival to the US")
 
 ![naturalization ceremony in down town St. Louis at the front of the old court house 2022](/assets/img/uploads/004.jpg "A new citizen sworn in")
+
+![the judge of the state of Missouri hands the certificate of citizenship to the new citizens ](/assets/img/uploads/002.jpg "naturalization ceremony St. Louis, MO 2022")
