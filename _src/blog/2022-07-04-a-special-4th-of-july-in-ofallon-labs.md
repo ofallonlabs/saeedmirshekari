@@ -14,8 +14,6 @@ rating: 5
 ---
 <img src="/assets/img/uploads/undraw_Celebrating_rtuv.png" width="100%">
 
-This is a special day for me! Happy 4th everyone! Details are below.
-
 Almost 14 years ago, I came to this country from thousands of miles away with a different culture; while I was holding three thousand bucks tight in my hands and three thousands thoughts tight in my head. I landed in Chicago O’Hare on a new year’s eve. I missed my flight there because of a long TSA process on my case. It was snowing outside and very cold. So I decided to stay over night in an almost-empty huge airport to catch the next available flight early morning next day. This was how I spent my first night in America but this was not the beginning of the story.
 
 I was born in a middle-class family in the south of Tehran, only a few years after the Iranian Revolution following by the Hostage Crisis and in the middle of Iran-Iraq war. This all may not seem to be the best place and time to be born and raised in, but I am grateful for all the unique experiences I’ve got to live during my time at that point of time and after; including both the joyful moments (most of which being shared moments with others) and the moments of pain (most of which I experienced in solo) that taught me big life lessons.
