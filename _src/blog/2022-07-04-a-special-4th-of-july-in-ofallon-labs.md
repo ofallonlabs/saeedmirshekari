@@ -28,12 +28,10 @@ Today I’m writing here to share these happy moments with all of you in O'Fallo
 
 As you can see from the attached pictures (almost 40 years apart) you may loose lots of hair along the way to live your dreams, but it is not impossible. Have a great Monday!
 
-![family sitting in the backyard next to a rose plant](/assets/img/uploads/1985.png =250x250)
+<p float="left">
+  <img src="/assets/img/uploads/1985.png" width="600" />
+  <img src="/assets/img/uploads/003.png" width="600" /> 
+  <img src="/assets/img/uploads/004.jpg" width="600" />
+  <img src="/assets/img/uploads/004.jpg" width="600" />
 
-![boy sitting on a block at patio](/assets/img/uploads/003.png "little boy in Iran 1985")
-
-![student card Washington university in st. louis](/assets/img/uploads/007.jpg "Saeed at his 1st year of his PhD in Washington University issued just a week before his arrival to the US")
-
-![naturalization ceremony in down town St. Louis at the front of the old court house 2022](/assets/img/uploads/004.jpg "A new citizen sworn in")
-
-![the judge of the state of Missouri hands the certificate of citizenship to the new citizens ](/assets/img/uploads/002.jpg "naturalization ceremony St. Louis, MO 2022")
+</p>
