@@ -33,3 +33,5 @@ As you can see from the attached pictures (almost 40 years apart) you may loose 
 ![boy sitting on a block at patio](/assets/img/uploads/003.png "little boy in iran 1985")
 
 ![student card Washington university in st. louis](/assets/img/uploads/007.jpg "Saeed at his 1st year of his PhD in Washington University issued just a week before his arrival to the US")
+
+![naturalization ceremony in down town St. Louis at the front of the old court house 2022](/assets/img/uploads/004.jpg "A new citizen sworn in")
