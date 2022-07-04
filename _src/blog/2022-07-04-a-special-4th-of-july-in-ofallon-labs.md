@@ -30,8 +30,4 @@ As you can see from the attached pictures (almost 40 years apart) you may loose 
 
 ![family sitting in the backyard next to a rose plant](/assets/img/uploads/1985.png "family in iran, 1985")
 
-![family sitting in the backyard next to a rose plant](/assets/img/uploads/1985.png "family in iran, 1985")
-
-![family sitting in the backyard next to a rose plant](/assets/img/uploads/1985.png "family in iran, 1985")
-
-![family sitting in the backyard next to a rose plant](/assets/img/uploads/1985.png "family in iran, 1985")
+![boy sitting on a block at patio](/assets/img/uploads/003.png "little boy in iran 1985")
