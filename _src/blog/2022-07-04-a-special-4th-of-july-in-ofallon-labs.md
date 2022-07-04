@@ -22,11 +22,11 @@ I was born in a middle-class family in the south of Tehran, only a few years aft
 
 Flashing back to the new year’s eve of 2009, I went to work on day 1 by registering at Washington University in St. Louis as a student. I’ve been working ever since through which: I earned a PhD in Physics working with the best of the bests from Washington University in St. Louis, MIT, Caltech Institute of Technology and University of Florida; participated as a researcher in the Nobel Prize winning LIGO and developed a programming and data-science skillset; got the chance to work with many amazing people in global industry-leading companies such as Bayer and Mastercard here in St. Louis (yup, I love this city).
 
-Despite all the great opportunities I experienced living in 4 corners of the world from France to Brazil, and Iran to the United States, it took a lot of courage and sacrifices. Leaving the loved ones behind and not being able to see them growing up, aging, and be present next to them in person in our important life events has never been easy.
+Despite all the great opportunities I experienced living in 4 corners of the world from France to Brazil, and from Iran to the United States, it took a lot of courage and sacrifices. Leaving the loved ones behind and not being able to see them growing up, aging, and be present next to them in person in our important life events has never been easy.
 
-Today I’m writing here to share these happy moments with all of you in O'Fallon Labs and tell some of you (those who need to hear this) that American Dream is going strong for those who work hard and believe in it. America for me is beyond a place to live in; it is an idea you can choose to live through. The foundations of this country is based on great ideas and indeed it needs care and must be protected and improved. I am fortunate to live this experience and became a US citizen today.
+Today I’m writing here to share these happy moments with all of you in O'Fallon Labs and tell some of you (those who need to hear this) that American Dream is going strong for those who work hard and believe in it. America for me is beyond a place to live in; it is an idea you can choose to live through. The foundations of this country is based on great ideas and indeed it needs care and must be protected and improved; lots of work need to be done. I am very fortunate to live this experience and became a US citizen today.
 
-As you can see from the attached pictures (almost 40 years apart) you may loose lots of hair along the way to live your dreams, but it is not impossible. Have a great Monday!
+As you can see from the attached pictures (almost 40 years apart) you may lose lots of hair along the way to live your dreams, but it is not impossible. Do your best and have a great Monday!
 
 <p float="left">
   <img src="/assets/img/uploads/1985.png" width="600" />
