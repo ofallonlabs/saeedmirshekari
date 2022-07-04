@@ -11,6 +11,8 @@ tags:
 thumbnail: /assets/img/uploads/undraw_celebrating_rtuv.png
 rating: 5
 ---
+<img src="/assets/img/uploads/unundraw_Celebrating_rtuv.png" width="100%">
+
 This is a special day for me! Happy 4th everyone! Details are below.
 
 
