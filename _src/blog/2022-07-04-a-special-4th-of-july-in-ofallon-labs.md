@@ -28,7 +28,7 @@ Today I’m writing here to share these happy moments with all of you in O'Fallo
 
 As you can see from the attached pictures (almost 40 years apart) you may loose lots of hair along the way to live your dreams, but it is not impossible. Have a great Monday!
 
-![family sitting in the backyard next to a rose plant](10% /assets/img/uploads/1985.png "family in iran, 1985")
+![family sitting in the backyard next to a rose plant](/assets/img/uploads/1985.png "family in iran, 1985"){width=20}
 
 ![boy sitting on a block at patio](/assets/img/uploads/003.png "little boy in Iran 1985")
 
