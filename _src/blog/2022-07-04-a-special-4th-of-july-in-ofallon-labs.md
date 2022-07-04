@@ -26,7 +26,7 @@ Despite all the great opportunities I experienced living in 4 corners of the wor
 
 Today I’m writing here to share these happy moments with all of you in O'Fallon Labs and tell some of you (those who need to hear this) that American Dream is going strong for those who work hard and believe in it. America for me is beyond a place to live in; it is an idea you can choose to live through. The foundations of this country is based on great ideas and indeed it needs care and must be protected and improved; lots of work need to be done. I am very fortunate to live this experience and became a US citizen today.
 
-As you can see from the attached pictures (almost 40 years apart) you may lose lots of hair along the way to live your dreams, but it is not impossible. Have a great Monday!
+As you can see from the attached pictures (almost 40 years apart) you may lose lots of hair along the way to live your dreams, but it is not impossible. Do your best and have a great Monday!
 
 <p float="left">
   <img src="/assets/img/uploads/1985.png" width="600" />
