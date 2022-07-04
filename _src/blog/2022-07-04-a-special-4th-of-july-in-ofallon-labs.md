@@ -32,6 +32,6 @@ As you can see from the attached pictures (almost 40 years apart) you may loose 
   <img src="/assets/img/uploads/1985.png" width="600" />
   <img src="/assets/img/uploads/003.png" width="600" /> 
   <img src="/assets/img/uploads/004.jpg" width="600" />
-  <img src="/assets/img/uploads/004.jpg" width="600" />
+  <img src="/assets/img/uploads/008.jpg" width="600" />
 
 </p>
