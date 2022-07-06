@@ -9,10 +9,10 @@ author: Saeed Mirshekari
 date: 2022-07-04T18:45:45.885Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_celebrating_rtuv.png
+thumbnail: /assets/img/uploads/festival.png
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_Celebrating_rtuv.png" width="100%">
+<img src="/assets/img/uploads/festival.png" width="100%">
 
 Happy 4th of July! This is a special day for me! Details are below.
 
