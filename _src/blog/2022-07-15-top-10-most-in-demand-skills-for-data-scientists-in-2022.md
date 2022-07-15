@@ -31,9 +31,9 @@ Having expertise and experience in these skills (both technical and soft skills)
 
 
 <h1> Technical Skills Needed For Data Science </h1>
+<br>
 
-
-<h2> Probability and Statistics:</h2>  
+<h2> 1. Probability and Statistics:</h2>  
 Prediction and estimation are essential components of data science. No one can deny the fact that Data Science and Data Analysis rest on Probability and Statistics. Probability theory and other statistical techniques are linked with each other, allowing data scientists to:
 
 
@@ -49,12 +49,14 @@ It is important to be familiar with a variety of probability and statistical con
 You can carry out sophisticated studies using statistical programming languages like R or Python and the special libraries in them such as pandas and numpy. You can more effectively clean, analyze, and visualize huge data sets if you can create programs in these languages.
 
 
-<h2> Computer Programming Languages:</h2>  
+<h2> 2. Computer Programming Languages:</h2>  
 
-Being able to code the statistical concepts is the heart of Data Science. Therefore it is a must for a professional to develop expertise in Python and/or R language to become a great Data Scientist. Python has been the most popular programming language among data scientists by a wide margin. R is another widely used language for data science projects and applications, particularly those involving statistical computing and graphics. C, C++, Java, MATLAB, Go and Julia are some additional programming languages that data scientists frequently employ. A good data-scientist doesn’t have to know all of these fancy languages, but he or she needs to know at least one of them well.
+Being able to code the statistical concepts is the heart of Data Science. Therefore it is a must for a professional to develop expertise in Python and/or R language to become a great Data Scientist. Python has been the most popular programming language among data scientists by a wide margin. 
+
+R is another widely used language for data science projects and applications, particularly those involving statistical computing and graphics. C, C++, Java, MATLAB, Go and Julia are some additional programming languages that data scientists frequently employ. A good data-scientist doesn’t have to know all of these fancy languages, but he or she needs to know at least one of them well.
 
 
-<h2>SQL (Structured Query Language):</h2> 
+<h2>3. SQL (Structured Query Language):</h2> 
 
 This is one of the easiest and the most important skills you must acquire as a data scientist. SQL stands for Structured Query Language and it is the language that is used for communicating with databases. Data Science deals with the study and the analysis of data. So to analyze this data it usually needs to be extracted from a database and this is where SQL comes to play.
 
@@ -65,15 +67,12 @@ Knowing SQL allows you to update, organize, and query the data stored in relatio
 Most [data science interviews](https://saeedmirshekari.com/blog/2022-06-11-preparing-for-success-in-your-first-data-science-job-interview/) include a technical screening with SQL. Therefore, it is extremely important that you master this skill. The good news is that SQL is one of the easiest languages to learn. Just to give you an estimate, if you spend 1-2 weeks of dedicated practicing SQL, you will be good at all the main SQL functionalities.
 
 
-<h2> Multivariable Calculus and Linear Algebra:</h2>  
+<h2> 4. Multivariable Calculus and Linear Algebra:</h2>  
 
-Data scientists use calculus for almost every model development and deployment. It is crucial to be able to use mathematical principles to comprehend and improve the fitting functions that match a model to a set of data.
-
-
-To train an artificial neural network on massive amounts of data, calculus and algebra skills are essential.
+Data scientists use calculus for almost every model development and deployment. It is crucial to be able to use mathematical principles to comprehend and improve the fitting functions that match a model to a set of data. To train an artificial neural network on massive amounts of data, calculus and algebra skills are essential.
 
 
-<h2> Data Visualization:</h2>  
+<h2> 5. Data Visualization:</h2>  
 
 Data visualization makes it easier to identify patterns, trends and outliers in large data sets. It is one of the steps of the data science process. After data has been collected, processed and modeled, it must be visualized for conclusions to be made. 
 
@@ -84,7 +83,12 @@ Data visualization is also an element of data presentation architecture, which a
 Data scientists should be capable of describing findings in a manner that can be interpreted by both technical and non-technical audiences. Thus, in-depth knowledge of various data visualization tools like Tableau, D3.js, and ggplot (in R) and seaborn (in python) helps data scientists provide clear insight into their massive and messy datasets.
 
 
-<h2> Machine Learning and Predictive Modeling:</h2>  The idea behind Machine Learning (ML) is that you teach and train machines by feeding them data and defining features. Computers learn and pick up on patterns and behaviors  when they are fed with enough and relevant data, without relying on explicit programming. Without data, there is very little that Machines can learn. The Machine observes the dataset, identifies patterns in it, learns automatically from the behavior, and makes predictions based on the data it has been trained by.
+<h2> 6. Machine Learning and Predictive Modeling:</h2>
+
+The idea behind Machine Learning (ML) is that you teach and train machines by feeding them data and defining features. Computers learn and pick up on patterns and behaviors  when they are fed with enough and relevant data, without relying on explicit programming. 
+
+
+Without data, there is very little that Machines can learn. The Machine observes the dataset, identifies patterns in it, learns automatically from the behavior, and makes predictions based on the data it has been trained by.
 
 
 One crucial reason why data scientists need machine learning is because machine learning can handle high-value predictions that can guide better decisions and smart actions in real-time without human intervention.
@@ -93,19 +97,29 @@ One crucial reason why data scientists need machine learning is because machine 
 Some of the ML concepts that you need to master are Neural Nets, Decision Trees, SVM and Clustering. This knowledge can be gained by taking a course that helps you get your hands dirty with data and juggle it following by a hands-on project
 
 
-<h2> Model Development and Deployment:</h2>  After data-cleaning (which is the most time consuming part of a typical data-science workflow), most of the time a data scientist spends working on a project is spent developing and deploying models. A good data scientist must be able to choose the appropriate algorithm and run it to automatically detect clusters or patterns in the new data (unseen). When a model achieves the intended outcomes, data scientists can deploy it in a production setting — frequently in collaboration with data engineers — to assist their organizations in continuously making useful business decisions.
+<h2> 7. Model Development and Deployment:</h2>  
+
+After data-cleaning (which is the most time consuming part of a typical data-science workflow), most of the time a data scientist spends working on a project is spent developing and deploying models. A good data scientist must be able to choose the appropriate algorithm and run it to automatically detect clusters or patterns in the new data (unseen). 
+
+
+When a model achieves the intended outcomes, data scientists can deploy it in a production setting — frequently in collaboration with data engineers — to assist their organizations in continuously making useful business decisions.
 
 
 <h1> Non-Technical Skills Needed in Data Science </h1>
 
 
-<h2> Business expertise:</h2> About 89% of the problems a data scientist solves for an organization are business focused. Data scientists need to possess strong business expertise in the industry that they are working in, to gain a better understanding of what problems the company is trying to solve. As a data scientist, you need to develop the ability to identify the problems that are critical for a business and formulate new strategies that can be adopted to leverage the data to solve those problems in a reasonable timeline.
+<h2> 8. Business Understanding:</h2> 
+
+About 89% of the problems a data scientist solves for an organization are business focused. Data scientists need to possess strong business expertise in the industry that they are working in, to gain a better understanding of what problems the company is trying to solve. 
 
 
-<h2> Curiosity: </h2> Most organizations and business owners are not aware that the majority of their problems are data-driven. But the curiosity and observation of a data scientist can bring in opportunities for deriving meaningful insights from those data.
+As a data scientist, you need to develop the ability to identify the problems that are critical for a business and formulate new strategies that can be adopted to leverage the data to solve those problems in a reasonable timeline.
 
 
-<h2> Collaboration and Communication:</h2> Data scientists often need to collaborate with other people like data engineers, data analysts, and program managers to properly interpret and analyze data for the targeted business goals. They also need to be able to successfully communicate their understanding of the data and explain the analytics results so business executives and non-technical managers can use the information to make good decisions.
+<h2> 9. Curiosity and Asking the Right Questions: </h2> Most organizations and business owners are not aware that the majority of their problems are data-driven. But the curiosity and observation of a data scientist can bring in opportunities for deriving meaningful insights from those data.
+
+
+<h2> 10. Collaboration and Communication:</h2> Data scientists often need to collaborate with other people like data engineers, data analysts, and program managers to properly interpret and analyze data for the targeted business goals. They also need to be able to successfully communicate their understanding of the data and explain the analytics results so business executives and non-technical managers can use the information to make good decisions.
 
 
 <h1> Tips on learning these in-demand data science skills </h1> 
