@@ -126,7 +126,7 @@ Most organizations and business owners are not aware that the majority of their 
 Data scientists often need to collaborate with other people like data engineers, data analysts, and program managers to properly interpret and analyze data for the targeted business goals. They also need to be able to successfully communicate their understanding of the data and explain the analytics results so business executives and non-technical managers can use the information to make good decisions.
 
 
-<h1> Tips on learning these in-demand data science skills </h1> 
+<h1> Tips & Tricks </h1> 
 
 
 These technical skills listed above and some other ones are what are being used in many organizations today to help make informed decisions. Several big industries today are in search of individuals with these skills who can help them solve major business problems using data and analytics. 
