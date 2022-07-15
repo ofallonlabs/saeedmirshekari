@@ -116,10 +116,14 @@ About 89% of the problems a data scientist solves for an organization are busine
 As a data scientist, you need to develop the ability to identify the problems that are critical for a business and formulate new strategies that can be adopted to leverage the data to solve those problems in a reasonable timeline.
 
 
-<h2> 9. Curiosity and Asking the Right Questions: </h2> Most organizations and business owners are not aware that the majority of their problems are data-driven. But the curiosity and observation of a data scientist can bring in opportunities for deriving meaningful insights from those data.
+<h2> 9. Curiosity and Asking the Right Questions: </h2> 
+
+Most organizations and business owners are not aware that the majority of their problems are data-driven. But the curiosity and observation of a data scientist can bring in opportunities for deriving meaningful insights from those data.
 
 
-<h2> 10. Collaboration and Communication:</h2> Data scientists often need to collaborate with other people like data engineers, data analysts, and program managers to properly interpret and analyze data for the targeted business goals. They also need to be able to successfully communicate their understanding of the data and explain the analytics results so business executives and non-technical managers can use the information to make good decisions.
+<h2> 10. Collaboration and Communication:</h2> 
+
+Data scientists often need to collaborate with other people like data engineers, data analysts, and program managers to properly interpret and analyze data for the targeted business goals. They also need to be able to successfully communicate their understanding of the data and explain the analytics results so business executives and non-technical managers can use the information to make good decisions.
 
 
 <h1> Tips on learning these in-demand data science skills </h1> 
@@ -138,4 +142,4 @@ Putting in the time and effort to learn these skills can set you up for a succes
 * Build up your skills bit by bit
 
 
-If you’re ready to start building your skill set or explore more, begin with our [learning solutions](https://saeedmirshekari.com/ecourse-bdsf/) (if you are a newbie), or sign up for [our 1-on-1 mentorship](https://saeedmirshekari.com/coaching-plan/) (if you have some familiarity with the field) which can help you save a lot of time and bring the best results for you.
+If you’re ready to start building your skill set or explore more, begin with our [learning solutions](https://saeedmirshekari.com/ecourse-bdsf/) (if you are a newbie), or sign up for our [1-on-1 mentorship](https://saeedmirshekari.com/coaching-plan/) (if you have some familiarity with the field) which can help you save a lot of time and bring the best results for you.
