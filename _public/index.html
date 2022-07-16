@@ -61,28 +61,29 @@
       </div>
 
       <nav id="navbar" class="navbar">
-        <ul>
-          <li><a href="/index.html">Home</a></li>
-          <li><a href="/team">About</a></li>
 
-          <li class="dropdown"><a href="/services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
+        <ul>
+          <li><a href="/index.html" style="font-family: Merriweather">Home</a></li>
+          <li><a href="/team" style="font-family: Merriweather">About</a></li>
+
+          <li class="dropdown"><a href="/services" style="font-family: Merriweather"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="/ecourse-bdsf">Learning (FREE) <i class="bi bi-headphones" style="color: #94c045;"></i></a></li>
-              <li><a href="/ecourse-bdsf-training">Training <i class="bi bi-headset" style="color: #94c045;"></i></a></li>
-              <li><a href="/coaching-plan">Mentoring <i class="bi bi-trophy" style="color: #94c045;"></i></a></li>
-              <li><a href="/analytics">Analytics <i class="bi bi-gem" style="color: #94c045;"></i></a></li>
+              <li><a href="/ecourse-bdsf" style="font-family: Merriweather">Learning (FREE) <i class="bi bi-headphones" style="color: #94c045;"></i></a></li>
+              <li><a href="/ecourse-bdsf-training" style="font-family: Merriweather">Training <i class="bi bi-headset" style="color: #94c045;"></i></a></li>
+              <li><a href="/coaching-plan" style="font-family: Merriweather">Mentoring <i class="bi bi-trophy" style="color: #94c045;"></i></a></li>
+              <li><a href="/analytics" style="font-family: Merriweather">Analytics <i class="bi bi-gem" style="color: #94c045;"></i></a></li>
               
 
               </li>
             </ul>
           </li>
           
-          <li><a href="/pricing">Pricing</a></li>
-          <li><a href="/results">Results</a></li>
-          <li><a href="/blog">Blog</a></li>
-          <li><a href="/contact">Contact</a></li>
+          <li><a href="/pricing" style="font-family: Merriweather">Pricing</a></li>
+          <li><a href="/results" style="font-family: Merriweather">Results</a></li>
+          <li><a href="/blog" style="font-family: Merriweather">Blog</a></li>
+          <li><a href="/contact" style="font-family: Merriweather">Contact</a></li>
 
-          <li><a class="getstarted" target = "_blank" href="/services">Get Started</a></li>
+          <li><a class="getstarted" style="font-family: Merriweather" target = "_blank" href="/services">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -120,15 +121,43 @@ h1, h2, h3, h4, h5 {
     <div class="hero-container" data-aos="fade-up">
       <a href="index.html"><img src="assets/img/OLAB_LOGO.png" alt="" class="img-fluid" style="max-width:50%;"></a>
 
-      
+      <style>
+      h1, h2, h3, a, p {
+        font-family: Merriweather;
+        font-weight: normal;
+      }
+      </style>
+
       <link href='https://fonts.googleapis.com/css?family=Bad Script' rel='stylesheet'>
-      <h1 style="color: #fff; font-size:280%; font-family: Raleway; opacity: 1.00;">O'FALLON LABS</h3>
-      <h3 style="color: #fff; font-size:170%; font-family: Raleway; opacity: 0.60;">GATEWAY TO THE BEST</h3>
-      <h3 style="color: #fff; font-size:140%; font-family: Raleway; opacity: 0.30;">VERSION OF YOURSELF</h3>
-      <a href="/services" class="btn-get-started scrollto" style="font-family: Raleway; font-size:123%; color: #000;"><b>Get Started</b></a>
-      <a style="font-size:113%; color: #fff; opacity: 0.60;"><i class="bx bi-gift"></i> Start for Free</a>
+      <h1 style="color: #fff; font-size:280%; opacity: 1.00;">O'Fallon Labs</h3>
+      <h3 style="color: #fff; font-size:170%; opacity: 0.70;">Gateway to the Best</h3>
+      <h3 style="color: #fff; font-size:140%; opacity: 0.40;">version of yourself</h3>
+      <a href="/services" class="btn-get-started scrollto" style="font-size:110%; color: #000;font-family: Merriweather;"><b>Get Started</b></a>
+      <a style="font-size:85%; color: #fff; opacity: 0.60; font-family: Merriweather;"><i class="bx bi-gift"></i> Start for Free</a>
       
-      <p style="font-size:100%; color: #fff; background-color: #000; opacity: 0.75;" class="btn-get-started">Helping individuals & businesses thrive by leveraging Data Science & Machine Learning</p>
+      
+      <br>
+      <p style="font-size:150%; color: #fff; background-color: #000; opacity: 0.75;font-family: Merriweather;" id="demo"></p>
+
+      <script>
+      var i = -5;
+      var txt = 'Helping individuals & businesses thrive by leveraging Data Science & Machine Learning.';
+      var duration = 85;
+
+      function typeWriter() {
+        if (i < txt.length) {
+          document.getElementById("demo").innerHTML += txt.charAt(i);
+          i++;
+          setTimeout(typeWriter, duration);
+        }
+      }
+
+      setTimeout(() => {
+        typeWriter();
+      }, "1500")
+
+      </script>
+
 
     </div>
   </section><!-- End Hero -->
@@ -218,6 +247,9 @@ h1, h2, h3, h4, h5 {
           <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
           <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/saeedmirshekari/introduction', text: '<i class="bi bi-joystick"></i> Schedule time with me', color: '#94c045', textColor: '#ffffff', branding: false }); }</script>
           <!-- Calendly badge widget end -->
+
+          
+
         </div>
 
       </div>
