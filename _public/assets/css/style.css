@@ -95,7 +95,8 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 60px;
+  align-items: left;
 }
 
 /*--------------------------------------------------------------
@@ -146,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #9fc658;
+  background: #94c045;
 }
 .navbar .dropdown ul {
   display: block;
@@ -1733,7 +1734,7 @@ section {
   line-height: 0;
 }
 .blog .sidebar .search-form form button:hover {
-  background: #9dc554;
+  background: #94c045;
 }
 .blog .sidebar .categories ul {
   list-style: none;
