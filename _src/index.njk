@@ -18,7 +18,7 @@ layout: base_blank.njk
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
-    <div class="hero-container" data-aos="fade-up">
+    <div class="hero-container container" data-aos="fade-up">
       {# <a href="index.html"><img src="assets/img/OLAB_LOGO.png" alt="" class="img-fluid" style="max-width:50%;"></a> #}
 
       <style>
@@ -29,14 +29,33 @@ layout: base_blank.njk
       }
       </style>
 
-      <h1 style="color: #fff; font-size:8vh; opacity: 1.00;">O'Fallon Labs</h1>
-      <br>
-      <h3 style="color: #fff; font-size:5vh; opacity: 0.70;">Gateway to the Best</h3>
-      <h3 style="color: #fff; font-size:4vh; opacity: 0.40;"><a style="color:darkblue">══</a>version of yourself<a style="color:darkred">══</a></h3><br>
+      <h2 style="color: #fff; font-size:8vh; opacity: 1.00;">O'Fallon Labs</h2>
+      <span class="box">
+        <h3 style="color: #fff; font-size:5vh; opacity: 0.70;" class="box" id="demo1">Gateway to the </h3>
+      </span>
+      <h3 style="color: #fff; font-size:4vh; opacity: 0.40;"><a style="color:darkblue">══</a>version of yourself<a style="color:darkred;">══</a></h3><br>
       <a href="/services" class="btn-get-started scrollto" style="font-size:3vh; color: #555;font-family: Raleway;"><b>GET STARTED</b></a>
       <a style="font-size:2vh; color: #fff; opacity: 0.60;"><i class="bx bi-gift"></i> Start for Free</a>
       {# <p style="font-family: SimSun; font-size:150%; color:#fff;">Helping individuals & businesses thrive by leveraging Data Science & Machine Learning.</p> #}
       <br>
+
+      <script>
+      var i = -5;
+      var txt = '   Best';
+      var duration = 85;
+
+      function typeWriter() {
+        if (i < txt.length) {
+          document.getElementById("demo1").innerHTML += txt.charAt(i);
+          i++;
+          setTimeout(typeWriter, duration);
+        }
+      }
+
+      setTimeout(() => {
+        typeWriter();
+      }, "2000")
+      </script>
 
       <a href="https://thestl.com/about/"><img src="assets/img/usa_flag.png" alt="" class="img-fluid" style="max-width:8vh; opacity:0.35;"> 
       {# <img src="assets/img/mo_flag.svg" alt="" class="img-fluid" style="max-width:7vh; opacity:0.35;"> #}
@@ -51,28 +70,6 @@ layout: base_blank.njk
         line-height: 150%;
       }
       </style>
-
-      {# <p style="font-size:150%; color: #fff; background-color: #000; opacity: 0.75;font-family: Merriweather;" id="demo"></p>
-
-      <script>
-      var i = -5;
-      var txt = '   Helping individuals & businesses thrive by leveraging Data Science & Machine Learning.';
-      var duration = 85;
-
-      function typeWriter() {
-        if (i < txt.length) {
-          document.getElementById("demo").innerHTML += txt.charAt(i);
-          i++;
-          setTimeout(typeWriter, duration);
-        }
-      }
-
-      setTimeout(() => {
-        typeWriter();
-      }, "1500")
-
-      </script> #}
-
 
     </div>
   </section><!-- End Hero -->

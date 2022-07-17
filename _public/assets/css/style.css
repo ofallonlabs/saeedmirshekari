@@ -2235,7 +2235,7 @@ section {
 }
 
 /*------------------------------------------------------------------
-# iframe
+# iframeappear animation
 --------------------------------------------------------------------*/
 
  div, iframe {
@@ -2250,3 +2250,52 @@ iframe {
 /*------------------------------------------------------------------
 # type-effect
 --------------------------------------------------------------------*/
+.revealUp {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/*------------------------------------------------------------------
+# cursor
+--------------------------------------------------------------------*/
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box h2 {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.box h3 {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+@keyframes cursor-blink {
+  0% {
+    opacity: 0;
+  }
+}
+
+.box h2::after {
+  content: "";
+  width: 6px;
+  height: 60px;
+  background: #94c045;
+  display: inline-block;
+  animation: cursor-blink 0.75s steps(2) infinite;
+}
+
+.box h3::after {
+  content: "";
+  width: 6px;
+  height: 60px;
+  background: #94c045;
+  display: inline-block;
+  animation: cursor-blink 0.75s steps(2) infinite;
+}
