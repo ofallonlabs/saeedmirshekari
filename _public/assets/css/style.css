@@ -2217,11 +2217,11 @@ section {
 # Video Background
 --------------------------------------------------------------------*/
 
-#vidwrap {
+.vidwrap {
 
     /* Your thumbnail image */
 
-    background: url('https://www.saeedmirshekari.com/assets/img/cover_video.png') no-repeat center;
+    background: url('https://www.saeedmirshekari.com/assets/videos/bgv.mp4') no-repeat center;
     display:block;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -2250,4 +2250,3 @@ iframe {
 /*------------------------------------------------------------------
 # type-effect
 --------------------------------------------------------------------*/
-
