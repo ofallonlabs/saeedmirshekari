@@ -8,14 +8,15 @@ layout: blog_base_nobody.njk
 
     <!-- ======= Blog Section ======= -->
 
+        <div class="row">
 
             {%- for post in collections.post | reverse -%}
 
-              <article class="entry">
+              <article class="entry col-md-6">
 
                 <a href="{{post.url}}">
                   <div class="entry-img">
-                    <img src="{{post.data.thumbnail}}" alt="" class="img-fluid" width=100%>
+                    <img src="{{post.data.thumbnail}}" alt="" class="img-fluid" length=100%>
                   </div>
                 </a>
                 <h2 class="entry-title">
@@ -30,7 +31,7 @@ layout: blog_base_nobody.njk
                   </ul>
                 </div>
 
-                <div class="entry-content">
+                {# <div class="entry-content">
                   <p>
                     {{post.data.description}}
                   </p>
@@ -38,7 +39,8 @@ layout: blog_base_nobody.njk
                   <div class="read-more">
                     <a href="{{post.url}}">Read More</a>
                   </div>
-                </div>
+                </div> #}
 
               </article><!-- End blog entry -->
             {%- endfor -%}
+          </div>

@@ -14,11 +14,11 @@ layout: 'base.njk'
 
               <div class="entry-content">
 
-              <div class="entry-meta">
-                  by <i class="bi bi-pen"></i> {{ author }}
-                    <i class="bi bi-clock"></i> {{date | postDate}}
-              </div>
-              
+                <div class="entry-meta">
+                    by <i class="bi bi-pen"></i> {{ author }}
+                      <i class="bi bi-clock"></i> {{date | postDate}}
+                </div>
+
                 {{content | safe}}
               </div>
               
