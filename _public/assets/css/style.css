@@ -2257,13 +2257,13 @@ iframe {
   justify-content: center;
 }
 
-.box h2 {
+.mybox h2 {
   display: flex;
   align-items: center;
   gap: 2px;
 }
 
-.box h3 {
+.mybox h3 {
   display: flex;
   align-items: center;
   gap: 2px;
@@ -2275,7 +2275,7 @@ iframe {
   }
 }
 
-.box h2::after {
+.mybox h2::after {
   content: "";
   width: 6px;
   height: 60px;
@@ -2284,7 +2284,7 @@ iframe {
   animation: cursor-blink 0.75s steps(2) infinite;
 }
 
-.box h3::after {
+.mybox h3::after {
   content: "";
   width: 6px;
   height: 60px;
