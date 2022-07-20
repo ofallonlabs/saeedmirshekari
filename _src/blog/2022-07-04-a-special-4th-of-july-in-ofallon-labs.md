@@ -34,6 +34,4 @@ As you can see from the attached pictures (almost 40 years apart) you may lose l
   <img src="/assets/img/uploads/007.jpg" width="47%" />
   <img src="/assets/img/uploads/004.jpg" width="47%" />
   <img src="/assets/img/uploads/002.jpg" width="47%" />
-
-
 </p>
