@@ -2287,7 +2287,7 @@ iframe {
 .mybox h3::after {
   content: "";
   width: 0.5vh;
-  height: 5vh;
+  height: 10vh;
   background: #94c045;
   display: inline-block;
   animation: cursor-blink 0.75s steps(2) infinite;
