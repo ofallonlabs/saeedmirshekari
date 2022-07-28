@@ -2412,3 +2412,34 @@ iframe {
 .zoom:hover {
   transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
+
+/*------------------------------------------------------------------
+# Boom
+--------------------------------------------------------------------*/
+abbr, time, span {
+  font-family: sans-serif;
+  display: block;
+}
+#usage {
+  margin: 20px auto;
+  width: 700px;
+}
+#usage li {
+  position: relative;
+  margin: 5px 0;
+  padding: 0 10px;
+  line-height: 36px;
+  color: #222;
+  background: #fff;
+  list-style: none;
+}
+#usage code, .followme {
+  position: absolute;
+  top:0;
+  right:0;
+  padding: 0 10px;
+  height: 100%;
+  font-size: 10px;
+  color: #eee;
+  background: #111;
+}
