@@ -16,14 +16,18 @@ layout: blog_base_nobody.njk
             {%- for post in collections.post | reverse -%}
 
               <article class="entry col-md-6">
-
+                <style>
+                img {
+                  border-radius: 100%;
+                }
+                </style>
                 <a href="{{post.url}}">
                   <div class="entry-img">
-                    <img src="{{post.data.thumbnail}}" alt="" class="img-fluid" width=100%>
+                    <img src="{{post.data.thumbnail}}" alt="" class="" height="300">
                   </div>
                 </a>
                 <h2 class="entry-title">
-                  <a href="{{post.url}}" style="font-size:24px">{{ post.data.title }}</a>
+                  <a href="{{post.url}}" style="font-size:24px; position:static; bottom:0px;">{{ post.data.title }}</a>
                 </h2>
 
                 <div class="entry-meta">
