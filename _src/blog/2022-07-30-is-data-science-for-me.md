@@ -81,8 +81,6 @@ To get acquainted with the basics of statistics, here are six resources that can
 * [Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?crid=W9O41TYJ309W&keywords=elements+of+statistical+learning&qid=1648144790&s=audible&sprefix=elements+of+statistical+learning%2Caudible%2C113&sr=1-1)
 * [Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions](https://www.amazon.com/Business-Data-Science-Combining-Accelerate/dp/1260452778/ref=sr_1_1?crid=1IAQMTZ8YON82&keywords=Business+Data+Science%3A+Combining+Machine+Learning+and+Economics+to+Optimize%2C+Automate%2C+and+Accelerate+Business+Decisions&qid=1648144815&sprefix=elements+of+statistical+learning%2Caps%2C439&sr=8-1)
 
-
-
 <h2> 6. You know how to code (Or you are willing to learn it) </h2>
 
 Technical skills and business skills cannot be separated from each other in the field of Data science. You have to be good in both technical skills and business skills to build a successful career because the two complement each other.
