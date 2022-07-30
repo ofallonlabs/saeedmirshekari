@@ -9,7 +9,7 @@ author: Katherine Olowookere
 date: 2022-07-30T13:15:00.139Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_adventure_map_hnin.png
+thumbnail: /assets/img/uploads/undraw_fatherhood_7i19.png
 rating: 5
 ---
 Right now, Data Science is among the fastest growing industries with an employment growth rate of about 16% [in 2017.](https://blog.linkedin.com/2017/december/7/the-fastest-growing-jobs-in-the-u-s-based-on-linkedin-data) This number keeps growing and data science has been named the [Sexiest Job Of The 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) because of the way its technology is effectively transforming industries. 
@@ -26,7 +26,7 @@ Working on data science projects and solving business problems using data scienc
 
 So here in this blog post, I have provided answers to some of these important questions that only a few experts talk about and most professionals and coaches avoid. 
 
-<h1> Is Data Science right for me?</h1>\
+<h1> Is Data Science right for me?</h1>
 <br>This is a question that bugs the minds of most people whenever career topics on getting started with data science are being discussed.
 
 Other similar questions that come up include – how do I know this is the right career path to pursue? What are the innate qualities I possess that signify I will be a great data scientist? What special qualities do I have that if I master them well will make my data science career successful? 
@@ -59,14 +59,13 @@ Business knowledge is very important in Data Science. Most beginners often wonde
 
 The core of data science isn't coding. Good data scientists are people that are business savvy. They are highly interested in finding ways to analyze business risks, make improvements in business processes, and take the best foot forward for the business to run. 
 
-<h2>4. You have a curious mind which makes you open to learning new things </h2>
+<h2> 4. You have a curious mind which makes you open to learning new things </h2>
 
 In a field like data science, having a curious mind will help you. Curiosity about finding insights from data, and the hunger to learn are the main characteristics of every successful data scientist. 
 
 As a data scientist, you have to be open-minded not just to the final results of your experiments but also to other people’s ideas. Closed minds lack curiosity and possess all available knowledge. A competent data scientist is one who constantly challenges even the accepted truths of science. 
 
-\
-<h2> You are good at Math and Statistics and you would like to use them to solve a real-world problem</h2>
+<h2> 5. You are good at Math and Statistics and you would like to use them to solve a real-world problem</h2>
 
 If you are not good at Mathematics or Statistics then data science is probably not a great career for you! But the good news is you can succeed if you're willing to learn. Mathematics and Statistics form the basics of all machine learning algorithms (Statistics most especially). In fact, some people believe data science is just over glorified statistics with a new name and a few more algorithms from computer science. 
 
@@ -82,7 +81,7 @@ To get acquainted with the basics of statistics, here are six resources that can
 
 
 
-<h2>You know how to code (Or you are willing to learn it) </h2>
+<h2> 6. You know how to code (Or you are willing to learn it) </h2>
 
 Technical skills and business skills cannot be separated from each other in the field of Data science. You have to be good in both technical skills and business skills to build a successful career because the two complement each other.
 
