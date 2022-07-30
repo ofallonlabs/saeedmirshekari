@@ -1,5 +1,5 @@
 ---
-layout: blog_base.njk
+layout: blog_base_katherine.njk
 title: "Is Data Science For Me? "
 description: "Data Science is a rapidly growing field with lots of numerous
   opportunities. But Data Science isn't for everyone. Is Data Science for you?
@@ -12,7 +12,9 @@ tags:
 thumbnail: /assets/img/uploads/undraw_fatherhood_7i19.png
 rating: 5
 ---
-Right now, Data Science is among the fastest growing industries with an employment growth rate of about 16% [in 2017.](https://blog.linkedin.com/2017/december/7/the-fastest-growing-jobs-in-the-u-s-based-on-linkedin-data) This number keeps growing and data science has been named the [Sexiest Job Of The 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) because of the way its technology is effectively transforming industries. 
+<img src="/assets/img/uploads/undraw_fatherhood_7i19.png" width="100%">
+
+<br><br>Right now, Data Science is among the fastest growing industries with an employment growth rate of about 16% [in 2017.](https://blog.linkedin.com/2017/december/7/the-fastest-growing-jobs-in-the-u-s-based-on-linkedin-data) This number keeps growing and data science has been named the [Sexiest Job Of The 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) because of the way its technology is effectively transforming industries. 
 
 <!--StartFragment-->
 
