@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: Is Data Science For Me?
+title: Is Data Science For Me? 6 Questions to Ask Yourself
 description: "Data Science is a rapidly growing field with lots of numerous
   opportunities. But Data Science isn't for everyone. Is Data Science for you?
   Do you have what it takes to excel in this field? Find out in this blog post.
