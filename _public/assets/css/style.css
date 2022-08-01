@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   object-fit: cover;
   height: 90vh;
-  background: url("../img/stl_bg_w.png") top left;
+  background: url("../img/stl_bg_w.png") bottom left;
   background-size: cover;
   position: relative;
   margin-bottom: 0px;
