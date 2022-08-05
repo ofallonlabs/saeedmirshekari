@@ -21,11 +21,7 @@ layout: blog_base_nobody.njk
             {%- for post in collections.post | reverse -%}
 
               <article class="entry col-md-6">
-                <style>
-                img {
-                  border-radius: 150%;
-                }
-                </style>
+
                 <a href="{{post.url}}">
                   <div class="entry-img zoom">
                     <img src="{{post.data.thumbnail}}" alt="" class="" height="300" style="">
