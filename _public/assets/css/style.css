@@ -302,7 +302,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/stl_bg_w.png") bottom left;
   background-size: cover;
   position: relative;
-  margin-bottom: 0px;
+  margin-bottom: 100px;
   z-index: 1;
 }
 #hero:before {
