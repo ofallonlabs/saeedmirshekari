@@ -15,15 +15,11 @@ tags:
 thumbnail: /assets/img/uploads/undraw_online_learning_re_qw08.png
 rating: 5
 ---
-<!--StartFragment-->
+<img src="/assets/img/uploads/undraw_Online_learning_re_qw08.png" width="100%">
 
 *If you cannot see where you are going, ask someone who has been there before.* 
 
 *\- J Loren Norris*  
-
-<img src="/assets/img/uploads/undraw_Online_learning_re_qw08.png" width="100%">
-
-<!--StartFragment-->
 
 The best way to accelerate growth in any career field is by learning from the experience of those that have been through similar paths. Mentorship is crucial in building a successful career in any professional field and the field of Data Science is not an exception. This relationship is an immensely valuable one because both parties gain in one way from each other. This article will help you understand: 
 
