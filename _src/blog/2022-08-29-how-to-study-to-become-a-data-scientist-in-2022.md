@@ -77,8 +77,8 @@ In the beginning, it will be very hard to do things on your own. You will need t
 Again, do not rush to learn how problems are being solved. Learn the basic concepts before moving on to watch how problems are being solved so you can get a grasp on what is being done and so that you don't get overwhelmed. The basic concepts you have to learn include: 
 
 * Computer Programming (preferably in Python and/or in R) (variable declaration, loops, statements,  functions, Numpy and Pandas, etc.) 
-* Basic Mathematics (Linear algebra, Matrices, etc) 
-* Basic Statistics (mean, median, mode, standard deviation, variance, correlation, regression etc) Nothing crazy here. Just basic high school Statistics.
+* Basic Mathematics (Linear algebra, Matrices, etc.) 
+* Basic Statistics (mean, median, mode, standard deviation, variance, correlation, regression etc.) Nothing crazy here. Just basic high school Statistics.
 * Data visualization (Seaborn, matplotlib, ggplot, etc.) 
 
 Remember, the goal is to know enough basics to be able to start doing a project. So, focus on project-based learning. This approach will allow you to learn faster and you will have something valuable in hand to talk about after you finish.
@@ -99,7 +99,7 @@ This point is very crucial in your journey as you study. Changeling yourself fue
 
 **How do you challenge yourself?** 
 
-<h3>Do end-to-end projects</h3>
+<h3>Do End-to-end Data Science Projects</h3>
 
 Learning the basics is just the very beginning of your learning process. Your real learning starts when you begin a project.
 
@@ -119,17 +119,17 @@ Learning is a process and oftentimes it might get overwhelming. Project is how y
 * Apart from the fact that you gain knowledge and experience when you build projects it also helps you in building your portfolio and work samples for job opportunities. 
 * Doing a project makes what you learn concrete and also gives you a great sense of accomplishment and completion when you finish.
 
-<h3>Hire a mentor </h3>
+<h3>Hire A Mentor </h3>
 
 [The need for a mentor in](https://saeedmirshekari.com/blog/2022-08-15-why-you-need-a-data-science-career-mentor/) your data science career path cannot be overemphasized. 
 
 If you don't want to give up as a newbie in Data Science, the best thing is to find an expert in the field that can mentor you. This is one of the best things you can do for your career. Data science is hard and you will get overwhelmed at some point in your self-learning path, but a mentor can guide you.
 
-The variety of skills necessary to be a competitive data scientist can be overwhelming. Having a mentor reduces some of the stress associated with this circumstance. You can get in touch with them and establish a rapport with them so that you feel comfortable posing queries that at first glance may appear obvious but which ultimately have a significant impact on the calibre of your job.
+The variety of skills necessary to be a competitive data scientist can be overwhelming. Having a mentor reduces some of the stress associated with this circumstance. You can get in touch with them and establish a rapport with them so that you feel comfortable posing queries that at first glance may appear obvious but which ultimately have a significant impact on the caliber of your job.
 
 So you need one. At O'Fallon Labs we offer 1 on 1 mentoring for individuals beginning or transitioning into Data Science. You can never go wrong with a mentor. It's a journey, you'll need a guide! 
 
-<h3>Enrol in Bootcamps</h3> Enrolling in a Data science boot camp is a worthwhile investment. They are short, immersive educational programs that prepare graduates for entry-level positions in only three-to-six months of intensive study. After a brief three- to six-month program, you as a participant become empowered and eligible for high-paying Data Scientist positions. Boot camps provide networking opportunities where organizers bring in guest speakers from top tech companies and well-connected industry pro instructors. 
+<h3>Enroll in Bootcamps</h3> Enrolling in a Data science boot camp is a worthwhile investment. They are short, immersive educational programs that prepare graduates for entry-level positions in only three-to-six months of intensive study. After a brief three- to six-month program, you as a participant become empowered and eligible for high-paying Data Scientist positions. Boot camps provide networking opportunities where organizers bring in guest speakers from top tech companies and well-connected industry pro instructors. 
 
 Through these networking events, you get to connect with students around you that are also aspiring tech professionals and they can help you form the beginnings of your professional network in the field.
 
@@ -146,11 +146,11 @@ The fastest way to learn an unfamiliar concept is to start by doing what someone
 <h2> 3. Communicate with the Outside World</h2>
 <img src="/assets/img/uploads/undraw_people_re_8spw.svg" width="100%">
 
-<h3> Join communities </h3>
+<h3> Join Communities </h3>
 
 No one thrives well in isolation. You need the support of people. Tech isn't just about coding. The tech space is more about interacting with a community of people, sharing, building and collaborating. So get involved with a data science community, and join discord communities. Be active in these communities. Ask questions, share ideas, tell your story, celebrate wins and interact with other people that are on the same path as you. Communities can be a great source of motivation and also provide great networking opportunities. 
 
-<h3>Build your own network </h3>
+<h3>Build Your Own Network </h3>
 
 Once you have mastered the skills and you have developed a strong portfolio, the next stage is to set up a means of sharing your work with a broader audience by building a personal brand or network. Networking is about building a relationship where both parties are rewarded. Offer value. The best way to build mutually fulfilling relationships is to have something of value to offer in return. Building a network can help build your accountability.
 
