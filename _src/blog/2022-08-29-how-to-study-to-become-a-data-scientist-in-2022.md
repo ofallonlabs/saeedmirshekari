@@ -6,7 +6,7 @@ description: Coding and Statistics are the two pillars of a career in Data
   effectively study to become a Data Scientist and how to keep yourself
   motivated as you study.
 author: "Katherine Olowookere "
-date: 2022-08-29T09:40:54.405Z
+date: 2022-08-29T13:37:51.981Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_scrum_board_re_wk7v.png
