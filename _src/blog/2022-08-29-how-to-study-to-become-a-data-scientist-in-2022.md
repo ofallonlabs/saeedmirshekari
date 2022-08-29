@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: "Becoming a Data Scientist in 2020: A Study Guide for The Beginners"
+title: "Becoming Data Scientist in 2020: A 3-Stage Study Guide for The Beginners"
 description: Coding and Statistics are the two pillars of a career in Data
   Science. In this blog post gives you a practical guide on how you can
   effectively study to become a Data Scientist and how to keep yourself
