@@ -19,9 +19,9 @@ Data science is an interdisciplinary field that requires coding, math, statistic
 In this blog post, I will be giving you a practical guide that shows you how you can effectively study to become a Data Scientist and how to keep yourself motivated as you study. 
 
 <h1>How to study effectively to become a Data Scientist  </h1> 
-<img src="/assets/img/uploads/undraw_fatherhood_7i19.png" width="100%">
 
-<h2>1. Covering the Fundamentals of Coding and Statistics</h2>  
+<h2>1. Covering the Bases: Coding and Statistics</h2>  
+<img src="/assets/img/uploads/undraw_fatherhood_7i19.png" width="100%">
 
 Coding and Statistics are the first foundational knowledge you need to acquire to begin a career in Data Science. Programming is the most valuable skill anyone should learn in this digital world today because having the knowledge of coding alone gives you the toolkit to do just anything and this makes you very valuable in the tech space. 
 
