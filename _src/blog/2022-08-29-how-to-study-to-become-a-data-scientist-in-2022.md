@@ -14,14 +14,12 @@ rating: 5
 ---
 <img src="/assets/img/uploads/undraw_Scrum_board_re_wk7v.png" width="100%">
 
-<img src="/assets/img/uploads/undraw_Online_learning_re_qw08.png" width="100%">
-
-
 Data science is an interdisciplinary field that requires coding, math, statistics and business acumen. The hardest thing beginners starting a career in Data Science struggle with is figuring out what to study, how to study these topics effectively and how not to give up in the learning process. 
 
 In this blog post, I will be giving you a practical guide that shows you how you can effectively study to become a Data Scientist and how to keep yourself motivated as you study. 
 
 <h1>How to study effectively to become a Data Scientist  </h1> 
+<img src="/assets/img/uploads/undraw_fatherhood_7i19.png" width="100%">
 
 <h2>1. Covering the Fundamentals of Coding and Statistics</h2>  
 
@@ -95,6 +93,8 @@ Assignments prompt you to think more deeply about what you are learning and this
 
 <h2>2. Challenge Yourself</h2>  
 
+<img src="/assets/img/uploads/undraw_skateboard_re_we2n.svg" width="100%">
+
 This point is very crucial in your journey as you study. Changeling yourself fuels you to keep going. It's how you keep yourself excited and motivated in the journey. 
 
 **How do you challenge yourself?** 
@@ -144,6 +144,7 @@ Don't go copying other people's code; instead, try and understand what each line
 The fastest way to learn an unfamiliar concept is to start by doing what someone else has done and then applying that knowledge to your own projects
 
 <h2> 3. Communicate with the Outside World</h2>
+<img src="/assets/img/uploads/undraw_people_re_8spw.svg" width="100%">
 
 <h3> Join communities </h3>
 
