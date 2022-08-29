@@ -1,17 +1,22 @@
 ---
-layout: blog_base.njk
-title: How to Study to Become a Data Scientist in 2022
-description: Coding and Statistics are the first foundational knowledge you need
-  to acquire to begin a career in Data Science. In this blog post gives you a
-  practical guide on how you can effectively study to become a Data Scientist
-  and how to keep yourself motivated as you study.
+layout: blog_base_katherine.njk
+title: "How to Study to Become a Data Scientist in 2020: A Study Guide for You"
+description: Coding and Statistics are the two pillars of a career in Data
+  Science. In this blog post gives you a practical guide on how you can
+  effectively study to become a Data Scientist and how to keep yourself
+  motivated as you study.
 author: "Katherine Olowookere "
 date: 2022-08-29T09:40:54.405Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_adventure_map_hnin.png
+thumbnail: /assets/img/uploads/undraw_scrum_board_re_wk7v.png
 rating: 5
 ---
+<img src="/assets/img/uploads/undraw_Scrum_board_re_wk7v.png" width="100%">
+
+<img src="/assets/img/uploads/undraw_Online_learning_re_qw08.png" width="100%">
+
+
 Data science is an interdisciplinary field that requires coding, math, statistics and business acumen. The hardest thing beginners starting a career in Data Science struggle with is figuring out what to study, how to study these topics effectively and how not to give up in the learning process. 
 
 In this blog post, I will be giving you a practical guide that shows you how you can effectively study to become a Data Scientist and how to keep yourself motivated as you study. 
