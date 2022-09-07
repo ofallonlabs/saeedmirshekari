@@ -3,7 +3,7 @@ layout: blog_base_alexia.njk
 title: The Best Way To Become a Data Scientist
 description: Do you need a PhD to become a data scientist? Do you need to enroll
   to data-science university programs? Do you need to enroll to expensive
-  data-science bootcamps? Are there any other alternative? What about 1-on-1
+  data-science bootcamps? Are there any other alternatives? What about 1-on-1
   data-science mentoring programs?
 author: Alexia Dominique
 date: 2022-09-07T04:10:09.012Z
