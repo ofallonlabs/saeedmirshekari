@@ -12,7 +12,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_nuxt_js_0fq9-1-.png
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_nuxt_js_0fq9 (1).png" width="100%">
+<img src="/assets/img/uploads/undraw_nuxt_js_0fq9-1-.png" width="100%">
 
 Many great data scientists have a degree in data science, so you think that maybe you should go to college, too, so you can be as great as them.
 
