@@ -1,6 +1,7 @@
 ---
 layout: blog_base_alexia.njk
-title: The Best Way To Become a Data Scientist
+title: "The Best Way To Become a Better Data Scientist: Colleague Degrees,
+  Intense Bootcamps, or Experienced Mentors?"
 description: Do you need a PhD to become a data scientist? Do you need to enroll
   to data-science university programs? Do you need to enroll to expensive
   data-science bootcamps? Are there any other alternatives? What about 1-on-1
