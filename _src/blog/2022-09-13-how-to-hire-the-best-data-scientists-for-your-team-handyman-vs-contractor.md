@@ -14,7 +14,8 @@ tags:
 thumbnail: /assets/img/uploads/undraw_under_construction_-46-pa.svg
 rating: 5
 ---
-![](/assets/img/uploads/undraw_under_construction_-46-pa.svg)
+<img src="/assets/img/uploads/undraw_under_construction_-46-pa.svg" width="100%">
+
 
 <h1> Handyman vs Contractor</h1>
 
@@ -28,11 +29,11 @@ Before answering this question, let’s pause for a moment here and think about 
 
 In one of his classes Ram talked about the history of Cosmology and I clearly remember he beautifully pointed out a fundamental difference between the nature of different branches of knowledge. 
 
-![](/assets/img/uploads/vertical-ladder-1024x682.png "Vertical Ladder")
+<img src="/assets/img/uploads/vertical-ladder-1024x682.png" width="90%">
 
 He used the term “Vertical Ladder” as a metaphor for the branches of knowledge such as Mathematics, Physics, and Biology to some extent. And here is what he meant by that: in order to reach step #10 of the ladder you need to climb from the first step all the way up to step 9. You cannot skip steps when the latter is in a vertical position!
 
-![](/assets/img/uploads/horizontal-ladder-1024x682.png "Horizontal Ladder")
+<img src="/assets/img/uploads/horizontal-ladder-1024x682.png " width="65%">
 
 However, in some other branches of knowledge such as History or Geography you don’t necessarily have to go through step 1 to 9 to reach 10. You can just walk straight to step 10 and you will be just fine. These are examples of the cases that Prof. Cowsik was calling the “Horizontal Ladder” models. You can reach any step of the ladder anytime you want when the ladder is in a horizontal position.
 
