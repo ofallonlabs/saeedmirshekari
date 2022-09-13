@@ -28,7 +28,7 @@ In one of his classes Ram talked about the history of Cosmology and I clearly re
 
 He used the term “Vertical Ladder” as a metaphor for the branches of knowledge such as Mathematics, Physics, and Biology to some extent. And here is what he meant by that: in order to reach step #10 of the ladder you need to climb from the first step all the way up to step 9. You cannot skip steps when the latter is in a vertical position!
 
-![](blob:https://saeedmirshekari.com/8a0e3f28-3517-4970-8238-7e6f47563b4a "Horizontal Ladder")
+![](/assets/img/uploads/horizontal-ladder-1024x682.png "Horizontal Ladder")
 
 However, in some other branches of knowledge such as History or Geography you don’t necessarily have to go through step 1 to 9 to reach 10. You can just walk straight to step 10 and you will be just fine. These are examples of the cases that Prof. Cowsik was calling the “Horizontal Ladder” models. You can reach any step of the ladder anytime you want when the ladder is in a horizontal position.
 
