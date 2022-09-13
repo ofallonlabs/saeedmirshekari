@@ -50,7 +50,7 @@ Would you hire a handyperson or a contractor? It really depends! It depends on w
 
 If you want to get the job done, a contractor might be the best choice. On the other hand, if you are thinking more long term and might need some custom solutions or need to build totally new products then hiring a handyman would make much more sense.
 
-![](blob:https://saeedmirshekari.com/524fe5f8-ab53-44e8-825a-f1f776e1b317 "Data Scientist is a handyman with his ladder ready to rescue")
+![](/assets/img/uploads/worker-ladder.jpg "Data Scientist is a handyman with his ladder ready to rescue")
 
 It is not very different when it comes to hiring for Data Science jobs. A true Data Scientist (handyperson) with his own ladder under his arm ready to climb pretty much anything or a Data Science expert (contractor) who can jump up to the Horizontal Ladder of your data science projects. 
 
