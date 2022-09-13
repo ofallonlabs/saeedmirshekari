@@ -24,7 +24,7 @@ Before answering this question, let’s pause for a moment here and think about 
 
 In one of his classes Ram talked about the history of Cosmology and I clearly remember he beautifully pointed out a fundamental difference between the nature of different branches of knowledge. 
 
-![](blob:https://saeedmirshekari.com/cb1e5710-8fcf-46e7-829e-68cca292f224 "Vertical Ladder")
+![](/assets/img/uploads/vertical-ladder-1024x682.png "Vertical Ladder")
 
 He used the term “Vertical Ladder” as a metaphor for the branches of knowledge such as Mathematics, Physics, and Biology to some extent. And here is what he meant by that: in order to reach step #10 of the ladder you need to climb from the first step all the way up to step 9. You cannot skip steps when the latter is in a vertical position!
 
