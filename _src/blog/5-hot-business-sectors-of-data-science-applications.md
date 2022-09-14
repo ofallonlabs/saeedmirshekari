@@ -7,7 +7,7 @@ description: "Data science is being leveraged and used across industries to
   big-data to improve decision-making, predict user patterns and analyze trends
   in real time. "
 author: "Katherine Olowookere "
-date: 2022-09-14T19:56:09.462Z
+date: 2022-09-15T01:00:00.000Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_circles_y-7-s2.svg
