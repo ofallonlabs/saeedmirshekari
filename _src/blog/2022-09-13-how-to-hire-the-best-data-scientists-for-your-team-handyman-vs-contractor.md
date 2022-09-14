@@ -8,7 +8,7 @@ description: "You’ve got a new home project to do this summer and you need to
   better decisions when it comes to hiring for the Data Science roles in your
   team. "
 author: Saeed Mirshekari
-date: 2022-09-13T21:02:51.866Z
+date: 2022-09-14T05:02:46.974Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_under_construction_-46-pa.svg
