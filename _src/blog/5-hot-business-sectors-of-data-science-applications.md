@@ -1,13 +1,13 @@
 ---
 layout: blog_base.njk
-title: 5 Hot Business Sectors of Data Science Applications
+title: 5 Hot Business Sectors for Data Science Applications in 2022
 description: "Data science is being leveraged and used across industries to
   drive and bring transformative business results. Several industries and
   businesses now recognize the importance of harnessing the power of AI and
   big-data to improve decision-making, predict user patterns and analyze trends
   in real time. "
 author: "Katherine Olowookere "
-date: 2022-09-14T19:56:09.462Z
+date: 2022-09-15T01:00:00.000Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_circles_y-7-s2.svg
