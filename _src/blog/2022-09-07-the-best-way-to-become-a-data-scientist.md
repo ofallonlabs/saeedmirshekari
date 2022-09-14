@@ -7,7 +7,7 @@ description: Do you need a PhD to become a data scientist? Do you need to enroll
   data-science bootcamps? Are there any other alternatives? What about 1-on-1
   data-science mentoring programs?
 author: Alexia Dominique
-date: 2022-09-07T04:10:09.012Z
+date: 2022-09-14T04:43:29.993Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_nuxt_js_0fq9-1-.png
