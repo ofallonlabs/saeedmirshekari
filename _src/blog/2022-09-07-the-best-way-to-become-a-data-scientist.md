@@ -40,3 +40,5 @@ If you’re confused, they will give you clarity. If you are stuck, they will sh
 And when it’s time for you to enter the field, they will give you tips, advice, and professional connections that will be helpful for your job search. That’s a great way to start your data science career!
 
 So take part in a 1-on-1 data science mentoring session with O’Fallon Labs NOW and reach your dreams without breaking the bank!
+
+<img src="/assets/img/uploads/solution_table.png" width="100%">
