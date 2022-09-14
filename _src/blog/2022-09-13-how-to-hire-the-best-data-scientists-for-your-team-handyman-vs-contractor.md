@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: How To Choose The Best Data Scientist Candidates?
+title: How To Choose The Best Data Scientist Candidates for Your Team?
 description: "You’ve got a new home project to do this summer and you need to
   hire; would you hire a handyman or a contractor? How does this relate to
   hiring the best candidate for your Data Science team? In this post you will
