@@ -65,4 +65,4 @@ If you want to get the job done, a contractor might be the best choice. On the o
 
 It is not very different when it comes to hiring for Data Science jobs. A true Data Scientist (handyperson) with his own ladder under his arm ready to climb pretty much anything or a Data Science expert (contractor) who can jump up to the Horizontal Ladder of your data science projects. 
 
-Which type of Data Scientist would YOU hire? Let me know in the comment section down below.
+Which type of Data Scientist would YOU hire?
