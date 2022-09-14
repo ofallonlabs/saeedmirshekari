@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: "Data Scientists Are Expensive: Which Type of Data Scientist You Need?"
+title: How To Choose The Best Data Scientist Candidates?
 description: "You’ve got a new home project to do this summer and you need to
   hire; would you hire a handyman or a contractor? How does this relate to
   hiring the best candidate for your Data Science team? In this post you will
@@ -25,7 +25,7 @@ How does this relate to careers in Data Science? Imagine you have recently hired
 
 Before answering this question, let’s pause for a moment here and think about the big picture. To make my point, I would like to tell you a little story: an interesting metaphor I heard for the first time from my Cosmology professor, Prof. Ram Cowsik, when I was a young grad student at WashU.
 
-<h1> Vertical Latter vs Horizontal Ladder</h1>
+<h1> Vertical Ladder vs Horizontal Ladder</h1>
 
 In one of his classes Ram talked about the history of Cosmology and I clearly remember he beautifully pointed out a fundamental difference between the nature of different branches of knowledge. 
 
@@ -61,7 +61,7 @@ Would you hire a handyperson or a contractor? It really depends! It depends on w
 
 If you want to get the job done, a contractor might be the best choice. On the other hand, if you are thinking more long term and might need some custom solutions or need to build totally new products then hiring a handyman would make much more sense.
 
-![](/assets/img/uploads/worker-ladder.jpg "Data Scientist is a handyman with his ladder ready to rescue")
+<img src="/assets/img/uploads/worker-ladder.jpg" width="100%">
 
 It is not very different when it comes to hiring for Data Science jobs. A true Data Scientist (handyperson) with his own ladder under his arm ready to climb pretty much anything or a Data Science expert (contractor) who can jump up to the Horizontal Ladder of your data science projects. 
 
