@@ -16,6 +16,7 @@ rating: 5
 ---
 <img src="/assets/img/uploads/undraw_under_construction_-46-pa.svg" width="100%">
 
+
 <h1> Handyman vs Contractor</h1>
 
 You’ve got a home project to do this summer and you need to hire; would you hire a handyman (or, more inclusively, a handyperson) or a contractor? If you had to choose one, which one would you pick? The short answer is: it depends! If you are interested in my long answer, read on.
