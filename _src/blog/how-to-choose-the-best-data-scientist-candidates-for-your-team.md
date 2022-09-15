@@ -16,7 +16,7 @@ rating: 5
 ---
 <img src="/assets/img/uploads/undrawunder_construction-46-pa.svg" width="100%">
 
-<h1> Handyman vs Contractor</h1>
+\<h1> Handyman vs Contractor</h1>
 You’ve got a home project to do this summer and you need to hire; would you hire a handyman (or, more inclusively, a handyperson) or a contractor? If you had to choose one, which one would you pick? The short answer is: it depends! If you are interested in my long answer, read on.
 
 How does this relate to careers in Data Science? Imagine you have recently hired a Machine Learning code ninja who can implement the latest pose-estimation AI model into your live stream videos and crush it, but cannot tell the difference between mean and median in his data. Is that OK? Should you be worried about the future a little?
