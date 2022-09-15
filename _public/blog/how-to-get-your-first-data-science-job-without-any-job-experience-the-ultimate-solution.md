@@ -67,7 +67,7 @@ Interact and engage with like-minded individuals through comments and posts. Get
 
 Every successful individual has a mentor that helps them reach success. At O’Fallon Labs, we help individuals like you get their first ever **data science job**. In fact, we’ll help you **learn data science** the right way here!
 
-I will personally teach you all the tips and tricks no one told you before. From building a powerful resume to preparing for your **data science** job interview, I will be there at every step. Your career’s success starts right here with these *[successful steps you must take to become a data scientist](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/)*.
+In O'Fallon labs we will teach you all the tips and tricks no one told you before. From building a powerful resume to preparing for your **data science** job interview, we will be there at every step. Your career’s success starts right here with these *[successful steps you must take to become a data scientist](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/)*.
 
 <h1> Conclusion </h1> 
 
