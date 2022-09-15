@@ -13,7 +13,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_circles_y-7-s2.svg
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_circles_y-7-s2.svg" width="100%">
+<img src="/assets/img/uploads/undraw_circles_y-7-s2.svg" width="100%">d
 
 \
 The finance sector was the first industrial sector to recognize and [use Data Science](https://www.dataversity.net/brief-history-data-science/) to make important business decisions.
