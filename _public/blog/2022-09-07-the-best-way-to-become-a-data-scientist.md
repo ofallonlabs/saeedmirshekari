@@ -1,13 +1,13 @@
 ---
 layout: blog_base_alexia.njk
-title: "The Best Way To Become a Better Data Scientist: Universities? Bootcamps?
-  or Mentors?"
+title: "The Best Way To Become a Better Data Scientist: University Programs?
+  Bootcamps? or Mentoring Programs?"
 description: Do you need a PhD to become a data scientist? Do you need to enroll
   to data-science university programs? Do you need to enroll to expensive
   data-science bootcamps? Are there any other alternatives? What about 1-on-1
   data-science mentoring programs?
 author: Alexia Dominique
-date: 2022-09-07T04:10:09.012Z
+date: 2022-09-14T04:43:29.993Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_nuxt_js_0fq9-1-.png
@@ -40,3 +40,7 @@ If you’re confused, they will give you clarity. If you are stuck, they will sh
 And when it’s time for you to enter the field, they will give you tips, advice, and professional connections that will be helpful for your job search. That’s a great way to start your data science career!
 
 So take part in a 1-on-1 data science mentoring session with O’Fallon Labs NOW and reach your dreams without breaking the bank!
+
+<img src="/assets/img/uploads/solution_table.png" width="100%">
+
+<br>
