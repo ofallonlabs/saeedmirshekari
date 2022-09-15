@@ -16,7 +16,7 @@ rating: 5
 <img src="/assets/img/uploads/undraw_circles_y-7-s2.svg" width="100%">
 
 \
-The finance sector was the first industrial sector to recognize and use Data Science to make important business decisions.
+The finance sector was the first industrial sector to recognize and [use Data Science](https://www.dataversity.net/brief-history-data-science/) to make important business decisions.
 
 But today, the application of Data Science is no longer limited to the finance sector. Currently, Data science is being leveraged and used across industries to drive and bring transformative business results. Several industries and businesses now recognize the importance of harnessing the power of AI and big-data to improve decision-making, predict user patterns and analyze trends in real time. 
 
