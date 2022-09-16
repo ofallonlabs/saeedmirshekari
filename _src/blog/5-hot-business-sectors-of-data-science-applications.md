@@ -34,7 +34,7 @@ In this article, we will highlight the top 5 business sectors where Data Science
 <h2>Finance and Banking</h2>
 
 <img src="/assets/img/uploads/undraw_credit_card_re_blml.svg" width="50%">
-
+-﻿--
 The finance sector is widely known to be a Data-intensive industry and this factor must have contributed to why it became the first business sector to understand and utilize the power of Data Science in 2001. There is no doubt that the financial sector has expanded significantly as a result of the use of data-driven approaches, data science tools, and algorithms.
 
 Data science is mainly used in the finance and banking sector for Risk Analysis and Better Risk Management. 
@@ -120,8 +120,6 @@ The top companies hiring for data scientists in the Advertising and Marketing sp
 <h2>Entertainment</h2>
 <img src="/assets/img/uploads/undraw_netflix_q-00-o.svg" width="50%">
 
-\-﻿--
-
 The entertainment industry has greatly given attention to its scientific aspects in the last few years. Data scientists are essential for assisting organizations in making sense of the vast amount of information that streaming services, production studios, and traditional media corporations are gathering about production patterns, user viewing behavior, and post-production planning
 
 Data science is used in entertainment to predict users' interests, analyze customer sentiment, personalize content and marketing and enhance customer experience. 
@@ -141,7 +139,7 @@ Generally, a Data Scientist needs to know 
 * Statistics and Statistical Analysis
 * Data visualization tools such as Mathplotlib, Tableau, Seaborn, etc.
 
-**<h2>Conclusion</h2>**
+<h2>Conclusion</h2>
 
 Data science is revolutionizing various business sectors in the world today. It has become a common tool to drive effective decision-making in all areas of an organization.
 
