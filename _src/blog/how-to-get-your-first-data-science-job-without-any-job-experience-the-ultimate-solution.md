@@ -25,7 +25,7 @@ These possibilities make it challenging and complicated for students to break in
 
 You can’t *[expect success in your](https://saeedmirshekari.com/blog/2022-06-11-preparing-for-success-in-your-first-data-science-job-interview/)* ***[data analytics](https://saeedmirshekari.com/blog/2022-06-11-preparing-for-success-in-your-first-data-science-job-interview/)*** *[job interview](https://saeedmirshekari.com/blog/2022-06-11-preparing-for-success-in-your-first-data-science-job-interview/)* if you don’t have a portfolio. Instead of getting discouraged, here are my top suggestions to help you get your first data science job within a few months.
 
-<h1> Complete an End-to-End Data Science Project - Design Your Portfolio</h1> 
+<h2> Complete an End-to-End Data Science Project - Design Your Portfolio</h2> 
 
 If you have recently graduated with your **data science degree** or taken **data analytics training** and switched careers, you must show your skills. Data science is a vast field with *[in-demand skills](https://saeedmirshekari.com/blog/2022-07-15-top-10-most-in-demand-skills-for-data-scientists-in-2022/)*.
 
@@ -37,7 +37,7 @@ Therefore, when you work on your portfolio and build projects, you exude the inn
 
 ***Consistency is the key to your success.*** Always be focused on your projects Plus, the internet has thousands of free data sets that you can work on. Just google Kaggle and start building your portfolio.
 
-<h1> Become a Freelancer - Start Selling Your Services</h1> 
+<h2> Become a Freelancer - Start Selling Your Services</h2> 
 
 Freelancing is another way to build your portfolio. With freelancing, you sell your skills learned from the **data analytics courses** you took. However, it’s an excellent alternative to gaining experience while waiting for a call-back from potential employers.
 
@@ -45,7 +45,7 @@ The best part is that you can have flexible hours for work. You wouldn’t be bo
 
 Always stay focused no matter what kind of project you choose. Work hard, be creative, and avoid distractions. The more you do this, the more you will achieve. That’s a guarantee!
 
-<h1> Become a Data Scientist Writer - Showcase Your Knowledge</h1> 
+<h2> Become a Data Scientist Writer - Showcase Your Knowledge</h2> 
 
 Data scientists manipulate data. This makes them natural storytellers as they can turn extensive data sets into impeccable visuals to explain their findings effectively. Writing about your projects eloquently demonstrates your communication skills and the ability to lure in readers.
 
@@ -53,7 +53,7 @@ Your blog or research papers will beautifully define your soft and hard skills t
 
 During your blogging journey, you’ll learn how to explain complex terminologies in simple words to attract a broader audience. This not only makes you a greater communicator with a deeper understanding of **data analytics** but also makes you a great **data scientist**.
 
-<h1> Networking - Gain Visibility</h1> 
+<h2> Networking - Gain Visibility</h2> 
 
 ***Your network is your net worth!*** This is a famous quote that describes the significance of networking. Remember your portfolio? Well, upload it on GitHub. Then create your LinkedIn profile and share that online portfolio link there.
 
@@ -63,12 +63,12 @@ You’re building a brand - a brand visible to everyone. Platforms like LinkedIn
 
 Interact and engage with like-minded individuals through comments and posts. Get to know people and your community, and give them a chance to get to know you professionally. Be active and consistent. You may get overwhelmed by the results. Who’s to know? Your potential employer might be one of your connections from LinkedIn.
 
-<h1> Get Training - Work with a Mentor</h1> 
+<h2> Get Training - Work with a Mentor</h2> 
 
 Every successful individual has a mentor that helps them reach success. At O’Fallon Labs, we help individuals like you get their first ever **data science job**. In fact, we’ll help you **learn data science** the right way here!
 
 In O'Fallon labs we will teach you all the tips and tricks no one told you before. From building a powerful resume to preparing for your **data science** job interview, we will be there at every step. Your career’s success starts right here with these *[successful steps you must take to become a data scientist](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/)*.
 
-<h1> Conclusion </h1> 
+<h2> Conclusion </h2> 
 
 A lack of work experience can affect your **data analytics** career. That doesn’t mean you can’t gain experience in other ways and get a job. In fact, it’s the opposite. Tons of opportunities await you in the data science industry with these proven tips and tricks and my coaching services. Let’s begin this journey of success together!
