@@ -13,6 +13,14 @@ tags:
 thumbnail: /assets/img/uploads/undraw_circles_y-7-s2.svg
 rating: 5
 ---
+![]()
+
+![]()
+
+![]()
+
+![]()
+
 <img src="/assets/img/uploads/undraw_circles_y-7-s2.svg" width="100%">
 
 The finance sector was the first industrial sector to recognize and [use Data Science](https://www.dataversity.net/brief-history-data-science/) to make important business decisions.
@@ -33,6 +41,8 @@ In this article, we will highlight the top 5 business sectors where Data Science
 
 <h2>Finance and Banking</h2>
 
+<img src="/assets/img/uploads/undraw_credit_card_re_blml.svg" width="50%">
+
 The finance sector is widely known to be a Data-intensive industry and this factor must have contributed to why it became the first business sector to understand and utilize the power of Data Science in 2001. There is no doubt that the financial sector has expanded significantly as a result of the use of data-driven approaches, data science tools, and algorithms.
 
 Data science is mainly used in the finance and banking sector for Risk Analysis and Better Risk Management. 
@@ -52,6 +62,7 @@ Other areas where Data Science and AI have helped and can help financial institu
 * Loan appraisal management
 
 <h2>Healthcare and Insurance</h2>
+<img src="/assets/img/uploads/undraw_medicine_b-1-ol.svg" width="50%">
 
 The healthcare sector is also one of the top fields actively using Data science to solve complex real-world health issues. Data Science and Machine Learning are actively transforming the health sector from new drug discovery to patient care. 
 
@@ -77,6 +88,7 @@ Data Science has also helped the healthcare sector in areas such as
 * Providing Virtual Assistance
 
 <h2>E-commerce and Retail</h2>
+<img src="/assets/img/uploads/undraw_shopping_app_flsj.svg" width="50%">
 
 The e-commerce and retail industries are consumer-focused sectors that only thrive through increased personalization and relevance by using data to understand consumer trends and behavior.
 
@@ -96,6 +108,7 @@ The demand for Data scientists in the e-commerce and retail industry keeps incre
 The top companies hiring for data scientists in the E-commerce and Retail space include: Amazon, Walmart, Home Depot, Shopify, Etsy, and many more.
 
 <h2>Advertisement and Marketing</h2>
+<img src="/assets/img/uploads/undraw_social_dashboard_re_ocbd.svg" width="50%">
 
 Consumer data will be the biggest differentiator. Whoever unlocks the reams of data and uses it strategically will win.” –Angela Ahrendts, ex-SVP – Retail, Apple Inc.
 
@@ -113,6 +126,7 @@ Employers in the advertising and marketing niche prefer to hire Data Scientists 
 The top companies hiring for data scientists in the Advertising and Marketing space include: Google, Facebook, TikTok, and pretty much every other big company which has a serious marketing and advertising strategy in place.
 
 <h2>Entertainment</h2>
+<img src="/assets/img/uploads/undraw_netflix_q-00-o.svg" width="50%">
 
 The entertainment industry has greatly given attention to its scientific aspects in the last few years. Data scientists are essential for assisting organizations in making sense of the vast amount of information that streaming services, production studios, and traditional media corporations are gathering about production patterns, user viewing behavior, and post-production planning
 
