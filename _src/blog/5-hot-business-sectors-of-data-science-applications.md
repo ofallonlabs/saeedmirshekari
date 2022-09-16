@@ -13,14 +13,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_circles_y-7-s2.svg
 rating: 5
 ---
-![]()
-
-![]()
-
-![]()
-
-![]()
-
 <img src="/assets/img/uploads/undraw_circles_y-7-s2.svg" width="100%">
 
 The finance sector was the first industrial sector to recognize and [use Data Science](https://www.dataversity.net/brief-history-data-science/) to make important business decisions.
@@ -127,6 +119,8 @@ The top companies hiring for data scientists in the Advertising and Marketing sp
 
 <h2>Entertainment</h2>
 <img src="/assets/img/uploads/undraw_netflix_q-00-o.svg" width="50%">
+
+\-﻿--
 
 The entertainment industry has greatly given attention to its scientific aspects in the last few years. Data scientists are essential for assisting organizations in making sense of the vast amount of information that streaming services, production studios, and traditional media corporations are gathering about production patterns, user viewing behavior, and post-production planning
 
