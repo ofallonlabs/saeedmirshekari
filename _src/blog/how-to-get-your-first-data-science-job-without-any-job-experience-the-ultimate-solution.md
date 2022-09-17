@@ -1,11 +1,15 @@
 ---
+meta_description: "Do you want to score a Data Scientist job but don’t have any
+  relevant experience? Try my tried-and-tested techniques to land your first job
+  quickly. "
+meta: This is a meta text! WOOHOO SEO
 layout: blog_base_adil.njk
 title: How To Get Your First Data Science Job Without Any Job Experience?
   The   Ultimate Solution!
 description: Do you want to score a Data Scientist job but don’t have
   any   relevant experience? Try my tried-and-tested techniques to land your
   first job   quickly.
-meta: This is a meta text! WOOHOO SEO
+meta_title: 5 Ways to Get Your First Data Science Job | O’Fallon Labs
 author: Adil Ansari
 date: 2022-09-15T15:25:30.093Z
 tags:
