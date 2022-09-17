@@ -15,22 +15,15 @@ rating: 5
 ---
 <img src="/assets/img/uploads/undraw_circles_y-7-s2.svg" width="100%">
 
-\
-The finance sector was the first industrial sector to recognize and use Data Science to make important business decisions.
+The finance sector was the first industrial sector to recognize and [use Data Science](https://www.dataversity.net/brief-history-data-science/) to make important business decisions.
 
 But today, the application of Data Science is no longer limited to the finance sector. Currently, Data science is being leveraged and used across industries to drive and bring transformative business results. Several industries and businesses now recognize the importance of harnessing the power of AI and big-data to improve decision-making, predict user patterns and analyze trends in real time. 
 
 About 80% of firms across the globe are investing a large part of their earnings into creating a skillful data analytics division thus hiring the smartest of people in the Data Science domain because these industries understand and can see how big-data can streamline their business intelligence processes, boost productivity and help them to better address the needs of their consumers. 
 
-<!--EndFragment-->
-
 This singular reason has made the Data science profession one of the fastest growing domains with over 88.3% growth in job postings and this number is expected to increase by 27.9% by 2026 according to the [US Bureau of Labour. ](https://www.bls.gov/opub/btn/volume-7/big-data-adds-up.htm)
 
-<!--EndFragment-->
-
 Many data science employment will be available for experts with the necessary data science abilities as a growing number of sectors and domains wait to be disrupted and improved by data science approaches.
-
-<!--EndFragment-->
 
 Upskill yourself for the future at O'Fallon Labs. 
 
@@ -38,8 +31,11 @@ Upskill yourself for the future at O'Fallon Labs. 
 
 In this article, we will highlight the top 5 business sectors where Data Science is highly in use. These top sectors include Finance/Banking,  Healthcare, Advertisement/Marketing, Ecommerce, and Entertainment. 
 
-<h1>Finance and Banking</h1>
+<h2>Finance and Banking</h2>
 
+<img src="/assets/img/uploads/undraw_credit_card_re_blml.svg" width="50%">
+
+\
 The finance sector is widely known to be a Data-intensive industry and this factor must have contributed to why it became the first business sector to understand and utilize the power of Data Science in 2001. There is no doubt that the financial sector has expanded significantly as a result of the use of data-driven approaches, data science tools, and algorithms.
 
 Data science is mainly used in the finance and banking sector for Risk Analysis and Better Risk Management. 
@@ -58,9 +54,11 @@ Other areas where Data Science and AI have helped and can help financial institu
 * Algorithmic trading
 * Loan appraisal management
 
-<h1>Healthcare and Insurance</h1>
+<h2>Healthcare and Insurance</h2>
+<img src="/assets/img/uploads/undraw_medicine_b-1-ol.svg" width="50%">
 
-The healthcare sector is also one of the top fields actively using Data science to solve complex real-world health issues. Data Science and Machine Learning are actively transforming the health sector from new drug discovery to patient care. 
+\
+The healthcare sector is also one of the top fields actively using Data science to solve complex real-world health issues. Data Science and Machine Learning are actively transforming the health sector from new drug discovery to patient care.
 
 The healthcare sector in India has been recognized to be the top creator of Data Science jobs in the past few years according to an AIM research. Data in hospitals and healthcare sectors are highly unorganized and very difficult to access. According to [Statista](https://www.statista.com/statistics/1037970/global-healthcare-data-volume/), the amount of data generated yearly in the global healthcare industry is around 2,314 exabytes (1 exabyte (EB) = 10^18 bytes).
 
@@ -83,8 +81,10 @@ Data Science has also helped the healthcare sector in areas such as
 * Tracking & Preventing Diseases and; 
 * Providing Virtual Assistance
 
-<h1>E-commerce and Retail</h1>
+<h2>E-commerce and Retail</h2>
+<img src="/assets/img/uploads/undraw_shopping_app_flsj.svg" width="50%">
 
+\
 The e-commerce and retail industries are consumer-focused sectors that only thrive through increased personalization and relevance by using data to understand consumer trends and behavior.
 
 The most significant use of Data Science in e-commerce and retail is in the suggestions for new items based on consumer purchasing patterns (socalled Recommendation Systems). This result is achieved through certain machine learning algorithms and deep learning. 
@@ -102,8 +102,10 @@ The demand for Data scientists in the e-commerce and retail industry keeps incre
 \
 The top companies hiring for data scientists in the E-commerce and Retail space include: Amazon, Walmart, Home Depot, Shopify, Etsy, and many more.
 
-<h1>Advertisement and Marketing</h1>
+<h2>Advertisement and Marketing</h2>
+<img src="/assets/img/uploads/undraw_social_dashboard_re_ocbd.svg" width="50%">
 
+\
 Consumer data will be the biggest differentiator. Whoever unlocks the reams of data and uses it strategically will win.” –Angela Ahrendts, ex-SVP – Retail, Apple Inc.
 
 Data science is now being used more and more in digital marketing for analytical purposes. 
@@ -119,8 +121,10 @@ Employers in the advertising and marketing niche prefer to hire Data Scientists 
 \
 The top companies hiring for data scientists in the Advertising and Marketing space include: Google, Facebook, TikTok, and pretty much every other big company which has a serious marketing and advertising strategy in place.
 
-<h1>Entertainment</h1>
+<h2>Entertainment</h2>
+<img src="/assets/img/uploads/undraw_netflix_q-00-o.svg" width="50%">
 
+\
 The entertainment industry has greatly given attention to its scientific aspects in the last few years. Data scientists are essential for assisting organizations in making sense of the vast amount of information that streaming services, production studios, and traditional media corporations are gathering about production patterns, user viewing behavior, and post-production planning
 
 Data science is used in entertainment to predict users' interests, analyze customer sentiment, personalize content and marketing and enhance customer experience. 
@@ -130,7 +134,7 @@ Employers hiring Data scientists for these roles look out for unique combination
 \
 The top companies hiring for data scientists in Entertainment space include: Netflix, HBO, Apple TV, Disney, Twitch, Amazon Prime, Hulu, and many more.
 
-<h1>Tools used by Data Scientists in these various business sectors. </h1><!--StartFragment-->
+<h2>Tools used by Data Scientists in these various business sectors. </h2>
 
 Although the way Data Science is applied varies across different industries, the tasks which Data Scientists are employed to do are often similar.  To successfully do these tasks and operations certain tools and technical know-how are required. 
 
@@ -140,7 +144,7 @@ Generally, a Data Scientist needs to know 
 * Statistics and Statistical Analysis
 * Data visualization tools such as Mathplotlib, Tableau, Seaborn, etc.
 
-**<h1>Conclusion</h1>**
+<h2>Conclusion</h2>
 
 Data science is revolutionizing various business sectors in the world today. It has become a common tool to drive effective decision-making in all areas of an organization.
 
