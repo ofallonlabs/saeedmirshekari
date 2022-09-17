@@ -1,5 +1,5 @@
 ---
-layout: blog_base_adil.njk
+layout: blog_base_fatima.njk
 title: How To Get Your First Data Science Job Without Any Job Experience?
   The   Ultimate Solution!
 description: Do you want to score a Data Scientist job but don’t have
