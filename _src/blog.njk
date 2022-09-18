@@ -20,27 +20,20 @@ layout: blog_base_nobody.njk
 
             {%- for post in collections.post | reverse -%}
 
-              <article class="entry col-md-4 style="margin-left: -25px;">
+              <article class="entry col-md-20" style="margin-left: 0px">
 
                 <a href="{{post.url}}">
-                  <div class="entry-img zoom">
                   {# style= "border-radius: 150%"; #}
-                    <img src="{{post.data.thumbnail}}" alt="" class="" height="200"> 
-                  </div>
-                </a>
-
-                <a style="line-height:134%; color:#777" href="{{post.url}}" style="font-size:24px; position:static; bottom:0px;">
-                  <b>{{ post.data.title }}</b>
-                </a>
-
-                <div class="">
-                    {# <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="{{post.url}}"><time datetime="YY-DD-MM">{{post.date | postDate}}</time></a></li> #}
-                                      
+                  <div class="row">
+                    <div class="column zoom"> <img src="{{post.data.thumbnail}}" alt="" class="" height="250">  </div>
+                    <div class="column"> <p style="line-height:134%; color:#777" href="{{post.url}}" style="font-size:24px; position:static; bottom:0px;">
+                  <b>{{ post.data.title }}</b></p> 
                     <i class="bi bi-clock"></i> <i class="timeago" style="font-size:18px; position:static; bottom:0px;" title="{{post.date | postDate}}"></i>
                     <br>
                     <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
-                    {# <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="{{post.url}}">0 Comments</a></li> #}
-                </div>
+                    </div>
+                  </div>
+                </a>
 
                 {# <div class="entry-content">
                   <p>
