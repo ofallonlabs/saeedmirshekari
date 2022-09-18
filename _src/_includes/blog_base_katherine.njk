@@ -15,30 +15,32 @@ layout: 'base_blog.njk'
 
               <div class="entry-content">
 
-                <div class="entry-meta">
-                    {# by <i class="bi bi-pen"></i> {{ author }} #}
-                      <i class="bi bi-clock"></i> {{date | postDate}}
+            <body>   
+                <div class="blog-author ">
+                  <img src="/assets/img/blog/katherine.jfif" class="rounded-circle float-left" alt="">
+
+                    <h4>Katherine Olowookere</h4>
+                    <p class="bi bi-clock">  {{date | postDate}} </p>
+
+                  <p class = "myframe">
+                    <a href="http://www.facebook.com/share.php?u=saeedmirshekari.com" class="mybtn">
+                      <i class="bi bi-facebook" style="color: #94c045;"></i>
+                    </a>
+                    <a href="https://twitter.com/intent/tweet?url=Hey! Check out this interesting website I found saeedmirshekari.com" class="mybtn">
+                      <i class="bi bi-twitter" style="color: #94c045;"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/sharing/share-offsite/?url=saeedmirshekari.com" class="mybtn">
+                      <i class="bi bi-linkedin" style="color:#94c045;"></i>
+                    </a>
+                    <a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://saeedmirshekari.com."
+                        title="Check out this website!" class="mybtn">
+                      <i class="bi bi-envelope" style="color:#94c045;"></i>
+                    </a>
+                  </p>
+                  
                 </div>
-                
-                <br>
-                <body>
-                    
-                  <div class ="myframe">
-                        <a href="http://www.facebook.com/share.php?u=saeedmirshekari.com" class="mybtn">
-                          <i class="bi bi-facebook" style="color: #94c045;"></i>
-                        </a>
-                        <a href="https://twitter.com/intent/tweet?url=Hey! Check out this interesting website I found saeedmirshekari.com" class="mybtn">
-                          <i class="bi bi-twitter" style="color: #94c045;"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/sharing/share-offsite/?url=saeedmirshekari.com" class="mybtn">
-                          <i class="bi bi-linkedin" style="color:#94c045;"></i>
-                        </a>
-                        <a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://saeedmirshekari.com."
-                           title="Check out this website!" class="mybtn">
-                          <i class="bi bi-envelope" style="color:#94c045;"></i>
-                        </a>
-                    </div>
-                  </body>
+
+            </body>
 
                 {{content | safe}}
               </div>
@@ -76,6 +78,8 @@ layout: 'base_blog.njk'
                 <br>
               </p>
               <div class="text-center"><button type="submit"  style="color: #fff; background: #94c045;">Send Comment</button></div>
+              <br>
+
           </form>
         </div>
         
