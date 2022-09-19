@@ -20,17 +20,26 @@ layout: blog_base_nobody.njk
 
             {%- for post in collections.post | reverse -%}
 
-              <article class="entry col-md-20" style="margin-left: 0px">
+              <article class="entry col-md-10" style="margin-left: 0px">
 
                 <a href="{{post.url}}">
                   {# style= "border-radius: 150%"; #}
-                  <div class="row">
-                    <div class="column zoom"> <img src="{{post.data.thumbnail}}" alt="" class="" height="250">  </div>
-                    <div class="column"> <p style="line-height:134%; color:#777" href="{{post.url}}" style="font-size:24px; position:static; bottom:0px;">
-                  <b>{{ post.data.title }}</b></p> 
-                    <i class="bi bi-clock"></i> <i class="timeago" style="font-size:18px; position:static; bottom:0px;" title="{{post.date | postDate}}"></i>
-                    <br>
-                    <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
+
+                  <div id="wrap">
+                    <div id="left_col">
+                      <div class="column zoom"> <img src="{{post.data.thumbnail}}" alt="" class="" width="150 vw">  </div>
+                    </div>
+
+                    <div id="right_col">
+                      <div class="column"> 
+                      <i style="line-height:134%; color:#777" href="{{post.url}}" style="position:static; bottom:0px;">
+                      <b>{{ post.data.title }}</b></i> 
+                      <br>
+                      <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px;" title="{{post.date | postDate}}"></i>
+                      <br>
+                      <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
+
+                      </div>
                     </div>
                   </div>
                 </a>
