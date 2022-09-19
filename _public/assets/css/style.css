@@ -1402,8 +1402,8 @@ section {
   padding: 0 0 40px 0;
 }
 .blog .entry {
-  padding: 30px;
-  margin-bottom: 60px;
+  padding: 20px;
+  margin-bottom: 15px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 .blog .entry .entry-img {
@@ -2303,8 +2303,8 @@ iframe {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  height: 80px;
-  width: 350px;
+  height: 0.5vh;
+  width: 100%;
   position: relative;
    box-shadow:
    -7px -7px 20px 0px #fff9,
@@ -2446,14 +2446,15 @@ abbr, time, span {
 /*-----------------------------------------------
 Page Split
 ----------------------------------------------- */
-.column {
-  float: left;
-  width: 50%;
+#wrap {
+  width:100%;
+  margin:0 auto;
 }
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+#left_col {
+  float:left;
+  width:40%;
+}
+#right_col {
+  float:right;
+  width:60%;
 }
