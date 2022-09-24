@@ -11,7 +11,7 @@ description: Do you want to score a Data Scientist job but don’t have any
   job   quickly.
 meta_title: 5 Ways to Get Your First Data Science Job | O’Fallon Labs
 author: Fatima Haroon
-date: 2022-09-15T15:25:30.093Z
+date: 2022-09-24T15:23:38.088Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_playing_cards_cywn-1-.svg
