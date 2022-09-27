@@ -21,7 +21,7 @@ Working with lots of clients means experiencing unique queries. Believe it or no
 
 The simplest answer is NO! Data science is for all. It’s never too late to learn [data science](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/) and start your new journey. If you have an analytical mind, you just need to learn the right skills. Being in your 40s and changing your career is challenging, but that shouldn’t stop you from pursuing the most profitable career. 
 
-## Is This Fear Realistic? 
+<h2>Is This Fear Realistic?</h2>
 
 It can be. However, many have done this before, and you are no exception. People like [Rebekah Iliff](https://rebekahiliff.com/about-me), [Sce Pike](https://www.linkedin.com/in/scepike), and [Micheline Casey](https://www.linkedin.com/in/michelinecasey/) moved from non-computing background studies and switched mid-career to different roles in data analytics. 
 
