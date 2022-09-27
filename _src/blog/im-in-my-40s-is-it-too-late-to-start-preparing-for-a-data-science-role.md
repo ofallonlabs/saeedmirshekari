@@ -12,7 +12,7 @@ author: Fatima Haroon
 date: 2022-09-27T18:33:43.997Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_adventure_map_hnin.png
+thumbnail: /assets/img/uploads/undraw_outdoor_party_oqh3.svg
 rating: 5
 ---
 Working with lots of clients means experiencing unique queries. Believe it or not, here at O’Fallon Labs, we work with clients of all ages. The most common fear comes from our clients aged 40 and above. 
