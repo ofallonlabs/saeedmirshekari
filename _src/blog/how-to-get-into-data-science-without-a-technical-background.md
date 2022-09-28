@@ -12,7 +12,7 @@ author: Fatima Haroon
 date: 2022-09-28T12:56:26.968Z
 tags:
   - post
-thumbnail: /assets/img/uploads/ag.png
+thumbnail: /assets/img/uploads/undraw_runner_start_x-0-uu-1-.svg
 rating: 5
 ---
 
