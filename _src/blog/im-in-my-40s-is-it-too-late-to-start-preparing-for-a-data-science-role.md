@@ -29,31 +29,30 @@ Another great example is reporter [Chong Zi Liang](https://sg.linkedin.com/in/zi
 
 You can do the same. You just need focus and a mentor who will save you valuable time and guide you in the right direction. 
 
-## Do I Need A Degree To Have A Data Science Career?
-
+<h2>Do I Need A Degree To Have A Data Science Career?</h2>
 No! To kickstart your career, you don’t need to pursue a 4-year statistics, computer science, or data analytics degree online. You can simply enroll in data analytics bootcamps or online courses. 
 
 The data science industry is facing a [labor shortage](https://saeedmirshekari.com/blog/2022-05-19-the-talent-gap-in-data-science-today-and-tomorrow/) worldwide. This is the best time to enter this industry and make your place. While a computer software and statistics background can help further build a data science career, enrolling yourself in data analytics courses online and self-study can be great in learning relevant skills and becoming job-ready. 
 
-## How To Get Started In The Data Science Field?
+<h2>How To Get Started In The Data Science Field?</h2>
 
-1. ### Tackle the Career Changes
+<h3>1. Tackle the Career Changes</h3>
 
 As mentioned before, mid-career change is daunting. You wouldn’t know where to start, especially moving into the field of data science. Determine which data science path you want to take, what skills you need to learn, how you will practice critical thinking, etc. Create an everyday learning pattern, and don’t deviate from it. 
 
-2. ### Connect the Dots
+<h3>2. Connect the Dots</h3>
 
 Your past career experience can somehow complement your future career goals. Whether you are in the PR & Communications sector or any other field, look at them through a Data Science lens. This will make your transition smoother and seamless. 
 
-3. ### Determine Your Strengths and Weaknesses
+<h3>3. Determine Your Strengths and Weaknesses</h3>
 
 Self-awareness will help you narrow down and close your skill gap. Getting into data science means identifying your skillset and areas you need to improve. You can’t start without knowing all this critical information. And once you identify these gaps, you must stay focused and improve them. Eliminate all the distractions - they will only slow you down. 
 
-4. ### Get Started - Don’t Waste Precious Time!
+<h3>4. Get Started - Don’t Waste Precious Time!</h3>
 
 We all know time is money, especially in your 40s. Time is a luxury you can’t waste. So, hire a data science mentor who will help you focus on the most important aspects of the field. 
 
-5. ### Get Enrolled in an Online Data Science Bootcamp
+<h3>5. Get Enrolled in an Online Data Science Bootcamp</h3>
 
 Aspiring data scientists can learn DS skills and experience through virtual bootcamps. While you can teach yourself at your decided pace, it’s best to enroll in a **[data science online course](https://saeedmirshekari.com/coaching-plan/)** as it has the proper structure and support you need to score a job. 
 
@@ -64,7 +63,7 @@ Here’s how a bootcamp or online course can help you:
 * **Building portfolio -** a top-tier bootcamp focuses on students completing real-life problems and projects to gain experience. These projects will establish a successful portfolio that will help you get hired based on experience. 
 * **Provides top-notch career counseling -** bootcamps are specially designed to get the students hired. They are full of mock interviews, networking guidance, resume advice and alteration, and many other things. These bootcamps guarantee success and scoring a job within a short time frame after you complete the program. 
 
-## How Can O’Fallon Labs Help You Become A Data Scientist?
+<h2>How Can O’Fallon Labs Help You Become A Data Scientist?</h2>
 
 At [O’Fallon Labs](https://saeedmirshekari.com/), we provide paid and **[free data analytics courses](https://saeedmirshekari.com/ecourse-bdsf/)**. Check out our data science tutorial for beginners on our homepage to understand how we operate and what services we offer. This isn’t all! 
 
