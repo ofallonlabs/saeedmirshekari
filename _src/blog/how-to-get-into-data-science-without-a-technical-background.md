@@ -43,7 +43,7 @@ This can only be done when your curriculum includes:
 
 Don’t, for once, think that you can do all this alone without guidance. Start looking for [free data analytics courses](https://saeedmirshekari.com/ecourse-bdsf/) with or without certificates to acquire experience-based skills. Industry leaders design these courses for aspiring individuals. 
 
-They also offer other perks like [mentorship programs](https://saeedmirshekari.com/coaching-plan), career counseling, and more. A data science degree takes 4 years. But there are different, more beneficial ways to learn all the essential courses and gain skills and experience - from 6-month online data science programs and bootcamps. 
+They also offer other perks like [mentorship programs](https://saeedmirshekari.com/coaching-plan), career counseling, and more. A data science degree takes 2-4 years. But there are different, more beneficial ways to learn all the essential courses and gain skills and experience - from 6-month online data science programs and bootcamps. 
 
 Before you choose any course, do ask yourself the following questions:
 
@@ -62,7 +62,7 @@ Go for mentors with more than 5 years of industry experience. Here’s [why you 
 
 <h3>Networking</h3>
 
-Mentors like [Saeed Mir Shekari](https://saeedmirshekari.com/team/) can teach novices the mojo of networking. They will tell you how to talk, socialize, use networking apps to the fullest, and make better relationships with potential big names in the industry. 
+Mentors like [Saeed Mirshekari](https://saeedmirshekari.com/team/) can teach novices the mojo of networking. They will tell you how to talk, socialize, use networking apps to the fullest, and make better relationships with potential big names in the industry. 
 
 Check out Saeed’s results and accomplishments in the Data Science industry [here](https://saeedmirshekari.com/results/).
 
@@ -93,4 +93,4 @@ You can be working in secret. Join communities and forums like Quora, where you 
 
 <h2>The Bottom Line</h2>
 
-A data science background doesn’t matter if you want to enter the DS field. Your resilience, commitment, and hard work will define your success. If you’re looking for the best data science programs and data science curriculum, joining O’Fallon Labs will be the decision.
+Not having a data science background should not stop you, if you want to enter the DS field. Your resilience, commitment, and hard work will define your success. If you’re looking for the best data science programs and data science curriculum, joining O’Fallon Labs will be the decision.  
