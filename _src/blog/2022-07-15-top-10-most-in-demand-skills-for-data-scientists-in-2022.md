@@ -8,6 +8,8 @@ description: You are enthusiastic about getting into the field of Data Science?
   post you can learn more about these important topics. At the end of this post
   you will also learn about some effective ways that you can take on to acquire
   these skills and prepare for your first Data Science job in advance.
+meta_title: NA
+meta_description: NA
 author: Katherine Olowookere
 date: 2022-07-15T23:05:14.801Z
 tags:
@@ -15,9 +17,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_creative_woman_re_u5tk.png
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_Creative_woman_re_u5tk.png" width="100%">
-
-
+\
 Now is a great time to become a data scientist because data scientists with the right set of skills are in high demand right now and will be in demand for the foreseen future. The demand for data analysts and scientists is more than there are people with the right skill set to fill those roles.
 
 
