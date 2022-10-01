@@ -5,6 +5,8 @@ description: A brief personal story of my journey becoming a US citizen this
   weekend after 14 years of living and contributing in the United States. The
   story of a kid born and raised in Tehran who lived apart from his loved ones
   for years for the hope of building a better life for others.
+meta_title: NA
+meta_description: NA
 author: Saeed Mirshekari
 date: 2022-07-04T18:45:45.885Z
 tags:
@@ -12,8 +14,6 @@ tags:
 thumbnail: /assets/img/uploads/festival.png
 rating: 5
 ---
-<img src="/assets/img/uploads/festival.png" width="100%">
-
 Happy 4th of July! This is a special day for me! Details are below.
 
 Almost 14 years ago, I came to this country from thousands of miles away with a different culture; while I was holding three thousand bucks tight in my hands and three thousands thoughts tight in my head. I landed in Chicago O’Hare on a new year’s eve. I missed my flight there because of a long TSA process on my case. It was snowing outside and very cold. So I decided to stay over night in an almost-empty huge airport to catch the next available flight early morning next day/year. This was how I spent my first night in America but this was not the beginning of the story.
