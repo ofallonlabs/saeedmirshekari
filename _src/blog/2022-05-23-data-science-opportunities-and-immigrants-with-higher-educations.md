@@ -5,6 +5,8 @@ description: "The US is rightly termed as the land of immigrants. The immigrant
   populace has contributed copiously to the country's development. The facts and
   figures regarding the American data science job market testify to the
   significant career possibilities it offers. "
+meta_title: NA
+meta_description: NA
 author: Srushti Pargat
 date: 2022-06-05T13:39:10.283Z
 tags:
@@ -12,8 +14,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_adventure_map_hnin.png
 rating: 4
 ---
-<img src="/assets/img/uploads/undraw_adventure_map_hnin.png" class="img-fluid" alt="" >
-
 # What can Immigrants with Higher Education expect from the US Data Science Job Market?
 
 Data has become the most critical form of asset for all types of business entities globally. No wonder we are witnessing an exponential boom in the data science industry. As per the [Grand View Research report](https://www.grandviewresearch.com/industry-analysis/data-science-platform-market), the global data science platform market shall proliferate at a CAGR of 26.9 percent between 2020 to 2027. 
