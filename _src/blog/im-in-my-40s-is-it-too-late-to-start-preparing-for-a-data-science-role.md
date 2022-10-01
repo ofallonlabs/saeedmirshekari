@@ -15,6 +15,8 @@ tags:
 thumbnail: /assets/img/uploads/undraw_outdoor_party_oqh3.svg
 rating: 5
 ---
+<img src="/assets/img/uploads/undraw_outdoor_party_oqh3.svg" width="100%">
+
 Working with lots of clients means experiencing unique queries. Believe it or not, here at O’Fallon Labs, we work with clients of all ages. The most common fear comes from our clients aged 40 and above. 
 
 “[Is data science for me?](https://saeedmirshekari.com/blog/2022-07-30-is-data-science-for-me/) There is a lot of stuff out there to prepare for Data Science roles, and I don't have the time to explore and learn them all in my 40s. And definitely, no time to waste on things that don't work. I also have other work responsibilities. I need to be careful about where to spend my time at this stage of my life. Isn't that too late for me to enter the game?”
