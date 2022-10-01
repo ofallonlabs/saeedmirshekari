@@ -6,6 +6,8 @@ description: Do you need a PhD to become a data scientist? Do you need to enroll
   to data-science university programs? Do you need to enroll to expensive
   data-science bootcamps? Are there any other alternatives? What about 1-on-1
   data-science mentoring programs?
+meta_title: NA
+meta_description: NA
 author: Alexia Dominique
 date: 2022-09-14T04:43:29.993Z
 tags:
@@ -13,8 +15,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_nuxt_js_0fq9-1-.png
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_nuxt_js_0fq9-1-.png" width="100%">
-
+\
 Many great data scientists have a degree in data science, so you think that maybe you should go to college, too, so you can be as great as them.
 
 But when you’re busy with your day job, too old to go to school, or don’t have the money to enroll in online courses, getting a data science degree isn’t the best option.
