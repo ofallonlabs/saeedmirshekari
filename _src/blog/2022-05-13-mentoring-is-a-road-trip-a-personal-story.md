@@ -5,6 +5,8 @@ description: Mentoring is a road trip with a buddy of yours who has been on this
   trip in the past. This is an interview with me on MentorCruise.com about my
   story as a Data Science mentor. How did it start in the first place? How is it
   going? And what's in it for you!
+meta_title: NA
+meta_description: NA
 author: Saeed Mirshekari
 date: 2022-05-13T19:29:02.548Z
 tags:
@@ -12,8 +14,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_by_the_road_re_vvs7.png
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_by_the_road_re_vvs7.png" width="100%">
-
 Following is an interview with me on [MentorCruise](https://mentorcruise.com/mentor/saeedmirshekari/) about my story as a Data Science mentor.
 
 <h1> Why did you decide to become a mentor? </h1>
