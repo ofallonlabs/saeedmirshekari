@@ -4,6 +4,8 @@ title: Where are you from?” A wrong question to ask
 description: This note describes why the author thinks that the popular question
   of \where are you from?" is a wrong ques- tion to ask. An alternative would be
   \where did you grow up?".
+meta_title: NA
+meta_description: NA
 author: Saeed Mirshekari
 date: 2013-11-21T05:54:09.654Z
 tags:
@@ -11,9 +13,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_best_place_re_lne9.png
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_best_place_re_lne9.png" width="100%">
-<br><br>
-
 # Why people ask this question?
 
 <p>The question "where are you from?" is a popular
