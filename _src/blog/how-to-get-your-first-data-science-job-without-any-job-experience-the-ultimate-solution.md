@@ -17,8 +17,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_playing_cards_cywn-1-.svg
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_playing_cards_cywn-1-.svg" width="100%">
-
 \
 “*How do I get a **job of Data Science** when I don’t have prior experience?”*
 
