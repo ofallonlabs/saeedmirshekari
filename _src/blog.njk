@@ -20,14 +20,14 @@ layout: blog_base_nobody.njk
 
             {%- for post in collections.post | reverse -%}
 
-              <article class="entry col-md-4" style="margin-left: 0px; background-color:#fff;">
+              <article class="entry col-md-5" style="margin-left: 0px; background-color:#fff;">
 
                 <a href="{{post.url}}">
                   {# style= "border-radius: 150%"; #}
 
                   <div id="wrap">
                     <div id="left_col">
-                      <div class="column zoom"> <img src="{{post.data.thumbnail}}" alt="" class="" style="object-fit:cover; width:120px; height:200px;">  </div>
+                      <div class="column zoom"> <img src="{{post.data.thumbnail}}" alt="" class="" style="object-fit:cover; width:90%; height:200px;">  </div>
                     </div>
 
                     <div id="right_col">
