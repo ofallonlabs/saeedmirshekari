@@ -6,6 +6,8 @@ description: I write this note to anyone with academic background who is
   targets the academics with advanced degreed in quantitative fields such as
   Physics, Statistics, Math, and Engineering, interested people from other
   relevant backgrounds may also find reading this note useful.
+meta_title: NA
+meta_description: NA
 author: Saeed Mirshekari
 date: 2016-01-10T18:36:32.726Z
 tags:
@@ -13,8 +15,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_unicorn_re_mi7i.png
 rating: 4
 ---
-<img src="/assets/img/uploads/undraw_unicorn_re_mi7i.png" width="100%">
-
  <h3>Who am I and to whom I am writing this note?</h3>
 
                 <p>

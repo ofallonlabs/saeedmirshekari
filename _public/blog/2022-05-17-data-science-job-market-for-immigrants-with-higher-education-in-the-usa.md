@@ -5,6 +5,8 @@ description: "Several business sectors are about to be transformed by data
   science. With customized solutions from O'Fallon Labs LLC, learn about the
   employment market opportunities and how to start a data science career as an
   immigrant in the United States  "
+meta_title: NA
+meta_description: NA
 author: Katherine Olowookere
 date: 2022-06-19T05:30:06.244Z
 tags:
@@ -12,8 +14,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_well_done_i2wr.png
 rating: 4
 ---
-<img src="/assets/img/uploads/undraw_well_done_i2wr.png" class="img-fluid" alt="" >
-
 Companies in a variety of industries have begun to embrace and acknowledge data science as a method of obtaining and leveraging smarter business decisions. Industries that do not keep up will be unable to compete in the future. It is such an exciting time to be a data scientist, or an aspiring data scientist, as intriguing and lucrative new opportunities continue to emerge at a rapid pace.
 
 <h1> What Exactly Is Data Science?  </h1>

@@ -5,6 +5,8 @@ description: Preparing for a data science job interview is never an overnight
   event. Learn more about the best practices before, during, and after a Data
   Science job interview in today's job market that will greatly help you to
   increase your chances to land on your first data analyst / data scientist job.
+meta_title: NA
+meta_description: NA
 author: Katherine Olowookere
 date: 2022-06-30T21:22:08.965Z
 tags:
@@ -12,8 +14,6 @@ tags:
 thumbnail: /assets/img/uploads/interview.png
 rating: 5
 ---
-<img src="/assets/img/uploads/interview.png" width="100%">
-
 Preparing for a data science job interview is never an overnight event. Data Science job interviews can bring tension and anxiety to anyone with (or even without) prior experience in a data science role. Every interview is a new learning process. To make a fantastic first impression, you'll have to adequately prepare for the interview. As the popular saying by  James Baker goes, “Proper Preparation Prevents Poor Performance.”
 
 To help you ace your interview, in this blog, I am going to share with you important tips and processes on how to successfully prepare before your interview, what to do during your interview, and the next line of action after your data science job interview. 

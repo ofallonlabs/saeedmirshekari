@@ -6,6 +6,8 @@ description: "In this note you will see me reflecting on my early years in my
   also share my thoughts on how to stay happy at work place. In particular, I
   metaphorically talk about happy unicorn, happy mule, happy dinosaur, and
   unhappy elephant! Read more to see which one you can relate to more...  "
+meta_title: NA
+meta_description: NA
 author: Saeed Mirshekari
 date: 2021-12-22T05:51:16.889Z
 tags:
@@ -14,8 +16,6 @@ thumbnail: /assets/img/uploads/undraw_superhero_kguv.png
 rating: 5
 ---
 ### Take Care of Your Unicorn
-
-<img src="/assets/img/uploads/undraw_superhero_kguv.png" width="100%">
 
 There were times in the past years that a lot of people were all in agreement that Data Scientists are unicorns! They have super powers but they are extremely hard to find. If you can find and hire a Data Scientist for your company, you are extremely lucky!
 

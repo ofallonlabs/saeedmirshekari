@@ -8,6 +8,8 @@ description: "Does it really worth it to spend several months (if not a few
   professionals without breaking your bank? This post is dedicated to Data
   Science mentoring: what is Data Science mentoring? how is it important and
   beneficial to you? How a good mentoring program look like? "
+meta_title: NA
+meta_description: NA
 author: Katherine Olowookere
 date: 2022-08-15T01:28:07.775Z
 tags:
@@ -15,8 +17,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_online_learning_re_qw08.png
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_Online_learning_re_qw08.png" width="100%">
-
+\
 *If you cannot see where you are going, ask someone who has been there before.* 
 
 *\- J Loren Norris*  

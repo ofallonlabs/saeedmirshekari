@@ -5,6 +5,8 @@ description: Data Science is a field full of untapped possibilities and
   opportunities. However, the daily demand is increasing, and according to a
   report published by the US Bureau of Labor Statistics, the number of data
   science jobs will increase to almost 26% by 2026.
+meta_title: NA
+meta_description: NA
 author: Adil Ansari
 date: 2022-06-12T13:56:46.676Z
 tags:
@@ -12,8 +14,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_stand_out_-1-oag.svg
 rating: 5
 ---
-<img src="/assets/img/uploads/undraw_stand_out_-1-oag.svg" class="img-fluid" alt="" >
-
 Data has always been at the forefront of improvements and breakthroughs in technology. It helps make the user experience more seamless. Organizations worldwide have started to embrace data science to gather and leverage data and make better decisions. If you’re new to job market, here’s what you should know about data science and how to become a Data Scientist.
 
 <h1> What is Data Science & Who is a Data Scientist? </h1>
