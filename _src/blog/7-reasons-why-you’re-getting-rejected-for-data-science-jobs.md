@@ -12,7 +12,7 @@ author: Fatima Haroon
 date: 2022-10-06T18:10:02.413Z
 tags:
   - post
-thumbnail: /assets/img/uploads/002.jpg
+thumbnail: /assets/img/uploads/undraw_heavy_box_agqi-1-.svg
 rating: 5
 ---
 <!--StartFragment-->
