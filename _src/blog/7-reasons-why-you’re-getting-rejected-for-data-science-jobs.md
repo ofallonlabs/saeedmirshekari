@@ -79,10 +79,8 @@ Applying to all jobs and not hearing back from them can be a hassle, especially 
 
 Niche down as much as possible. Apply only to those niche-specific jobs. A more specific field according to your skill set will increase your chances of hearing back from the hiring managers. 
 
-<h2>The Bottom Line<h2>
+<h2>The Bottom Line</h2>
 
 Facing job rejections can be a morale-downer. If possible, hire a mentor to help you build your technical and soft skills. They will help you start your career from scratch. You can directly access all the juicy news and latest trends in the data science field with the help of your mentor. So, this extra help will be worth it.
-
-
 
 <!--EndFragment-->
