@@ -2,12 +2,12 @@
 layout: blog_base_fatima.njk
 title: "How To Get Into Data Science Without A Technical Background? "
 description: If you’re passionate enough, setting foot into data science won’t
-  be hard. You just need proper guidance and direction. Here’s how you can
+  be impossible. You just need proper guidance and direction. Here’s how you can
   become a data scientist.
 meta_title: How To Get Into Data Science From Non-IT Background | O’Fallon Labs
 meta_description: If you’re passionate enough, setting foot into data science
-  won’t be hard. You just need proper guidance and direction. Here’s how you can
-  become a data scientist.
+  won’t be impossible. You just need proper guidance and direction. Here’s how
+  you can become a data scientist.
 author: Fatima Haroon
 date: 2022-09-28T12:56:26.968Z
 tags:
@@ -15,9 +15,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_runner_start_x-0-uu-1-.svg
 rating: 5
 ---
-
-
-The Total Data market is projected to reach [$146 billion](https://go.451research.com/2018-04-Total-Data-market-projected-146bn-by-2022.html) by the end of 2022. In 2020, the global revenues for business analytics and big data were $210 billion. Over the years, the demand for data-focused professionals has increased. 
+The Total Data market is projected to cross the $157 billion mark to [$268 billion by 2026](https://www.marketdataforecast.com/market-reports/big-data-market)[](https://go.451research.com/2018-04-Total-Data-market-projected-146bn-by-2022.html). In 2020, the global revenues for business analytics and big data were $210 billion. Over the years, the demand for data-focused professionals has increased. 
 
 Recruiters are openly reaching out and embracing these professional data science individuals to join their companies. But the problem is the gap between the current and required skill sets, which is broad - [increasing the demand more than ever](https://saeedmirshekari.com/blog/2022-07-15-top-10-most-in-demand-skills-for-data-scientists-in-2022/).
 
@@ -27,11 +25,11 @@ OR
 
 I learned about DS recently, and I fell in love with it. What is the best way to get my foot in the door and [land my first AI / Data Science job](https://saeedmirshekari.com/blog/how-to-get-your-first-data-science-job-without-any-job-experience-the-ultimate-solution/)?
 
-It doesn’t matter if you don’t have a data science background. You're on the right path as long as you are willing to become a data scientist and close this skill gap. This blog will focus on how aspiring individuals like you can become data scientists. 
+It doesn’t matter if you don’t have a data science background, it is still possible to get a job in Data Science. You're on the right path as long as you are willing to become a data scientist and close this skill gap. This blog will focus on how aspiring individuals like you, with no technical background, can become data scientists.
 
 <h2>1. Acquire Data Science Skills </h2>
 
-Okay, you love data science. However, the data science career path is complex as it involves different industries. The [best to become a data scientist](https://saeedmirshekari.com/blog/2022-09-07-the-best-way-to-become-a-data-scientist/) is to upskill your skill set. The data scientist requirements state that you must master the fundamentals of the field. 
+Okay, you love data science. However, the data science career path is complex as it involves different industries. The [best way to become a data scientist](https://saeedmirshekari.com/blog/2022-09-07-the-best-way-to-become-a-data-scientist/) is to upskill your skill set. The data scientist requirements state that you must master the fundamentals of the field. 
 
 This can only be done when your curriculum includes:
 
@@ -43,7 +41,9 @@ This can only be done when your curriculum includes:
 
 Don’t, for once, think that you can do all this alone without guidance. Start looking for [free data analytics courses](https://saeedmirshekari.com/ecourse-bdsf/) with or without certificates to acquire experience-based skills. Industry leaders design these courses for aspiring individuals. 
 
-They also offer other perks like [mentorship programs](https://saeedmirshekari.com/coaching-plan), career counseling, and more. A data science degree takes 2-4 years. But there are different, more beneficial ways to learn all the essential courses and gain skills and experience - from 6-month online data science programs and bootcamps. 
+They also offer other perks like [mentorship programs](https://saeedmirshekari.com/coaching-plan), career counseling, and more. Earning a data science degree typically takes 2 to 4 years, which is a long time. But there are different, more beneficial ways to learn all the essentials and gain skills and experience - [from 6-month online data science programs and bootcamps](<https://saeedmirshekari.com/blog/202
+2-09-07-the-best-way-to-become-a-
+data-scientist/>).  
 
 Before you choose any course, do ask yourself the following questions:
 
@@ -62,19 +62,21 @@ Go for mentors with more than 5 years of industry experience. Here’s [why you 
 
 <h3>Networking</h3>
 
-Mentors like [Saeed Mirshekari](https://saeedmirshekari.com/team/) can teach novices the mojo of networking. They will tell you how to talk, socialize, use networking apps to the fullest, and make better relationships with potential big names in the industry. 
+Networking implies building strong connections to gain visibility and benefits for your career growth. A stronger support network will highlight you in the eyes of recruiters quickly and increase your chances of getting interviews. 
+
+Mentors like [Saeed Mirshekari](https://saeedmirshekari.com/team/) can teach novices the mojo of networking. He will tell you how to talk, socialize, use networking apps to the fullest, and make better relationships with potential big names in the industry. 
 
 Check out Saeed’s results and accomplishments in the Data Science industry [here](https://saeedmirshekari.com/results/).
 
 <h3>Inside Industry Tips</h3>
 
-Mentors are like a burning volcano or goldmine of industry knowledge. With years of hands-on experience, they know how to put crucial skills to use. They will teach you how to master soft skills, collaborate with others to achieve business goals and other tips you never thought you needed to know. 
+Mentors are like a burning volcano or goldmine of industry knowledge. With years of hands-on experience, they know how to put crucial skills to use. They will teach you how to master soft skills, collaborate with others to achieve business goals and other tips some of which you never thought you needed to know. 
 
 <h3>Long-term Relationships</h3>
 
 A mentor becomes a guide not just throughout the program but also during the career span. Whenever students need strength or guidance, they turn to their mentors - no matter how much time passes! This shows that having a mentor means investing in a long-term, highly beneficial relationship. 
 
-<h2>3. Build Experience & Your Network</h2>
+<h2>3. Gain Real World Experience</h2>
 
 Getting practical experience is the key to getting your first data science job in the best companies. This doesn’t mean you have to work on a futuristic project. Instead, you can work on smaller projects where you tinker and experiment with ideas and tools. 
 
@@ -93,4 +95,4 @@ You can be working in secret. Join communities and forums like Quora, where you 
 
 <h2>The Bottom Line</h2>
 
-Not having a data science background should not stop you, if you want to enter the DS field. Your resilience, commitment, and hard work will define your success. If you’re looking for the best data science programs and data science curriculum, joining O’Fallon Labs will be the decision.  
+Not having a data science background should not stop you, if you want to enter the DS field. Your resilience, commitment, and hard work will define your success. If you’re looking for the best data science programs and data science curriculum, joining O’Fallon Labs will be the decision.
