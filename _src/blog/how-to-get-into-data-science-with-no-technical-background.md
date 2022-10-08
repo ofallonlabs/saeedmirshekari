@@ -1,6 +1,6 @@
 ---
 layout: blog_base_fatima.njk
-title: How To Get Into The Field of Data Science From Other Fields
+title: How To Enter The Field of Data Science From Other Fields
 description: If you’re passionate enough, setting foot into data science won’t
   be impossible. You just need proper guidance and direction. Here’s how you can
   become a data scientist.
