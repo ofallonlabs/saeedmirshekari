@@ -9,7 +9,7 @@ meta_description: If you’re passionate enough, setting foot into data science
   won’t be impossible. You just need proper guidance and direction. Here’s how
   you can become a data scientist.
 author: Fatima Haroon
-date: 2022-10-08T13:43:23.562Z
+date: 2022-10-08T13:47:04.696Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_login_re_4vu2.png
