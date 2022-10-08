@@ -12,7 +12,7 @@ author: Fatima Haroon
 date: 2022-09-28T12:56:26.968Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_login_re_4vu2.svg
+thumbnail: /assets/img/uploads/undraw_login_re_4vu2.png
 rating: 5
 ---
 The Total Data market is projected to cross the $157 billion mark to [$268 billion by 2026](https://www.marketdataforecast.com/market-reports/big-data-market)[](https://go.451research.com/2018-04-Total-Data-market-projected-146bn-by-2022.html). In 2020, the global revenues for business analytics and big data were $210 billion. Over the years, the demand for data-focused professionals has increased. 
