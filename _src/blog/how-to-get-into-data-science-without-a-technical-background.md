@@ -1,6 +1,6 @@
 ---
 layout: blog_base_fatima.njk
-title: "How To Get Into Data Science Without A Technical Background? "
+title: How To Get Into Data Science with No Technical Background
 description: If you’re passionate enough, setting foot into data science won’t
   be impossible. You just need proper guidance and direction. Here’s how you can
   become a data scientist.
