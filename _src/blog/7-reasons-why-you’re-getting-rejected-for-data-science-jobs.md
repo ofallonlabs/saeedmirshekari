@@ -1,6 +1,6 @@
 ---
 layout: blog_base_fatima.njk
-title: 7 Reasons Why You’re Getting Rejected for Data Science Jobs
+title: 7 Reasons That You Don't Hear Back from Your Data Science Job Applications
 description: Your resume could be the problem or your lack of portfolio or
   experience. If you’re tired of not hearing back from recruiters, follow our
   tips to know what’s wrong.
@@ -12,7 +12,7 @@ author: Fatima Haroon
 date: 2022-10-06T18:10:02.413Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_heavy_box_agqi-1-.svg
+thumbnail: /assets/img/uploads/undraw_not_found_re_44w9.svg
 rating: 5
 ---
 <!--StartFragment-->
