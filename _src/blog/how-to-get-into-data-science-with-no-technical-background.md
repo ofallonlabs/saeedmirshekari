@@ -1,6 +1,6 @@
 ---
 layout: blog_base_fatima.njk
-title: How To Get Into Data Science with No Technical Background
+title: How To Get Into The Field of Data Science From Other Fields
 description: If you’re passionate enough, setting foot into data science won’t
   be impossible. You just need proper guidance and direction. Here’s how you can
   become a data scientist.
@@ -15,15 +15,15 @@ tags:
 thumbnail: /assets/img/uploads/undraw_login_re_4vu2.png
 rating: 5
 ---
+This is a very common question: "My background is not Data Science, but I'm passionate about it. What is the best way to get my foot in the door?" \
+\
+OR \
+\
+"I learned about DS recently, and I fell in love with it. What is the best way to get my foot in the door and [land my first AI / Data Science job](https://saeedmirshekari.com/blog/how-to-get-your-first-data-science-job-without-any-job-experience-the-ultimate-solution/)?" 
+
 The Total Data market is projected to cross the $157 billion mark to [$268 billion by 2026](https://www.marketdataforecast.com/market-reports/big-data-market)[](https://go.451research.com/2018-04-Total-Data-market-projected-146bn-by-2022.html). In 2020, the global revenues for business analytics and big data were $210 billion. Over the years, the demand for data-focused professionals has increased. 
 
 Recruiters are openly reaching out and embracing these professional data science individuals to join their companies. But the problem is the gap between the current and required skill sets, which is broad - [increasing the demand more than ever](https://saeedmirshekari.com/blog/2022-07-15-top-10-most-in-demand-skills-for-data-scientists-in-2022/).
-
-“My background is not Data Science, but I'm passionate about it. What is the best way to get my foot in the door?”
-
-OR
-
-I learned about DS recently, and I fell in love with it. What is the best way to get my foot in the door and [land my first AI / Data Science job](https://saeedmirshekari.com/blog/how-to-get-your-first-data-science-job-without-any-job-experience-the-ultimate-solution/)?
 
 It doesn’t matter if you don’t have a data science background, it is still possible to get a job in Data Science. You're on the right path as long as you are willing to become a data scientist and close this skill gap. This blog will focus on how aspiring individuals like you, with no technical background, can become data scientists.
 
