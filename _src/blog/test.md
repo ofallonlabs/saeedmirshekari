@@ -29,6 +29,7 @@ $$
 $$
 
 s﻿asas 
+
 ```python
 print("Hello, world!")
 for i in range(10):
@@ -36,17 +37,16 @@ for i in range(10):
 ```
 
 a﻿sasas 
-<div style="background-color:rgb(10,10,10);"
+
+<div style="background-color:#94c045;">
 
 ```python
 print("Yo!")
 print("Hello, world!")
 for i in range(10):
     print(i)
-
 ```
 
 </div>
-
 
 s﻿asasa as as asas
