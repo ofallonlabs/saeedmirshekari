@@ -1,6 +1,6 @@
 ---
 layout: blog_base_fatima.njk
-title: 7 Reasons for Not Hearing Back from Your Data Science Job Applications
+title: 7 Reasons Why You're Not Hearing Back from Your Data Science Job Applications
 description: Your resume could be the problem or your lack of portfolio or
   experience. If you’re tired of not hearing back from recruiters, follow our
   tips to know what’s wrong.
