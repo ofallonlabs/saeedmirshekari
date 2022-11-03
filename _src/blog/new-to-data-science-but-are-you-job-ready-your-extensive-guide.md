@@ -12,7 +12,7 @@ author: Fatima Haroon
 date: 2022-11-05T12:21:10.060Z
 tags:
   - post
-thumbnail: /assets/img/uploads/interview.png
+thumbnail: /assets/img/uploads/undraw_trip_re_f724.png
 rating: 5
 ---
 <!--StartFragment-->
