@@ -45,3 +45,13 @@ for i in range(10):
     print(i)
 ```
 s﻿asasa as as asas
+
+````python
+# This python code contains triple backticks
+markdown_text = """
+```python
+print(5 * 5)
+```
+"""
+print(markdown_text)
+````
