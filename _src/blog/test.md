@@ -28,6 +28,8 @@ $$
 \end{align}
 $$
 
+H﻿ere is a code example for you:
+
 ```ipynb
 x = 2
 print(x**2)
