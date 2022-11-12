@@ -38,20 +38,27 @@ for i in range(10):
 
 a﻿sasas 
 
+<﻿py-script>
 ```python
 print("Yo!")
 print("Hello, world!")
 for i in range(10):
     print(i)
 ```
+<﻿/py-script>
+
 s﻿asasa as as asas
 
-````python
-# This python code contains triple backticks
-markdown_text = """
-```python
-print(5 * 5)
-```
-"""
-print(markdown_text)
-````
+print('Content-Type: text/html')
+print('\n\n')
+
+print('''<html>
+<head>
+</head>
+<h1>Hello Python!</h1>
+<body>''')
+
+ # Here insert Python Code
+
+print('''</body>
+</html>''')
