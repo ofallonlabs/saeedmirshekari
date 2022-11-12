@@ -40,7 +40,7 @@ s﻿asas
       print("Hello World")
       x = 2
 
-\    x
+x
     </py-script>
 
   </body>
