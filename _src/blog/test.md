@@ -38,7 +38,6 @@ s﻿asas
   <body>
     <py-script>
       print("Hello World")
-      x = 2
     </py-script>
 
   </body>
