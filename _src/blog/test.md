@@ -39,7 +39,8 @@ s﻿asas
     <py-script>
       print("Hello World")
       x = 2
-asa      
+
+\    x
     </py-script>
   </body>
 </html>
