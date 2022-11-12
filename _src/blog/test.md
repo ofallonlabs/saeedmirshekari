@@ -39,12 +39,10 @@ for i in range(10):
 a﻿sasas 
 
 <﻿py-script>
-```python
 print("Yo!")
 print("Hello, world!")
 for i in range(10):
     print(i)
-```
 <﻿/py-script>
 
 s﻿asasa as as asas
