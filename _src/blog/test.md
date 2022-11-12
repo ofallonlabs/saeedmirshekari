@@ -38,15 +38,20 @@ for i in range(10):
 
 a﻿sasas 
 
-<div style="font-size:40px">
-
 ```python
 print("Yo!")
 print("Hello, world!")
 for i in range(10):
     print(i)
 ```
-
-</div>
-
 s﻿asasa as as asas
+
+````python
+# This python code contains triple backticks
+markdown_text = """
+```python
+print(5 * 5)
+```
+"""
+print(markdown_text)
+````
