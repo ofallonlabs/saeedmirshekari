@@ -30,33 +30,16 @@ $$
 
 s﻿asas 
 
-```r
-print("Hello, world!")
-for i in range(10):
-    print(i)
-```
-
-a﻿sasas 
-
-<﻿py-script>
-print("Yo!")
-print("Hello, world!")
-for i in range(10):
-    print(i)
-<﻿/py-script>
-
-s﻿asasa as as asas
-
-print('Content-Type: text/html')
-print('\n\n')
-
-print('''<html>
-<head>
-</head>
-<h1>Hello Python!</h1>
-<body>''')
-
- # Here insert Python Code
-
-print('''</body>
-</html>''')
+<html>
+  <head>
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+  </head>
+  <body>
+    <py-script>
+      print("Hello World")
+      x = 2
+asa      
+    </py-script>
+  </body>
+</html>
