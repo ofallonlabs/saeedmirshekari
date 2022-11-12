@@ -30,7 +30,9 @@ $$
 
 H﻿ere is a code example for you:
 
+<﻿div style="color:red">
 ```ipynb
 x = 2
 print(x**2)
 ```
+<﻿/div>
