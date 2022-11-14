@@ -31,9 +31,12 @@ $$
 H﻿ere is a code example for you:
 
 
+<span style="color:blue;background-color:red;"> 
+
 ```python
-<span style="color:blue">
 x = 'hello, python world!'
 print(x.split(' '))
-</span>
+x﻿ = 2
 ```
+</span>
+
