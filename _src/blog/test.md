@@ -39,3 +39,9 @@ x﻿ = 2
 ```
 </span>
 
+<script src="https://gist.github.com/username/a39a422ebdff6e732753b90573100b16.js">
+x﻿ = 2
+y﻿ = 3
+p﻿rint(x+y)
+</script>
+
