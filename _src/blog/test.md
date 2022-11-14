@@ -31,7 +31,7 @@ $$
 H﻿ere is a code example for you:
 
 
-<span style="color:blue;background-color:red;"> 
+<span style="color:blue"> 
 
 ```python
 x = 'hello, python world!'
