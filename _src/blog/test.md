@@ -33,8 +33,8 @@ H﻿ere is a code example for you:
 
 ```python
 x = 'hello, python world!'
-print(x.split(' '))
-x﻿ = 2
+y﻿ = 1
+d﻿isplay(x+y)
 ```
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/default.min.css" integrity="sha512-3xLMEigMNYLDJLAgaGlDSxpGykyb+nQnJBzbkQy2a0gyVKL2ZpNOPIj1rD8IPFaJbwAgId/atho1+LBpWu5DhA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
