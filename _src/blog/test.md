@@ -30,6 +30,10 @@ $$
 
 H﻿ere is a code example for you:
 
+<pre><code class="language-html">
+z﻿ = 5
+</code></pre>
+
 
 ```python
 x = 'hello, python world!'
