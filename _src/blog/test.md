@@ -36,10 +36,11 @@ a﻿ = 2 + 4
 p﻿rint(a+z)
 </code></pre>
 
-
+<﻿span>
 ```python
 x = 'hello, python world!'
 y﻿ = 1+3
 d﻿isplay(x+y)
 ```
+<﻿/span>
 
