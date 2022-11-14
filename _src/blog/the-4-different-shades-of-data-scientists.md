@@ -1,7 +1,7 @@
 ---
 layout: blog_base_katherine.njk
 title: The 4 Different Shades of Data Scientists
-description: " There isn't just a single job role within Data Science. Data
+description: " There is not just a single job role within Data Science. Data
   Scientists are in different shades. Read on to know more about the different
   types of Data Scientists that exist."
 meta_title: 4 Types of Data Scientists | O'Fallon Labs
@@ -17,13 +17,9 @@ rating: 5
 ---
 <!--StartFragment-->
 
-The recent advancements in technology has enabled the creation, storage, and analyzing of ever-increasing amounts of information. This has consequently caused an explosion in the volume of available data. An astounding [2.5 quintillion data bytes](https://www.domo.com/learn/infographic/data-never-sleeps-5) were produced daily in 2020. 
-
-
+The recent advancements in technology has enabled the creation, storage, and analysis of ever-increasing amounts of information. This has consequently caused an explosion in the volume of available data. An astounding [2.5 quintillion data bytes](https://www.domo.com/learn/infographic/data-never-sleeps-5) were produced daily in 2020. 
 
 But frequently, this data just sits untouched in databases and data lakes. Business organizations are starting to realize that the vast amounts of data that these technologies collect and store can have a transformative impact on both their organizations and global societies if they know how to interpret them. This is where data science comes in.
-
-
 
 You might be surprised that there isn't just a single job role within Data Science. According to [Data Science Central](https://www.datasciencecentral.com/), the data science profession has over 400 labels attached to it across several organizations. But generally, they are divided into 4 major categories:
 
@@ -42,15 +38,9 @@ In this article, we will explore each one of these roles, what they do in organi
 
 Data engineers control the flow of Data. They are responsible for building data pipelines and storage solutions that ingest data from multiple sources. These data pipeline sources transform data into structures needed for analysis.
 
-
-
 Data engineers design infrastructures that make the collection and accessibility of data easy. Generally, they are responsible for managing data access in a company.
 
-
-
 Within the Data Science workflow – (Data collection and storage, Data Preparation, Exploration and Visualization, Experimentation and Prediction), the Data engineer focuses on the first stage– Data Preparation and Data Storage. 
-
-
 
 Data engineers typically have a background in computer science, engineering, applied mathematics, or any other related IT field. They are usually excellent in coding and working with databases and cloud tools.
 
@@ -71,8 +61,6 @@ Now more than ever, data engineers need to be comfortable with cloud computing (
 Data Analysts describe the current business via data. They perform simple analyses that describe the current and past data and then create dashboards and reports to summarize the results of their analysis. 
 
 A Data Analyst may utilize their expertise to assist a business in deciding which goods to stock in their stores or how to price those goods. 
-
-
 
 Data Analysts require less programming and statistics experience compared to the other roles. These professionals are expected to be effective communicators who are excellent at sharing findings with business stakeholders. Within the Data Science workflow, Data Analysts focus on the middle stages – Data Exploration, and Visualization. 
 
@@ -95,15 +83,9 @@ Some more advanced data analysts are skilled and comfortable with using Python a
 
 Data Scientists usually have a strong background in Statistics. They are responsible for analyzing data to identify patterns and trends and interpreting the data to discover solutions and opportunities. 
 
-
-
 Data Scientists require a deep knowledge of Math and Statistics. A natural sense of curiosity is also important, as this role requires a high level of creativity and critical thinking.
 
-
-
 Data Scientists’ strong background in Statistics enables them to find new insights into data rather than just solely describing data. This special ability in Data Scientists makes them different and unique from Data Analysts. 
-
-
 
 Data Scientists also use traditional Machine Learning for making predictions and for forecasting. Within the Data Science workflow, they focus on the last stages of Data Experimentation and Prediction. 
 
@@ -118,15 +100,9 @@ Data Scientists are usually proficient in the following tools:
 
 Data Scientists and Machine Learning Engineers are comparable, but the latter specializes in Machine Learning.
 
-
-
 Machine Learning is perhaps the major topic of conversation in Data Science. Machine Learning is a branch of artificial intelligence (AI) that focuses on developing systems that create new capabilities or enhance existing ones based on the data they are fed. 
 
-
-
 ML Engineers use training data to classify larger uncontrolled data. These scientists go beyond traditional Machine Learning done by Data Scientists with advanced algorithms such as Deep Learning. 
-
-
 
 Just like Data Scientists, ML Engineers also focus on the last stages in the Data Science workflow but with a deep focus on Prediction and Experimentation, the last stage of the DS workflow.  
 
@@ -135,8 +111,6 @@ Just like Data Scientists, ML Engineers also focus on the last stages in the Dat
 ML Engineers use various tools including:
 
 * Python and/or R to create Machine Learning models with libraries like TensorFlow or Spark etc. These libraries are used to create advanced Machine-Learning algorithms in various branches of Machine Learning such as Natural Language Processing (NLP) and Image Processing.
-
-
 
 Data Science has emerged into an all-inclusive job role that encompasses data mining, business analysis, predictive modeling, quality analysis, etc. As the field keeps growing, so does the demand for professionals. In O’Fallon Labs we offer professional services to help individuals prepare for Data Science roles through hands-on [Training Programs](https://saeedmirshekari.com/ecourse-bdsf-training/) and [1-on-1 Mentorship Programs](https://saeedmirshekari.com/coaching-plan/) led directly by top Data Scientists.
 
