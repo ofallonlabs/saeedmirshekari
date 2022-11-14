@@ -30,8 +30,7 @@ $$
 
 H﻿ere is a code example for you:
 
-
-<span style="color:white;background-color:#94c045;"> 
+<span style="color:blue;background-color:#C0C0C0;">
 
 ```python
 x = 'hello, python world!'
