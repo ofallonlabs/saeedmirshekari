@@ -36,7 +36,7 @@ a﻿=2+4
 p﻿rint(a+z)
 </code></pre>
 
-<﻿span style="color=blue">
+<﻿span style="color:blue;">
 ```python
 x = 'hello, python world!'
 y﻿ = 1+3
