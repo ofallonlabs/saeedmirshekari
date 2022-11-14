@@ -33,7 +33,7 @@ H﻿ere is a code example for you:
 
 ```python
 x = 'hello, python world!'
-y﻿ = 1
+y﻿ = 1+3
 d﻿isplay(x+y)
 ```
 
