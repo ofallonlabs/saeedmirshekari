@@ -30,9 +30,10 @@ $$
 
 H﻿ere is a code example for you:
 
-<﻿div style="background-color:#8ebf42">
-```ipynb
-x = 2
-print(x**2)
+
+```python
+<span style="color:blue">
+x = 'hello, python world!'
+print(x.split(' '))
+</span>
 ```
-<﻿/div>
