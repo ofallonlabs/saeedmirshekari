@@ -30,13 +30,17 @@ $$
 
 H﻿ere is a code example for you:
 
+<pre><code class="language-python">
+z﻿=5
+a﻿=2+4
+p﻿rint(a+z)
+</code></pre>
 
+<﻿span>
 ```python
 x = 'hello, python world!'
-y﻿ = 1
+y﻿ = 1+3
 d﻿isplay(x+y)
 ```
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/default.min.css" integrity="sha512-3xLMEigMNYLDJLAgaGlDSxpGykyb+nQnJBzbkQy2a0gyVKL2ZpNOPIj1rD8IPFaJbwAgId/atho1+LBpWu5DhA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/highlight.min.js" integrity="sha512-Pbb8o120v5/hN/a6LjF4N4Lxou+xYZ0QcVF8J6TWhBbHmctQWd8O6xTDmHpE/91OjPzCk4JRoiJsexHYg4SotQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script>hljs.highlightAll();</script>
+<﻿/span>
+
