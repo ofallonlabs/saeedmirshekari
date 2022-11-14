@@ -12,7 +12,7 @@ author: Katherine Olowookere
 date: 2022-11-14T13:57:34.490Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_trip_re_f724.png
+thumbnail: /assets/img/uploads/4shades_of_datascientist.png
 rating: 5
 ---
 <!--StartFragment-->
