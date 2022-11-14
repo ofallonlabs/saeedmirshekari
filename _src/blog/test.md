@@ -30,8 +30,10 @@ $$
 
 H﻿ere is a code example for you:
 
-<pre><code class="language-html">
+<pre><code class="language-python">
 z﻿ = 5
+a﻿ = 2 + 4
+p﻿rint(a+z)
 </code></pre>
 
 
