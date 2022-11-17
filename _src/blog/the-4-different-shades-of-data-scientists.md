@@ -34,7 +34,7 @@ In this article, we will explore each one of these roles, what they do in organi
 
 <h1>Different Shades of Data Scientists</h1>
 
-<img src="/assets/img/uploads/4shades.png" width="47%" />
+<img src="/assets/img/uploads/4shades.png" width="100%" />
 
 <h2> 1. D﻿ata Engineer </h2> 
 
