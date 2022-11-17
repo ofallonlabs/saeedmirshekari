@@ -34,6 +34,8 @@ In this article, we will explore each one of these roles, what they do in organi
 
 <h1>Different Shades of Data Scientists</h1>
 
+<img src="/assets/img/uploads/4shades.png" width="47%" />
+
 <h2> 1. D﻿ata Engineer </h2> 
 
 Data engineers control the flow of Data. They are responsible for building data pipelines and storage solutions that ingest data from multiple sources. These data pipeline sources transform data into structures needed for analysis.
