@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: The 4 Different Shades of Data Scientists
+title: The 4 Different Shades of Data Science
 description: " There is not just a single job role within Data Science. Data
   Scientists are in different shades. Read on to know more about the different
   types of Data Scientists that exist."
@@ -32,7 +32,7 @@ In this article, we will explore each one of these roles, what they do in organi
 
 <!--StartFragment-->
 
-<h1>Different Shades of Data Scientists</h1>
+<h1>Different Shades of Data Science</h1>
 
 <img src="/assets/img/uploads/4shades.png" width="100%" />
 
