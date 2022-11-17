@@ -44,9 +44,9 @@ Data engineers design infrastructures that make the collection and accessibility
 
 Within the Data Science workflow – (Data collection and storage, Data Preparation, Exploration and Visualization, Experimentation and Prediction), the Data engineer focuses on the first stage– Data Preparation and Data Storage. 
 
-Data engineers typically have a background in computer science, engineering, applied mathematics, or any other related IT field. They are usually excellent in coding and working with databases and cloud tools.
+Data engineers typically have a background in computer science, computer engineering, programming or any other related IT field. They are usually excellent in coding and working with databases and cloud tools.
 
-<h3> T﻿ools used by Data Engineers </h3>
+<h3> T﻿ools used by Data Enginseers </h3>
 
 A data engineer must understand the most efficient ways to access and manipulate data. To work with data, data engineers employ specialized tools like:
 
