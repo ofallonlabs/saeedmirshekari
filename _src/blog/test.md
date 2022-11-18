@@ -28,7 +28,10 @@ $$
 \end{align}
 $$
 
+
+```python
 <script src="https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd.js"></script>
+```
 
 <script src="https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd"></script>
 
