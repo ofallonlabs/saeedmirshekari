@@ -11,6 +11,23 @@ tags:
 thumbnail: /assets/img/uploads/ag.png
 rating: 5
 ---
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
+This is an inline equation: $$V_{sphere} = \frac{4}{3}\pi r^3,$$<br>
+followed by a display style equation:
+
+$$V_{sphere} = \frac{4}{3}\pi r^3$$
+
+$$
+\begin{align}
+  \tag{1.1}
+  V_{sphere} = \frac{4}{3}\pi r^3
+\end{align}
+$$
+
 <script src="https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd.js"></script>
 
 H﻿ere is a code example for you:
