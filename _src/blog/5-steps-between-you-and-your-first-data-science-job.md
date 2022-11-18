@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: 5 Steps Between You and Your First Data-Science Job
+title: 5 Steps Between You and Your First Data Science Job [Short Version]
 description: There are 5 steps that each data scientist would have followed to
   land their first job. In this note, I will be exploring those 5 steps.
 meta_title: 5 Steps Between You and Your First Data Science Job
