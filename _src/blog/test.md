@@ -30,7 +30,14 @@ $$
 
 <script src="https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd.js"></script>
 
+<script src="https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd"></script>
+
 https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd
+
+```python
+a = 3
+print(x+3)
+```
 
 H﻿ere is a code example for you:
 
