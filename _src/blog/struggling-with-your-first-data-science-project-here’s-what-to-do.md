@@ -12,7 +12,7 @@ author: Fatima Haroon
 date: 2022-11-21T12:34:33.345Z
 tags:
   - post
-thumbnail: /assets/img/uploads/4shades.png
+thumbnail: /assets/img/uploads/undraw_projections_re_ulc6.png
 rating: 5
 ---
 <!--StartFragment-->
