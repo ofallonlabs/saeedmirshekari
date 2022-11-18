@@ -28,19 +28,27 @@ $$
 \end{align}
 $$
 
+<script src="https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd.js"></script>
+
+<script src="https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd"></script>
+
+<script src="https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd.js"></script>
+
+https://gist.github.com/smirs/5c097be048b0cb9c48a95498cdcd4bfd
+
+```python
+a = 3
+print(x+3)
+```
+
 H﻿ere is a code example for you:
 
-<pre><code class="language-python">
-z﻿=5
-a﻿=2+4
-p﻿rint(a+z)
-</code></pre>
+<span style="color:blue;background-color:#f2f3f4"> 
 
-<﻿span>
 ```python
 x = 'hello, python world!'
-y﻿ = 1+3
+y﻿ = 1 + 3
 d﻿isplay(x+y)
 ```
-<﻿/span>
-
+
+</span>

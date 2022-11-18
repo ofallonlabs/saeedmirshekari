@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: The 4 Different Shades of Data Scientists
+title: The 4 Different Shades of Data Science
 description: " There is not just a single job role within Data Science. Data
   Scientists are in different shades. Read on to know more about the different
   types of Data Scientists that exist."
@@ -32,7 +32,9 @@ In this article, we will explore each one of these roles, what they do in organi
 
 <!--StartFragment-->
 
-<h1>Different Shades of Data Scientists</h1>
+<h1>Different Shades of Data Science</h1>
+
+<img src="/assets/img/uploads/4shades.png" width="100%" />
 
 <h2> 1. D﻿ata Engineer </h2> 
 
@@ -42,9 +44,9 @@ Data engineers design infrastructures that make the collection and accessibility
 
 Within the Data Science workflow – (Data collection and storage, Data Preparation, Exploration and Visualization, Experimentation and Prediction), the Data engineer focuses on the first stage– Data Preparation and Data Storage. 
 
-Data engineers typically have a background in computer science, engineering, applied mathematics, or any other related IT field. They are usually excellent in coding and working with databases and cloud tools.
+Data engineers typically have a background in computer science, computer engineering, programming or any other related IT field. They are usually excellent in coding and working with databases and cloud tools.
 
-<h3> T﻿ools used by Data Engineers </h3>
+<h3> T﻿ools used by Data Enginseers </h3>
 
 A data engineer must understand the most efficient ways to access and manipulate data. To work with data, data engineers employ specialized tools like:
 
