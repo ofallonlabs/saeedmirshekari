@@ -17,6 +17,8 @@ We leave a digital trace of our being in the form of data. A data scientist inte
 
 Luckily, the data-science field does not require you to have a specific academic background. However, there are 5 steps that each data scientist would have followed to land their first job. In this note, I will be exploring those 5 steps.
 
+<img src="/assets/img/uploads/5steps_to_ds_job.png" width="100%" alt="5 steps between you and your first data science job"/> 
+
 **Step 1 - Learning the required data-science skills**
 
 In each job, you’re required to possess a specific skill set. Data science jobs are no different. Luckily, you only need to have two skills to be a data scientist.
