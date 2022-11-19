@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: "5 Steps Between You and Your First Data-Science Job "
+title: 5 Steps Between You and Your First Data-Science Job  [Long Version]
 description: Regardless of your background, there are 5 major stages between you
   and your dream job as a non Data Scientist to a Data Scientist. This note list
   these stages and provides some tips and tricks for better results in each
@@ -19,6 +19,9 @@ Data Science is probably one of the fields that people come into it from all sor
 However, regardless of your background, there are 5 common steps between you and your first Data Scientist job. Being aware of these steps and improving each one of them helped me and many of the people I worked with to land on our first job faster and easier.
 
 Below are the 5 steps between you and your first Data Scientist job in the modern job market. Despite all the fast changes in today's job market, I can hardly imagine these 5 steps going anywhere soon. It is important to know these 5 steps and get good at each one.
+
+<img src="/assets/img/uploads/5steps_to_ds_job.png" width="100%" alt="5 steps between you and your first data science job"/> 
+<b﻿r>
 
 # 1- Technical Skills
 
