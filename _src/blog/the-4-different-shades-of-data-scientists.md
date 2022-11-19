@@ -9,7 +9,7 @@ meta_description: " There isn't just a single job role within Data Science. Data
   Scientists are in different shades. Read on to know more about the different
   types of Data Scientists that exist."
 author: Katherine Olowookere
-date: 2022-11-14T13:57:34.490Z
+date: 2022-11-19T18:25:37.831Z
 tags:
   - post
 thumbnail: /assets/img/uploads/4shades_of_datascientist.png
