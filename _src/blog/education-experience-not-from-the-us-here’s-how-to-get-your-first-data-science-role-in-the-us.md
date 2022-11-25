@@ -15,7 +15,7 @@ author: Fatima Haroon
 date: 2022-12-02T15:12:24.103Z
 tags:
   - post
-thumbnail: https://www.google.com/search?q=data+science&sxsrf=ALiCzsYqR_ivGUE-CXM3zXL039A9DKEMkg:1669389483500&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5-J650Mn7AhX1gP0HHV8tBU0Q_AUoAXoECAIQAw#imgrc=FtxxsWlI84L8pM
+thumbnail: /assets/img/uploads/4shades_of_datascientist.png
 rating: 5
 ---
 <!--StartFragment-->
