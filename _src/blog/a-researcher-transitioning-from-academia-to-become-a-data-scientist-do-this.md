@@ -12,7 +12,7 @@ author: Fatima Haroon
 date: 2022-12-02T15:19:25.801Z
 tags:
   - post
-thumbnail: /assets/img/uploads/horizontal-ladder-1024x682.png
+thumbnail: /assets/img/uploads/undraw_educator_re_ju47.png
 rating: 5
 ---
 <!--StartFragment-->
