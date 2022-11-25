@@ -15,7 +15,7 @@ author: Fatima Haroon
 date: 2022-12-02T15:12:24.103Z
 tags:
   - post
-thumbnail: /assets/img/uploads/4shades_of_datascientist.png
+thumbnail: /assets/img/uploads/undraw_travelers_re_y25a.png
 rating: 5
 ---
 <!--StartFragment-->
