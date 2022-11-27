@@ -1,6 +1,6 @@
 ---
 layout: blog_base_fatima.njk
-title: Struggling With Your First Data Science Project? Here Are What To Do!
+title: Struggling With Your First Data Science Project? Here Is What To Do!
 description: Data Science requires consistent learning to stay ahead in the
   market. Do this if you’ve scored your first data science job and are
   struggling with your project.
