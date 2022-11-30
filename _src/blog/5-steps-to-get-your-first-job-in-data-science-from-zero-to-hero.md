@@ -12,22 +12,16 @@ author: Katherine Olowookere
 date: 2022-11-30T18:06:29.252Z
 tags:
   - post
-thumbnail: /assets/img/uploads/worker-ladder.jpg
+thumbnail: /assets/img/uploads/undraw_yacht_re_kkai.png
 rating: 5
 ---
 <!--StartFragment-->
 
 What bugs the minds of most beginners in Data Science (especially those coming from a non-IT background) is the question of where to begin. The Data field is so wide that figuring out where to begin all by yourself can be very overwhelming. 
 
-
-
 So many 'coaches/experts' exaggerate the problem and scare away many newcomers by emphasizing that they cannot become data scientists until they have mastered complex statistics, linear algebra, calculus, programming, databases, distributed computing, machine learning, visualization, experimental design, clustering, deep learning, natural language processing, and more. This is false.
 
-
-
 Yes, at some point in your data career you might need to master some of these concepts to solve some complex problems, however, you don't need to master all of those skills to [begin a career in data science](https://saeedmirshekari.com/ecourse-bdsf/). 
-
-
 
 Where exactly do you begin in your Data Science career? In this article, I have explained the entire process of how you can successfully kickstart your Data Science career. 
 
@@ -51,7 +45,7 @@ Understanding yourself is a vital part of getting started.  Without self-awaren
 
 Once you understand your current position, strengths and limitations, then you can then begin to look into different [Data science career options](https://saeedmirshekari.com/blog/the-4-different-shades-of-data-scientists/) that match your existing skills and experiences.
 
-<h2>Know What Is Possible</h2>
+<h2>2. Know What Is Possible</h2>
 
 Millions of businesses on the planet have been impacted by some sort of AI and/or data science in recent years. Data is quickly becoming one of the most in-demand disciplines, with applications in a wide range of sectors like healthcare, banking, gaming, advertising, etc. 
 
@@ -78,7 +72,7 @@ As you set up your SMART goals you should ask yourself the following questions:�
 * Is this objective reasonable considering my expertise and skill level?
 * Have I got the time and resources to get this done?
 
-<h2>Work with Discipline: </h2>
+<h2>4. Work with Discipline: </h2>
 
 It is not just enough to set goals. To achieve goals you have to be disciplined. There will be days when motivation will not be enough to get you to go after those goals you have set, especially at the beginning stage when there are no results to motivate you. These moments demand discipline.
 
@@ -105,11 +99,9 @@ Any Data Science project you choose to work on should display your interests, te
 
 Know that Data science portfolio projects aren’t easy to finish. You’ll hit multiple walls and you’ll have to juggle other commitments. Working on something you are passionate about will help you push past your struggles and ensure you create a project you’re proud of which will also help you land a job. 
 
-
-
 From there your knowledge and abilities grow and you can advance the ladder by gaining more experience and learning more to become better.  
 
-<h3>Conclusion</h3>
+<h2>Conclusion</h2>
 
 Data science is a field that would require a lifetime to fully understand because there is so much to learn. However, you do not have to master everything before you can begin your career. Evaluate your current position and just start! You can begin now with our [free data analytics beginner course.](https://saeedmirshekari.com/ecourse-bdsf/)
 
