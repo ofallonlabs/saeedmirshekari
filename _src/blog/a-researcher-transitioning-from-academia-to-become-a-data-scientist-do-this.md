@@ -9,7 +9,7 @@ meta_description: If you’re an individual switching from academia to the
   industry as a data scientist, don’t panic. Keep reading to find out what you
   need to do.
 author: Fatima Haroon
-date: 2022-12-02T15:19:25.801Z
+date: 2022-12-01T15:45:30.203Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_educator_re_ju47.png
