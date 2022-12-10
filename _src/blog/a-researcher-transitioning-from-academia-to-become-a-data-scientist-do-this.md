@@ -41,7 +41,7 @@ Am I going to regret my decision later on? Can I go back to academia if I don't 
 
 We are here to address them. So, let’s get started. 
 
-<h2>[Should You Become a Data Scientist?](https://saeedmirshekari.com/blog/2022-07-30-is-data-science-for-me/)</h2>
+## [Should You Become a Data Scientist?](https://saeedmirshekari.com/blog/2022-07-30-is-data-science-for-me)﻿
 
 We know that staying in your ‘research’ bubble is what you might prefer. You may be cautious about stepping into this new world. But this doesn’t mean that there are no opportunities for you here. Instead, data science is an in-demand skill with a vast talent gap. 
 
