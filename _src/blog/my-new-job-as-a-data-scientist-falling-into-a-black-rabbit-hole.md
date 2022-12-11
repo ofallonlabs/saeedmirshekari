@@ -29,7 +29,7 @@ Yesterday I did the same trip, from the same origin to the same destination. Whi
 
 Unlike the last day of 2008, I did not miss my flight from Chicago in 2015. I feel I have absorbed much more of the universe inside me during these 7 years which makes me feel much more wise and relaxed.
 
-## 7 Years that Shaped Me
+## The 7 Years that Shaped Me
 
 Over these past 7 years between these two similar trips, many things have changed. I lived in 4 different countries in 4 different continents, and in 6 different cities. I met and worked with many great people and learned many amazing things during this chapter of my life in academia as a graduate student and postdoc.
 
