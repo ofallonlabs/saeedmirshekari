@@ -37,7 +37,7 @@ I’ve enjoyed working and hanging out with so many wonderful people in this env
 
 After several successful years in academia, I am ready to walk in to a new exciting world to continue exploring and discovering the world towards my passions.
 
-## Leaving Academia; Will I Miss It?
+## Leaving Academia; Will I Miss You?
 
 Leaving academia is hard and I’m going to miss all my nice fellow graduate students, my teachers, and staff  at UT, WUSTL and UF in which I was a student, my colleagues at LIGO and ICTP-SAIFR in which I was a postdoc, and all nice people at MIT, CIT, IAP, and UWM in which I was a visiting research fellow.
 
