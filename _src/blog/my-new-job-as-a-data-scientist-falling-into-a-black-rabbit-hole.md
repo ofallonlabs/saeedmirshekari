@@ -17,7 +17,7 @@ rating: 5
 ---
 <!--StartFragment-->
 
-## A New-Year's-Eve Flight from Iran to USA
+## A New-Year's-Eve Flight from Iran to the USA
 
 7 years ago, on exactly the same day as today, I landed in Chicago O’hare airport with 2x32kg full luggage in hand and a big dream in head surrounded by lots of anxiousness and concerns about leaving my family and starting a new chapter of my life in the US.
 
