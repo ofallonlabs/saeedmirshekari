@@ -634,6 +634,7 @@ section {
   box-shadow: 0 3px 7px rgba(148, 192, 69, 0.4);
   transition: 0.3s;
 }
+
 .pricing .btn-buy:hover {
   background: #aacd6b;
 }
@@ -1152,6 +1153,21 @@ section {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   box-shadow: 0 3px 7px rgba(148, 192, 69, 0.4);
+  transition: 0.3s;
+}
+
+.pricing .btn-buy-opp {
+  background: #A62753;
+  display: inline-block;
+  padding: 6px 25px 8px 25px;
+  border-radius: 4px;
+  color: #fff;
+  transition: none;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  box-shadow: 0 3px 7px #A62753;
   transition: 0.3s;
 }
 .pricing .btn-buy:hover {
