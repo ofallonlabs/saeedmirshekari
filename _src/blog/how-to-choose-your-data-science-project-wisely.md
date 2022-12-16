@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: How to Choose Your Data Science Project Wisely
+title: How to Choose Your First Data Science Project Wisely
 description: Data science projects in your portfolio serve as evidence to
   employers that you possess the skills necessary to be successful in a data
   science position. Learn how to choose unique Data Science projects to work on
@@ -12,7 +12,7 @@ author: Katherine Olowookere
 date: 2022-12-16T15:14:17.176Z
 tags:
   - post
-thumbnail: /assets/img/uploads/interview.png
+thumbnail: /assets/img/uploads/undraw_art_museum_8or4.png
 rating: 5
 ---
 Anyone can claim to be a good data scientist on their résumé, but hiring managers want to see tangible proof to support that claim. Otherwise, get ready to get dropped like a lousy AOL connection.
