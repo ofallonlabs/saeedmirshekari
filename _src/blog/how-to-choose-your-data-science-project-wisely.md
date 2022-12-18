@@ -9,7 +9,7 @@ meta_description: Data science projects in your portfolio serve as evidence to
   employers that you possess the skills necessary to be successful in a data
   science position. Learn how to choose unique Data Science projects to work on
 author: Katherine Olowookere
-date: 2022-12-16T15:14:17.176Z
+date: 2022-12-18T19:29:54.580Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_art_museum_8or4.png
