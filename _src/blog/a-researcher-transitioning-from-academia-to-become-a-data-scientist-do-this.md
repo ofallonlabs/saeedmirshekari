@@ -12,9 +12,6 @@ author: Fatima Haroon
 date: 2022-12-10T21:11:03.666Z
 tags:
   - post
-  - new
-  - cute
-  - informative
 thumbnail: /assets/img/uploads/undraw_educator_re_ju47.png
 rating: 5
 ---
