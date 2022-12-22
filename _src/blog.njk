@@ -1,7 +1,10 @@
 ---
 title: Data Science Learning Center
 description: Read our regular, original posts on Career Development, Data Science, Machine Learning Tips & Tricks, and content related to other topics right here.
-
+pagination:
+  data: collections.post
+  reverse: true
+  size: 6
 layout: blog_base_nobody.njk
 ---
 
@@ -11,54 +14,103 @@ layout: blog_base_nobody.njk
   <meta content="Data Science Mentoring Program, Data Science Training, Become Data Scientist, Data Scientist Salary" name="keywords">
   <meta content="Saeed Mirshekari" name="author">
   <link rel=“canonical” href=“https://www.saeedmirshekari.com/” />
-
-  <script>
-  function show(shown, hidden) {
-    document.getElementById(shown).style.display='block';
-    document.getElementById(hidden).style.display='none';
-    return false;
-  }
-
-  </script>
-
 </head>
 
+<div id="data-container"></div>
+<div id="pagination-container"></div>
 
-    <!-- ======= Blog Section ======= -->
-
-        <div class="row">
-
-    
+{# $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ #}
 
 
-  {%- for post in collections.post | reverse -%}
 
-    <article class="entry col-md-5" style="margin-left: 0px; background-color:#fff;">
 
-      <a href="{{post.url}}">
-        {# style= "border-radius: 150%"; #}
+<!-- ======= Blog Section ======= -->
 
-        <div id="wrap">
-          <div id="left_col">
-            <div class="column zoom"> <img src="{{post.data.thumbnail}}" alt="" class="" style="object-fit:cover; width:90%; height:200px;">  </div>
-          </div>
+<div class="row">
 
-          <div id="right_col">
-            <div class="column"> 
-            <a style="line-height:134%; color:#777" href="{{post.url}}" style="position:static; bottom:0px;">
-            <b>{{ post.data.title }}</b></a> 
-            <br>
-            <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="{{post.date | postDate}}"></i>
-            <br>
-            <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
+{% for post in pagination.items %}
 
-            </div>
+  <article class="entry col-md-5" style="margin-left: 24px; background-color:#fff;">
+
+    <a href="{{post.url}}">
+
+      <div id="wrap">
+        <div id="left_col">
+          <div class="column zoom"> <img src="{{post.data.thumbnail}}" alt="" class="" style="object-fit:cover; width:90%; height:200px;">  </div>
+        </div>
+
+        <div id="right_col">
+          <div class="column"> 
+          <a style="line-height:134%; color:#777" href="{{post.url}}" style="position:static; bottom:0px;">
+          <b>{{ post.data.title }}</b></a> 
+          <br>
+          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="{{post.date | postDate}}"></i>
+          <br>
+          <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
+
           </div>
         </div>
-      </a>
+      </div>
+    </a>
 
-    </article><!-- End blog entry -->
-    
-  {%- endfor -%}
+  </article>
+
+{% endfor %}
+
+{# Next/Previous #}
+<center>
+<div class="pagination">
+
+{% if pagination.pageNumber < pagination.items.length - 1  %}
+  <a href="/blog/{{ pagination.pageNumber + 1 }}" class="next">Older Posts</a>
+{% endif %}
+
+<a href="" class="next" style='background-color:#a62753; color:#fff'>PAGE {{pagination.pageNumber}}</a>
+
+
+{% if pagination.pageNumber > 0 %}
+  {% if pagination.pageNumber == 1 %}
+    <a href="/blog/" class="prev">More Recent Posts</a>
+  {% else %}
+  <a href="/blog/{{ pagination.pageNumber - 1 }}" class="prev">More Recent Posts</a>
+  {% endif %}
+{% endif %}
+
+
+</div>
+</center>
+
+{# 
+{%- for post in collections.post -%}
+
+  <article class="entry col-md-5" style="margin-left: 0px; background-color:#fff;">
+
+    <a href="{{post.url}}">
+
+      <div id="wrap">
+        <div id="left_col">
+          <div class="column zoom"> <img src="{{post.data.thumbnail}}" alt="" class="" style="object-fit:cover; width:90%; height:200px;">  </div>
+        </div>
+
+        <div id="right_col">
+          <div class="column"> 
+          <a style="line-height:134%; color:#777" href="{{post.url}}" style="position:static; bottom:0px;">
+          <b>{{ post.data.title }}</b></a> 
+          <br>
+          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="{{post.date | postDate}}"></i>
+          <br>
+          <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
 
           </div>
+        </div>
+      </div>
+    </a>
+
+  </article>
+
+{%- endfor -%} #}
+
+</div>
+
+
+
