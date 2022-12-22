@@ -8,6 +8,8 @@ pagination:
 layout: blog_base_nobody.njk
 ---
 
+
+
 <head style="font-family: 'Helvetica', 'Arial', sans-serif;">
  <!-- SEO -->
   <meta content="Read our regular, original posts on Career Development, Data Science, Machine Learning Tips & Tricks, and content related to other topics right here. Hot topics in this page includes: Top 10 Most In-Demand Skills for Data Scientists in 2022; Is Data Science For Me? 6 Questions to Ask Yourself; How To Prepare For Success In Your First Data Science Job Interview; " name="description">
@@ -19,9 +21,6 @@ layout: blog_base_nobody.njk
 <div id="data-container"></div>
 <div id="pagination-container"></div>
 
-{# $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ #}
-
-
 
 
 <!-- ======= Blog Section ======= -->
@@ -30,7 +29,7 @@ layout: blog_base_nobody.njk
 
 {% for post in pagination.items %}
 
-  <article class="entry col-md-5" style="margin-left: 24px; background-color:#fff;">
+  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
 
     <a href="{{post.url}}">
 
@@ -47,7 +46,10 @@ layout: blog_base_nobody.njk
           <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="{{post.date | postDate}}"></i>
           <br>
           <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
-
+          <br>
+          {% for tag in post.data.tags %}
+            <i class="bi bi-tags"></i> <i>{{ post.data.tags}}</i>
+          {% endfor %}
           </div>
         </div>
       </div>
@@ -79,36 +81,6 @@ layout: blog_base_nobody.njk
 
 </div>
 </center>
-
-{# 
-{%- for post in collections.post -%}
-
-  <article class="entry col-md-5" style="margin-left: 0px; background-color:#fff;">
-
-    <a href="{{post.url}}">
-
-      <div id="wrap">
-        <div id="left_col">
-          <div class="column zoom"> <img src="{{post.data.thumbnail}}" alt="" class="" style="object-fit:cover; width:90%; height:200px;">  </div>
-        </div>
-
-        <div id="right_col">
-          <div class="column"> 
-          <a style="line-height:134%; color:#777" href="{{post.url}}" style="position:static; bottom:0px;">
-          <b>{{ post.data.title }}</b></a> 
-          <br>
-          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="{{post.date | postDate}}"></i>
-          <br>
-          <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
-
-          </div>
-        </div>
-      </div>
-    </a>
-
-  </article>
-
-{%- endfor -%} #}
 
 </div>
 
