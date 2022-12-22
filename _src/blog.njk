@@ -63,19 +63,18 @@ layout: blog_base_nobody.njk
 <center>
 <div class="pagination">
 
-{% if pagination.pageNumber < pagination.items.length - 1  %}
-  <a href="/blog/{{ pagination.pageNumber + 1 }}" class="next">Older Posts</a>
+{% if pagination.pageNumber > 0 %}
+  {% if pagination.pageNumber == 1 %}
+    <a href="/blog/" class="prev">Previous</a>
+  {% else %}
+  <a href="/blog/{{ pagination.pageNumber - 1 }}" class="prev">Previous</a>
+  {% endif %}
 {% endif %}
 
 <a class="next" style='background-color:#a62753; color:#fff'>PAGE {{pagination.pageNumber}}</a>
 
-
-{% if pagination.pageNumber > 0 %}
-  {% if pagination.pageNumber == 1 %}
-    <a href="/blog/" class="prev">More Recent Posts</a>
-  {% else %}
-  <a href="/blog/{{ pagination.pageNumber - 1 }}" class="prev">More Recent Posts</a>
-  {% endif %}
+{% if pagination.pageNumber < pagination.items.length - 1  %}
+  <a href="/blog/{{ pagination.pageNumber + 1 }}" class="next">Next</a>
 {% endif %}
 
 
