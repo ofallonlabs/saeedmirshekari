@@ -64,6 +64,10 @@ layout: blog_base_nobody.njk
 <center>
 <div class="pagination">
 
+{% if pagination.pageNumber == 0  %}
+  <a class="disabled active prev">Previous</a>
+{% endif %}
+
 {% if pagination.pageNumber > 0 %}
   {% if pagination.pageNumber == 1 %}
     <a href="/blog/" class="prev">Previous</a>
@@ -72,12 +76,15 @@ layout: blog_base_nobody.njk
   {% endif %}
 {% endif %}
 
-<a class="next" style='background-color:#a62753; color:#fff'>PAGE {{pagination.pageNumber + 1}}</a>
+<a class="next" style='background-color:#a62753; color:#fff'>📃PAGE {{pagination.pageNumber + 1}}</a>
 
 {% if pagination.pageNumber < pagination.pages.length - 1  %}
   <a href="/blog/{{ pagination.pageNumber + 1 }}" class="next">Next</a>
 {% endif %}
 
+{% if pagination.pageNumber == pagination.pages.length - 1  %}
+  <a class="disabled active next">Next</a>
+{% endif %}
 
 
 </div>

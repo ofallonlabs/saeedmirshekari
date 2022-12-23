@@ -2506,17 +2506,18 @@ pagination
   text-decoration: none;
 }
 
-.pagination a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
 .pagination a:hover:not(.active) {background-color: #94c045;}
 .pagination a {
   border-radius: 5px;
 }
 
 .pagination a.active {
+  border-radius: 5px;
+}
+
+.pagination a.disabled {
+  color:#bababa;
+  background-color: #999;
   border-radius: 5px;
 }
 
@@ -2545,4 +2546,5 @@ pagination
   text-align: center;
 
 }
+
 
