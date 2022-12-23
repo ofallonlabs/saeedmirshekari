@@ -59,6 +59,7 @@ layout: blog_base_nobody.njk
 
 {% endfor %}
 
+
 {# Next/Previous #}
 <center>
 <div class="pagination">
@@ -73,15 +74,12 @@ layout: blog_base_nobody.njk
 
 <a class="next" style='background-color:#a62753; color:#fff'>PAGE {{pagination.pageNumber}}</a>
 
-{% if pagination.pageNumber < pagination.items.length - 1  %}
+{% if pagination.pageNumber < pagination.pages.length - 1  %}
   <a href="/blog/{{ pagination.pageNumber + 1 }}" class="next">Next</a>
 {% endif %}
 
 
+
 </div>
 </center>
-
-</div>
-
-
 
