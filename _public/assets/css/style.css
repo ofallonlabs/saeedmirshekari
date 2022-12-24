@@ -2689,11 +2689,11 @@ pagination
 /* Hover Special Effect */
 
   
-  .center {
+  /* .center {
     text-align: center;
     padding: 60px;
   }
-  
+   */
   #MonValley #BrightDoor {
     transition: all 0.3s ease-in-out;
     opacity:0;
