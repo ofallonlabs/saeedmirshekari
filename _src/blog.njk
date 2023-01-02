@@ -71,7 +71,7 @@ layout: blog_base_nobody.njk
   {% endif %}
 {% endif %}
 
-<a class="next" style='background-color:#a62753; color:#fff'>📃page {{pagination.pageNumber + 1}}</a>
+<a class="next" style='background-color:#a62753; color:#fff'>📃page {{pagination.pageNumber + 1}}/{{pagination.pages.length}}</a>
 
 {% if pagination.pageNumber < pagination.pages.length - 1  %}
   <a href="/blog/{{ pagination.pageNumber + 1 }}" class="next">Next</a>
