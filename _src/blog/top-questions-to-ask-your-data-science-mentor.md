@@ -1,5 +1,5 @@
 ---
-layout: blog_base.njk
+layout: blog_base_ai_mentor.njk
 title: Top Questions to Ask Your Data Science Mentor
 description: No matter if you are looking for a Data Science mentor or you are
   already working with one, it is important to know what are the best questions
@@ -66,7 +66,7 @@ Here are some great questions to ask a data scientist:
 
 Your mentor should be able to give you advice on how to stay curious about data science, how to ask questions and be open-minded, how being passionate and humble will help in your career, and how honesty is the most important quality for a data scientist.
 
-If you do not have a mentor yet, consider reading \[this page](https://saeedmirshekari.com/coaching-plan/).
+If you do not have a mentor yet, consider reading [this page](https://saeedmirshekari.com/coaching-plan/).
 
 ## Conclusion
 
