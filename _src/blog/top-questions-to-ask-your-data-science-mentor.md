@@ -1,5 +1,5 @@
 ---
-layout: blog_base.njk
+layout: blog_base_ai_mentor.njk
 title: Top Questions to Ask Your Data Science Mentor
 description: No matter if you are looking for a Data Science mentor or you are
   already working with one, it is important to know what are the best questions
