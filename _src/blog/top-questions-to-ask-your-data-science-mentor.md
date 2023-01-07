@@ -66,7 +66,7 @@ Here are some great questions to ask a data scientist:
 
 Your mentor should be able to give you advice on how to stay curious about data science, how to ask questions and be open-minded, how being passionate and humble will help in your career, and how honesty is the most important quality for a data scientist.
 
-If you do not have a mentor yet, consider reading \[this page](https://saeedmirshekari.com/coaching-plan/).
+If you do not have a mentor yet, consider reading [this page](https://saeedmirshekari.com/coaching-plan/).
 
 ## Conclusion
 
