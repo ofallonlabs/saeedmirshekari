@@ -12,7 +12,7 @@ meta_description: You’ve moved to the US with education and work experience fr
   abroad and looking for a good job in the DS field. Here’s how you can get your
   first Data Science role. 
 author: Fatima Haroon
-date: 2022-12-02T15:12:24.103Z
+date: 2023-01-02T15:56:20.708Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_travelers_re_y25a.png
