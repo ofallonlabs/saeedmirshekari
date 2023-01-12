@@ -9,7 +9,7 @@ meta_description: Data science is a field that would require a lifetime to fully
   understand because there is so much to learn. However, you do not have to
   master everything before you can begin your career.
 author: Katherine Olowookere
-date: 2022-11-30T18:06:29.252Z
+date: 2023-01-07T17:23:54.326Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_yacht_re_kkai.png
