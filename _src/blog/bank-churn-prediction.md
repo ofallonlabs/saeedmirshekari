@@ -18,7 +18,6 @@ Bank churn, or the loss of customers to other financial institutions, is a signi
 [![web link](https://img.shields.io/badge/code_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/bank_churn_prediction.ipynb)
 [![web link](https://img.shields.io/badge/slides_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/slides.pdf)
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/payroll-ge74d913c9_1920.jpg" width=700 height=400>
 
 ## Data Description
 
@@ -55,6 +54,8 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
    target.value_counts().plot.pie(autopct='%.2f',figsize=(6, 5))
    ```
 
+<﻿img src="https://github.com/kliang696/Bank_Churn_Prediction/blob/085370d4ebd7cdbd59d7d81c38a6b73345d6e942/Plots/EDA/databalance.png" width=100%>
+
 - - -
 
 2. **Missing Values**
@@ -66,7 +67,9 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
    num_nulls = null_mask.sum()
    print(num_nulls)
    ```
-<﻿img src="https://user-images.githubusercontent.com/89816441/212584108-9f51f0a0-7e0a-4601-8a3f-293ad7ba9eaf.png" width=100%>
+
+   <﻿img src="https://user-images.githubusercontent.com/89816441/212584108-9f51f0a0-7e0a-4601-8a3f-293ad7ba9eaf.png" width=100%>
+
 - - -
 
 3. **Catergorical Features**
@@ -82,14 +85,16 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
    * **Histograms**:
 
    Plot histograms of numerical data to detect outliers. From the histogram below, we did not find major outliers, which suggests that they are unlikely to have a big impact on our model.
-   <img src="Plots/EDA/num.png">
+   <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/num.png" width=100%>
 
    * **Heatmap**:
 
     Use a heatmap to identify the top 5 features that are most correlated with the target variable.
 
    * Heat maps can be helpful to visualize the relationship between two variables, with the strength of the relationship indicated by the intensity of the color.
-     <img src="Plots/EDA/heat1.png">
+
+     <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/heat1.png" width=100%>
+
    * The top 5 numerical features that correlated with target are:
 
      * `Total_Trans_Ct`
@@ -108,6 +113,8 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
    * One-hot encode the `Marital_Status` column to create new columns `Is_Married`, `Is_Single`, and `Unknown`.
 
      * Since the "marry_status" feature is a nominal variable and cannot be ordered, we will use one-hot encoding to transform it into three separate columns: "is_married," "is_single," and "is_unknown." If a customer is married, the "is_married" column will be set to 1, while the other two columns will be set to 0. 
+
+<﻿img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/marital.png" width=25%>
 
 - - -
 
@@ -128,11 +135,15 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
 Random over-sampling is a technique that is used to balance an imbalanced dataset by generating new synthetic samples from the minority class,which can help the model learn more about the minority class and make more accurate predictions. 
 
 <p align="center">
-<img src="Plots/EDA/ROS.png" width=250 height=250> </p>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/ROS.png" width=250 height=250> </p>
 
 ## Evaluation Metrics
 
 * In this churn problem, our goal is to minimize the customer who actually left bank but the model fails to detect(FN). This is because a failure to detect a customer who has actually left (FN) can result in the bank losing money, while a false alarm (FP) does not have the same issue. Therefore, we will prioritize **recall** over precision. 
+
+<p align="center">
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/cm.jpeg" width=25%>
+ </p>
 
 ## Model Performance Evaluation
 
@@ -140,7 +151,8 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 * The table below shows that the model's performance has significantly improved when using balanced data. The XG Boost classifier outperformed the other two models in this comparison.
 
 <p align="center">
-<img width="517" alt="Screen Shot 2022-12-30 at 02 30 58" src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png"> </p>
+<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=50%>
+ </p>
 
 ## Model Optimization: Parameter Tunning
 
@@ -157,8 +169,8 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 <table><tr>
 <p align="center">
 <img width="428" alt="Screen Shot 2022-12-30 at 02 33 06" src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png"></p>
-<td><img src="Plots/EDA/pr.png" >
-<img src="Plots/EDA/roc.png">
+<td><img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png" >
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png">
 </tr></table>
 
 ## Feature Importance
@@ -198,5 +210,7 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 ## Conclusion
 
 * `XGBoost` is a strong model that can outperform with `Logistic Regression` and `Random Forest`. To evaluate the model's performance, we should focus on the following metrics: `recall, F1 score, PR AUC, and ROC AUC`. This is particularly important because we place a strong emphasis on reducing false negatives and improving true positives. From model tuning, `XGBoost`  achieved a recall of 0.94, an F1 score of 0.87, a PR AUC of 0.95, and an ROC AUC of 0.98. The top 5 features that have most impact on the model are:`Total_Trans_Ct`, `Total_Trans_Amt`, `Total _Revolving_Bal`, `Total _Ct_Chng_04_Q1`,`Total_Relationship_Count`. This makes sense as lower values for these variables indicate that customers are using the bank's services less frequently, making them more likely to churn. 
+
 * To determine the financial benefits of using `XGBoost`, we should consider the dollar value evaluation table and determine the threshold that is most suitable for the business needs of the bank. For example, setting the threshold to 0.4 could potentially save the bank 850K dollars by reaching out to customers with promotions and offers to retain them. It is always easier for the bank to maintain the older customer rather than gain new customers.
+
 * To further improve the model, we can try different models such as `Neural Networks`. This will give the bank a chance to see if a different model performs better and achieve a higher `recall, F1, PR AUC and ROC AUC`. Additionally, the bank could try different data oversampling techniques such as `SMOTE` to prevent overfitting and help the model to perform better on the minority class.
