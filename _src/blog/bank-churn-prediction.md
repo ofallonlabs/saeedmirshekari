@@ -4,7 +4,7 @@ title: Bank Churn Prediction
 description: Bank Churn Prediction
 meta_title: Bank Churn Prediction
 meta_description: Bank Churn Prediction
-author: Saeed Mirshekari
+author: Kaiyuan (Andrew) Liang
 date: 2023-01-20T14:58:16.642Z
 tags:
   - post
