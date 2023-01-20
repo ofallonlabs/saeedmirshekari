@@ -11,7 +11,7 @@ meta_description: Having a seasoned professional who acts as a leader and
   career, try to learn new skills, and change industries. Discover the
   importance of having a mentor in this article.
 author: Katherine Olowookere
-date: 2023-01-17T08:53:02.487Z
+date: 2023-01-20T14:52:17.503Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_light_the_fire_gt58.png
@@ -52,4 +52,4 @@ But recently Data Science mentorship programs have changed this narrative. A Dat
 Having a mentor who can help you with learning new skills, writing a resume, creating a portfolio, job searching, getting ready for interviews, and negotiating a salary can make the process easier and improve your chances of success, especially in the tech industry.
 
 **\
-Do you feel lost, unsure of what to do next, or simply need someone to talk to about your Data Science career goals and concerns? Schedule a free one-on-one call today with [Saeed Mirshekari](https://saeedmirshekari.com/team/), one of the trusted experts and mentors in the field of Data Science. Mentors like him are ready to listen to you and guide you in the right direction. You can also [follow him on LinkedIn](https://www.linkedin.com/in/saeedmirshekari/).**
+Do you feel lost, unsure of what to do next, or simply need someone to talk to about your Data Science career goals and concerns? Schedule a free one-on-one call today with [Saeed](https://saeedmirshekari.com/team/), one of the trusted experts and mentors in the field of Data Science. Mentors like him are ready to listen to you and guide you in the right direction. You can also [follow him on LinkedIn](https://www.linkedin.com/in/saeedmirshekari/).**
