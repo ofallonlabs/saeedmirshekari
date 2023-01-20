@@ -1,6 +1,6 @@
 ---
 layout: blog_base_andrew.njk
-title: Bank Churn Prediction
+title: "Success Story: A New Mentee Project in O'Fallon Labs"
 description: Bank Churn Prediction
 meta_title: Bank Churn Prediction
 meta_description: Bank Churn Prediction
