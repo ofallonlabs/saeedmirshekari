@@ -61,21 +61,12 @@ If you choose to go through the FREE mentorship path, make sure you fully unders
 <h2>4 Tips on Getting the Most Out of your Data Science Mentorship Program </h2>
 
 1. **Be open-minded and willing to learn:** No matter who your mentor is, s/he has experience and expertise to share with you. You and your mentor may have a lot in common or very little. Regardless, if you remain open-minded and want to learn, you will learn and become a better professional as a result. 
-
-
-
-1. **Be honest and real:** Your mentor will be better able to help you if you are open and honest about who you are and what you want professionally and personally from your life. Talk about your background, current status, hopes, fears, and goals for the future. 
-
-
-
-1. **Establish a mentorship plan before you even begin:** Think about the topics you would like to discuss with your mentor ahead of time, write them down, and possibly even email them to your mentor in advance of your meetings. The more you prepare, the more you will get out of your meetings with your mentor.
-
-
-
-1. **Take time to listen:** Your mentor's responsibility is to provide you with candid criticism and guidance, some of which will be encouraging and some of which will be constructive. Listen to what your mentor has to say and think about how you can use that information to improve yourself rather than ignoring their advice or letting it make you feel bad. Listening to what your mentor has to say to you is crucial, whether or not you decide to follow their advice.
+2. **Be honest and real:** Your mentor will be better able to help you if you are open and honest about who you are and what you want professionally and personally from your life. Talk about your background, current status, hopes, fears, and goals for the future. 
+3. **Establish a mentorship plan before you even begin:** Think about the topics you would like to discuss with your mentor ahead of time, write them down, and possibly even email them to your mentor in advance of your meetings. The more you prepare, the more you will get out of your meetings with your mentor.
+4. **Take time to listen:** Your mentor's responsibility is to provide you with candid criticism and guidance, some of which will be encouraging and some of which will be constructive. Listen to what your mentor has to say and think about how you can use that information to improve yourself rather than ignoring their advice or letting it make you feel bad. Listening to what your mentor has to say to you is crucial, whether or not you decide to follow their advice.
 
 <h2>Conclusion</h2>
 
 Having a mentor who can help you with learning new skills, writing a resume, creating a portfolio, job searching, getting ready for interviews, and negotiating a salary can make the process easier and improve your chances of success, especially in the tech industry.
 
-Do you feel lost, unsure of what to do next, or simply need someone to talk to about your Data Science career goals and concerns? Schedule a free one-on-one call today with [Saeed Mirshekari](https://saeedmirshekari.com/team/), one of the trusted experts and mentors in the field of Data Science. Mentors like him are ready to listen to you and guide you in the right direction.
+**Do you feel lost, unsure of what to do next, or simply need someone to talk to about your Data Science career goals and concerns? Schedule a free one-on-one call today with [Saeed Mirshekari](https://saeedmirshekari.com/team/), one of the trusted experts and mentors in the field of Data Science. Mentors like him are ready to listen to you and guide you in the right direction. You can also [follow him on LinkedIn](https://www.linkedin.com/in/saeedmirshekari/).**
