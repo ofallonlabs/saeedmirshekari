@@ -1,6 +1,6 @@
 ---
 layout: blog_base_andrew.njk
-title: Bank Churn Prediction
+title: "Success Story: A New Mentee Project in O'Fallon Labs"
 description: Bank Churn Prediction
 meta_title: Bank Churn Prediction
 meta_description: Bank Churn Prediction
@@ -8,7 +8,7 @@ author: Kaiyuan (Andrew) Liang
 date: 2023-01-20T14:58:16.642Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_savings_re_eq4w.png
+thumbnail: /assets/img/uploads/undraw_home_run_oyhw.png
 rating: 5
 ---
 # Bank Churn Prediction
