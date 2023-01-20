@@ -54,7 +54,7 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
    target.value_counts().plot.pie(autopct='%.2f',figsize=(6, 5))
    ```
 
-<﻿img src="https://github.com/kliang696/Bank_Churn_Prediction/blob/main/Plots/EDA/databalance.png" width=100%>
+<﻿img src="https://raw.githubusercontent.com/kliang696/Bank_Churn_Prediction/main/Plots/EDA/databalance.png" width=100%>
 
 - - -
 
