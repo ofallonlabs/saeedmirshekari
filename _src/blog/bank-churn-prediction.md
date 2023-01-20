@@ -1,5 +1,5 @@
 ---
-layout: blog_base.njk
+layout: blog_base_andrew.njk
 title: Bank Churn Prediction
 description: Bank Churn Prediction
 meta_title: Bank Churn Prediction
