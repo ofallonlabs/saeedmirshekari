@@ -8,7 +8,7 @@ author: Kaiyuan (Andrew) Liang
 date: 2023-01-20T14:58:16.642Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_savings_re_eq4w.png
+thumbnail: /assets/img/uploads/undraw_home_run_oyhw.png
 rating: 5
 ---
 # Bank Churn Prediction
