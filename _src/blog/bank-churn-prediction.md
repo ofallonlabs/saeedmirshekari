@@ -1,6 +1,7 @@
 ---
 layout: blog_base_andrew.njk
-title: "Home Run: A New Project Completed in O'Fallon Labs"
+title: "Home Run: A New End-to-End Data Science Project Completed in O'Fallon
+  Labs by Our Mentees"
 description: Andrew is a is one of the recent graduates from 1-on-1 Mentoring
   Program in O'Fallon Labs. This article is an overview of one of his Data
   Science project that he did in O'Labs in late 2022.
