@@ -18,7 +18,6 @@ Bank churn, or the loss of customers to other financial institutions, is a signi
 [![web link](https://img.shields.io/badge/code_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/bank_churn_prediction.ipynb)
 [![web link](https://img.shields.io/badge/slides_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/slides.pdf)
 
-
 ## Data Description
 
 The credit card customer data in this project contains information on approximately 10,000 individuals, including demographic data such as age, education level, and marital status, as well as details about their credit card usage. There are a total of 23 columns and 10,127 rows in the dataset.
@@ -93,13 +92,13 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
 
 <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/heat1.png" width=100%>
 
-   * The top 5 numerical features that correlated with target are:
+* The top 5 numerical features that correlated with target are:
 
-     * `Total_Trans_Ct`
-     * `Total_Ct_Chng_Q4_Q1`
-     * `Total_Revolving_Bal`
-     * `Contacts_Count_12_mon`
-     * `Avg_Utilization_Ratio`
+  * `Total_Trans_Ct`
+  * `Total_Ct_Chng_Q4_Q1`
+  * `Total_Revolving_Bal`
+  * `Contacts_Count_12_mon`
+  * `Avg_Utilization_Ratio`
 
 - - -
 
@@ -141,18 +140,16 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 <p align="center">
 <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/cm.jpeg" width=65%>
- </p>
+</p>
 
 ## Model Performance Evaluation
 
 * For the model performance, we use Recall, F1, PR AUC, ROC AUC as our main metrics. As this is dataset is imbalanced, we will put more emphasize on Recall, F1 and PR because the TN is not being included in the calculation.  
 * The table below shows that the model's performance has significantly improved when using balanced data. The XG Boost classifier outperformed the other two models in this comparison.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=80%>
- </p>
+<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=100%>
 
-## Model Optimization: Parameter Tunning
+# Model Optimization: Parameter Tuning
 
 * Based on the comparison, we have chosen the XG Boost classifier as our primary model. To further improve performance, we will conduct hyperparameter tuning for the XG Boost model to identify the optimal combination of parameters.
 
@@ -164,11 +161,11 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 * To obtain the best results from hyperparameter tuning, we retrained the XGBoost model using the optimal hyperparameters. We then used 5-fold cross-validation to evaluate the model's performance and took the average of the validation scores as the final measure of the model's performance.
 
-<img alt="Screen Shot 2022-12-30 at 02 33 06" src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png w﻿idth=100% ">
+<img src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png" width=100%>
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png w﻿idth=100% " >
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png" width=100%>
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png w﻿idth=100% ">
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png" width=100%>
 
 ## Feature Importance
 
@@ -186,10 +183,11 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
   * Lower values for `Total _Ct_Chng_04_Q1` associated with a higher likelihood of churn. Higher values for `Total _Ct_Chng_04_Q1` associated with a lower likelihood of churn
   * Lower values for `Total_Relationship_Count` associated with a higher likelihood of churn. Higher values for `Total_Relationship_Count` associated with a lower likelihood of churn
 
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/Shap.png" width="90%">
 
-<img src="Plots/EDA/Shap.png" w﻿idth=100% >
 
-<img alt="Screen Shot 2023-01-08 at 21 03 55" src="https://user-images.githubusercontent.com/89816441/211230909-d7a3a0ab-1d8a-45af-979e-4ad9c07abbbe.png" w﻿idth=100% >
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/shap2.png" width="90%">
+
 
 ## Business Impact: Dollar Values
 
@@ -197,16 +195,16 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 ## Cloud Deployment
 
+<img src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png" width="90%">
+
+
 * In this part of the process, we will use the top 5 most influential features identified by `SHAP` values to build a `XG-Boost` model. We will then deploy this model using Python `Flask` to allow for real-time prediction for the new customers. This will enable us to quickly and efficiently make predictions using the model in a live setting.
 
-<img alt="Screen Shot 2023-01-08 at 21 52 52" src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png" w﻿idth=100% > 
+<img src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png" width="90%">
 
-<img alt="Screen Shot 2023-01-08 at 22 25 21" src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png" w﻿idth=10% >
 
 ## Conclusion
 
 * `XGBoost` is a strong model that can outperform with `Logistic Regression` and `Random Forest`. To evaluate the model's performance, we should focus on the following metrics: `recall, F1 score, PR AUC, and ROC AUC`. This is particularly important because we place a strong emphasis on reducing false negatives and improving true positives. From model tuning, `XGBoost`  achieved a recall of 0.94, an F1 score of 0.87, a PR AUC of 0.95, and an ROC AUC of 0.98. The top 5 features that have most impact on the model are:`Total_Trans_Ct`, `Total_Trans_Amt`, `Total _Revolving_Bal`, `Total _Ct_Chng_04_Q1`,`Total_Relationship_Count`. This makes sense as lower values for these variables indicate that customers are using the bank's services less frequently, making them more likely to churn. 
-
 * To determine the financial benefits of using `XGBoost`, we should consider the dollar value evaluation table and determine the threshold that is most suitable for the business needs of the bank. For example, setting the threshold to 0.4 could potentially save the bank 850K dollars by reaching out to customers with promotions and offers to retain them. It is always easier for the bank to maintain the older customer rather than gain new customers.
-
 * To further improve the model, we can try different models such as `Neural Networks`. This will give the bank a chance to see if a different model performs better and achieve a higher `recall, F1, PR AUC and ROC AUC`. Additionally, the bank could try different data oversampling techniques such as `SMOTE` to prevent overfitting and help the model to perform better on the minority class.
