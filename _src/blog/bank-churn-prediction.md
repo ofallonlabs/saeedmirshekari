@@ -201,13 +201,13 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 ## Business Impact: Dollar Values
 
+<img src="https://user-images.githubusercontent.com/89816441/210699843-f462204d-aeba-4609-b2c1-90b7d9090a2b.png" width="100%">
+
 * This table illustrates the potential savings for the bank using different threshold levels for the model's churn prediction. The column `dollar value 11` represents a correct prediction, where the model accurately predicts that a customer will churn and how much money can be saved totally by retaining the customer. 
 
 * The column labeled `dollar value 10` represents the model fails to predict that a customer churn but they actually does churn, which resulting in a loss for the bank. The third column `review counts` represents the number of customers that the model predicts will churn at different levels.
 
 * The cost of labor to review these possible churn cases varies based on the number of review counts, and the bank must decide which threshold level is the most suitable for the business.
-
-<img src="https://user-images.githubusercontent.com/89816441/210699843-f462204d-aeba-4609-b2c1-90b7d9090a2b.png" width="100%">
 
 
 ## Cloud Deployment
