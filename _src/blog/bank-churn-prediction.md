@@ -25,6 +25,9 @@ Bank churn, or the loss of customers to other financial institutions, is a signi
 [![web link](https://img.shields.io/badge/code_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/bank_churn_prediction.ipynb)
 [![web link](https://img.shields.io/badge/slides_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/slides.pdf)
 
+
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/payroll-ge74d913c9_1920.jpg" width="100%">
+
 ## Data Description
 
 The credit card customer data in this project contains information on approximately 10,000 individuals, including demographic data such as age, education level, and marital status, as well as details about their credit card usage. There are a total of 23 columns and 10,127 rows in the dataset.
