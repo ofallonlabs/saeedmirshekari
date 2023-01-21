@@ -1,11 +1,16 @@
 ---
 layout: blog_base_andrew.njk
-title: "Success Story: A New Mentee Project in O'Fallon Labs"
-description: Bank Churn Prediction
-meta_title: Bank Churn Prediction
-meta_description: Bank Churn Prediction
+title: "Home Run: A New End-to-End Data Science Project Completed in O'Fallon
+  Labs by Our Mentees"
+description: Andrew is a is one of the recent graduates from 1-on-1 Mentoring
+  Program in O'Fallon Labs. This article is an overview of one of his Data
+  Science project that he did in O'Labs in late 2022.
+meta_title: Customer Churn Prediction
+meta_description: "Bank churn, or the loss of customers to other financial
+  institutions, is a significant problem for banks because it can lead to a
+  decline in revenue and profitability. "
 author: Kaiyuan (Andrew) Liang
-date: 2023-01-20T14:58:16.642Z
+date: 2023-01-21T04:24:33.293Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_home_run_oyhw.png
@@ -13,10 +18,15 @@ rating: 5
 ---
 # Bank Churn Prediction
 
+## What Is The Problem?
+
 Bank churn, or the loss of customers to other financial institutions, is a significant problem for banks because it can lead to a decline in revenue and profitability. Building a prediction model can help identify at-risk customers and prevent churn by taking targeted interventions to improve the customer experience. Ultimately, building a prediction model to prevent churn can help improve customer loyalty, increase revenue, and reduce the financial impact of customer loss.
 
 [![web link](https://img.shields.io/badge/code_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/bank_churn_prediction.ipynb)
 [![web link](https://img.shields.io/badge/slides_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/slides.pdf)
+
+
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/payroll-ge74d913c9_1920.jpg" width="100%">
 
 ## Data Description
 
@@ -191,7 +201,14 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 ## Business Impact: Dollar Values
 
-* This table illustrates the potential savings for the bank using different threshold levels for the model's churn prediction. The column `dollar value 11` represents a correct prediction, where the model accurately predicts that a customer will churn and how much money can be saved totally by retaining the customer. The column labeled `dollar value 10` represents the model fails to predict that a customer churn but they actually does churn, which resulting in a loss for the bank. The third column `review counts` represents the number of customers that the model predicts will churn at different levels. The cost of labor to review these possible churn cases varies based on the number of review counts, and the bank must decide which threshold level is the most suitable for the business.
+<img src="https://user-images.githubusercontent.com/89816441/210699843-f462204d-aeba-4609-b2c1-90b7d9090a2b.png" width="100%">
+
+* This table illustrates the potential savings for the bank using different threshold levels for the model's churn prediction. The column `dollar value 11` represents a correct prediction, where the model accurately predicts that a customer will churn and how much money can be saved totally by retaining the customer. 
+
+* The column labeled `dollar value 10` represents the model fails to predict that a customer churn but they actually does churn, which resulting in a loss for the bank. The third column `review counts` represents the number of customers that the model predicts will churn at different levels.
+
+* The cost of labor to review these possible churn cases varies based on the number of review counts, and the bank must decide which threshold level is the most suitable for the business.
+
 
 ## Cloud Deployment
 
