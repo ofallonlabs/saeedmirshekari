@@ -1,9 +1,13 @@
 ---
 layout: blog_base_andrew.njk
-title: "Success Story: A New Mentee Project in O'Fallon Labs"
-description: Bank Churn Prediction
-meta_title: Bank Churn Prediction
-meta_description: Bank Churn Prediction
+title: "Home Run: A New Project Completed in O'Fallon Labs"
+description: Andrew is a is one of the recent graduates from 1-on-1 Mentoring
+  Program in O'Fallon Labs. This article is an overview of one of his Data
+  Science project that he did in O'Labs in late 2022.
+meta_title: Customer Churn Prediction
+meta_description: "Bank churn, or the loss of customers to other financial
+  institutions, is a significant problem for banks because it can lead to a
+  decline in revenue and profitability. "
 author: Kaiyuan (Andrew) Liang
 date: 2023-01-21T04:24:33.293Z
 tags:
@@ -13,6 +17,7 @@ rating: 5
 ---
 # Bank Churn Prediction
 
+#﻿# What Is The Problem?
 Bank churn, or the loss of customers to other financial institutions, is a significant problem for banks because it can lead to a decline in revenue and profitability. Building a prediction model can help identify at-risk customers and prevent churn by taking targeted interventions to improve the customer experience. Ultimately, building a prediction model to prevent churn can help improve customer loyalty, increase revenue, and reduce the financial impact of customer loss.
 
 [![web link](https://img.shields.io/badge/code_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/bank_churn_prediction.ipynb)
