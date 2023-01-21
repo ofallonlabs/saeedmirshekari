@@ -309,16 +309,14 @@ print(num_nulls)
 </ul>
 <p align="center">
 <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/cm.jpeg" width=65%>
- </p>
+</p>
 <h2>Model Performance Evaluation</h2>
 <ul>
 <li>For the model performance, we use Recall, F1, PR AUC, ROC AUC as our main metrics. As this is dataset is imbalanced, we will put more emphasize on Recall, F1 and PR because the TN is not being included in the calculation.</li>
 <li>The table below shows that the model's performance has significantly improved when using balanced data. The XG Boost classifier outperformed the other two models in this comparison.</li>
 </ul>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=80%>
- </p>
-<h2>Model Optimization: Parameter Tunning</h2>
+<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=100%>
+<h1>Model Optimization: Parameter Tuning</h1>
 <ul>
 <li>Based on the comparison, we have chosen the XG Boost classifier as our primary model. To further improve performance, we will conduct hyperparameter tuning for the XG Boost model to identify the optimal combination of parameters.</li>
 </ul>
@@ -329,9 +327,9 @@ print(num_nulls)
 <ul>
 <li>To obtain the best results from hyperparameter tuning, we retrained the XGBoost model using the optimal hyperparameters. We then used 5-fold cross-validation to evaluate the model's performance and took the average of the validation scores as the final measure of the model's performance.</li>
 </ul>
-<img alt="Screen Shot 2022-12-30 at 02 33 06" src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png w﻿idth=100% ">
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png w﻿idth=100% " >
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png w﻿idth=100% ">
+<img src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png" width=100%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png" width=100%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png" width=100%>
 <h2>Feature Importance</h2>
 <ul>
 <li>
@@ -354,29 +352,23 @@ print(num_nulls)
 </ul>
 </li>
 </ul>
-<img src="Plots/EDA/Shap.png" w﻿idth=100% >
-<img alt="Screen Shot 2023-01-08 at 21 03 55" src="https://user-images.githubusercontent.com/89816441/211230909-d7a3a0ab-1d8a-45af-979e-4ad9c07abbbe.png" w﻿idth=100% >
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/Shap.png" width="90%">
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/shap2.png" width="90%">
 <h2>Business Impact: Dollar Values</h2>
 <ul>
 <li>This table illustrates the potential savings for the bank using different threshold levels for the model's churn prediction. The column <code>dollar value 11</code> represents a correct prediction, where the model accurately predicts that a customer will churn and how much money can be saved totally by retaining the customer. The column labeled <code>dollar value 10</code> represents the model fails to predict that a customer churn but they actually does churn, which resulting in a loss for the bank. The third column <code>review counts</code> represents the number of customers that the model predicts will churn at different levels. The cost of labor to review these possible churn cases varies based on the number of review counts, and the bank must decide which threshold level is the most suitable for the business.</li>
 </ul>
 <h2>Cloud Deployment</h2>
+<img src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png" width="90%">
 <ul>
 <li>In this part of the process, we will use the top 5 most influential features identified by <code>SHAP</code> values to build a <code>XG-Boost</code> model. We will then deploy this model using Python <code>Flask</code> to allow for real-time prediction for the new customers. This will enable us to quickly and efficiently make predictions using the model in a live setting.</li>
 </ul>
-<img alt="Screen Shot 2023-01-08 at 21 52 52" src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png" w﻿idth=100% > 
-<img alt="Screen Shot 2023-01-08 at 22 25 21" src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png" w﻿idth=10% >
+<img src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png" width="90%">
 <h2>Conclusion</h2>
 <ul>
-<li>
-<p><code>XGBoost</code> is a strong model that can outperform with <code>Logistic Regression</code> and <code>Random Forest</code>. To evaluate the model's performance, we should focus on the following metrics: <code>recall, F1 score, PR AUC, and ROC AUC</code>. This is particularly important because we place a strong emphasis on reducing false negatives and improving true positives. From model tuning, <code>XGBoost</code>  achieved a recall of 0.94, an F1 score of 0.87, a PR AUC of 0.95, and an ROC AUC of 0.98. The top 5 features that have most impact on the model are:<code>Total_Trans_Ct</code>, <code>Total_Trans_Amt</code>, <code>Total _Revolving_Bal</code>, <code>Total _Ct_Chng_04_Q1</code>,<code>Total_Relationship_Count</code>. This makes sense as lower values for these variables indicate that customers are using the bank's services less frequently, making them more likely to churn.</p>
-</li>
-<li>
-<p>To determine the financial benefits of using <code>XGBoost</code>, we should consider the dollar value evaluation table and determine the threshold that is most suitable for the business needs of the bank. For example, setting the threshold to 0.4 could potentially save the bank 850K dollars by reaching out to customers with promotions and offers to retain them. It is always easier for the bank to maintain the older customer rather than gain new customers.</p>
-</li>
-<li>
-<p>To further improve the model, we can try different models such as <code>Neural Networks</code>. This will give the bank a chance to see if a different model performs better and achieve a higher <code>recall, F1, PR AUC and ROC AUC</code>. Additionally, the bank could try different data oversampling techniques such as <code>SMOTE</code> to prevent overfitting and help the model to perform better on the minority class.</p>
-</li>
+<li><code>XGBoost</code> is a strong model that can outperform with <code>Logistic Regression</code> and <code>Random Forest</code>. To evaluate the model's performance, we should focus on the following metrics: <code>recall, F1 score, PR AUC, and ROC AUC</code>. This is particularly important because we place a strong emphasis on reducing false negatives and improving true positives. From model tuning, <code>XGBoost</code>  achieved a recall of 0.94, an F1 score of 0.87, a PR AUC of 0.95, and an ROC AUC of 0.98. The top 5 features that have most impact on the model are:<code>Total_Trans_Ct</code>, <code>Total_Trans_Amt</code>, <code>Total _Revolving_Bal</code>, <code>Total _Ct_Chng_04_Q1</code>,<code>Total_Relationship_Count</code>. This makes sense as lower values for these variables indicate that customers are using the bank's services less frequently, making them more likely to churn.</li>
+<li>To determine the financial benefits of using <code>XGBoost</code>, we should consider the dollar value evaluation table and determine the threshold that is most suitable for the business needs of the bank. For example, setting the threshold to 0.4 could potentially save the bank 850K dollars by reaching out to customers with promotions and offers to retain them. It is always easier for the bank to maintain the older customer rather than gain new customers.</li>
+<li>To further improve the model, we can try different models such as <code>Neural Networks</code>. This will give the bank a chance to see if a different model performs better and achieve a higher <code>recall, F1, PR AUC and ROC AUC</code>. Additionally, the bank could try different data oversampling techniques such as <code>SMOTE</code> to prevent overfitting and help the model to perform better on the minority class.</li>
 </ul>
 
               
@@ -390,7 +382,7 @@ print(num_nulls)
                 <h4>Kaiyuan (Andrew) Liang</h4>
                 
                 <p>
-                  Andrew is a is one of the recent graduates from 1-on-1 Mentoring Program in O'Fallon Labs. This article is an overview of one of his Data Science project that he did in O'Labs in late 2022.
+                  Andrew is one of the recent graduates from 1-on-1 Mentoring Program in O'Fallon Labs. This article is an overview of one of his Data Science project that he did in O'Labs in late 2022.
                 </p>
               </div>
             </div>
