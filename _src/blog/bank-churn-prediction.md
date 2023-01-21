@@ -164,11 +164,13 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 * To obtain the best results from hyperparameter tuning, we retrained the XGBoost model using the optimal hyperparameters. We then used 5-fold cross-validation to evaluate the model's performance and took the average of the validation scores as the final measure of the model's performance.
 
-<img alt="Screen Shot 2022-12-30 at 02 33 06" src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png w﻿idth=100% ">
+<img src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png" w﻿idth=100%/>
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png w﻿idth=100% " >
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png w﻿idth=100% ">
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png" w﻿idth=100%/>
+
+
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png" width=100%/>
 
 ## Feature Importance
 
@@ -187,9 +189,9 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
   * Lower values for `Total_Relationship_Count` associated with a higher likelihood of churn. Higher values for `Total_Relationship_Count` associated with a lower likelihood of churn
 
 
-<img src="Plots/EDA/Shap.png" w﻿idth=100% >
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/Shap.png" w﻿idth=100% >
 
-<img src="https://user-images.githubusercontent.com/89816441/211230909-d7a3a0ab-1d8a-45af-979e-4ad9c07abbbe.png" w﻿idth=100% >
+<img src="https://user-images.githubusercontent.com/89816441/211230909-d7a3a0ab-1d8a-45af-979e-4ad9c07abbbe.png" w﻿idth=10% >
 
 ## Business Impact: Dollar Values
 
