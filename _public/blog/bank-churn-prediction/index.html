@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Bank Churn Prediction</title>
+    <title> Success Story: A New Mentee Project in O&#39;Fallon Labs</title>
 
   <!-- Favicons -->
   <link href="/assets/img/favicon.ico" rel="icon">
@@ -91,7 +91,7 @@
       <div class="breadcrumb-hero">
         <div class="container">
           <div class="breadcrumb-herol">
-            <h1 style="text-align: left;">Bank Churn Prediction</h1>
+            <h1 style="text-align: left;">Success Story: A New Mentee Project in O&#39;Fallon Labs</h1>
             <h6 style="text-align: left;">Bank Churn Prediction</h6>
           </div>
         </div>
@@ -99,7 +99,7 @@
       <div class="container">
         <ol>
           <li><a href="/blog">Learning Center</a></li>
-          <li>Bank Churn Prediction</li>
+          <li>Success Story: A New Mentee Project in O&#39;Fallon Labs</li>
         </ol>
       </div>
     </section><!-- End Breadcrumbs -->
@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5 {
 
 
             <body>   
-            <img src=/assets/img/uploads/undraw_savings_re_eq4w.png width="100%">
+            <img src=/assets/img/uploads/undraw_home_run_oyhw.png width="100%">
 
             <div class="blog-author d-flex align-items-center">
 
@@ -199,7 +199,7 @@ target.value_counts().plot.pie(autopct='%.2f',figsize=(6, 5))
 </code></pre>
 </li>
 </ol>
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/databalance.png" width=45%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/databalance.png" width=60%>
 <hr>
 <ol start="2">
 <li>
@@ -213,7 +213,6 @@ print(num_nulls)
 </code></pre>
 </li>
 </ol>
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/marital.png" width=45%>
 <hr>
 <ol start="3">
 <li>
@@ -238,10 +237,12 @@ print(num_nulls)
 </ul>
 <p>Use a heatmap to identify the top 5 features that are most correlated with the target variable.</p>
 <ul>
-<li>
-<p>Heat maps can be helpful to visualize the relationship between two variables, with the strength of the relationship indicated by the intensity of the color.</p>
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/heat1.png" width=100%>
+<li>Heat maps can be helpful to visualize the relationship between two variables, with the strength of the relationship indicated by the intensity of the color.</li>
+</ul>
 </li>
+</ol>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/heat1.png" width=100%>
+<ul>
 <li>
 <p>The top 5 numerical features that correlated with target are:</p>
 <ul>
@@ -253,8 +254,6 @@ print(num_nulls)
 </ul>
 </li>
 </ul>
-</li>
-</ol>
 <hr>
 <ol start="5">
 <li>
@@ -275,7 +274,7 @@ print(num_nulls)
 </ul>
 </li>
 </ol>
-<p>&lt;﻿img src=&quot;https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/marital.png&quot; width=25%&gt;</p>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/marital.png" width=65%>
 <hr>
 <ol start="6">
 <li>
@@ -303,13 +302,13 @@ print(num_nulls)
 <h2>Over Sampling</h2>
 <p>Random over-sampling is a technique that is used to balance an imbalanced dataset by generating new synthetic samples from the minority class,which can help the model learn more about the minority class and make more accurate predictions.</p>
 <p align="center">
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/ROS.png" width=250 height=250> </p>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/ROS.png" w﻿idth=100% > </p>
 <h2>Evaluation Metrics</h2>
 <ul>
 <li>In this churn problem, our goal is to minimize the customer who actually left bank but the model fails to detect(FN). This is because a failure to detect a customer who has actually left (FN) can result in the bank losing money, while a false alarm (FP) does not have the same issue. Therefore, we will prioritize <strong>recall</strong> over precision.</li>
 </ul>
 <p align="center">
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/cm.jpeg" width=25%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/cm.jpeg" width=65%>
  </p>
 <h2>Model Performance Evaluation</h2>
 <ul>
@@ -317,7 +316,7 @@ print(num_nulls)
 <li>The table below shows that the model's performance has significantly improved when using balanced data. The XG Boost classifier outperformed the other two models in this comparison.</li>
 </ul>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=50%>
+<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=80%>
  </p>
 <h2>Model Optimization: Parameter Tunning</h2>
 <ul>
@@ -330,12 +329,9 @@ print(num_nulls)
 <ul>
 <li>To obtain the best results from hyperparameter tuning, we retrained the XGBoost model using the optimal hyperparameters. We then used 5-fold cross-validation to evaluate the model's performance and took the average of the validation scores as the final measure of the model's performance.</li>
 </ul>
-<table><tr>
-<p align="center">
-<img width="428" alt="Screen Shot 2022-12-30 at 02 33 06" src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png"></p>
-<td><img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png" >
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png">
-</tr></table>
+<img alt="Screen Shot 2022-12-30 at 02 33 06" src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png w﻿idth=100% ">
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png w﻿idth=100% " >
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png w﻿idth=100% ">
 <h2>Feature Importance</h2>
 <ul>
 <li>
@@ -358,10 +354,8 @@ print(num_nulls)
 </ul>
 </li>
 </ul>
-<table><tr>
-<td><img src="Plots/EDA/Shap.png">
-<td><img width="700" alt="Screen Shot 2023-01-08 at 21 03 55" src="https://user-images.githubusercontent.com/89816441/211230909-d7a3a0ab-1d8a-45af-979e-4ad9c07abbbe.png">
-</tr></table>
+<img src="Plots/EDA/Shap.png" w﻿idth=100% >
+<img alt="Screen Shot 2023-01-08 at 21 03 55" src="https://user-images.githubusercontent.com/89816441/211230909-d7a3a0ab-1d8a-45af-979e-4ad9c07abbbe.png" w﻿idth=100% >
 <h2>Business Impact: Dollar Values</h2>
 <ul>
 <li>This table illustrates the potential savings for the bank using different threshold levels for the model's churn prediction. The column <code>dollar value 11</code> represents a correct prediction, where the model accurately predicts that a customer will churn and how much money can be saved totally by retaining the customer. The column labeled <code>dollar value 10</code> represents the model fails to predict that a customer churn but they actually does churn, which resulting in a loss for the bank. The third column <code>review counts</code> represents the number of customers that the model predicts will churn at different levels. The cost of labor to review these possible churn cases varies based on the number of review counts, and the bank must decide which threshold level is the most suitable for the business.</li>
@@ -370,10 +364,8 @@ print(num_nulls)
 <ul>
 <li>In this part of the process, we will use the top 5 most influential features identified by <code>SHAP</code> values to build a <code>XG-Boost</code> model. We will then deploy this model using Python <code>Flask</code> to allow for real-time prediction for the new customers. This will enable us to quickly and efficiently make predictions using the model in a live setting.</li>
 </ul>
-<table><tr>
-<td><img width="450" alt="Screen Shot 2023-01-08 at 21 52 52" src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png"> 
-<td><img width="400" alt="Screen Shot 2023-01-08 at 22 25 21" src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png">
-</tr></table>
+<img alt="Screen Shot 2023-01-08 at 21 52 52" src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png" w﻿idth=100% > 
+<img alt="Screen Shot 2023-01-08 at 22 25 21" src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png" w﻿idth=10% >
 <h2>Conclusion</h2>
 <ul>
 <li>
@@ -398,7 +390,7 @@ print(num_nulls)
                 <h4>Kaiyuan (Andrew) Liang</h4>
                 
                 <p>
-                  Andrew is a gratuate student at the George Washington University working on his Master Dgree in Data Science (class of 2023). He is one of the first graduates from 1-on-1 Mentoring Program in O'Fallon Labs. This article is an overview of one of his Data Science project that he did in O'Labs in late 2022.
+                  Andrew is a is one of the recent graduates from 1-on-1 Mentoring Program in O'Fallon Labs. This article is an overview of one of his Data Science project that he did in O'Labs in late 2022.
                 </p>
               </div>
             </div>
@@ -446,8 +438,8 @@ print(num_nulls)
               <div class="sidebar-item recent-posts">
 
                 <div class="post-item clearfix">
-                    <a href="/blog/bank-churn-prediction/"><img src="/assets/img/uploads/undraw_savings_re_eq4w.png" alt=""></a>
-                    <h4><a href="/blog/bank-churn-prediction/">Bank Churn Prediction</a></h4>
+                    <a href="/blog/bank-churn-prediction/"><img src="/assets/img/uploads/undraw_home_run_oyhw.png" alt=""></a>
+                    <h4><a href="/blog/bank-churn-prediction/">Success Story: A New Mentee Project in O&#39;Fallon Labs</a></h4>
                     <time>Jan 20, 2023</time>
                   </div>
 

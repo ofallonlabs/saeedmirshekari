@@ -1,6 +1,6 @@
 ---
 layout: blog_base_andrew.njk
-title: Bank Churn Prediction
+title: "Success Story: A New Mentee Project in O'Fallon Labs"
 description: Bank Churn Prediction
 meta_title: Bank Churn Prediction
 meta_description: Bank Churn Prediction
@@ -8,7 +8,7 @@ author: Kaiyuan (Andrew) Liang
 date: 2023-01-20T14:58:16.642Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_savings_re_eq4w.png
+thumbnail: /assets/img/uploads/undraw_home_run_oyhw.png
 rating: 5
 ---
 # Bank Churn Prediction
@@ -54,7 +54,7 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
    target.value_counts().plot.pie(autopct='%.2f',figsize=(6, 5))
    ```
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/databalance.png" width=45%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/databalance.png" width=60%>
 
 - - -
 
@@ -67,8 +67,6 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
    num_nulls = null_mask.sum()
    print(num_nulls)
    ```
-
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/marital.png" width=45%>
 
 - - -
 
@@ -93,7 +91,7 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
 
    * Heat maps can be helpful to visualize the relationship between two variables, with the strength of the relationship indicated by the intensity of the color.
 
-     <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/heat1.png" width=100%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/heat1.png" width=100%>
 
    * The top 5 numerical features that correlated with target are:
 
@@ -114,7 +112,7 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
 
      * Since the "marry_status" feature is a nominal variable and cannot be ordered, we will use one-hot encoding to transform it into three separate columns: "is_married," "is_single," and "is_unknown." If a customer is married, the "is_married" column will be set to 1, while the other two columns will be set to 0. 
 
-<﻿img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/marital.png" width=25%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/marital.png" width=65%>
 
 - - -
 
@@ -135,14 +133,14 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
 Random over-sampling is a technique that is used to balance an imbalanced dataset by generating new synthetic samples from the minority class,which can help the model learn more about the minority class and make more accurate predictions. 
 
 <p align="center">
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/ROS.png" width=250 height=250> </p>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/ROS.png" w﻿idth=100% > </p>
 
 ## Evaluation Metrics
 
 * In this churn problem, our goal is to minimize the customer who actually left bank but the model fails to detect(FN). This is because a failure to detect a customer who has actually left (FN) can result in the bank losing money, while a false alarm (FP) does not have the same issue. Therefore, we will prioritize **recall** over precision. 
 
 <p align="center">
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/cm.jpeg" width=25%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/cm.jpeg" width=65%>
  </p>
 
 ## Model Performance Evaluation
@@ -151,7 +149,7 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 * The table below shows that the model's performance has significantly improved when using balanced data. The XG Boost classifier outperformed the other two models in this comparison.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=50%>
+<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=80%>
  </p>
 
 ## Model Optimization: Parameter Tunning
@@ -166,12 +164,11 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 * To obtain the best results from hyperparameter tuning, we retrained the XGBoost model using the optimal hyperparameters. We then used 5-fold cross-validation to evaluate the model's performance and took the average of the validation scores as the final measure of the model's performance.
 
-<table><tr>
-<p align="center">
-<img width="428" alt="Screen Shot 2022-12-30 at 02 33 06" src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png"></p>
-<td><img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png" >
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png">
-</tr></table>
+<img alt="Screen Shot 2022-12-30 at 02 33 06" src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png w﻿idth=100% ">
+
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png w﻿idth=100% " >
+
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png w﻿idth=100% ">
 
 ## Feature Importance
 
@@ -189,10 +186,10 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
   * Lower values for `Total _Ct_Chng_04_Q1` associated with a higher likelihood of churn. Higher values for `Total _Ct_Chng_04_Q1` associated with a lower likelihood of churn
   * Lower values for `Total_Relationship_Count` associated with a higher likelihood of churn. Higher values for `Total_Relationship_Count` associated with a lower likelihood of churn
 
-<table><tr>
-<td><img src="Plots/EDA/Shap.png">
-<td><img width="700" alt="Screen Shot 2023-01-08 at 21 03 55" src="https://user-images.githubusercontent.com/89816441/211230909-d7a3a0ab-1d8a-45af-979e-4ad9c07abbbe.png">
-</tr></table>
+
+<img src="Plots/EDA/Shap.png" w﻿idth=100% >
+
+<img alt="Screen Shot 2023-01-08 at 21 03 55" src="https://user-images.githubusercontent.com/89816441/211230909-d7a3a0ab-1d8a-45af-979e-4ad9c07abbbe.png" w﻿idth=100% >
 
 ## Business Impact: Dollar Values
 
@@ -202,10 +199,9 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 * In this part of the process, we will use the top 5 most influential features identified by `SHAP` values to build a `XG-Boost` model. We will then deploy this model using Python `Flask` to allow for real-time prediction for the new customers. This will enable us to quickly and efficiently make predictions using the model in a live setting.
 
-<table><tr>
-<td><img width="450" alt="Screen Shot 2023-01-08 at 21 52 52" src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png"> 
-<td><img width="400" alt="Screen Shot 2023-01-08 at 22 25 21" src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png">
-</tr></table>
+<img alt="Screen Shot 2023-01-08 at 21 52 52" src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png" w﻿idth=100% > 
+
+<img alt="Screen Shot 2023-01-08 at 22 25 21" src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png" w﻿idth=10% >
 
 ## Conclusion
 
