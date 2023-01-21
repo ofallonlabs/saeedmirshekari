@@ -5,7 +5,7 @@ description: Bank Churn Prediction
 meta_title: Bank Churn Prediction
 meta_description: Bank Churn Prediction
 author: Kaiyuan (Andrew) Liang
-date: 2023-01-20T14:58:16.642Z
+date: 2023-01-21T04:24:33.293Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_home_run_oyhw.png
