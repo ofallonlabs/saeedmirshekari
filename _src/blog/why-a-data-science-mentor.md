@@ -11,7 +11,7 @@ meta_description: Having a seasoned professional who acts as a leader and
   career, try to learn new skills, and change industries. Discover the
   importance of having a mentor in this article.
 author: Katherine Olowookere
-date: 2023-01-20T14:52:17.503Z
+date: 2023-01-29T00:50:27.965Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_light_the_fire_gt58.png
