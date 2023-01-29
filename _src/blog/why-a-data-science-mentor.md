@@ -27,7 +27,7 @@ This article aims to explain the role of a mentor in your Data Science journey b
 
 * Students who want to learn more about the Data Science field
 * Recent graduates seeking employment in Data Science.
-* Scientists, engineers and other professionals who want to transition into Data Science as a new career path
+* Scientists, engineers and other professionals who want to transition into Data Science as a new career path and value their precious time
 * Data scientists who want to advance their careers and broaden their skill sets 
 * And anyone interested in this space who wants to assess their potential in the field of Data Science and explore new opportunities.
 
