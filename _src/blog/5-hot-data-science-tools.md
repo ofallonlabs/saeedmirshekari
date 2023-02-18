@@ -56,10 +56,8 @@ The key features of TensorFlow include its flexible architecture, which allows f
 Some of the key benefits of TensorFlow for machine learning and deep learning include:
 
 * Flexibility, with a range of pre-built models and the ability to create custom models and algorithms
-
-
 * Scalability, with support for distributed computing and easy deployment across a range of platforms and devices
-* Speed and efficiency, with optimized algorithms for large-scale data processing and training<h3></h3>
+* Speed and efficiency, with optimized algorithms for large-scale data processing and training
 * Visualization and debugging tools for easy model interpretation and improvement
 
 TensorFlow has been used in a wide range of applications, including natural language processing, image and speech recognition, and even game development. 
@@ -112,11 +110,8 @@ Some real-world examples of the application of Hadoop in big data processing can
 
 Other real-world use case samples can be found in
 
-
 * Retail Analytics
-
 * Image and Video Processing
-
 * Log Analysis.
 
 Overall, Hadoop is a powerful tool for big data processing and analysis. Its ability to handle large datasets in a distributed environment makes it an ideal solution for many industries and use cases.
