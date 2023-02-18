@@ -12,10 +12,10 @@ meta_description: Looking for the hottest data science tools to take your
   of their use in data science. Don't miss out on this essential guide for any
   data science enthusiast!
 author: Katherine Olowookere
-date: 2023-02-17T23:27:33.599Z
+date: 2023-02-18T16:41:05.306Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_circles_y-7-s2.svg
+thumbnail: /assets/img/uploads/undraw_pen_tool_re_s92o.png
 rating: 5
 ---
 Data Science has become one of the [most sought-after professions](https://saeedmirshekari.com/blog/5-hot-business-sectors-of-data-science-applications/) in the current job market. It is a profession that involves extracting insights and knowledge from data by using advanced technologies, algorithms, and statistical models. With the proliferation of big data, there has been a [surge in demand for data scientists](https://saeedmirshekari.com/blog/2022-05-14-the-talent-gap-in-data-science-today-and-tomorrow/) and tools that can help them to extract insights from vast amounts of data.
