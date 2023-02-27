@@ -39,32 +39,32 @@ Subsequent meetings should be used for understanding development needs, sharing 
 
 <h3>  First Meeting: Set expectations and goals.</h3>
 
-- [x] Introduce yourselves, including personal and professional experiences, career paths and ambitions. 
-- [x] Agree on a number of meetings you both can commit to. 
-- [x] Advise of any travel or holiday plans during the mentoring period. 
-- [x] Discuss what you both would like to get out of the relationship and set goals. 
-- [x] Set a date and time for your next meeting and any action items. 
-- [x] Share some information about yourself. 
+- Introduce yourselves, including personal and professional experiences, career paths and ambitions. 
+- Agree on a number of meetings you both can commit to. 
+- Advise of any travel or holiday plans during the mentoring period. 
+- Discuss what you both would like to get out of the relationship and set goals. 
+- Set a date and time for your next meeting and any action items. 
+- Share some information about yourself. 
 
 <h3>  Second Meeting: Establishing the relationship.</h3>
 
-- [x] Follow up on any action items from previous meetings. 
-- [x] Discuss specific career goals and ask your mentee to share their background and goals with you
-- [x] Suggest to your mentee that they use an action planning log. 
-- [x] Agree on a date and time for your next meeting. 
-- [x] Define the deliverables and desired outcomes. 
+- Follow up on any action items from previous meetings. 
+- Discuss specific career goals and ask your mentee to share their background and goals with you
+- Suggest to your mentee that they use an action planning log. 
+- Agree on a date and time for your next meeting. 
+- Define the deliverables and desired outcomes. 
 
 <h3> Subsequent Meetings: Understand development needs and share knowledge</h3>
 
-- [x] Follow up on any action items from previous meetings. 
-- [x] When appropriate, introduce your mentee to relevant networks or groups. 
-- [x] Candidly share personal assumptions and limitations. 
+- Follow up on any action items from previous meetings. 
+- When appropriate, introduce your mentee to relevant networks or groups. 
+- Candidly share personal assumptions and limitations. 
 
 <h3> Wrapping up Mentoring: Sustaining the relationship.</h3>
 
-- [x] If ending your relationship, finalize action items and review goals. 
-- [x] Mentees to reflect on lessons learned and share success stories
-- [x] Keep in touch.
+- If ending your relationship, finalize action items and review goals. 
+- Mentees to reflect on lessons learned and share success stories
+- Keep in touch.
 
 <h2> Conclusion </h2>
 
