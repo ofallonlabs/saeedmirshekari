@@ -1,11 +1,13 @@
 ---
 layout: blog_base.njk
 title: How to Compute Customer Attrition in Pandas in 5 minutes?
-description: test
-meta_title: test
-meta_description: test
+description: How to Compute Customer Attrition in Pandas in 5 minutes?
+meta_title: In this tutorial you will learn how to compute customer attrition in
+  pandas using some basic pandas functions.
+meta_description: In this tutorial you will learn how to compute customer
+  attrition in pandas using some basic pandas functions.
 author: Saeed Mirshekari
-date: 2023-02-25T22:38:53.397Z
+date: 2023-02-27T00:43:24.995Z
 tags:
   - post
 thumbnail: /assets/img/uploads/ag.png
