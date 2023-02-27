@@ -37,7 +37,7 @@ Here is a snapshot of the input data for you to see what we are dealing with:
 
 It is always nice to have a clear idea of the expected output shape of the data. For computing the Customer Attrition here is what we would expect as the output:
 
-<img src="/assets/img/uploads/output_attr.png" width="100%" />
+<img src="/assets/img/uploads/output_attr.png" width="80%" />
 
 # Data Manipulations
 
@@ -55,7 +55,7 @@ Before we get into the python scripts that takes the input data and returns the 
 
 Here is the p﻿ython scripts you need to compute the Customer Attrition:
 
-<script src="https://gist.github.com/smirs/a937eea40f24488eeb1f7ab1a1bab607.js" width="100%"></script>
+<script src="https://gist.github.com/smirs/d08a76aebf4f152fae294c48fb76ecdf.js"></script>
 
 # Summary
 
