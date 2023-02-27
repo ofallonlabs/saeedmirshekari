@@ -9,7 +9,7 @@ meta_description: In this tutorial you will learn how to compute customer
 author: Saeed Mirshekari
 date: 2023-02-27T00:46:47.255Z
 tags:
-  - toturial
+  - post
 thumbnail: /assets/img/uploads/undraw_autumn_re_rwy0.png
 rating: 5
 ---
