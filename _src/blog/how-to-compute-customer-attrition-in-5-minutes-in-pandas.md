@@ -55,7 +55,7 @@ Before we get into the python scripts that takes the input data and returns the 
 
 Here is the p﻿ython scripts you need to compute the Customer Attrition:
 
-<script src="https://gist.github.com/smirs/a937eea40f24488eeb1f7ab1a1bab607.js"></script>
+<script src="https://gist.github.com/smirs/a937eea40f24488eeb1f7ab1a1bab607.js" width="100%"></script>
 
 # Summary
 
