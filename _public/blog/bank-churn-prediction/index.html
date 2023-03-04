@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Success Story: A New Mentee Project in O&#39;Fallon Labs</title>
+    <title> Home Run: A New End-to-End Data Science Project Completed in O&#39;Fallon Labs by Our Mentees</title>
 
   <!-- Favicons -->
   <link href="/assets/img/favicon.ico" rel="icon">
@@ -45,8 +45,8 @@
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
-  <meta content = Bank Churn Prediction name="title">
-  <meta content = Bank Churn Prediction name="description">
+  <meta content = Customer Churn Prediction name="title">
+  <meta content = Bank churn, or the loss of customers to other financial institutions, is a significant problem for banks because it can lead to a decline in revenue and profitability.  name="description">
 
     <div class="container d-flex align-items-center justify-content-between">
       <a style="text-align:left; font-size: 24px; color:#666;" href="/index.html"><img style="vertical-align: -5px; text-align:left; width:4vh" src="/assets/img/OLAB_LOGO.png" alt="" class=""> O'Fallon Labs</a>
@@ -91,15 +91,15 @@
       <div class="breadcrumb-hero">
         <div class="container">
           <div class="breadcrumb-herol">
-            <h1 style="text-align: left;">Success Story: A New Mentee Project in O&#39;Fallon Labs</h1>
-            <h6 style="text-align: left;">Bank Churn Prediction</h6>
+            <h1 style="text-align: left;">Home Run: A New End-to-End Data Science Project Completed in O&#39;Fallon Labs by Our Mentees</h1>
+            <h6 style="text-align: left;">Andrew is a is one of the recent graduates from 1-on-1 Mentoring Program in O&#39;Fallon Labs. This article is an overview of one of his Data Science project that he did in O&#39;Labs in late 2022.</h6>
           </div>
         </div>
       </div>
       <div class="container">
         <ol>
           <li><a href="/blog">Learning Center</a></li>
-          <li>Success Story: A New Mentee Project in O&#39;Fallon Labs</li>
+          <li>Home Run: A New End-to-End Data Science Project Completed in O&#39;Fallon Labs by Our Mentees</li>
         </ol>
       </div>
     </section><!-- End Breadcrumbs -->
@@ -163,9 +163,11 @@ h1, h2, h3, h4, h5 {
             <div class="entry-content">
 
               <h1>Bank Churn Prediction</h1>
+<h2>What Is The Problem?</h2>
 <p>Bank churn, or the loss of customers to other financial institutions, is a significant problem for banks because it can lead to a decline in revenue and profitability. Building a prediction model can help identify at-risk customers and prevent churn by taking targeted interventions to improve the customer experience. Ultimately, building a prediction model to prevent churn can help improve customer loyalty, increase revenue, and reduce the financial impact of customer loss.</p>
 <p><a href="https://github.com/kliang696/Bank_Churn_Prediction/blob/main/bank_churn_prediction.ipynb"><img src="https://img.shields.io/badge/code_link-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="web link"></a>
 <a href="https://github.com/kliang696/Bank_Churn_Prediction/blob/main/slides.pdf"><img src="https://img.shields.io/badge/slides_link-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="web link"></a></p>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/payroll-ge74d913c9_1920.jpg" width="100%">
 <h2>Data Description</h2>
 <p>The credit card customer data in this project contains information on approximately 10,000 individuals, including demographic data such as age, education level, and marital status, as well as details about their credit card usage. There are a total of 23 columns and 10,127 rows in the dataset.</p>
 <p>One notable aspect of this dataset is that it is slightly imbalanced, with only 16% of customers having cancelled their credit cards. This can make it challenging to train a model to accurately predict customer turnover, as the model may be biased towards the majority class of customers who have not cancelled their credit cards. As a result, care should be taken when using this dataset to train machine learning models.</p>
@@ -355,8 +357,17 @@ print(num_nulls)
 <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/Shap.png" width="90%">
 <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/shap2.png" width="90%">
 <h2>Business Impact: Dollar Values</h2>
+<img src="https://user-images.githubusercontent.com/89816441/210699843-f462204d-aeba-4609-b2c1-90b7d9090a2b.png" width="100%">
 <ul>
-<li>This table illustrates the potential savings for the bank using different threshold levels for the model's churn prediction. The column <code>dollar value 11</code> represents a correct prediction, where the model accurately predicts that a customer will churn and how much money can be saved totally by retaining the customer. The column labeled <code>dollar value 10</code> represents the model fails to predict that a customer churn but they actually does churn, which resulting in a loss for the bank. The third column <code>review counts</code> represents the number of customers that the model predicts will churn at different levels. The cost of labor to review these possible churn cases varies based on the number of review counts, and the bank must decide which threshold level is the most suitable for the business.</li>
+<li>
+<p>This table illustrates the potential savings for the bank using different threshold levels for the model's churn prediction. The column <code>dollar value 11</code> represents a correct prediction, where the model accurately predicts that a customer will churn and how much money can be saved totally by retaining the customer.</p>
+</li>
+<li>
+<p>The column labeled <code>dollar value 10</code> represents the model fails to predict that a customer churn but they actually does churn, which resulting in a loss for the bank. The third column <code>review counts</code> represents the number of customers that the model predicts will churn at different levels.</p>
+</li>
+<li>
+<p>The cost of labor to review these possible churn cases varies based on the number of review counts, and the bank must decide which threshold level is the most suitable for the business.</p>
+</li>
 </ul>
 <h2>Cloud Deployment</h2>
 <img src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png" width="90%">
@@ -431,7 +442,7 @@ print(num_nulls)
 
                 <div class="post-item clearfix">
                     <a href="/blog/bank-churn-prediction/"><img src="/assets/img/uploads/undraw_home_run_oyhw.png" alt=""></a>
-                    <h4><a href="/blog/bank-churn-prediction/">Success Story: A New Mentee Project in O&#39;Fallon Labs</a></h4>
+                    <h4><a href="/blog/bank-churn-prediction/">Home Run: A New End-to-End Data Science Project Completed in O&#39;Fallon Labs by Our Mentees</a></h4>
                     <time>Jan 20, 2023</time>
                   </div>
 
