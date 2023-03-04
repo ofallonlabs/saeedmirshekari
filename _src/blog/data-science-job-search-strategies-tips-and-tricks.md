@@ -21,8 +21,6 @@ rating: 5
 ---
 Data Science is one of the fastest-growing fields in today's digital world. It has become a crucial aspect of every business, and the demand for data scientists keeps rising. But with the increase in demand, the competition in the job market has also intensified. Many qualified candidates vying for a limited number of positions. According to Indeed, [data science is one of the top ten most competitive job markets](https://www.indeed.com/lead/the-most-competitive-job-markets-in-the-us) in the United States, with an average of 11 job seekers per job opening.
 
-
-
 However, there is also a shortage of qualified candidates, particularly those with advanced skills and industry experience, which presents opportunities for those who are well-prepared and have the necessary skills and knowledge. Standing out from the competition in a highly competitive job market like data science can seem daunting, but it is not impossible. With the right skills, knowledge, and approach, you can set yourself apart and increase your chances of landing your dream job.
 
 In this article, we will discuss some data science job search strategies, tips, and tricks that can help you stand out and  succeed in your job search.
@@ -37,15 +35,10 @@ To build a strong online presence as a data science professional, consider the f
 
 * **Develop a professional online profile:** Create a professional profile on LinkedIn that highlights your skills, experience, and accomplishments. Make sure your profile is complete, up-to-date, and showcases your unique value proposition.
 * **Show your work:** Use platforms like GitHub or Kaggle to show your data science projects, code, and research to the wider community. This can help you establish yourself as an expert in your field and connect with potential employers and collaborators.
-
-
-
 * **Write and speak about data science:** Consider writing articles, blog posts, or whitepapers about your research or projects. You can also speak at conferences or events to share your insights and ideas with others in the industry.
 * **Improve your skills:** Take online courses, attend webinars, or participate in hackathons to continuously improve your skills and stay up-to-date with the latest trends and technologies in data science.
 
 By following these steps, you can build a strong online presence that showcases your skills, expertise, and unique value proposition as a data science professional. A strong online presence can be an effective way to enhance your job search in data science.
-
-
 
 <h3>2. Attend Networking Events:</h3>
 
@@ -92,8 +85,6 @@ Here are some short tips to help you prepare for data science job interviews:
 * **Practice explaining technical concepts:** Practice breaking down technical concepts and explaining them in layman's terms.
 * **Prepare for common interview questions:** Prepare answers to common interview questions about your strengths, weaknesses, and experiences.
 * **Show enthusiasm and curiosity:** Show your passion for data science and ask thoughtful questions to demonstrate your curiosity about the company and industry.
-
-  <h3>6. Keep Learning:</h3> 
 
 Keeping yourself updated with the latest trends and technologies in data science is crucial to stay relevant in the job market. Make sure to keep learning and improving your skills by attending workshops, webinars, and [online courses.](https://saeedmirshekari.com/ecourse-bdsf-training/) Having [a Data Science mentor](https://saeedmirshekari.com/team/) can greatly enhance your skill set also and improve your chances of securing a job in the field.
 
