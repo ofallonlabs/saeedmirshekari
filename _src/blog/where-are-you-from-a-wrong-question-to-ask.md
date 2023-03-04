@@ -1,13 +1,13 @@
 ---
 layout: blog_base.njk
-title: Where are you from?” A wrong question to ask
+title: Where Are You From? A Wrong Question To Ask
 description: This note describes why the author thinks that the popular question
   of \where are you from?" is a wrong ques- tion to ask. An alternative would be
   \where did you grow up?".
-meta_title: NA
-meta_description: NA
+meta_title: META TITLE
+meta_description: MET DESCRIPTION
 author: Saeed Mirshekari
-date: 2013-11-21T05:54:09.654Z
+date: 2013-11-21T05:54:00.000Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_best_place_re_lne9.png
