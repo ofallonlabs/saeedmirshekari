@@ -13,7 +13,7 @@ meta_description: Looking for data science job search strategies? Our blog post
   Learn how to stand out from the competition and secure your spot in the
   exciting field of data science.
 author: Katherine Olowookere
-date: 2023-03-04T20:42:47.876Z
+date: 2023-03-05T07:03:48.137Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_biking_kc4f.png
