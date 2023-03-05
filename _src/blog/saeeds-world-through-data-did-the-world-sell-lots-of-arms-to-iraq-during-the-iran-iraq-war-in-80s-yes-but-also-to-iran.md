@@ -6,8 +6,7 @@ description: "World Through Data Science: One Question at A Time! In these
   series of blogs I'll share my most interesting findings for the most
   interesting questions I have asked. I use Python and pandas to look at
   real-world public data to find an answer."
-meta_title: Did The World Sell Lots of Arms to Iraq During the Iran-Iraq War in
-  80's? Yes, but so do to Iran.
+meta_title: "Saeed's World Through Data: Iran-Iraq Arm Imports"
 meta_description: "World Through Data Science: One Question at A Time! In these
   series of blogs I'll share my most interesting findings for the most
   interesting questions I have asked. I use Python and pandas to look at
