@@ -6,8 +6,7 @@ description: "World Through Data Science: One Question at A Time! In these
   series of blogs I'll share my most interesting findings for the most
   interesting questions I have asked. I use Python and pandas to look at
   real-world public data to find an answer."
-meta_title: Did The World Sell Lots of Arms to Iraq During the Iran-Iraq War in
-  80's? Yes, but so do to Iran.
+meta_title: "Saeed's World Through Data: Iran-Iraq Arm Imports"
 meta_description: "World Through Data Science: One Question at A Time! In these
   series of blogs I'll share my most interesting findings for the most
   interesting questions I have asked. I use Python and pandas to look at
@@ -47,7 +46,7 @@ The Shah of Iran, Mohammad Reza Pahlavi, was a key ally of the United States dur
 
 ## The Python Codes
 
-Below you can find the code I developed to generate the plot I wanted to see to answer my question through data above:
+Below you can find the code I developed to generate the plot I wanted to see to answer my question through data above. You can also simply change the name of the countries in the code and it will generate the appropriate plots for you with a press of button. Here is my code:
 
 <script src="https://gist.github.com/smirs/8cc613b4c93f4e6bfe8a85bc1d258cfc.js"></script>
 
