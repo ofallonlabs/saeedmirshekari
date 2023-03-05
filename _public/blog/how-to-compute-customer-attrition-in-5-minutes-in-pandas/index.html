@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head style="font-family: 'Helvetica', 'Arial', sans-serif;">
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> How to Compute Customer Attrition in 5 minutes in Pandas?</title>
+
+  <!-- Favicons -->
+  <link href="/assets/img/favicon.ico" rel="icon">
+  <link href="/assets/img/favicon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="/assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Serenity - v4.7.0
+  * Template URL: https://bootstrapmade.com/serenity-bootstrap-corporate-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+
+
+
+</head>
+
+
+<main id="main"> 
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+  <meta content = Computing Customer Attrition Over Time in Pandas name="title">
+  <meta content = In this tutorial you will learn how to compute customer attrition in pandas using some basic pandas functions. name="description">
+
+    <div class="container d-flex align-items-center justify-content-between">
+      <a style="text-align:left; font-size: 24px; color:#666;" href="/index.html"><img style="vertical-align: -5px; text-align:left; width:4vh" src="/assets/img/OLAB_LOGO.png" alt="" class=""> O'Fallon Labs</a>
+       
+      
+
+      <nav id="navbar" class="navbar" style="">
+      
+        <ul>
+          <li><a href="/index.html" style="">Home</a></li>
+          <li><a href="/team" style="">About</a></li>
+
+          <li class="dropdown"><a href="/services" style="">Services<i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="/ecourse-bdsf" style="">Learning (FREE) <i class="bi bi-headphones" style="color: #94c045;"></i></a></li>
+              <li><a href="/ecourse-bdsf-training" style="">Training <i class="bi bi-headset" style="color: #94c045;"></i></a></li>
+              <li><a href="/coaching-plan" style="">Mentoring <i class="bi bi-trophy" style="color: #94c045;"></i></a></li>
+              <li><a href="/analytics" style="">Analytics <i class="bi bi-gem" style="color: #94c045;"></i></a></li>
+              
+
+              </li>
+            </ul>
+          </li>
+          
+          <li><a href="/pricing" style="">Pricing</a></li>
+          <li><a href="/results" style="">Results</a></li>
+          <li><a href="/blog" style="">Learning Center</a></li>
+          <li><a href="/contact" style="">Contact</a></li>
+
+          <li><a class="getstarted" style="" target = "_blank" href="/services">Get Started</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+
+  </header><!-- End Header -->
+
+        <!-- ======= Breadcrumbs ======= -->
+        
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="breadcrumb-hero">
+        <div class="container">
+          <div class="breadcrumb-herol">
+            <h1 style="text-align: left;">How to Compute Customer Attrition in 5 minutes in Pandas?</h1>
+            <h6 style="text-align: left;">In this tutorial you will learn how to compute customer attrition in pandas using some basic pandas functions.</h6>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <ol>
+          <li><a href="/blog">Learning Center</a></li>
+          <li>How to Compute Customer Attrition in 5 minutes in Pandas?</li>
+        </ol>
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+<style>
+h1, h2, h3, h4, h5 {
+  font-family: Merriweather;
+  font-weight: bold;
+}
+</style>
+
+
+
+<body style="font-family: Tahoma; font-weight: normal; ">
+
+
+    <!-- ======= Blog Single Section ======= -->
+    <section id="blog" class="blog">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-8 entries">
+
+
+
+              <div class="entry-content">
+
+
+            <body>   
+            <img src=/assets/img/uploads/undraw_autumn_re_rwy0.png width="100%">
+
+            <div class="blog-author d-flex align-items-center">
+                <div id="wrap">
+                    <div id="left_col">
+                      <img src="/assets/img/blog/saeed.jpg" class="rounded-circle float-left" alt="">
+                    </div>
+                    <div id="right_col">
+                      By Saeed Mirshekari
+                      <p class="bi bi-clock">  Feb 26, 2023 </p>
+
+
+                      <p class = "myframe">
+                        <a href="http://www.facebook.com/share.php?u=saeedmirshekari.com" class="mybtn">
+                          <i class="bi bi-facebook" style="color: #94c045;"></i>
+                        </a>
+                        <a href="https://twitter.com/intent/tweet?url=Hey! Check out this interesting website I found saeedmirshekari.com" class="mybtn">
+                          <i class="bi bi-twitter" style="color: #94c045;"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/sharing/share-offsite/?url=saeedmirshekari.com" class="mybtn">
+                          <i class="bi bi-linkedin" style="color:#94c045;"></i>
+                        </a>
+                        <a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://saeedmirshekari.com."
+                            title="Check out this website!" class="mybtn">
+                          <i class="bi bi-envelope" style="color:#94c045;"></i>
+                        </a>
+                      </p>
+                    </div>
+                </div>
+            </div>
+            </body>
+
+                <h1>What Is Customer Attrition?</h1>
+<p>Customer Attrition is the fancy way of saying &quot;customer leakage&quot;. This metric is used to understand how many customers are leaving the business. It can be calculated using time series techniques in Python, using pandas. This tutorial will show you how to compute this metric on customer data given in a csv file, without any Tableau workbook.</p>
+<h1>Why Does It Matter?</h1>
+<p>Customers are the life of any business and therefore it's important to know retention rate of customers. This is where customer attrition comes in, which is a very popular metric used in retail businesses. In this article, you will learn how to compute customer attrition in pandas.</p>
+<p>This is a question I have never received, but it can be helpful for a small business understanding their customer base. If you notice high attrition over time, you can use this formula to identify what is causing that attrition.</p>
+<p>It is not an easy task though. There are some tricks. In this post we will learn how to calculate customer attrition in pandas. So let's get started!</p>
+<h1>The Input Data</h1>
+<p>We will show you the details steps in a real example of a data science project, and see how we can use the results. I am going to be using the <a href="https://www.kaggle.com/datasets/vipin20/transaction-data">Transaction Data dataset from Kaggle</a> to demonstrate how to compute customer attrition.</p>
+<p>Here is a snapshot of the input data for you to see what we are dealing with:</p>
+<img src="/assets/img/uploads/input_attr.png" width="100%" />
+<h1>The Expected Output</h1>
+<p>It is always nice to have a clear idea of the expected output shape of the data. For computing the Customer Attrition here is what we would expect as the output:</p>
+<img src="/assets/img/uploads/output_attr.png" width="80%" />
+<h1>Data Manipulations</h1>
+<p>We have transactions for an e-commerce website, and we need to identify users' spending decrease (soft attrition problem).</p>
+<p>Before we get into the python scripts that takes the input data and returns the expected output as described above, let's review the main steps along the way in data manupulation to set things up to compute the attrition:</p>
+<ol>
+<li>
+<p>Read the transaction table from the input file.</p>
+</li>
+<li>
+<p>Clean up data removing duplicate data and userid = -1</p>
+</li>
+<li>
+<p>Calculate the &quot;aggregated_table&quot; with each month's dollar value of transactions per user. (hint: what happens if a user does not have transactions in month X?)</p>
+</li>
+<li>
+<p>Now that things are ready for the final step, we add a new column, &quot;soft_attrition&quot;, to aggregated_table, which is &quot;1&quot; if the total amount of transactions in the next three months is less than 25% of the past three months; otherwise, it is &quot;0&quot;.</p>
+</li>
+</ol>
+<p>Here is the p﻿ython scripts you need to compute the Customer Attrition:</p>
+<script src="https://gist.github.com/smirs/d08a76aebf4f152fae294c48fb76ecdf.js"></script>
+<h1>Summary</h1>
+<p>If you're just getting started with data analysis, you will quickly come to realize the importance of computing customer attrition. It's a critical aspect of any business to have an understanding of customer retention metrics, and pandas makes the process extremely easy.</p>
+<p>In this tutorial I showed you how to compute customer attrition in pandas using some basic pandas functions.</p>
+<p>I﻿ hope this was useful! To see more content like this subscribe to <a href="saeedmirshekari.com">O'Fallon Labs</a> or check out this website again.</p>
+
+              </div>
+              
+            </article><!-- End blog entry -->
+
+            <div class="blog-author d-flex align-items-center">
+              <img src="/assets/img/blog/saeed.jpg" class="rounded-circle float-left" style="filter: grayscale(100%);" alt="">
+              <div>
+                <h4>Saeed Mirshekari, PhD</h4>
+                
+                <p>
+                Saeed is currently a Director of Data Science in Mastercard and the Founder & Director of O'Fallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017). <a href="https://saeedmirshekari.com/team/">Learn more about Saeed...</a> 
+                </p>
+              </div>
+            </div>
+
+        <div>
+
+        <h4>leave a comment</h4>
+
+          <form name="contact" method="POST" data-netlify="true">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Comment" required></textarea>
+              </div>
+              <p>
+                <br>
+              </p>
+              <div class="text-center"><button type="submit"  style="color: #fff; background: #94c045;">Send Comment</button></div>
+              <br>
+          </form>
+        </div>
+        
+          </div><!-- End blog entries list -->
+          <div class="col-lg-4">
+
+            <div class="sidebar">
+
+              <h3 class="sidebar-title">Search</h3>
+              <div class="sidebar-item search-form">
+                <form action="">
+                  <input type="text">
+                  <button type="submit"><i class="bi bi-search"></i></button>
+                </form>
+              </div><!-- End sidebar search formn-->
+
+              
+
+              <h3 class="sidebar-title">Recent Posts</h3>
+
+              <div class="sidebar-item recent-posts">
+
+                <div class="post-item clearfix">
+                    <a href="/blog/data-science-job-search-strategies-tips-and-tricks/"><img src="/assets/img/uploads/undraw_biking_kc4f.png" alt=""></a>
+                    <h4><a href="/blog/data-science-job-search-strategies-tips-and-tricks/">Unlocking Success in Data Science Job Search: 7 Essential Tips and Tricks</a></h4>
+                    <time>Mar 5, 2023</time>
+                  </div>
+
+                <div class="post-item clearfix">
+                    <a href="/blog/how-to-compute-customer-attrition-in-5-minutes-in-pandas/"><img src="/assets/img/uploads/undraw_autumn_re_rwy0.png" alt=""></a>
+                    <h4><a href="/blog/how-to-compute-customer-attrition-in-5-minutes-in-pandas/">How to Compute Customer Attrition in 5 minutes in Pandas?</a></h4>
+                    <time>Feb 26, 2023</time>
+                  </div>
+
+                <div class="post-item clearfix">
+                    <a href="/blog/5-hot-data-science-tools/"><img src="/assets/img/uploads/undraw_pen_tool_re_s92o.png" alt=""></a>
+                    <h4><a href="/blog/5-hot-data-science-tools/">5 Hot Data Science Tools</a></h4>
+                    <time>Feb 18, 2023</time>
+                  </div>
+
+                <div class="post-item clearfix">
+                    <a href="/blog/why-is-1-on-1-mentoring-so-effective-in-starting-data-science/"><img src="/assets/img/uploads/review.png" alt=""></a>
+                    <h4><a href="/blog/why-is-1-on-1-mentoring-so-effective-in-starting-data-science/">Why Is 1-on-1 Mentoring So Effective in Starting Data Science?</a></h4>
+                    <time>Feb 12, 2023</time>
+                  </div>
+
+                <div class="post-item clearfix">
+                    <a href="/blog/how-to-find-a-data-science-mentor/"><img src="/assets/img/uploads/undraw_fatherhood_7i19.png" alt=""></a>
+                    <h4><a href="/blog/how-to-find-a-data-science-mentor/"> How To Find A Trusted Data Science Mentor Even If Your Network Is Small?</a></h4>
+                    <time>Feb 4, 2023</time>
+                  </div>
+
+                </div><!-- End sidebar recent posts-->
+              
+
+            </div><!-- End sidebar -->
+          </div><!-- End blog sidebar -->
+
+        </div>
+      </div>
+
+
+
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="ef9a21bb-6362-4ff8-a348-4d3a6ab6c4e8";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+</body>
+
+</main>
+
+      <!-- ======= Cta Section ======= -->
+
+
+    <section id="cta" class="cta">
+      <div class="container" data-aos="/fade-in">
+
+        <div class="text-center">
+          <h3><i class="bi bi-people-fill"></i> Let's Talk</h3>
+          <a class="cta-btn" target="_blank" href="https://calendly.com/saeedmirshekari/introduction">Schedule Your FREE Meeting Now</a>
+          <br></br>
+          <p>Looking for a Data Science expert to help you score your first or the next Data Science job? Or, are you a business owner wanting to bring value and scale your business through Data Analysis? Either way, you’re in the right place. Let’s talk about your priorities!</p>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+    
+    <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <h4>O'Fallon Labs LLC</h4>
+            <p>Helping your career and business flourish with effective and proven Data Science & Machine Learning practices. Your one-stop shop for all Data Science needs.</p>
+            <img style="vertical-align: -5px; text-align:left; width:10vh" src="/assets/img/OLAB_LOGO.png" alt="" class="">
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><a href="/index.html">Home</a></li>
+              <li><a href="/team">About</a></li>
+              <li><a href="/services">Services</a></li>
+              <li><a href="/blog">Blog</a></li>
+              <li><a href="/terms_of_service">Terms of service</a></li>
+              <li><a href="/privacy_policy">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact US</h4>
+            <p>
+              <!-- A108 Adam Street <br> -->
+              O'Fallon, MO 63368<br>
+              United States<br>
+              <strong>Phone:</strong> +1 626 689 5848<br>
+              <strong>Email:</strong> info@saeedmirshekari.com<br>
+            </p>
+
+            <div class="social-links">
+              <a href="https://twitter.com/smirshekari_" class="twitter"><i class="bi bi-twitter"></i></a>
+              <!-- <a href="#" class="facebook"><i class="bi bi-facebook"></i></a> -->
+              <a href="https://www.instagram.com/smirshekari__/" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.linkedin.com/company/ofallonlabs" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            </div>
+
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-newsletter">
+            <h4>Our Newsletter</h4>
+            <p>Insert your email address to receive quality content on Data Science and discounts on my services.</p>
+<!--             <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form> -->
+              <form name="newsletter" method="POST" data-netlify="true">
+                  <input type="email" name="email"><input type="submit" value="Subscribe">
+              </form>
+              
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <script>document.write(/\d{4}/.exec(Date())[0])</script> <strong><span><a style="text-align:left; font-family: Merriweather; font-size: 2vh; color:#565e49;" href="/index.html"></a></span></strong> All Rights Reserved
+      </div>
+      
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="/assets/vendor/purecounter/purecounter.js"></script>
+  <script src="/assets/vendor/aos/aos.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="/assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="/assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/func.js"></script>
+
+<!-- Default Statcounter code for smirs.github.io
+http://smirs.github.io -->
+<script type="text/javascript">
+var sc_project=12086343; 
+var sc_invisible=0; 
+var sc_security="2709395b"; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12086343/0/2709395b/0/"
+alt="Web Analytics Made Easy -
+StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/assets/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+
+
+</html>

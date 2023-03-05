@@ -10,7 +10,7 @@ meta_description: This note explains why 1-on-1 Mentoring is the best way in
   learning Data Science with the use of new technologies at the comfort of your
   home
 author: Saeed Mirshekari
-date: 2022-12-24T09:02:01.007Z
+date: 2023-02-12T16:34:04.765Z
 tags:
   - post
 thumbnail: /assets/img/uploads/review.png
