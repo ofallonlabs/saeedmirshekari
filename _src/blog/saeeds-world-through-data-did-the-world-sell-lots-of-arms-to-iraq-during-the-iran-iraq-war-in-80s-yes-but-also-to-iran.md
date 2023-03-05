@@ -47,7 +47,7 @@ The Shah of Iran, Mohammad Reza Pahlavi, was a key ally of the United States dur
 
 ## The Python Codes
 
-Below you can find the code I developed to generate the plot I wanted to see to answer my question through data above:
+Below you can find the code I developed to generate the plot I wanted to see to answer my question through data above. You can also simply change the name of the countries in the code and it will generate the appropriate plots for you with a press of button. Here is my code:
 
 <script src="https://gist.github.com/smirs/8cc613b4c93f4e6bfe8a85bc1d258cfc.js"></script>
 
