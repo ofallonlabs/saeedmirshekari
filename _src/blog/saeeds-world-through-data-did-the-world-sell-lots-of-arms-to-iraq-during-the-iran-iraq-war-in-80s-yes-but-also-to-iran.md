@@ -43,7 +43,7 @@ But this is all only part of a bigger story. The story of arms imports to Iran i
 
 The Shah of Iran, Mohammad Reza Pahlavi, was a key ally of the United States during the Cold War. The United States saw Iran as an important partner in the region, and as a result, they provided significant military aid to the Shah's regime. According to data from the[ Stockholm International Peace Research Institute (SIPRI)](https://www.sipri.org/), Iran was one of the largest arms importers in the world in the 1970s, with the United States being its primary supplier.
 
-![](/assets/img/uploads/iran_iraq_arm_import.png)
+<img src="/assets/img/uploads/iran_iraq_arm_import.png" width="100%" />
 
 ## The Python Codes
 
