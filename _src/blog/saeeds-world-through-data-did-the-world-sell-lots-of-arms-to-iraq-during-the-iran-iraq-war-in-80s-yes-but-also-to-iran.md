@@ -45,11 +45,13 @@ The Shah of Iran, Mohammad Reza Pahlavi, was a key ally of the United States dur
 
 ![](/assets/img/uploads/iran_iraq_arm_import.png)
 
-## The Code for The Plot
+## The Python Codes
+
+Below you can find the code I developed to generate the plot I wanted to see to answer my question through data above:
 
 <script src="https://gist.github.com/smirs/8cc613b4c93f4e6bfe8a85bc1d258cfc.js"></script>
 
-## The Shah of Arms or The Arms of Shah
+## The Arms of Shah
 
 The Shah's regime used these arms to suppress dissent and maintain its grip on power, leading to widespread human rights abuses and a growing opposition movement. The excessive military spending also contributed to economic inequality and social unrest in the country.
 
