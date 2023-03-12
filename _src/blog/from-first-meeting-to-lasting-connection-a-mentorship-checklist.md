@@ -17,7 +17,7 @@ meta_description: This blog is focused on a checklist for mentors to follow in
   sharing knowledge during subsequent meetings. The final step is to sustain the
   relationship by wrapping up the mentoring process and keeping in touch.
 author: Saeed Mirshekari
-date: 2023-02-27T13:32:03.171Z
+date: 2023-03-12T13:20:18.303Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_breaking_barriers_vnf3.png
