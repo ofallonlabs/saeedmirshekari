@@ -14,7 +14,7 @@ author: Katherine Olowookere
 date: 2023-03-18T12:21:50.863Z
 tags:
   - post
-thumbnail: /assets/img/uploads/wheel.png
+thumbnail: /assets/img/uploads/undraw_group_selfie_re_h8gb-1-.png
 rating: 5
 ---
 In today's data-driven world, data science has become an integral part of businesses and organisations across various industries. With the growing demand for data-driven insights, data scientists are in high demand, making it imperative for them to build a strong network of professionals in their field. 
