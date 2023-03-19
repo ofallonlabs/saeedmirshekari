@@ -60,6 +60,7 @@ This produces a graph that shows how the number of deaths has increased as the p
 <h2>Advanced Plots</h2>
 Beyond just tracking the raw numbers of cases and deaths, statisticians have also used Python to analyze other factors that contribute to the spread of the virus. For example, we can use statistical modeling techniques to estimate the reproductive rate of the virus, which tells us how many people an infected person is likely to spread the virus to. This information can be used to predict how quickly the virus is likely to spread and to inform public health policies.
 
+<br></br>
 
 <h2>How Deadly Was It Over Time?</h2>
 W﻿e looked at a small pool of countries including US, China, India, Russia, United Kingdom, Germany, France and Iran and got the most recent data from reliable sources. No source is 100% accurate. In fact, there is evidences that some are very inaccurate. But anyways... That's all data we have recorded...
