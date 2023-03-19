@@ -18,11 +18,10 @@ thumbnail: /assets/img/uploads/pandemic.png
 rating: 5
 ---
 
-
-![](/assets/img/uploads/mortality_rate.png)
+<img src="/assets/img/uploads/mortality_rate.png" width="100%" />
 
 s﻿asas
 
-![](/assets/img/uploads/death_per_capita.png)
+<img src="/assets/img/uploads/death_per_capita.png" width="100%" />
 
 <script src="https://gist.github.com/smirs/0d4940f78c9642c264f0ee7cae8db2dc.js"></script>
