@@ -56,19 +56,19 @@ This produces a graph that shows how the number of deaths has increased as the p
 Beyond just tracking the raw numbers of cases and deaths, statisticians have also used Python to analyze other factors that contribute to the spread of the virus. For example, we can use statistical modeling techniques to estimate the reproductive rate of the virus, which tells us how many people an infected person is likely to spread the virus to. This information can be used to predict how quickly the virus is likely to spread and to inform public health policies.
 
 
-<﻿h2>How Deadly Was It Over Time?</h2> 
+<﻿h2> How Deadly Was It Over Time?</h2> 
 
 <img src="/assets/img/uploads/mortality_rate.png" width="100%" />
 
-<﻿h2>Which Countries Got Affected The Most?</h2>
+<﻿h2> Which Countries Got Affected The Most?</h2>
 
 <img src="/assets/img/uploads/death_per_capita.png" width="100%" />
 
-<﻿h2>The Code for The Plots</h2> 
+<﻿h2> The Code for The Plots</h2> 
 
 <script src="https://gist.github.com/smirs/0d4940f78c9642c264f0ee7cae8db2dc.js"></script>
 
-<﻿h2>Inclusion</h2>
+<﻿h2> Inclusion</h2>
 
 In conclusion, Python and statistics have been critical tools in monitoring and understanding the COVID-19 pandemic. By visualizing the trends in cases and deaths, and by analyzing other factors that contribute to the spread of the virus, we have been able to develop a clearer picture of the impact of the pandemic around the world. 
 
