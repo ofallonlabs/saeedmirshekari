@@ -29,7 +29,7 @@ Python is a powerful programming language that is widely used in data analysis a
 
 The first statistic that is often reported in relation to COVID-19 is the number of cases. This refers to the number of people who have tested positive for the virus. In Python, we can use libraries like Pandas and Matplotlib to visualize the trend of cases over time. For example, the following code snippet loads data from the Our World in Data project and plots the cumulative number of cases worldwide:
 
-```
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -42,7 +42,6 @@ plt.show()
 ```
 
 This produces a graph that shows the exponential growth of COVID-19 cases worldwide from early 2020 until the present day. We can also break down the data by country or region to see how the pandemic has affected different parts of the world.
-
 
 Another important statistic is the number of deaths caused by COVID-19. In Python, we can use similar techniques to visualize the trend of deaths over time. For example, the following code snippet plots the cumulative number of deaths worldwide:
 
@@ -64,21 +63,15 @@ Beyond just tracking the raw numbers of cases and deaths, statisticians have als
 <h2>How Deadly Was COVID in Each Country Over Time?</h2>
 W﻿e looked at a small pool of countries including US, China, India, Russia, United Kingdom, Germany, France and Iran and got the most recent data from reliable sources. No source is 100% accurate. In fact, there is evidences that some are very inaccurate. But anyways... That's all data we have recorded...
 
-
 Then we asked this question: How deadly was the pandemic in each country over time? We monitored this via the Mortality Rate/ But what is mortality rate? Mortality rate is the number of death divided by the number of confirmed cases.
-
 
 Check out the result plot below. From this plot it looks like the most critical period of the pandemic has been the first 100 days in which the mortality rate reached to its peak! After 200 days the mortality rate drops and becomes stable from that point.
 
-
 <img src="/assets/img/uploads/mortality_rate.png" width="100%" />
-
 
 I﻿n some countries the mortality rate have reached beyond 20% very quickly. That means from every 100 confirmed cases more than 20 people were dying because of the virus at the earlier stages of the pandemic.
 
-
 E﻿ven though the mortality rate is quite different in the early stages for each country, it all merges into a similar rate of 2-3% after about 2 years for all the countries. Of course different countries managed the situation differently and it is visible in this data. The Light Blue curve represents the United Kingdom.
-
 
 <h2>Which Countries Lost More People Per Capita by COVID?</h2>
 
@@ -100,6 +93,5 @@ B﻿elow you can find the full code for creating the plots above.
 
 <h2>Conclusion</h2>
 In conclusion, Python and statistics have been critical tools in monitoring and understanding the COVID-19 pandemic. By visualizing the trends in cases and deaths, and by analyzing other factors that contribute to the spread of the virus, we have been able to develop a clearer picture of the impact of the pandemic around the world. 
-
 
 While the pandemic has been a difficult and challenging time for many people, the insights gained from statistical analysis will be valuable for informing public health policies and preparing for future outbreaks
