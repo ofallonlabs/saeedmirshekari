@@ -1,7 +1,6 @@
 ---
 layout: blog_base.njk
-title: "Saeed's World Through Data: 2020-2023 Global Pandemic, What Happened?
-  Did China Lie?"
+title: "The Latest Global Pandemic: What Happened? Did China Lie?"
 description: "World Through Data Science: One Question at A Time! In these
   series of blogs I'll share my most interesting findings for the most
   interesting questions I have asked. I use Python and pandas to look at
@@ -61,7 +60,7 @@ Beyond just tracking the raw numbers of cases and deaths, statisticians have als
 <br></br>
 
 <h2>How Deadly Was COVID in Each Country Over Time?</h2>
-W﻿e looked at a small pool of countries including US, China, India, Russia, United Kingdom, Germany, France and Iran and got the most recent data from reliable sources. No source is 100% accurate. In fact, there is evidences that some are very inaccurate. But anyways... That's all data we have recorded...
+W﻿e looked at a small pool of major countries including US, China, India, Russia, United Kingdom, Germany, France and Iran and got the most recent data from reliable sources. No source is 100% accurate. In fact, there is evidences that some are very inaccurate. But anyways... That's all data we have recorded...
 
 Then we asked this question: How deadly was the pandemic in each country over time? We monitored this via the Mortality Rate/ But what is mortality rate? Mortality rate is the number of death divided by the number of confirmed cases.
 
