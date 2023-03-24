@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: 2020-2023 Global Pandemic, What Happened? Did China Lie?
+title: "The Latest Global Pandemic: What Happened? Did China Lie?"
 description: "World Through Data Science: One Question at A Time! In these
   series of blogs I'll share my most interesting findings for the most
   interesting questions I have asked. I use Python and pandas to look at
