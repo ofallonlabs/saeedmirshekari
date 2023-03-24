@@ -11,4 +11,4 @@ tags:
 thumbnail: /assets/img/uploads/undraw_credit_card_payments_re_qboh.png
 rating: 5
 ---
-TBD
+https://github.com/Davoodshahabi/Credit-Risk
