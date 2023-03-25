@@ -8,7 +8,7 @@ description: "World Through Data Science: One Question at A Time! In these
   progress of Covid-19 by countries over time via Python at home. What happened?
   Did China lie? What's the deadliest period in a pandemic? Which countries lost
   most people per capita?"
-meta_title: Using python to learn more about pandemic data to prepare for the next pandemic
+meta_title: Analyzing CoVID-19 data with python
 meta_description: What we can learn from CoVID-19 pandemic
 author: Saeed Mirshekari
 date: 2023-03-25T13:10:43.952Z
