@@ -47,7 +47,7 @@ We understand that access to real estate analytics tools can be expensive, which
 
 Our tool's user-friendly interface, advanced algorithms, and real-time insights make it an invaluable resource for any real estate investor. So, if you're looking to take your real estate investment game to the next level, simply provide us with your email address, and you'll be on your way to accessing our powerful tool for free.
 
-Here is the Link To [Immediate Access to Good-Deal/Bad-Deal](https://smirs-dashboard-streamlit-app-5ure4r.streamlit.app/) 🏘️
+Here is the Link To [Immediate Access to Good-Deal/Bad-Deal](https://mailchi.mp/3d49bef66ad3/good_deal_bad_deal) 🏘️
 
 # Conclusion
 
