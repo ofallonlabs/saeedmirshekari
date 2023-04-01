@@ -1,6 +1,7 @@
 ---
 layout: blog_base.njk
-title: How to tell a good deal from bad deal in real estate investment
+title: "Maximizing ROI: How Our Analytics Tool Helps Real Estate Investors Make
+  Informed Decisions Quickly"
 description: Our free analytics tool empowers real estate investors with
   real-time insights into a property's ROI. Built on Python and cloud-based
   deployment, the tool offers a user-friendly interface, advanced algorithms,
