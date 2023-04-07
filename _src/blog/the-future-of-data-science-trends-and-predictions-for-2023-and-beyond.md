@@ -67,7 +67,7 @@ Edge computing also offers benefits such as improved data privacy and security a
 
 As edge computing becomes more prevalent, data scientists must be proficient in working with these technologies and be prepared to adapt to the unique challenges and opportunities presented by this trend. This includes optimizing algorithms for edge computing, as well as managing data storage and processing in a distributed environment.
 
-</h3> 5. Continued Growth in AI and Automation</h3>
+<h3> 5. Continued Growth in AI and Automation</h3>
 
 AI and automation are transforming industries of all kinds, and we can expect to see even more growth in these areas in the future. From autonomous vehicles to intelligent robots, the possibilities for AI and automation are almost endless.
 
