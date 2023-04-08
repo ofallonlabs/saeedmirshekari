@@ -35,7 +35,13 @@ Along the way, I had the opportunity to spend time at some of the best instituti
 
 It was during this time that I experienced a difficult divorce that left me feeling heartbroken and alone. But I didn't let it defeat me. I continued to pursue my passion for data science, and eventually landed a job at Mastercard as a Director of Data Science and a people leader.
 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aa08Eg7rG5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*v﻿ideo: 40 years of my life in 26 seconds from Bombs to Boujee!*
+
+<br>
 
 And in the midst of all this, I found love again, and my two beautiful dogs, Boujee the Amstaff and NiKo the American Bully. They have brought so much joy and love into my life, and I'm grateful for their constant companionship.
 
