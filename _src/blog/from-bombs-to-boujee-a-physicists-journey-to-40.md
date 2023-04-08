@@ -16,7 +16,7 @@ author: Saeed Mirshekari
 date: 2023-04-08T14:40:54.137Z
 tags:
   - post
-thumbnail: /assets/img/uploads/saeedonview.jpg
+thumbnail: /assets/img/uploads/undraw_barbecue_3x93.png
 rating: 5
 ---
 So, I just turned 40. It's a big milestone, and it's got me thinking about my life so far and where I want to go from here. It's been quite a journey, full of ups and downs, but I'm grateful for all the experiences that have brought me to where I am today.
@@ -43,7 +43,7 @@ As I reflect on my life so far, I realize that I've been through a lot. I've fac
 
 <iframe width="100%" hight="100%" src="https://www.youtube.com/embed/aa08Eg7rG5Y" title="YouTube video player" frameborder="20" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-*v﻿ideo: 40 years of my life in 26 seconds from Bombs to Boujee!*
+*40 years of my life by decade from Bombs to Boujee*
 
 <br>
 
