@@ -16,7 +16,7 @@ author: Saeed Mirshekari
 date: 2023-04-08T14:40:54.137Z
 tags:
   - post
-thumbnail: /assets/img/uploads/saeed_turning_40_years_old.jpg
+thumbnail: /assets/img/uploads/saeedonview.jpg
 rating: 5
 ---
 So, I just turned 40. It's a big milestone, and it's got me thinking about my life so far and where I want to go from here. It's been quite a journey, full of ups and downs, but I'm grateful for all the experiences that have brought me to where I am today.
