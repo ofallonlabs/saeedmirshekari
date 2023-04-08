@@ -41,7 +41,7 @@ As I reflect on my life so far, I realize that I've been through a lot. I've fac
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa08Eg7rG5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" hight="100%" src="https://www.youtube.com/embed/aa08Eg7rG5Y" title="YouTube video player" frameborder="20" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 *v﻿ideo: 40 years of my life in 26 seconds from Bombs to Boujee!*
 
