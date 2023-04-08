@@ -35,6 +35,10 @@ Along the way, I had the opportunity to spend time at some of the best instituti
 
 It was during this time that I experienced a difficult divorce that left me feeling heartbroken and alone. But I didn't let it defeat me. I continued to pursue my passion for data science, and eventually landed a job at Mastercard as a Director of Data Science and a people leader.
 
+And in the midst of all this, I found love again, and my two beautiful dogs, Boujee the Amstaff and NiKo the American Bully. They have brought so much joy and love into my life, and I'm grateful for their constant companionship.
+
+As I reflect on my life so far, I realize that I've been through a lot. I've faced challenges that would have broken others, but I've come out stronger and more resilient. And I've learned that life is full of surprises, both good and bad.
+
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aa08Eg7rG5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -42,10 +46,6 @@ It was during this time that I experienced a difficult divorce that left me feel
 *v﻿ideo: 40 years of my life in 26 seconds from Bombs to Boujee!*
 
 <br>
-
-And in the midst of all this, I found love again, and my two beautiful dogs, Boujee the Amstaff and NiKo the American Bully. They have brought so much joy and love into my life, and I'm grateful for their constant companionship.
-
-As I reflect on my life so far, I realize that I've been through a lot. I've faced challenges that would have broken others, but I've come out stronger and more resilient. And I've learned that life is full of surprises, both good and bad.
 
 Turning 40 is just another chapter in my journey. I'm excited about what the future holds, and I'm committed to making a positive impact on the world. As a people leader in data science, I know that there's so much we can do to solve the world's biggest problems, and I'm excited to be a part of that.
 
