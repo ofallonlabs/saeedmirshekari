@@ -39,7 +39,9 @@ And in the midst of all this, I found love again, and my two beautiful dogs, Bou
 
 As I reflect on my life so far, I realize that I've been through a lot. I've faced challenges that would have broken others, but I've come out stronger and more resilient. And I've learned that life is full of surprises, both good and bad.
 
-![s](40smirs.mp4)
+<video width="640" height="480" controls>
+  <source src="40smirs.mp4" type="video/mp4">
+</video>
 
 Turning 40 is just another chapter in my journey. I'm excited about what the future holds, and I'm committed to making a positive impact on the world. As a people leader in data science, I know that there's so much we can do to solve the world's biggest problems, and I'm excited to be a part of that.
 
