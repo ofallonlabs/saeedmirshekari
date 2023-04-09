@@ -23,27 +23,12 @@ layout: blog_base_nobody.njk
 <center>
 <div class="pagination">
 
-{% if pagination.pageNumber == 0  %}
-  <a class="disabled active prev">Previous</a>
-{% endif %}
+<a href="/tags/feed" class="prev">feed</a>
+<a href="/tags/cute" class="prev">cute</a>
+<a href="/tags/post" class="prev">post</a>
+<a href="/tags/new" class="prev">new</a>
+<a href="/tags/wild" class="prev">wild</a>
 
-{% if pagination.pageNumber > 0 %}
-  {% if pagination.pageNumber == 1 %}
-    <a href="/blog/" class="prev">Previous</a>
-  {% else %}
-  <a href="/blog/{{ pagination.pageNumber - 1 }}" class="prev">Previous</a>
-  {% endif %}
-{% endif %}
-
-<a class="next" style='background-color:#a62753; color:#fff'>📃page {{pagination.pageNumber + 1}}/{{pagination.pages.length}}</a>
-
-{% if pagination.pageNumber < pagination.pages.length - 1  %}
-  <a href="/blog/{{ pagination.pageNumber + 1 }}" class="next">Next</a>
-{% endif %}
-
-{% if pagination.pageNumber == pagination.pages.length - 1  %}
-  <a class="disabled active next">Next</a>
-{% endif %}
 
 
 </div>

@@ -1,7 +1,7 @@
 {
   "name": "saeedmirshekari",
   "version": "1.0.0",
-  "description": "my website",
+  "description": "O'Fallon Labs | Data Science One on One",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
