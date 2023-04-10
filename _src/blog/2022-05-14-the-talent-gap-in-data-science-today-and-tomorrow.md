@@ -11,6 +11,7 @@ author: Afeefa Maryam
 date: 2022-05-29T14:59:09.847Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_grades_re_j7d6.png
 rating: 4
 ---

@@ -17,6 +17,7 @@ author: "Katherine Olowookere "
 date: 2022-09-15T01:00:00.000Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_circles_y-7-s2.svg
 rating: 5
 ---

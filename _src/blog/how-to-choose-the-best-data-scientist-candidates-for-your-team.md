@@ -13,6 +13,7 @@ author: Saeed Mirshekari
 date: 2022-09-13T14:25:54.740Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_under_construction_-46-pa.svg
 rating: 5
 ---

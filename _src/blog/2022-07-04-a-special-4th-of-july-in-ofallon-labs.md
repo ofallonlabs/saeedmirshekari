@@ -10,7 +10,8 @@ meta_description: NA
 author: Saeed Mirshekari
 date: 2022-07-04T18:45:45.885Z
 tags:
-  - update
+  - post
+  - mentoring
 thumbnail: /assets/img/uploads/festival.png
 rating: 5
 ---

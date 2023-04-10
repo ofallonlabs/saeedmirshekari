@@ -10,6 +10,7 @@ author: Saeed Mirshekari
 date: 2022-11-18T04:44:44.470Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_outdoors_amdn.png
 rating: 5
 ---

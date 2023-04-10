@@ -20,6 +20,7 @@ author: Saeed Mirshekari
 date: 2023-03-12T13:20:18.303Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_breaking_barriers_vnf3.png
 rating: 5
 ---

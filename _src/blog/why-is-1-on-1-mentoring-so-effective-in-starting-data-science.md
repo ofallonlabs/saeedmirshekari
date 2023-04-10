@@ -13,6 +13,7 @@ author: Saeed Mirshekari
 date: 2023-02-12T16:34:04.765Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/review.png
 rating: 5
 ---

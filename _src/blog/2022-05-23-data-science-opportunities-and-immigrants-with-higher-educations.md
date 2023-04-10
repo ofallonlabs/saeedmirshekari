@@ -11,6 +11,7 @@ author: Srushti Pargat
 date: 2022-06-05T13:39:10.283Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_adventure_map_hnin.png
 rating: 4
 ---

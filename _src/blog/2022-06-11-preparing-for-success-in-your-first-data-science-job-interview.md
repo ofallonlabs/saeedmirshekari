@@ -11,6 +11,7 @@ author: Katherine Olowookere
 date: 2022-06-30T21:22:08.965Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/interview.png
 rating: 5
 ---

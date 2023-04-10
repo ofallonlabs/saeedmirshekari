@@ -15,6 +15,7 @@ author: Saeed Mirshekari
 date: 2023-03-05T20:04:05.306Z
 tags:
   - post
+  - projects
 thumbnail: /assets/img/uploads/az-karkheh-ta-rhein-305528.jpg
 rating: 5
 ---

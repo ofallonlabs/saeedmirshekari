@@ -12,6 +12,7 @@ author: Fatima Haroon
 date: 2022-09-27T18:33:43.997Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_outdoor_party_oqh3.svg
 rating: 5
 ---

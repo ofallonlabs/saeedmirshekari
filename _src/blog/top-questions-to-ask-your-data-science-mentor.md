@@ -18,6 +18,7 @@ author: Saeed Mirshekari
 date: 2023-01-07T23:19:03.319Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_chatting_re_j55r.png
 rating: 5
 ---

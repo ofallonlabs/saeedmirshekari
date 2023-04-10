@@ -11,6 +11,7 @@ author: "Katherine Olowookere "
 date: 2022-08-29T13:37:51.981Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_scrum_board_re_wk7v.png
 rating: 5
 ---

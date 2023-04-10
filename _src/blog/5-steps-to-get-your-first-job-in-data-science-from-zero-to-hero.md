@@ -12,6 +12,7 @@ author: Katherine Olowookere
 date: 2023-01-07T17:23:54.326Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_yacht_re_kkai.png
 rating: 5
 ---

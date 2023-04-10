@@ -12,6 +12,7 @@ author: Fatima Haroon
 date: 2022-10-08T13:50:03.791Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_login_re_4vu2.png
 rating: 5
 ---

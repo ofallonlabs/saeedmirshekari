@@ -11,6 +11,7 @@ author: Saeed Mirshekari
 date: 2022-05-13T19:29:02.548Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_by_the_road_re_vvs7.png
 rating: 5
 ---
