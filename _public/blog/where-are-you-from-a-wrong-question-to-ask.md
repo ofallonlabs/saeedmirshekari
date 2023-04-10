@@ -10,6 +10,7 @@ author: Saeed Mirshekari
 date: 2013-11-21T05:54:00.000Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_best_place_re_lne9.png
 rating: 5
 ---

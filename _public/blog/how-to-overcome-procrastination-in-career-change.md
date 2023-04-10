@@ -13,6 +13,7 @@ author: Katherine Olowookere
 date: 2022-10-02T15:02:11.819Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_witch_-7-uk7-1-.svg
 rating: 5
 ---

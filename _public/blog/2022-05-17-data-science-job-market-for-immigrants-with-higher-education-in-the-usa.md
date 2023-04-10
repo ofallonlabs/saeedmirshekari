@@ -11,6 +11,7 @@ author: Katherine Olowookere
 date: 2022-06-19T05:30:06.244Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_well_done_i2wr.png
 rating: 4
 ---

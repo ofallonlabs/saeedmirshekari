@@ -14,6 +14,7 @@ author: Saeed Mirshekari
 date: 2023-03-25T13:10:43.952Z
 tags:
   - post
+  - projects
 thumbnail: /assets/img/uploads/pandemic.png
 rating: 5
 ---

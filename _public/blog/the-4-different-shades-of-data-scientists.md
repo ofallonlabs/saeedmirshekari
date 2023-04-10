@@ -12,6 +12,7 @@ author: Katherine Olowookere
 date: 2022-11-19T18:25:37.831Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/4shades_of_datascientist.png
 rating: 5
 ---

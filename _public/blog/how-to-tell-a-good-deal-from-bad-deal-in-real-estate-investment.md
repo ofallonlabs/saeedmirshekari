@@ -22,6 +22,7 @@ author: Saeed Mirshekari
 date: 2023-04-01T14:53:29.998Z
 tags:
   - post
+  - projects
 thumbnail: /assets/img/uploads/undraw_house_searching_re_stk8.png
 rating: 5
 ---

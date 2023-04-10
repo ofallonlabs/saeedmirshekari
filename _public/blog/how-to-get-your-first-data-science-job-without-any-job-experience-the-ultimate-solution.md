@@ -14,6 +14,7 @@ author: Fatima Haroon
 date: 2022-09-24T15:23:38.088Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_playing_cards_cywn-1-.svg
 rating: 5
 ---

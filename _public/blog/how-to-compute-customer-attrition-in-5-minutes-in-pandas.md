@@ -10,6 +10,7 @@ author: Saeed Mirshekari
 date: 2023-02-27T00:46:47.255Z
 tags:
   - post
+  - projects
 thumbnail: /assets/img/uploads/undraw_autumn_re_rwy0.png
 rating: 5
 ---

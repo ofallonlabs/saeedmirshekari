@@ -12,7 +12,7 @@ author: Katherine Olowookere
 date: 2022-12-18T19:29:54.580Z
 tags:
   - post
-  - wild
+  - projects
 thumbnail: /assets/img/uploads/undraw_art_museum_8or4.png
 rating: 5
 ---

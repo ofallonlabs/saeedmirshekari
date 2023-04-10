@@ -14,6 +14,7 @@ author: Katherine Olowookere
 date: 2022-07-15T23:05:14.801Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_creative_woman_re_u5tk.png
 rating: 5
 ---

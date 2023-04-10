@@ -12,6 +12,7 @@ author: Saeed Mirshekari
 date: 2015-12-31T15:19:00.000Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_airport_re_oqk1.png
 rating: 5
 ---

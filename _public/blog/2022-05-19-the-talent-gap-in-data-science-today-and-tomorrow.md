@@ -11,6 +11,7 @@ author: Adil Ansari
 date: 2022-06-12T13:56:46.676Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_stand_out_-1-oag.svg
 rating: 5
 ---

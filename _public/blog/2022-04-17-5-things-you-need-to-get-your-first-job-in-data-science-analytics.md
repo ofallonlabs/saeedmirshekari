@@ -11,6 +11,7 @@ author: Saeed Mirshekari
 date: 2022-04-17T05:32:21.790Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_both_sides_hbv3.png
 rating: 5
 ---

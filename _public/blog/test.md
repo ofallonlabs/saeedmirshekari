@@ -7,7 +7,7 @@ meta_description: test
 author: Saeed Mirshekari
 date: 2022-10-11T12:35:16.220Z
 tags:
-  - post
+  - exclude
 thumbnail: /assets/img/uploads/ag.png
 rating: 5
 ---
