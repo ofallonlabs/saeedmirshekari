@@ -2585,6 +2585,56 @@ pagination
 /* Simple SVG Christmas Lights Animation */
 
 
+/*-----------------------------------------------
+pagination
+----------------------------------------------- */
+.pagination_flat {
+  display: inline-block;
+}
+
+.pagination_flat a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.pagination_flat a:hover:not(.active) {background-color: #94c045;}
+.pagination_flat a {
+  border-radius: 5px;
+}
+
+.pagination_flat a.active {
+  border-radius: 5px;
+}
+
+.pagination_flat a.disabled {
+  color:#bababa;
+  background-color: #999;
+  border-radius: 5px;
+}
+
+.pagination_flat a {
+  transition: background-color .3s;
+}
+
+.pagination_flat a {
+  border: 1px solid #ddd; /* Gray */
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: #ddd;
+}
+
+
+.pagination_flat a {
+  margin: 0 3px; /* 0 is for top and bottom. Feel free to change it */
+  text-align: center;
+
+}
+
+/***************************************/
+/* Simple SVG Christmas Lights Animation */
+
 #Christmas_Lights {
   height: 100%;
   margin: 0;
