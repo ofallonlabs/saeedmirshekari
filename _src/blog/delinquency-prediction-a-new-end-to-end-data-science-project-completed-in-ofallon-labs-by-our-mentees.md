@@ -1,5 +1,5 @@
 ---
-layout: blog_base.njk
+layout: blog_base_davood.njk
 title: "Delinquency Prediction: A New End-to-End Data Science Project Completed
   in O'Fallon Labs by Our Mentees"
 description: This Credit-Risk project completed by one of our mentees recently
@@ -12,7 +12,7 @@ meta_description: This Credit-Risk project completed by one of our mentees
   recently and contains a machine learning model to predict credit risk for
   customers using Python and several algorithms. It also includes a dataset,
   data cleaning script, and a report explaining the methodology and results.
-author: Saeed Mirshekari
+author: Davood Shahabi
 date: 2023-04-15T17:31:23.534Z
 tags:
   - post
