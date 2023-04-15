@@ -14,6 +14,7 @@ author: Katherine Olowookere
 date: 2023-04-15T17:17:47.136Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_firmware_re_fgdy.png
 rating: 5
 ---
