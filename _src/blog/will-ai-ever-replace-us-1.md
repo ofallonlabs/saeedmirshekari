@@ -14,7 +14,7 @@ author: Katherine Olowookere
 date: 2023-04-15T17:17:47.136Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_unicorn_re_mi7i.png
+thumbnail: /assets/img/uploads/undraw_firmware_re_fgdy.png
 rating: 5
 ---
 There has been a lot of buzz recently around the potential impact of artificial intelligence (AI) on human jobs and society as a whole (particularly with the emergence of advanced AI models such as ChatGPT and other sophisticated AI technologies). 
