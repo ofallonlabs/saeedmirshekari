@@ -20,13 +20,13 @@ tags:
 thumbnail: /assets/img/uploads/undraw_bitcoin_re_urgq.png
 rating: 5
 ---
-The Credit-Risk repository on GitHub by Davood contains a machine learning model to predict credit risk for a given set of customers. 
+The [Credit-Risk repository on GitHub by Davood](https://github.com/Davoodshahabi/Credit-Risk) contains a machine learning model to predict credit risk for a given set of customers. 
 
 The model is developed using Python and Jupyter Notebook and employs several machine learning algorithms, including logistic regression, decision tree, random forest, and gradient boosting. The dataset used in the model is from a bank and includes information such as age, income, loan amount, and credit history of customers. 
 
 The repository also includes a data cleaning script to preprocess the dataset and a detailed report explaining the methodology and results of the model. The code and report are well-documented and can serve as a useful reference for anyone interested in building a credit risk prediction model.
 
-Y﻿ou can check out the code and details in [Davood's GitHub](https://github.com/Davoodshahabi/Credit-Risk). Below is an executive summary of the completed project.
+Y﻿ou can check out the code and details in [Davood's GitHub](https://github.com/Davoodshahabi/Credit-Risk)directly. Below is an executive summary of the completed project.
 
 # Credit-Risk Project
 
