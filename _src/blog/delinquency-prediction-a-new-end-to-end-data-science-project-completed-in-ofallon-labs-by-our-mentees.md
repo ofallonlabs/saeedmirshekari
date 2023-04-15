@@ -99,6 +99,6 @@ The model metrics are saved in a table for a fast and clear comparison:
 | 1   | randomforest_Final | 0.864091       | 0.888571        | 0.678404     | 0.817851      | 0.769394 |
 | 2   | xgboost_model_fin  | 0.781087       | 0.952576        | 0.363041     | 0.676985      | 0.525722 |
 | 3   | ctboost_model_fin  | 0.867162       | 0.921760        | 0.658228     | 0.815100      | 0.768016 |
-
+<﻿br>
 
 Catboost model has a better performance to predict high-risk applicants. Since we have an imbalanced data, the recall score can be an important metric for this project. Catboost has the highest precision and recall scores.
