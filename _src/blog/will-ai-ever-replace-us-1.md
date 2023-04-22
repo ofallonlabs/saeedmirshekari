@@ -1,17 +1,27 @@
 ---
 layout: blog_base_katherine.njk
-title: "Will AI Ever Replace Us? "
-description: Discover the ongoing debate on whether AI will replace humans and
-  what the future holds for the relationship between humans and technology.
-  Explore the potential impact of AI on the job market, economy, and society as
-  a whole.
-meta_title: "Will AI Ever Replace Us? "
-meta_description: Discover the ongoing debate on whether AI will replace humans
-  and what the future holds for the relationship between humans and technology.
-  Explore the potential impact of AI on the job market, economy, and society as
-  a whole.
+title: Will AI Take Over Our Jobs? Exploring the Current State of AI Technology
+  and Its Potential Impact on the Job Market
+description: In this blog post, we delve into the hotly debated topic of whether
+  AI will eventually replace humans in the workforce. We explore the current
+  state of AI technology and its potential impact on the job market,
+  highlighting how AI is already changing the way we live and work. We also
+  discuss the skills and jobs that are less likely to be automated, as well as
+  the emerging job opportunities in fields like data analysis and machine
+  learning. Don't miss out on this thought-provoking discussion about the future
+  of AI and its impact on our jobs!
+meta_title: Will AI Take Over Our Jobs? Exploring the Current State of AI
+  Technology and Its Potential Impact on the Job Market
+meta_description: In this blog post, we delve into the hotly debated topic of
+  whether AI will eventually replace humans in the workforce. We explore the
+  current state of AI technology and its potential impact on the job market,
+  highlighting how AI is already changing the way we live and work. We also
+  discuss the skills and jobs that are less likely to be automated, as well as
+  the emerging job opportunities in fields like data analysis and machine
+  learning. Don't miss out on this thought-provoking discussion about the future
+  of AI and its impact on our jobs!
 author: Katherine Olowookere
-date: 2023-04-15T17:17:47.136Z
+date: 2023-04-22T13:59:03.550Z
 tags:
   - post
   - mentoring
