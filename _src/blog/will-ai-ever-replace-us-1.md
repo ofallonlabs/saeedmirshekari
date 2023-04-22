@@ -25,7 +25,7 @@ date: 2023-04-22T13:59:03.550Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/citypark.png
+thumbnail: /assets/img/uploads/undraw_firmware_re_fgdy.png
 rating: 5
 ---
 There has been a lot of buzz recently around the potential impact of artificial intelligence (AI) on human jobs and society as a whole (particularly with the emergence of advanced AI models such as ChatGPT and other sophisticated AI technologies). 
