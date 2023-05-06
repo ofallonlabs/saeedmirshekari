@@ -35,7 +35,7 @@ One of the key challenges faced by many tech professionals is the fear of missin
 
 <h2>Why Would One Want To Say "No" To Anything?</h2>
 
-<h3>1﻿. Infinite Time & Energy</h2>
+<h3>1﻿. Finite Time & Energy</h2>
 
 Saying no doesn't imply a lack of ambition or commitment. Instead, it reflects a deep understanding of your own strengths, limitations, and priorities. It's crucial to recognize that your time and energy are finite resources. By declining projects or commitments that don't align with your expertise or long-term aspirations, you free up space to focus on areas where you can make the most significant impact. This targeted approach allows you to hone your skills, deepen your knowledge, and become an expert in your chosen field.
 
@@ -46,8 +46,6 @@ Moreover, stepping back and saying no can provide a unique opportunity for self-
 <h3>3﻿. Well-being Is Important</h3>
 
 In addition to personal growth and development, stepping back can also have a positive impact on your overall well-being. The tech industry is notorious for its demanding work schedules, tight deadlines, and high-pressure environments. Without intentional breaks and the ability to say no, stress and burnout can quickly take hold. By consciously stepping back and setting boundaries, you create space for rest, relaxation, and rejuvenation. This, in turn, fosters a healthier work-life balance, reduces the risk of burnout, and promotes greater long-term productivity.
-
-
 
 <h2>How To Say No</h2>
 
