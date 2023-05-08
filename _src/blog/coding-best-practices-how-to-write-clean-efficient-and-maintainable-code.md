@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: "Coding Best Practices: How to Write Clean, Efficient, and Maintainable Code"
+title: Coding Best Practices
 description: Learn about the importance of good coding practices and how they
   can improve the quality of your code. Discover how incorporating PEP 8
   guidelines and Git version control can make your code more consistent,
@@ -14,7 +14,7 @@ author: "Katherine Olowookere "
 date: 2023-05-06T18:36:34.181Z
 tags:
   - post
-thumbnail: /assets/img/uploads/wheel.png
+thumbnail: /assets/img/uploads/undraw_hacker_mind_6y85.png
 rating: 5
 ---
 First, let's kick off with a simple exercise 
