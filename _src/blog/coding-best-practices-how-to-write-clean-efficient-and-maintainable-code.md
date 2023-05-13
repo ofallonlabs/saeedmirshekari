@@ -11,7 +11,7 @@ meta_description: Learn about the importance of good coding practices and how
   guidelines and Git version control can make your code more consistent,
   readable, and efficient.
 author: "Katherine Olowookere "
-date: 2023-05-13T18:36:34.181Z
+date: 2023-05-13T14:27:02.957Z
 tags:
   - post
 thumbnail: /assets/img/uploads/undraw_hacker_mind_6y85.png
