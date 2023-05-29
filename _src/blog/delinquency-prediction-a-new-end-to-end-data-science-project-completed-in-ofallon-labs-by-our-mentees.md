@@ -2,13 +2,13 @@
 layout: blog_base_davood.njk
 title: "Delinquency Prediction: A New End-to-End Data Science Project Completed
   in O'Fallon Labs by Our Mentees"
-description: This Credit-Risk project completed by one of our mentees recently
-  and contains a machine learning model to predict credit risk for customers
-  using Python and several algorithms. It also includes a dataset, data cleaning
-  script, and a report explaining the methodology and results.
+description: This Credit-Risk project was completed by one of our mentees
+  recently and contains a machine learning model to predict credit risk for
+  customers using Python and several algorithms. It also includes a dataset,
+  data cleaning script, and a report explaining the methodology and results.
 meta_title: Machine Learning Model to Predict Credit Risk using Python and
   Various Algorithms
-meta_description: This Credit-Risk project completed by one of our mentees
+meta_description: This Credit-Risk project was completed by one of our mentees
   recently and contains a machine learning model to predict credit risk for
   customers using Python and several algorithms. It also includes a dataset,
   data cleaning script, and a report explaining the methodology and results.
