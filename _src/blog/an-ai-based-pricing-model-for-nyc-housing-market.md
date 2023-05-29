@@ -1,12 +1,13 @@
 ---
 layout: blog_base_bahar.njk
 title: An AI-based Pricing Model for NYC Housing Market
-description: This NYC Housing project completed by one of our mentees recently
-  and contains a machine learning model to predict home prices for buyers and
-  sellers using Python and several algorithms. It also includes a dataset, data
-  cleaning script, and a report explaining the methodology and results.
+description: This NYC Housing project was completed by one of our mentees
+  recently and contains a machine learning model to predict home prices for
+  buyers and sellers using Python and several algorithms. It also includes a
+  dataset, data cleaning script, and a report explaining the methodology and
+  results.
 meta_title: "Exploring NYC's Housing Market: A Regression Model for Home Pricing"
-meta_description: This NYC Housing project completed by one of our mentees
+meta_description: This NYC Housing project was completed by one of our mentees
   recently and contains a machine learning model to predict home prices for
   buyers and sellers using Python and several algorithms. It also includes a
   dataset, data cleaning script, and a report explaining the methodology and
