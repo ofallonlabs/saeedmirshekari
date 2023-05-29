@@ -1,5 +1,5 @@
 ---
-layout: blog_base.njk
+layout: blog_base_bahar.njk
 title: An AI-based Pricing Model for NYC Housing Market
 description: This NYC Housing project completed by one of our mentees recently
   and contains a machine learning model to predict home prices for buyers and
@@ -11,7 +11,7 @@ meta_description: This NYC Housing project completed by one of our mentees
   buyers and sellers using Python and several algorithms. It also includes a
   dataset, data cleaning script, and a report explaining the methodology and
   results.
-author: Saeed Mirshekari
+author: Bahar Biazar
 date: 2023-05-21T04:49:00.000Z
 tags:
   - post
