@@ -55,8 +55,8 @@ Final features used in the model are: number of bedrooms, number of bathrooms, y
 
 Heads up: This model is based on 2021 and current year predictions require retraining the model with most recent data.
 
-<h2> Model and Evaluation
-The best Model with the lowest was CatBoost with RMSE: 92593.91 and R2: 0.84.  
+<h2> Model and Evaluation</h2>
+The best Model with the lowest was CatBoost with `RMSE: 92593.91` and `R2: 0.84`.  
 
 <img src="https://user-images.githubusercontent.com/70281148/236565968-bcb5a7e7-cbc5-43d6-a4a4-ec10418fe4ed.png" width="100%" />
 
