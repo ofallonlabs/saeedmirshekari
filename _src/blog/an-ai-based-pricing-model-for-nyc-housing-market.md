@@ -21,7 +21,7 @@ rating: 5
 ---
 <h2> Introduction </h2>
 
-Welcome to the "NYC Housing" project! This repository is a comprehensive exploration of New York City's housing market, offering valuable insights and analysis for those interested in understanding the dynamics of the city's real estate landscape. Whether you're a data enthusiast, a researcher, or a curious individual, this project provides a wealth of information to navigate the complexities of housing trends, pricing patterns, and neighborhood dynamics in the bustling metropolis of New York City.
+Welcome to the "NYC Housing" project! [This repository](https://github.com/baharbiazar/NYHousing) is a comprehensive exploration of New York City's housing market, offering valuable insights and analysis for those interested in understanding the dynamics of the city's real estate landscape. Whether you're a data enthusiast, a researcher, or a curious individual, this project provides a wealth of information to navigate the complexities of housing trends, pricing patterns, and neighborhood dynamics in the bustling metropolis of New York City.
 
 
 
@@ -32,7 +32,7 @@ Within this repository, you will find an array of datasets, code scripts, and vi
 Whether you're interested in examining historical housing trends, understanding the factors influencing pricing fluctuations, or exploring the relationship between location and property values, this project serves as a valuable resource. The data-driven approach adopted here enables users to gain a deeper understanding of the intricate dynamics that shape the New York City housing market.
 
 
-Feel free to browse the repository, explore the various datasets and code scripts, and leverage the visualizations to uncover hidden patterns and trends. The "NYHousing" project is an open invitation to join in the exploration of New York City's housing market, and we encourage you to contribute, ask questions, and engage with the community as we collectively dive into the rich world of real estate in the city that never sleeps.
+Feel free to browse the repository, explore the various datasets and code scripts, and leverage the visualizations to uncover hidden patterns and trends. The "NYC Housing" project is an open invitation to join in the exploration of New York City's housing market, and we encourage you to contribute, ask questions, and engage with the community as we collectively dive into the rich world of real estate in the city that never sleeps.
 
 This project has completed as a part of a mentoring program in O'Fallon Labs.
 
