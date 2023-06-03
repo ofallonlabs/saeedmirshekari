@@ -57,7 +57,7 @@ print(x+3)
 
 H﻿ere is a code example for you:
 
-<span style="color:blue;background-color:#f2f3f4"> 
+<span style="color:blue;background-color:#94c045">
 
 ```python
 x = 'hello, python world!'
