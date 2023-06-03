@@ -1,12 +1,13 @@
 ---
 layout: blog_base_bahar.njk
 title: An AI-based Pricing Model for NYC Housing Market
-description: This NYC Housing project completed by one of our mentees recently
-  and contains a machine learning model to predict home prices for buyers and
-  sellers using Python and several algorithms. It also includes a dataset, data
-  cleaning script, and a report explaining the methodology and results.
+description: This NYC Housing project was completed by one of our mentees
+  recently and contains a machine learning model to predict home prices for
+  buyers and sellers using Python and several algorithms. It also includes a
+  dataset, data cleaning script, and a report explaining the methodology and
+  results.
 meta_title: "Exploring NYC's Housing Market: A Regression Model for Home Pricing"
-meta_description: This NYC Housing project completed by one of our mentees
+meta_description: This NYC Housing project was completed by one of our mentees
   recently and contains a machine learning model to predict home prices for
   buyers and sellers using Python and several algorithms. It also includes a
   dataset, data cleaning script, and a report explaining the methodology and
@@ -21,7 +22,7 @@ rating: 5
 ---
 <h2> Introduction </h2>
 
-Welcome to the "NYC Housing" project! This repository is a comprehensive exploration of New York City's housing market, offering valuable insights and analysis for those interested in understanding the dynamics of the city's real estate landscape. Whether you're a data enthusiast, a researcher, or a curious individual, this project provides a wealth of information to navigate the complexities of housing trends, pricing patterns, and neighborhood dynamics in the bustling metropolis of New York City.
+Welcome to the "NYC Housing" project! [This repository](https://github.com/baharbiazar/NYHousing) is a comprehensive exploration of New York City's housing market, offering valuable insights and analysis for those interested in understanding the dynamics of the city's real estate landscape. Whether you're a data enthusiast, a researcher, or a curious individual, this project provides a wealth of information to navigate the complexities of housing trends, pricing patterns, and neighborhood dynamics in the bustling metropolis of New York City.
 
 
 
@@ -32,7 +33,7 @@ Within this repository, you will find an array of datasets, code scripts, and vi
 Whether you're interested in examining historical housing trends, understanding the factors influencing pricing fluctuations, or exploring the relationship between location and property values, this project serves as a valuable resource. The data-driven approach adopted here enables users to gain a deeper understanding of the intricate dynamics that shape the New York City housing market.
 
 
-Feel free to browse the repository, explore the various datasets and code scripts, and leverage the visualizations to uncover hidden patterns and trends. The "NYHousing" project is an open invitation to join in the exploration of New York City's housing market, and we encourage you to contribute, ask questions, and engage with the community as we collectively dive into the rich world of real estate in the city that never sleeps.
+Feel free to browse the repository, explore the various datasets and code scripts, and leverage the visualizations to uncover hidden patterns and trends. The "NYC Housing" project is an open invitation to join in the exploration of New York City's housing market, and we encourage you to contribute, ask questions, and engage with the community as we collectively dive into the rich world of real estate in the city that never sleeps.
 
 This project has completed as a part of a mentoring program in O'Fallon Labs.
 
@@ -54,8 +55,8 @@ Final features used in the model are: number of bedrooms, number of bathrooms, y
 
 Heads up: This model is based on 2021 and current year predictions require retraining the model with most recent data.
 
-<h2> Model and Evaluation
-The best Model with the lowest was CatBoost with RMSE: 92593.91 and R2: 0.84.  
+<h2> Model and Evaluation</h2>
+The best Model with the lowest was CatBoost with `RMSE: 92593.91` and `R2: 0.84`.  
 
 <img src="https://user-images.githubusercontent.com/70281148/236565968-bcb5a7e7-cbc5-43d6-a4a4-ec10418fe4ed.png" width="100%" />
 
@@ -76,8 +77,11 @@ Please look at app.py for more information or go to Streamlit link to see some p
 - Be aware of outliers! Look at what's available and what outliers to take out. Some need domain knowledge and some are detectable simply by looking at the distribution graphs. If you don't see many data points around a certain value it might impact your predictions drastically. It's better to take those outliers out.
 - Make sure to know what you will be predicting for. 
 <h2> Next Steps </h2>
+
 1- Add more features to the training set  
+
 2- Expand the model to predict current day prices.  
+
 In reality, many factors are involved in this matter and there is a big difference between how much a house is worth and how much it's sold in the market. As I explore more I'll update this repository with my findings.
 
 <h2> Conclusion</h2>
