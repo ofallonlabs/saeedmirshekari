@@ -35,9 +35,10 @@ From strolling through the lush pathways of Forest Park to immersing myself in t
 
 And of course, indulging in the local culinary delights became an integral part of my St. Louis experience. From the iconic frozen custard at Ted Drewes to savoring mouthwatering barbecue at Pappy's, the city's culinary offerings never failed to delight my taste buds.
 
+<img src="/assets/img/saeed-and-his-sister-masi-2023-blueberryhill.jpeg" width="100%" />\
+*M﻿asi, my sister, and I at Blueberry Hill,  Delmar Loop, 2023*
 
 
-saeed-and-his-sister-masi-2023-blueberryhill.jpeg
 
 As I reflect upon the past fourteen years, I am grateful for the incredible opportunities, diverse experiences, and warm community that St. Louis has provided me. It has been a journey filled with growth, exploration, and countless memorable moments. St. Louis has become more than just a city; it is my home—a place where dreams were realized, friendships were forged, and a sense of belonging was found.
 
