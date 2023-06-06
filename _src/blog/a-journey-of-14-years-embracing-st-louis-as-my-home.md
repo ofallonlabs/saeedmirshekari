@@ -32,7 +32,7 @@ Driven by a passion for learning and embracing new challenges, I found myself im
 Alongside my professional journey, I cultivated a deep love and appreciation for the beauty and culture that St. Louis had to offer. I celebrated a milestone last year when I stood proudly in front of the Old Courthouse and took the oath of citizenship, officially becoming a part of this vibrant community. With a newfound sense of belonging, I embraced the city's countless treasures.
 
 <img src="/assets/img/photo_2023-06-03_14-51-09.jpg" width="100%" />\
-*M﻿y dogs (Boujee and NiKo) and I, April 2023*
+*Boujee, NiKo and I, April 2023*
 
 From strolling through the lush pathways of Forest Park to immersing myself in the artistic masterpieces at the Art Museum, the beauty of St. Louis captivated me. The Zoo became my sanctuary, where I reveled in the wonders of the animal kingdom. Art Hill, with its majestic setting, provided a haven for reflection and inspiration. The History Museum and Science Museum fueled my curiosity, offering glimpses into the past and future alike. And the City Museum, an eclectic playground of creativity, continually amazed me with its unconventional charm.
 
