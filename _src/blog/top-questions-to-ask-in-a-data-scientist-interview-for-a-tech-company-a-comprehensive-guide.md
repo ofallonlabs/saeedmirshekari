@@ -60,7 +60,11 @@ Understanding how the company measures the success of data science projects allo
 Asking about the next steps demonstrates your enthusiasm and proactive approach. Inquire about the timeline for subsequent interviews, technical assessments, or any other evaluation stages. Understanding the hiring process will help you manage your expectations and stay prepared for the next phase.
 
 <h2>9. Can you give me a glass of water? </h2>
-Although this may seem totally irrevant to be on this list, it works! Here is why: companies and teams will make their best efforts to make you happy during an onsite interview. Ask your prospective managers for a glass of water in an onsit einterview and watch them unfold how they would respond to your career development needs in the future. Some managers would ignore your request or may make you wait, some managers would point you to where you can get water while they're sitting, and some managers would stand up for you and help you get what you want. You don't want to work for managers who ignore your requests or make you make for your needs.
+Although this may seem totally irrelevant to be on this list, it works! Here is why: companies and teams will make their best efforts to make you happy during an onsite interview. If they don't make an effort to get you what you a small thing you need during the interview, it is unlikely that they do any better for you after they hire you.
+
+Ask your prospective managers for a glass of water in an onsite interview and watch them unfold how they would respond to your career development needs in the future. Some managers would ignore your request or may make you wait, some managers would point you to where you can get water while they're sitting, and some managers would stand up for you and help you get what you want. You don't want to work for managers who ignore your requests or make you make for your needs.
+
+
 
 
 <h2>Conclusion</h2>
