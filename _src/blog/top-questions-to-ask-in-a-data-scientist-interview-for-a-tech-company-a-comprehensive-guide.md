@@ -1,7 +1,7 @@
 ---
 layout: blog_base.njk
-title: "Top Questions to Ask in a Data Scientist Interview for a Tech Company:
-  Can You Give Me A Glass of Water?"
+title: "Top Questions to Ask in a Data Scientist Interview: Can You Give Me A
+  Glass of Water?"
 description: In this blog post, we provide a comprehensive guide on the top
   questions to ask in a data scientist interview for a tech company. These
   questions help candidates evaluate the company's data-driven culture,
