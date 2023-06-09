@@ -19,6 +19,8 @@ tags:
 thumbnail: /assets/img/uploads/whatsapp-image-2023-05-21-at-11.46.32-pm-1-.jpeg
 rating: 5
 ---
+*\[The cover photo is my view of Busch Stadium at a Cardinals' game]* 
+
 Once upon a time, fourteen years ago, I embarked on an exciting adventure in the vibrant city of St. Louis. It all began with a promising opportunity to pursue a PhD in physics at Washington University, which brought me to this captivating city nestled along the Mississippi River.
 
 As I delved into the world of academia, I discovered the intellectual richness and collaborative spirit that St. Louis had to offer. The halls of Washington University became my second home, where I engaged in groundbreaking research, fueled by the brilliant minds around me. It was a transformative period that laid the foundation for my future endeavors.
@@ -36,7 +38,7 @@ From strolling through the lush pathways of Forest Park to immersing myself in t
 And of course, indulging in the local culinary delights became an integral part of my St. Louis experience. From the iconic frozen custard at Ted Drewes to savoring mouthwatering barbecue at Pappy's, the city's culinary offerings never failed to delight my taste buds.
 
 <img src="/assets/img/saeed-and-his-sister-masi-2023-blueberryhill.jpeg" width="100%" />\
-*M﻿asi, my sister, and I at Blueberry Hill,  Delmar Loop, May 2023*
+*W﻿ith my sister in town May 2023*
 
 As I reflect upon the past fourteen years, I am grateful for the incredible opportunities, diverse experiences, and warm community that St. Louis has provided me. It has been a journey filled with growth, exploration, and countless memorable moments. St. Louis has become more than just a city; it is my home—a place where dreams were realized, friendships were forged, and a sense of belonging was found.
 
