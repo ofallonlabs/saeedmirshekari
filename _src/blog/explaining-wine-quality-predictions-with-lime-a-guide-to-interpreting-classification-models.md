@@ -17,7 +17,7 @@ date: 2023-06-09T15:34:28.342Z
 tags:
   - post
   - projects
-thumbnail: /assets/img/uploads/4shades_of_datascientist.png
+thumbnail: /assets/img/uploads/undraw_wine_tasting_re_4jjf.png
 rating: 5
 ---
 
@@ -31,6 +31,8 @@ Lime (Local Interpretable Model-Agnostic Explanations) is a popular library used
 2. <h2>Preparing the Wine Quality Dataset</h2>
 To demonstrate the use of Lime, we need a wine quality dataset. We'll start by obtaining a dataset that includes various characteristics of wines, such as acidity, pH level, alcohol content, and more. It should also include a quality rating for each wine. This dataset will serve as the foundation for training our classification model.
 
+<img src="/assets/img/quality_dist.jpeg" width="100%" />
+
 3. <h2>Building and Training the Classification Model </h2>
 Using the wine quality dataset, we'll develop a classification model to predict wine quality based on the available characteristics. We can choose a suitable algorithm such as Random Forest, Support Vector Machines, or Neural Networks. Once trained, the model will be ready for prediction and explanation.
 
@@ -39,6 +41,11 @@ Now comes the exciting part—using Lime to explain the predictions made by our 
 
 5. <h2>Visualizing Lime Explanations </h2>
 Lime provides visualizations that make it easier to interpret the explanations. These visualizations can include bar charts, heatmaps, or other suitable representations that highlight the contribution of each feature to the prediction. Through visual exploration, we can uncover patterns and correlations between wine characteristics and quality.
+
+
+
+<img src="/assets/img/wine_example1.jpeg" width="100%" />
+<img src="/assets/img/wine_example2.jpeg" width="100%" />
 
 6. <h2>Interpreting and Validating the Explanations </h2> 
 Interpreting Lime explanations requires careful analysis and validation. It's important to consider the context and domain knowledge to ensure the explanations align with our expectations. Additionally, we can validate the explanations by comparing them with our own understanding of wine quality and expert opinions.
