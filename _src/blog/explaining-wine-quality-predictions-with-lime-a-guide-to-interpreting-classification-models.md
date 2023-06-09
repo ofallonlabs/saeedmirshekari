@@ -1,7 +1,6 @@
 ---
 layout: blog_base.njk
-title: "Explaining Wine Quality Predictions with Lime: A Guide to Interpreting
-  Classification Models"
+title: "Explainable AI: A Guide to Interpreting Classification Models with Lime"
 description: Learn how the Lime library can help interpret and explain the
   results of a classification model for wine quality prediction. Understand the
   importance of interpretability, visualize explanations, and gain valuable
