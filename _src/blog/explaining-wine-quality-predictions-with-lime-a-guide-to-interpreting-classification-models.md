@@ -17,7 +17,7 @@ date: 2023-06-09T15:34:28.342Z
 tags:
   - post
   - projects
-thumbnail: /assets/img/uploads/4shades_of_datascientist.png
+thumbnail: /assets/img/uploads/undraw_wine_tasting_re_4jjf.png
 rating: 5
 ---
 
