@@ -51,21 +51,20 @@ Effective collaboration between the data science team and other departments is c
 
 Continuous learning and skill development are vital in the fast-evolving field of data science. Inquire about the company's support for professional growth, such as access to training resources, conferences, workshops, or mentorship programs. Look for indications that the company values and invests in its data scientists' development.
 
-<h2>6. How does the company ensure data privacy and maintain ethical standards?</h2>
 
-Data privacy and ethical considerations are of utmost importance in data science. Ask about the company's approach to data privacy, compliance with regulations, and ethical guidelines for handling sensitive data. Look for indications of strong data governance practices and a commitment to maintaining the highest ethical standards.
 
-<h2>7. How do you measure the success of data science projects within the company?</h2>
+
+<h2>6. How do you measure the success of data science projects within the company?</h2>
 
 Understanding how the company measures the success of data science projects allows you to align your goals with their expectations. Inquire about the key performance indicators (KPIs) or metrics used to evaluate the impact of data science initiatives. This question showcases your focus on delivering tangible results and contributing to the company's objectives.
 
 
-<h2>8. What are the next steps in the hiring process? </h2>
+<h2>7. What are the next steps in the hiring process? </h2>
 
 Asking about the next steps demonstrates your enthusiasm and proactive approach. Inquire about the timeline for subsequent interviews, technical assessments, or any other evaluation stages. Understanding the hiring process will help you manage your expectations and stay prepared for the next phase.
 
 
-<h2>9. Can you give me a glass of water? </h2>
+<h2>8. Can you give me a glass of water? </h2>
 Although this may seem totally irrelevant to be on this list, it works! Here is why: companies and teams will make their best efforts to make you happy during an onsite interview. If they don't make an effort to get you what you a small thing you need during the interview, it is unlikely that they do any better for you after they hire you.
 
 
