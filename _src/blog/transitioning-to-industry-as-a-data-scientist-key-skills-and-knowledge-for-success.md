@@ -19,7 +19,7 @@ date: 2023-06-12T22:52:34.002Z
 tags:
   - post
   - career
-thumbnail: /assets/img/uploads/undraw_delivery_truck_vt6p.png
+thumbnail: /assets/img/uploads/undraw_delivery_truck_vt6p-1-.png
 rating: 5
 ---
 How does the role of a data scientist in industry differ from academia, and what specific skills or knowledge should I focus on developing to be successful in the industry?
