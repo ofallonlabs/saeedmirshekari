@@ -37,6 +37,7 @@ Data scientists build models to predict customer churn, such as identifying cust
 Data scientists develop algorithms to provide personalized recommendations. For instance, a streaming platform like Netflix uses collaborative filtering techniques to recommend movies or TV shows based on a user's viewing history and preferences, enhancing user engagement and satisfaction.
 
 
+
 <h2>Market Segmentation</h2> 
 Data scientists analyze customer data to identify distinct market segments. For instance, an e-commerce company may use clustering techniques to group customers based on their shopping habits and preferences. This information helps tailor marketing strategies, promotions, and product offerings to specific customer segments.
 
