@@ -34,7 +34,12 @@ Reflecting on this experience, I realized the importance of recognizing warning 
 
 Additionally, I have learned to trust my instincts during the interview process. If something feels off or raises concerns, I no longer dismiss those feelings. I prioritize finding a work environment that aligns with my values and promotes a healthy, supportive culture.\
 \
-Speaking of gut feeling during the interview, let me share a few exact questions I still remember being asked during that interview: 1- What car do you drive? 2- How would you react if your boss is a moron? See, it was preventable in the first place. I was just so naïve at the time.
+Speaking of gut feeling during the interview, let me share a few exact questions that I still remember being asked during that interview: 
+
+1. What car do you drive?!
+2. How would you react if your boss is a moron?
+
+See, it was preventable in the first place. I was just so naïve at the time.
 
 While the toxic work environment was challenging to endure, it served as a valuable lesson. I now understand the significance of avoiding toxic workplaces and prioritize my well-being and career satisfaction above all else.
 
@@ -46,13 +51,9 @@ Finding the right job goes beyond the nature of the work itself. A crucial aspec
 
 To avoid toxic work environments, it is essential to recognize the warning signs. These indicators can manifest in various ways, such as excessive turnover, negative employee reviews, poor leadership, lack of work-life balance, and a culture of blame and micromanagement. Stay vigilant during the job search process, paying attention to online reviews, employee testimonials, and any news or reports regarding the company's work environment. Trust your instincts and be wary of organizations that consistently exhibit red flags.
 
-
-
 <h2> 2. Thoroughly Research the Company</h2>
 
 Before applying for a job or attending an interview, invest time in researching the company thoroughly. Start with their official website to gain insights into their mission, values, and overall company culture. Look for any publicized initiatives related to employee well-being, diversity, and inclusivity. Utilize professional networking platforms to connect with current or former employees who can provide valuable firsthand experiences and perspectives. Online forums and social media platforms can also offer additional information and discussions about the company's work environment.
-
-
 
 <h2> 3. Utilize Interview Opportunities</h2>
 
@@ -61,8 +62,6 @@ Job interviews are not only a chance for the employer to assess you, but also an
 <h2> 4. Seek External Perspectives</h2>
 
 Gather external perspectives to supplement your research. Reach out to your professional network, including mentors, colleagues, or industry groups, to inquire about the company's reputation and work environment. Industry-specific websites or forums can also provide valuable insights from professionals who have had direct experiences with the company or industry.
-
-
 
 <h2> 5. Trust Your Gut</h2>
 
