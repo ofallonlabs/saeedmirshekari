@@ -16,6 +16,7 @@ author: Saeed Mirshekari
 date: 2023-06-26T18:56:49.274Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/pastel-purple-mustard-white-simple-professional-employment-linkedin-profile-picture-1-.png
 rating: 5
 ---
