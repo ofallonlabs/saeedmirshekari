@@ -30,13 +30,13 @@ Data science has emerged as a transformative field, revolutionizing industries a
 
 As the co-founder of Coursera and former Chief Scientist at Baidu, Andrew Ng has been at the forefront of machine learning advancements. His online course on Coursera has empowered countless individuals to dive into the world of AI and data science.
 
-[<h2>Rachel Thomas</h2>](https://www.fast.ai/about/#rachel-thomas)
+[<h2>Rachel Thomas</h2>](https://www.fast.ai/about#rachel-thomas)
 
 **"You belong in data science. There's room for you in this field."**
 
 Rachel Thomas, co-founder of fast.ai, is a passionate advocate for diversity and accessibility in data science education. Through her initiatives, she has fostered a welcoming and inclusive environment for aspiring data scientists.
 
-[<h2>DJ Patil</h2>](http://www.djpatil.com/)
+[<h2>DJ Patil</h2>](https://hai.stanford.edu/people/dj-patil)
 
 **"The ability to take data—to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it—that's going to be a hugely important skill in the next decades."**
 
@@ -54,7 +54,7 @@ Hadley Wickham, Chief Scientist at RStudio, is renowned for his influential cont
 
 Hilary Mason, founder of Fast Forward Labs, has made significant contributions to machine learning and artificial intelligence. She has been a driving force behind innovative applications of data science, particularly in areas such as natural language processing and computer vision.
 
-[<h2>Sebastian Thrun</h2>](http://www.sebastianthrun.com/)
+[<h2>Sebastian Thrun</h2>](https://web.stanford.edu/~thrun/)
 
 **"Education is the single most important job of the human race."**
 
@@ -66,13 +66,13 @@ Sebastian Thrun, co-founder of Udacity, has played a crucial role in the advance
 
 Kirk Borne, Principal Data Scientist at Booz Allen Hamilton, has become a well-respected mentor and educator in the data science community. Through his informative content and engaging talks, he has inspired countless aspiring data scientists.
 
-[<h2>Carla Gentry</h2>](https://www.linkedin.com/in/carlagentry/)</h2>
+[<h2>Carla Gentry</h2>](https://amelia.ai/women-in-ai/carla-gentry/)</h2>
 
 **"Data science is about curiosity, exploration, discovery, and impact."**
 
 Carla Gentry, a seasoned data scientist and founder of Analytical-Solution, has dedicated her career to demystifying complex data science concepts. Through her online presence and consulting work, she has empowered individuals and organizations to harness the power of data.
 
-[<h2>Cathy O'Neil</h2>](https://mathbabe.org/)</h2>
+[<h2>Cathy O'Neil</h2>](https://datascience.virginia.edu/people/cathy-oneil)</h2>
 
 **"Models are opinions embedded in mathematics."**
 
