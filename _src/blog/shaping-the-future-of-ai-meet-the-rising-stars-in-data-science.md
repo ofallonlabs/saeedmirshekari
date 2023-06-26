@@ -54,7 +54,7 @@ Current Role & Company: Associate Professor at the University of Washington and 
 
 <h2>3. Abhishek Thakur from Kaggle Grandmasters:</h2>
 
-**Website: [Abhishek Thakur](https://www.kaggle.com/abhishek)**
+**Website: [Abhishek Thakur](https://www.youtube.com/AbhishekThakurAbhi)**
 
 
 
