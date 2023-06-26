@@ -66,7 +66,7 @@ Current Role & Company: Diverse backgrounds in academia, industry, and freelance
 
 <h2>4. Sisi Ma</h2>
 
-**Website: [Sisi Ma](https://www.sisima.net/)**
+**Website: [Sisi Ma](https://healthinformatics.umn.edu/staff/sisi-ma)**
 
 
 
@@ -100,7 +100,7 @@ Current Role & Company: Professor at the Technical University of Munich.
 
 <h2>7. Danilo Rezende</h2>
 
-**Website: [Danilo Rezende](https://danilobzdok.github.io/)**
+**Website: [Danilo Rezende](https://danilorezende.com/about/)**
 
 
 
@@ -112,7 +112,7 @@ Current Role & Company: Research Scientist at DeepMind.
 
 <h2>8. Sarah Guido</h2>
 
-**Website: [Sarah Guido](https://www.sarahguido.com/)**
+**Website: [Sarah Guido](https://www.linkedin.com/in/sarahguido/)**
 
 
 
@@ -136,7 +136,7 @@ Current Role & Company: Co-Director of the Stanford Institute for Human-Centered
 
 <h2>10. Cassie Kozyrkov</h2>
 
-**Website: [Cassie Kozyrkov](https://www.linkedin.com/in/cassiekozyrkov/)**
+**Website: [Cassie Kozyrkov](https://www.linkedin.com/in/kozyrkov/)**
 
 
 
