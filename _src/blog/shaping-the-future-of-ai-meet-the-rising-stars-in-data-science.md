@@ -28,7 +28,7 @@ The field of data science is constantly evolving, with talented individuals push
 
 <h2>1. Anima Anandkumar</h2>
 
-**Website: \[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/)**
+**Website: [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/)**
 
 
 
@@ -42,7 +42,7 @@ Current Role & Company: Bren Professor at Caltech and Director of ML Research at
 
 <h2>2. Emily Fox</h2>
 
-**Website: \[Emily Fox](https://homes.cs.washington.edu/~ebfox/)**
+**Website: [Emily Fox](https://homes.cs.washington.edu/~ebfox/)**
 
 Emily Fox has made notable contributions to Bayesian nonparametric methods and probabilistic modeling. Her research focuses on developing algorithms for large-scale data analysis, sparsity, and high-dimensional statistics.
 
@@ -54,7 +54,7 @@ Current Role & Company: Associate Professor at the University of Washington and 
 
 <h2>3. Abhishek Thakur from Kaggle Grandmasters:</h2>
 
-**Website: \[Abhishek Thakur](https://www.kaggle.com/abhishek)**
+**Website: [Abhishek Thakur](https://www.kaggle.com/abhishek)**
 
 
 
@@ -66,7 +66,7 @@ Current Role & Company: Diverse backgrounds in academia, industry, and freelance
 
 <h2>4. Sisi Ma</h2>
 
-**Website: \[Sisi Ma](https://www.sisima.net/)**
+**Website: [Sisi Ma](https://www.sisima.net/)**
 
 
 
@@ -78,7 +78,7 @@ Current Role & Company: Research Scientist at Google Brain.
 
 <h2>5. Sebastian Ruder</h2>
 
-**Website: \[Sebastian Ruder](http://ruder.io/)**
+**Website: [Sebastian Ruder](http://ruder.io/)**
 
 Sebastian Ruder is a rising star in the field of natural language processing (NLP) and transfer learning. His work on the ULMFiT approach has significantly advanced the field, enabling effective transfer learning in NLP tasks.
 
@@ -90,7 +90,7 @@ Current Role & Company: Research Scientist at DeepMind.
 
 <h2>6. Laura Leal-Taixé</h2>
 
-**Website: \[Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/)**
+**Website: [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/)**
 
 Laura Leal-Taixé has made significant contributions to computer vision, particularly in multi-object tracking. Her research focuses on developing robust algorithms for tracking objects in complex real-world scenarios.
 
@@ -100,7 +100,7 @@ Current Role & Company: Professor at the Technical University of Munich.
 
 <h2>7. Danilo Rezende</h2>
 
-**Website: \[Danilo Rezende](https://danilobzdok.github.io/)**
+**Website: [Danilo Rezende](https://danilobzdok.github.io/)**
 
 
 
@@ -112,7 +112,7 @@ Current Role & Company: Research Scientist at DeepMind.
 
 <h2>8. Sarah Guido</h2>
 
-**Website: \[Sarah Guido](https://www.sarahguido.com/)**
+**Website: [Sarah Guido](https://www.sarahguido.com/)**
 
 
 
@@ -124,7 +124,7 @@ Current Role & Company: Senior Data Scientist at Netflix.
 
 <h2>9. Fei-Fei Li</h2>
 
-**Website: \[Fei-Fei Li](http://ai.stanford.edu/~feifeili/)**
+**Website: [Fei-Fei Li](http://ai.stanford.edu/~feifeili/)**
 
 
 
@@ -136,7 +136,7 @@ Current Role & Company: Co-Director of the Stanford Institute for Human-Centered
 
 <h2>10. Cassie Kozyrkov</h2>
 
-**Website: \[Cassie Kozyrkov](https://www.linkedin.com/in/cassiekozyrkov/)**
+**Website: [Cassie Kozyrkov](https://www.linkedin.com/in/cassiekozyrkov/)**
 
 
 
