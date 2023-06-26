@@ -136,7 +136,7 @@ Current Role & Company: Co-Director of the Stanford Institute for Human-Centered
 
 <h2>10. Cassie Kozyrkov</h2>
 
-**Website: [Cassie Kozyrkov](https://www.linkedin.com/in/cassiekozyrkov/)**
+**Website: [Cassie Kozyrkov](https://www.linkedin.com/in/kozyrkov/)**
 
 
 
