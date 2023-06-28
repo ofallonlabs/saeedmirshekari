@@ -17,7 +17,7 @@ date: 2023-06-26T20:35:13.496Z
 tags:
   - post
   - career
-thumbnail: /assets/img/uploads/pastel-purple-mustard-white-simple-professional-employment-linkedin-profile-picture-1-.jpg
+thumbnail: /assets/img/uploads/pastel-purple-mustard-white-simple-professional-employment-linkedin-profile-picture-2-.png
 rating: 5
 ---
 <h2>Introduction</h2>
