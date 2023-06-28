@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: Top Influencers in Data Science and AI
+title: Top 10 Influencers in Data Science
 description: This article highlights ten influential data science mentors,
   including Andrew Ng, Rachel Thomas, DJ Patil, Hadley Wickham, Hilary Mason,
   Sebastian Thrun, Kirk Borne, Carla Gentry, Cathy O'Neil, and Vincent
