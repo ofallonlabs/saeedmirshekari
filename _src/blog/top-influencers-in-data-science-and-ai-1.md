@@ -17,7 +17,7 @@ date: 2023-06-28T03:59:17.614Z
 tags:
   - post
   - career
-thumbnail: /assets/img/uploads/saeedonview.jpg
+thumbnail: /assets/img/uploads/undraw_bitcoin_re_urgq.png
 rating: 5
 ---
 <h2>Introduction</h2>
