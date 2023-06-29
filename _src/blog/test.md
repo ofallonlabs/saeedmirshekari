@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: test
+title: test2
 description: test
 meta_title: test
 meta_description: test
