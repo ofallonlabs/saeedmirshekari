@@ -370,6 +370,22 @@ h1, h2, h3, h4, h5, h6 {
   color: #94c045;
 }
 
+.btn-get-cta {
+  font-family: "Merriweather", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid #ea4c7e;
+  text-transform: uppercase;
+  background: #ea4c7e;
+  color: #fff;
+}
+
 #hero .btn-get-started:hover {
   color: #fff;
   background: #94c045;
