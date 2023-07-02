@@ -13,7 +13,7 @@ meta_description: Discover the rising stars in data science who are shaping the
   significant contributions. Get inspired by their work and explore their
   websites to witness the forefront of data science innovation.
 author: Saeed Mirshekari
-date: 2023-06-26T20:35:13.496Z
+date: 2023-06-28T20:35:13.496Z
 tags:
   - post
   - career
