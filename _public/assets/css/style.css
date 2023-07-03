@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #94c045;
+  background: #b645c0;
 }
 .navbar .dropdown ul {
   display: block;
@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   object-fit: cover;
   height: 90vh;
-  background: url("../img/stl_bg_w_fade.png") bottom left;
+  /* background: url("../img/stl_bg_w_fade.png") bottom left; */
   background-size: cover;
   position: relative;
   margin-bottom: 100px;
@@ -307,7 +307,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero:before {
   content: "";
-  background: rgba(60, 65, 51, 0.4);
+  /* background: rgba(190, 241, 95, 0.4); */
+  background: #dddddd;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -366,8 +367,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px;
   border: 2px solid #94c045;
   text-transform: uppercase;
-  background: #fff;
-  color: #94c045;
+  background: #94c045;
+  color: #ddd;
 }
 
 .btn-redpill {
@@ -402,10 +403,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-#hero .btn-get-started:hover {
-  color: #fff;
-  background: #94c045;
-}
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
@@ -435,11 +432,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-#hero .btn-get-started2:hover {
-  color: #fff;
-  background: #94c045;
-}
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
@@ -2946,13 +2938,13 @@ myh1:hover span:nth-child(1){
   margin-right: 5px
 }
 myh1:hover span:nth-child(1):after{
-  content: "'";
+  content: "";
 }
 myh1:hover span:nth-child(2){
   margin-left: 30px
 }
 myh1:hover span{
-  color: #fff;
+  color: #94c045;
   text-shadow: 0 0 10px #fff,
                0 0 20px #fff, 
                0 0 40px #fff;
