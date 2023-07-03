@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: How To Start and Finish Any Data Science Project?
+title: How To Start and Finish Any Data Science Project in 7 Baby Steps
 description: Ready to dive into the exciting world of data analysis and
   predictive modeling? Our step-by-step guide has got you covered! We'll walk
   you through setting up Jupyter Notebook, exploring fascinating datasets on
