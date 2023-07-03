@@ -51,8 +51,6 @@ Here's an ultimate guide for newbies, covering the steps from setting up a Jupyt
 4. Determine the target variable: Determine the target variable (column) that you want to predict. In the customer churn example, the target variable would be the churn status (e.g., churned or not churned).
 
 
-<script async data-uid="a8b0144480" src="https://olabs.ck.page/a8b0144480/index.js"></script>
-
 <h2>Step 4: Data cleaning</h2>
 
 1. Load the dataset into a pandas DataFrame: In a Jupyter Notebook cell, import the necessary libraries and load the dataset into a pandas DataFrame:
