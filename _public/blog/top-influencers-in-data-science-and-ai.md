@@ -13,7 +13,7 @@ meta_description: This article highlights ten influential data science mentors,
   Granville. Their expertise, personal stories, and inspirational quotes have
   shaped the field, inspiring aspiring data scientists worldwide.
 author: Saeed Mirshekari
-date: 2023-06-26T20:31:49.307Z
+date: 2023-06-25T20:31:49.307Z
 tags:
   - post
   - career
