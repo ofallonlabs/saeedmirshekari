@@ -789,8 +789,8 @@ section {
   color: #fff;
 }
 .cta .cta-btn:hover {
-  background: #aacd6b;
-  border-color: #aacd6b;
+  background: #7145C0;
+  border-color: #7145C0;
 }
 
 /*--------------------------------------------------------------
@@ -1247,11 +1247,11 @@ section {
   font-weight: 400;
   font-family: "Raleway", sans-serif;
   font-weight: 600;
-  box-shadow: 0 3px 7px #A62753;
+  box-shadow: 0 3px 7px #7145C0;
   transition: 0.3s;
 }
 .pricing .btn-buy:hover {
-  background: #aacd6b;
+  background: #7145C0;
 }
 .pricing .featured h3 {
   color: #fff;
