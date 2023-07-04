@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #b645c0;
+  background: #7145C0;
 }
 .navbar .dropdown ul {
   display: block;
@@ -707,6 +707,12 @@ section {
   font-weight: 600;
   box-shadow: 0 3px 7px #A62753;
   transition: 0.3s;
+}
+
+.about .btn-get-started2:hover, .about .btn-get-started2:focus:hover {
+  color: #fff;
+  background: #7145C0;
+  border-color: #7145C0;
 }
 
 .pricing .btn-buy:hover {
@@ -2359,6 +2365,8 @@ iframe {
   align-items: center;
   gap: 2px;
 }
+
+
 
 @keyframes cursor-blink {
   0% {
