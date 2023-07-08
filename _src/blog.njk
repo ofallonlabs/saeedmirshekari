@@ -83,7 +83,13 @@ layout: blog_base_nobody.njk
   {% endif %}
 {% endif %}
 
-<a class="next" style='background-color:#a62753; color:#fff'>📃page {{pagination.pageNumber + 1}}/{{pagination.pages.length}}</a>
+{# start---------- #}
+<a class="next" style='background-color:#a62753; color:#fff'>Page {{pagination.pageNumber + 1}}/{{pagination.pages.length}}</a>
+{# {% for page in pagination.items %}
+  <a class="next" style='background-color:#a62753; color:#fff'> {{page.data.title}} </a>
+{% endfor %} #}
+
+{# end---------- #}
 
 {% if pagination.pageNumber < pagination.pages.length - 1  %}
   <a href="/blog/{{ pagination.pageNumber + 1 }}" class="next">Next</a>
