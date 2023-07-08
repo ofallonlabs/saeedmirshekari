@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: Future-Proof Your Career in Data Science with Mastering These
+title: Future-Proof Your Career in Data Science with Mastering These Skills and Tools
 description: Master Essential Data Science Tools for Job Market Success. Python,
   SQL, R, Tableau, and TensorFlow/PyTorch are the must-have skills to excel in
   Data Science. Stay ahead of the game and unlock exciting career opportunities
