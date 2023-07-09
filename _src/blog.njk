@@ -72,14 +72,14 @@ layout: blog_base_nobody.njk
 <div class="pagination" style='font-size:120%; color=#000'>
 
 {% if pagination.pageNumber == 0  %}
-  <a class="disabled active prev">⟪⟪</a>
+  <a class="disabled active prev">⟪</a>
 {% endif %}
 
 {% if pagination.pageNumber > 0 %}
   {% if pagination.pageNumber == 1 %}
-    <a href="/blog/" class="prev">⟪⟪</a>
+    <a href="/blog/" class="prev">⟪</a>
   {% else %}
-  <a href="/blog/" class="prev">⟪⟪</a>
+  <a href="/blog/" class="prev">⟪</a>
   {% endif %}
 {% endif %}
 
@@ -89,17 +89,17 @@ layout: blog_base_nobody.njk
 {% for page in [pagination.pageNumber-2, pagination.pageNumber-1, pagination.pageNumber, pagination.pageNumber+1, pagination.pageNumber+2] %}
 
   {% if page == pagination.pageNumber%}
-    <a href="/blog/{{ page }}" style='background-color:#94c045; color:#fff'> {{page+1}} </a>
+    <a href="/blog/{{ page }}" style='background-color:#94c045; color:#fff'>{{page+1}}</a>
   {% else %}
 
     {% if page in [-2, -1, pagination.pages.length, pagination.pages.length+1]  %}
-      <a style='background-color:#fff; color:#fff'> {{page+1}} </a>
+      <a style='background-color:#fff; color:#fff'>{{page+1}}</a>
     {% else %}
       
       {% if page == 0%}
-      <a href="/blog/" style='background-color:#bbb; color:#111;'> {{page+1}} </a>
+      <a href="/blog/" style='background-color:#bbb; color:#111;'>{{page+1}}</a>
       {% else %}
-      <a href="/blog/{{ page }}" style='background-color:#bbb; color:#fff;'> {{page+1}} </a>
+      <a href="/blog/{{ page }}" style='background-color:#bbb; color:#fff;'>{{page+1}}</a>
       {% endif %}
 
     {% endif %}
@@ -111,11 +111,11 @@ layout: blog_base_nobody.njk
 {# end---------- #}
 
 {% if pagination.pageNumber < pagination.pages.length - 1  %}
-  <a href="/blog/{{ pagination.pages.length-1}}">⟫⟫</a>
+  <a href="/blog/{{ pagination.pages.length-1}}">⟫</a>
 {% endif %}
 
 {% if pagination.pageNumber == pagination.pages.length - 1  %}
-  <a class="disabled active">⟫⟫</a>
+  <a class="disabled active">⟫</a>
 {% endif %}
 
 

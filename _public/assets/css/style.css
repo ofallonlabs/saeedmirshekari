@@ -940,7 +940,7 @@ section {
 .clients .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #111;
   opacity: 1;
   border: 1px solid #94c045;
 }
