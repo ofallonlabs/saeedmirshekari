@@ -18,7 +18,7 @@ author: Saeed Mirshekari
 date: 2023-07-08T15:05:31.303Z
 tags:
   - post
-  - mentor
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_working_re_ddwy-1-.png
 rating: 5
 ---
