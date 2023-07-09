@@ -89,17 +89,17 @@ layout: blog_base_nobody.njk
 {% for page in [pagination.pageNumber-2, pagination.pageNumber-1, pagination.pageNumber, pagination.pageNumber+1, pagination.pageNumber+2] %}
 
   {% if page == pagination.pageNumber%}
-    <a href="/blog/{{ page }}" style='background-color:#94c045; color:#fff'>{{page+1}}</a>
+    <a href="/blog/{{ page }}" style='background-color:#94c045; color:#fff; font-size:1.1vh;'>{{page+1}}</a>
   {% else %}
 
     {% if page in [-2, -1, pagination.pages.length, pagination.pages.length+1]  %}
-      <a style='background-color:#fff; color:#fff'>{{page+1}}</a>
+      <a style='background-color:#fff; color:#fff; font-size:1.1vh;'>{{page+1}}</a>
     {% else %}
       
       {% if page == 0 %}
-      <a href="/blog/" style='background-color:#bbb; color:#111;'>{{page+1}}</a>
+      <a href="/blog/" style='background-color:#bbb; color:#111; font-size:1.1vh;'>{{page+1}}</a>
       {% else %}
-      <a href="/blog/{{ page }}" style='background-color:#bbb; color:#fff;'>{{page+1}}</a>
+      <a href="/blog/{{ page }}" style='background-color:#bbb; color:#fff; font-size:1.1vh;'>{{page+1}}</a>
       {% endif %}
 
     {% endif %}
