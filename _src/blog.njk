@@ -69,7 +69,7 @@ layout: blog_base_nobody.njk
 
 {# Next/Previous #}
 <center>
-<div class="pagination">
+<div class="pagination" style='font-size:70%;'>
 
 {% if pagination.pageNumber == 0  %}
   <a class="disabled active prev">Previous</a>
@@ -89,17 +89,17 @@ layout: blog_base_nobody.njk
 {% for page in [pagination.pageNumber-2, pagination.pageNumber-1, pagination.pageNumber, pagination.pageNumber+1, pagination.pageNumber+2] %}
 
   {% if page == pagination.pageNumber%}
-    <a href="/blog/{{ page }}" class="next" style='background-color:#94c045; color:#fff'> {{page}} </a>
+    <a href="/blog/{{ page }}" class="next" style='background-color:#94c045; color:#fff'> {{page+1}} </a>
   {% else %}
 
     {% if page in [-2, -1, pagination.pages.length, pagination.pages.length+1]  %}
-      <a class="next" style='background-color:#fff; color:#fff'> {{page}} </a>
+      <a class="next" style='background-color:#fff; color:#fff'> {{page+1}} </a>
     {% else %}
       
       {% if page == 0%}
-      <a href="/blog/" class="next" style='background-color:#ddd; color:#fff;'> {{page}} </a>
+      <a href="/blog/" class="next" style='background-color:#bbb; color:#fff;'> {{page+1}} </a>
       {% else %}
-      <a href="/blog/{{ page }}" class="next" style='background-color:#ddd; color:#fff;'> {{page}} </a>
+      <a href="/blog/{{ page }}" class="next" style='background-color:#bbb; color:#fff;'> {{page+1}} </a>
       {% endif %}
 
     {% endif %}
