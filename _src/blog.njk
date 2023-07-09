@@ -84,10 +84,29 @@ layout: blog_base_nobody.njk
 {% endif %}
 
 {# start---------- #}
-<a class="next" style='background-color:#a62753; color:#fff'>Page {{pagination.pageNumber + 1}}/{{pagination.pages.length}}</a>
-{# {% for page in pagination.items %}
-  <a class="next" style='background-color:#a62753; color:#fff'> {{page.data.title}} </a>
-{% endfor %} #}
+{# <a class="next" style='background-color:#a62753; color:#fff'>Page {{pagination.pageNumber + 1}}/{{pagination.pages.length}}</a> #}
+
+{% for page in [pagination.pageNumber-2, pagination.pageNumber-1, pagination.pageNumber, pagination.pageNumber+1, pagination.pageNumber+2] %}
+
+  {% if page == pagination.pageNumber%}
+    <a href="/blog/{{ page }}" class="next" style='background-color:#94c045; color:#fff'> {{page}} </a>
+  {% else %}
+
+    {% if page in [-2, -1, pagination.pages.length, pagination.pages.length+1]  %}
+      <a class="next" style='background-color:#fff; color:#fff'> {{page}} </a>
+    {% else %}
+      
+      {% if page == 0%}
+      <a href="/blog/" class="next" style='background-color:#ddd; color:#fff;'> {{page}} </a>
+      {% else %}
+      <a href="/blog/{{ page }}" class="next" style='background-color:#ddd; color:#fff;'> {{page}} </a>
+      {% endif %}
+
+    {% endif %}
+
+  {% endif %}
+
+{% endfor %}
 
 {# end---------- #}
 
