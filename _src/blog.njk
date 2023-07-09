@@ -92,7 +92,7 @@ layout: blog_base_nobody.njk
     <a href="/blog/{{ page }}" style='background-color:#94c045; color:#000; font-size:12px;'><b>{{page+1}}</b></a>
   {% else %}
 
-    {% if page in [-2, -1, pagination.pages.length, pagination.pages.length+1]  %}
+    {% if page in [-2, -1, 0, pagination.pages.length, pagination.pages.length+1]  %}
       <a style='background-color:#fff; color:#fff; font-size:1.1vh;'>{{page+1}}</a>
     {% else %}
       
