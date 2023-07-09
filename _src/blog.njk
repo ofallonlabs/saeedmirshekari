@@ -72,14 +72,14 @@ layout: blog_base_nobody.njk
 <div class="pagination" style='font-size:70%;'>
 
 {% if pagination.pageNumber == 0  %}
-  <a class="disabled active prev">Previous</a>
+  <a class="disabled active prev">⟪⟪</a>
 {% endif %}
 
 {% if pagination.pageNumber > 0 %}
   {% if pagination.pageNumber == 1 %}
-    <a href="/blog/" class="prev">Previous</a>
+    <a href="/blog/" class="prev">⟪⟪</a>
   {% else %}
-  <a href="/blog/{{ pagination.pageNumber - 1 }}" class="prev">Previous</a>
+  <a href="/blog/" class="prev">⟪⟪</a>
   {% endif %}
 {% endif %}
 
@@ -111,11 +111,11 @@ layout: blog_base_nobody.njk
 {# end---------- #}
 
 {% if pagination.pageNumber < pagination.pages.length - 1  %}
-  <a href="/blog/{{ pagination.pageNumber + 1 }}" class="next">Next</a>
+  <a href="/blog/{{ pagination.pages.length-1}}" class="next">⟫⟫</a>
 {% endif %}
 
 {% if pagination.pageNumber == pagination.pages.length - 1  %}
-  <a class="disabled active next">Next</a>
+  <a class="disabled active next">⟫⟫</a>
 {% endif %}
 
 
