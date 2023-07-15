@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: Follow These Mastering Your First 90 Days in Your First Data Science Job
+title: Mastering Your First 90 Days in Your First Data Science Job
 description: Ready to kickstart your data science career? This badass guide
   takes you through the crucial first 90 days, from nailing your role to
   building killer relationships and delivering jaw-dropping work. Get ready to
