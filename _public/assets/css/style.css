@@ -365,9 +365,9 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #94c045;
+  border: 2px solid #7145C0;
   text-transform: uppercase;
-  background: #94c045;
+  background: #7145C0;
   color: #ddd;
 }
 
@@ -711,16 +711,16 @@ section {
 
 .about .btn-get-started2:hover, .about .btn-get-started2:focus:hover {
   color: #fff;
-  background: #7145C0;
-  border-color: #7145C0;
+  background: #94c045;
+  border-color: #94c045;
 }
 
 .pricing .btn-buy:hover {
-  background: #aacd6b;
+  background: #94c045;
 }
 
 .btn-buy2:hover {
-  background: #aacd6b;
+  background: #7145C0;
   color: #fff;
 }
 
@@ -1222,7 +1222,7 @@ section {
   text-align: center;
 }
 .pricing .btn-buy {
-  background: #94c045;
+  background: #000;
   display: inline-block;
   padding: 6px 35px 8px 35px;
   border-radius: 4px;
@@ -1251,7 +1251,7 @@ section {
   transition: 0.3s;
 }
 .pricing .btn-buy:hover {
-  background: #7145C0;
+  background: #94c045;
 }
 .pricing .featured h3 {
   color: #fff;
