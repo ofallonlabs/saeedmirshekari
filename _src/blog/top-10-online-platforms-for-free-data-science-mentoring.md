@@ -24,6 +24,7 @@ author: Saeed Mirshekari
 date: 2023-07-21T15:43:12.926Z
 tags:
   - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_regain_focus_ecvj.png
 rating: 5
 ---
