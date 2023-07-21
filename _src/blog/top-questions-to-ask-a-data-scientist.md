@@ -20,6 +20,7 @@ author: Saeed Mirshekari
 date: 2023-07-21T15:52:35.387Z
 tags:
   - post
+  - career
 thumbnail: /assets/img/uploads/undraw_feeling_proud_qne1.png
 rating: 5
 ---
