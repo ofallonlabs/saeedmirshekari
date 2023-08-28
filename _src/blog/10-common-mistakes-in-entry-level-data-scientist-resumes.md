@@ -18,7 +18,7 @@ tags:
   - post
   - mentoring
 thumbnail: /assets/img/uploads/undraw_fixing_bugs_w7gi.png
-rating: 5
+rating: 4
 ---
 # 10 Common Mistakes to Avoid When Writing a Resume for Entry-Level Data Scientist Jobs
 
