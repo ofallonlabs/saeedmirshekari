@@ -17,7 +17,7 @@ meta_description: Data science bootcamps offer intensive, immersive learning
   mentorship provides personalized guidance, cost-effectiveness, and in-depth
   expertise, making it an attractive alternative for aspiring data scientists.
 author: Saeed Mirshekari
-date: 2023-08-05T16:38:35.387Z
+date: 2023-08-05T16:40:35.387Z
 tags:
   - post
   - mentoring

@@ -13,12 +13,12 @@ meta_description: In the competitive realm of data science, an impeccable resume
   make your application shine, boosting your prospects in the dynamic data
   science landscape.
 author: Saeed Mirshekari
-date: 2023-08-17T13:35:06.709Z
+date: 2023-08-16T13:35:06.709Z
 tags:
   - post
   - mentoring
 thumbnail: /assets/img/uploads/undraw_fixing_bugs_w7gi.png
-rating: 5
+rating: 4
 ---
 # 10 Common Mistakes to Avoid When Writing a Resume for Entry-Level Data Scientist Jobs
 
