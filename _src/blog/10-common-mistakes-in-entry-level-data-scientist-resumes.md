@@ -13,7 +13,7 @@ meta_description: In the competitive realm of data science, an impeccable resume
   make your application shine, boosting your prospects in the dynamic data
   science landscape.
 author: Saeed Mirshekari
-date: 2023-08-17T13:35:06.709Z
+date: 2023-08-16T13:35:06.709Z
 tags:
   - post
   - mentoring
