@@ -22,7 +22,7 @@ tags:
   - post
   - projects
 thumbnail: /assets/img/uploads/undraw_thought_process_re_om58.png
-rating: 5
+rating: 4
 ---
 
 
