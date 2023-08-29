@@ -15,7 +15,7 @@ meta_description: The realm of data science offers both conventional paths
   lacks structure and credibility. A hybrid approach and lifelong learning
   ensure adaptability in this rapidly evolving field.
 author: Saeed Mirshekari
-date: 2023-08-29T15:31:21.419Z
+date: 2023-08-29T16:22:01.086Z
 tags:
   - post
   - career
