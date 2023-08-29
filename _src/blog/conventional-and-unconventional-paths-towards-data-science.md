@@ -1,13 +1,13 @@
 ---
 layout: blog_base.njk
-title: Conventional and Unconventional Paths towards Data Science
+title: Conventional and Unconventional Paths towards A Data Science Career
 description: The realm of data science offers both conventional paths through
   formal education and unconventional routes via self-taught mastery. Formal
   education provides a strong foundation but demands time and cost.
   Self-learning offers flexibility, practical experience, and affordability but
   lacks structure and credibility. A hybrid approach and lifelong learning
   ensure adaptability in this rapidly evolving field.
-meta_title: Conventional and Unconventional Paths towards Data Science
+meta_title: Conventional and Unconventional Paths towards A Data Science Career
 meta_description: The realm of data science offers both conventional paths
   through formal education and unconventional routes via self-taught mastery.
   Formal education provides a strong foundation but demands time and cost.
