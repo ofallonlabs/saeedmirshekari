@@ -149,9 +149,7 @@ A confusion matrix summarizes the performance of a binary classification model. 
 
 - **Recall (Sensitivity)**: The ratio of correctly identified positive instances (TP) to all actual positive instances (TP + FN).
 
-- **
-
-F1-Score**: The harmonic mean of precision and recall, providing a balance between the two.
+- **F1-Score**: The harmonic mean of precision and recall, providing a balance between the two.
 
 ### ROC Curve and AUC
 
