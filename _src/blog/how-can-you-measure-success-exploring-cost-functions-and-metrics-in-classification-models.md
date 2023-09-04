@@ -66,19 +66,15 @@ In classification, the most commonly used cost function is the **cross-entropy l
 Mathematically, for binary classification, the cross-entropy loss can be defined as:
 
 
-$$J(y, \hat{y}) = -\frac{1}{m} \sum_{i=1}^{m} \left[y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)\right]$$
-
 \begin{equation}
-I = \int \rho R^{2} dV
+J(y, \hat{y}) = -\frac{1}{m} \sum_{i=1}^{m} \left[y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)\right]
 \end{equation}
-
-`$x^2$` or `$$x^2$$`
 
 
 Where:
-- \(y_i\) is the true label (0 or 1) for the i-th example.
-- \(\hat{y}_i\) is the predicted probability that the i-th example belongs to class 1.
-- \(m\) is the number of examples in the dataset.
+- `$y_i$` is the true label (0 or 1) for the i-th example.
+- `$\hat{y}_i$` is the predicted probability that the i-th example belongs to class 1.
+- `$m$` is the number of examples in the dataset.
 
 The goal is to minimize this loss function during the training of a classification model.
 
@@ -125,9 +121,9 @@ Actual Negative        FP                    TN
 
 Accuracy is perhaps the most straightforward performance metric. It calculates the proportion of correct predictions over the total number of predictions.
 
-\[
+\begin{equation}
 \text{Accuracy} = \frac{TP + TN}{TP + FP + FN + TN}
-\]
+\end{equation}
 
 While accuracy is easy to understand, it can be misleading when dealing with imbalanced datasets, where one class is significantly more prevalent than the other.
 
@@ -137,15 +133,15 @@ Precision and recall provide more nuanced insights into classification performan
 
 - **Precision** measures the proportion of true positive predictions among all positive predictions. It focuses on minimizing false positives.
 
-\[
+\begin{equation}
 \text{Precision} = \frac{TP}{TP + FP}
-\]
+\end{equation}
 
 - **Recall** (also known as sensitivity or true positive rate) measures the proportion of true positive predictions among all actual positives. It focuses on minimizing false negatives.
 
-\[
+\begin{equation}
 \text{Recall} = \frac{TP}{TP + FN}
-\]
+\end{equation}
 
 Precision and recall are particularly important in scenarios where false positives and false negatives have different consequences. For example, in medical diagnosis, missing a true positive (low recall) can be more detrimental than incorrectly identifying a healthy person as sick (low precision).
 
@@ -153,9 +149,9 @@ Precision and recall are particularly important in scenarios where false positiv
 
 The F1-Score is the harmonic mean of precision and recall. It balances the trade-off between precision and recall, providing a single metric that considers both false positives and false negatives.
 
-\[
+\begin{equation}
 \text{F1-Score} = \frac{2 \cdot \text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}
-\]
+\end{equation}
 
 The F1-Score is particularly useful when you want a single metric that captures the overall classification performance.
 
