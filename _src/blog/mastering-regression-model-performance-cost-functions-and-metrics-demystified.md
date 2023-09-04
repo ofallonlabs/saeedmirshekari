@@ -22,6 +22,27 @@ tags:
 thumbnail: /assets/img/uploads/undraw_drone_race_0sim.png
 rating: 5
 ---
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
+
 # Understanding Cost Functions and Evaluating Regression Model Performance
 
 Regression analysis is a fundamental tool in the data scientist's toolbox. It allows us to understand and make predictions based on relationships between variables. But how do we measure the performance of a regression model? In this comprehensive guide, we'll explore cost functions and various techniques to assess the effectiveness of regression models. Whether you're an aspiring data scientist or a junior practitioner, this article will equip you with the knowledge you need to excel in regression analysis.
