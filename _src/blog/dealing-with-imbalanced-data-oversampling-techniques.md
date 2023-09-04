@@ -30,19 +30,20 @@ In the world of data science and machine learning, not all datasets are created 
 
 ## Table of Contents
 
-- Understanding Imbalanced Data
-- The Consequences of Imbalance
-- The Oversampling Solution
-- Techniques for Oversampling
-  - Random Oversampling
-  - SMOTE (Synthetic Minority Over-sampling Technique)
-  - ADASYN (Adaptive Synthetic Sampling)
-- Choosing the Right Oversampling Technique
-- Implementing Oversampling in Python
-- Evaluating the Impact of Oversampling
-- Real-World Examples
-- The Pitfalls of Oversampling
-- Conclusion
+* Understanding Imbalanced Data
+* The Consequences of Imbalance
+* The Oversampling Solution
+* Techniques for Oversampling
+
+  * Random Oversampling
+  * SMOTE (Synthetic Minority Over-sampling Technique)
+  * ADASYN (Adaptive Synthetic Sampling)
+* Choosing the Right Oversampling Technique
+* Implementing Oversampling in Python
+* Evaluating the Impact of Oversampling
+* Real-World Examples
+* The Pitfalls of Oversampling
+* Conclusion
 
 ## Understanding Imbalanced Data
 
@@ -51,7 +52,6 @@ In many real-world scenarios, imbalanced data is the norm rather than the except
 Here's why this poses a problem:
 
 1. **Bias in Model Training**: Machine learning models tend to be biased toward the majority class because they are optimized to minimize the overall error. As a result, they may perform poorly on the minority class.
-
 2. **Misleading Evaluation**: Traditional evaluation metrics like accuracy can be misleading in imbalanced datasets. A model can achieve high accuracy by simply predicting the majority class, but this doesn't provide much value in many real-world applications.
 
 ## The Consequences of Imbalance
@@ -59,9 +59,7 @@ Here's why this poses a problem:
 The consequences of working with imbalanced data can be severe:
 
 1. **Ineffective Models**: Models trained on imbalanced data may struggle to identify rare events or anomalies. In cases like fraud detection, this could lead to substantial financial losses.
-
 2. **Biased Predictions**: The model may predict the majority class with high accuracy but perform poorly on the minority class, potentially missing critical insights.
-
 3. **Loss of Information**: The minority class may contain valuable information that is lost when the model underperforms on it.
 
 ## The Oversampling Solution
@@ -80,6 +78,8 @@ In random oversampling, random instances from the minority class are duplicated 
 
 ### 2. SMOTE (Synthetic Minority Over-sampling Technique)
 
+<img src="/assets/img/uploads/smote_animation.gif" width="80%">
+
 SMOTE is a more sophisticated approach that generates synthetic samples for the minority class. It works by selecting a data point from the minority class and creating synthetic samples by interpolating between it and its nearest neighbors. This method addresses the overfitting issue of random oversampling.
 
 ### 3. ADASYN (Adaptive Synthetic Sampling)
@@ -90,11 +90,9 @@ ADASYN takes a step further by adaptively generating synthetic samples based on 
 
 Selecting the appropriate oversampling technique depends on the dataset and the problem at hand. Here are some considerations:
 
-- **Dataset Size**: If you have a large dataset, random oversampling may suffice. For smaller datasets, SMOTE or ADASYN might be more suitable.
-
-- **Data Distribution**: Consider the distribution of your data. If the minority class is clustered, SMOTE or ADASYN may be more effective. If it's dispersed, random oversampling can work well.
-
-- **Computational Resources**: SMOTE and ADASYN are computationally more intensive than random oversampling. Ensure you have the necessary resources.
+* **Dataset Size**: If you have a large dataset, random oversampling may suffice. For smaller datasets, SMOTE or ADASYN might be more suitable.
+* **Data Distribution**: Consider the distribution of your data. If the minority class is clustered, SMOTE or ADASYN may be more effective. If it's dispersed, random oversampling can work well.
+* **Computational Resources**: SMOTE and ADASYN are computationally more intensive than random oversampling. Ensure you have the necessary resources.
 
 ## Implementing Oversampling in Python
 
@@ -137,15 +135,11 @@ This code generates a synthetic imbalanced dataset, applies random oversampling,
 
 To understand the impact of oversampling, it's crucial to evaluate your model's performance. Traditional metrics like accuracy can be misleading in imbalanced datasets. Instead, focus on:
 
-- **Confusion Matrix**: Analyze true positives, true negatives, false positives, and false negatives.
-
-- **Precision**: The ratio of true positives to the total predicted positives.
-
-- **Recall**: The ratio of true positives to the total actual positives.
-
-- **F1-Score**: The harmonic mean of precision and recall, providing a balance between the two.
-
-- **Area Under the Receiver Operating Characteristic Curve (AUC-ROC)**: Measures the model's ability to distinguish between classes.
+* **Confusion Matrix**: Analyze true positives, true negatives, false positives, and false negatives.
+* **Precision**: The ratio of true positives to the total predicted positives.
+* **Recall**: The ratio of true positives to the total actual positives.
+* **F1-Score**: The harmonic mean of precision and recall, providing a balance between the two.
+* **Area Under the Receiver Operating Characteristic Curve (AUC-ROC)**: Measures the model's ability to distinguish between classes.
 
 Let's evaluate the impact of oversampling using these metrics:
 
@@ -182,23 +176,18 @@ This code trains a Random Forest classifier on the oversampled data and evaluate
 
 Oversampling finds applications in various real-world scenarios:
 
-- **Fraud Detection**: Identifying fraudulent transactions in financial data, where fraudulent transactions are rare compared to legitimate ones.
-
-- **Rare Disease Diagnosis**: Detecting rare diseases in medical datasets, where the prevalence of the disease is low.
-
-- **Anomaly Detection**: Discovering unusual patterns in network traffic for cybersecurity, where network intrusions are infrequent.
-
-- **Customer Churn Prediction**: Predicting customer churn in subscription-based services, where the majority of customers do not churn.
+* **Fraud Detection**: Identifying fraudulent transactions in financial data, where fraudulent transactions are rare compared to legitimate ones.
+* **Rare Disease Diagnosis**: Detecting rare diseases in medical datasets, where the prevalence of the disease is low.
+* **Anomaly Detection**: Discovering unusual patterns in network traffic for cybersecurity, where network intrusions are infrequent.
+* **Customer Churn Prediction**: Predicting customer churn in subscription-based services, where the majority of customers do not churn.
 
 ## The Pitfalls of Oversampling
 
 While oversampling is a valuable tool, it's essential to be aware of potential pitfalls:
 
-- **Overfitting**: Oversampling can lead to overfitting, where the model performs well on the training data but poorly on unseen data. Regularization techniques can help mitigate this.
-
-- **Loss of Information**: Oversampling may introduce bias and potentially discard valuable information present in the original data. It's crucial to strike a balance.
-
-- **Computationally Intensive**: Some oversampling techniques, like SMOTE and ADASYN, can be computationally expensive, especially on large datasets.
+* **Overfitting**: Oversampling can lead to overfitting, where the model performs well on the training data but poorly on unseen data. Regularization techniques can help mitigate this.
+* **Loss of Information**: Oversampling may introduce bias and potentially discard valuable information present in the original data. It's crucial to strike a balance.
+* **Computationally Intensive**: Some oversampling techniques, like SMOTE and ADASYN, can be computationally expensive, especially on large datasets.
 
 ## Conclusion
 
