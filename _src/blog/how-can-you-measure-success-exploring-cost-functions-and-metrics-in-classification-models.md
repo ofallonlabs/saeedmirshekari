@@ -46,9 +46,9 @@ In classification, the most commonly used cost function is the **cross-entropy l
 
 Mathematically, for binary classification, the cross-entropy loss can be defined as:
 
-\[
+$$
 J(y, \hat{y}) = -\frac{1}{m} \sum_{i=1}^{m} \left[y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)\right]
-\]
+$$
 
 Where:
 - \(y_i\) is the true label (0 or 1) for the i-th example.
