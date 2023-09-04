@@ -27,19 +27,22 @@ rating: 5
 Overfitting is a term frequently encountered in the world of data science and machine learning. It's a concept that can make or break the success of your predictive models. In this comprehensive guide, we'll delve deep into what overfitting is, why it's detrimental, and how to combat it. Whether you're a budding data scientist or an enthusiast, this article will equip you with the knowledge to tackle overfitting head-on.
 
 ## Table of Contents
-- What is Overfitting?
-- Why is Overfitting Bad?
-- Detecting Overfitting
-- Mitigating Overfitting
-- Cross-Validation
-- Regularization Techniques
-- Conclusion
+
+* What is Overfitting?
+* Why is Overfitting Bad?
+* Detecting Overfitting
+* Mitigating Overfitting
+* Cross-Validation
+* Regularization Techniques
+* Conclusion
 
 ## What is Overfitting?
 
 At its core, overfitting is an issue that arises when a machine learning model captures not only the underlying patterns in the data but also the noise and random fluctuations. In simpler terms, it's when your model becomes too complex and starts fitting the training data too closely. This leads to poor generalization, meaning that the model performs well on the training data but poorly on new, unseen data.
 
 Let's illustrate this concept with an example. Imagine you're building a model to predict the price of houses based on their square footage. You collect data on various houses, fit a model to it, and achieve great results. However, if your model is too complex, it might start capturing peculiarities specific to your training data, such as a single house with an unusually low price due to unique circumstances. This would make your model less useful when you try to predict house prices for a different dataset.
+
+<img src="/assets/img/uploads/overfitting1.jpg" width="100%">
 
 To visualize overfitting, let's create a simple polynomial regression example:
 
