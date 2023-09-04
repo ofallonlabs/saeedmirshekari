@@ -22,21 +22,43 @@ tags:
 thumbnail: /assets/img/uploads/undraw_drone_race_0sim.png
 rating: 5
 ---
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
+
 # Understanding Cost Functions and Evaluating Regression Model Performance
 
 Regression analysis is a fundamental tool in the data scientist's toolbox. It allows us to understand and make predictions based on relationships between variables. But how do we measure the performance of a regression model? In this comprehensive guide, we'll explore cost functions and various techniques to assess the effectiveness of regression models. Whether you're an aspiring data scientist or a junior practitioner, this article will equip you with the knowledge you need to excel in regression analysis.
 
 ## Table of Contents
-- What Are Cost Functions in Regression?
-- The Role of Cost Functions
-- Performance Metrics for Regression
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-- R-squared (R2)
-- Adjusted R-squared
-- Implementing in Python
-- Conclusion
+
+* What Are Cost Functions in Regression?
+* The Role of Cost Functions
+* Performance Metrics for Regression
+* Mean Absolute Error (MAE)
+* Mean Squared Error (MSE)
+* Root Mean Squared Error (RMSE)
+* R-squared (R2)
+* Adjusted R-squared
+* Implementing in Python
+* Conclusion
 
 ## What Are Cost Functions in Regression?
 
@@ -44,14 +66,15 @@ Before diving into the world of performance metrics, let's understand what cost 
 
 In regression, the most commonly used cost function is the **mean squared error (MSE)**. It calculates the average of the squared differences between predicted and actual values:
 
-\[
+\begin{equation}
 MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
-\]
+\end{equation}
 
 Where:
-- \(y_i\) is the actual value for the i-th observation.
-- \(\hat{y}_i\) is the predicted value for the i-th observation.
-- \(n\) is the total number of observations.
+
+* `$y_i$` is the actual value for the i-th observation.
+* `$hat{y}_i$` is the predicted value for the i-th observation.
+* `$n$` is the total number of observations.
 
 The goal during training is to minimize the MSE, effectively making the model's predictions as close as possible to the actual values.
 
@@ -75,15 +98,17 @@ Now that we've grasped the concept of cost functions, let's explore performance 
 
 ## Performance Metrics for Regression
 
+<img src="/assets/img/uploads/rmse.gif" width="100%">
+
 Assessing the performance of a regression model involves more than just looking at the cost function. A variety of performance metrics help us interpret the model's predictions effectively. Let's delve into these metrics:
 
 ### Mean Absolute Error (MAE)
 
 Mean Absolute Error (MAE) calculates the average of the absolute differences between predicted and actual values:
 
-\[
+\begin{equation}
 MAE = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|
-\]
+\end{equation}
 
 MAE is easy to interpret, as it represents the average magnitude of errors. A lower MAE indicates better model performance.
 
@@ -91,9 +116,9 @@ MAE is easy to interpret, as it represents the average magnitude of errors. A lo
 
 We've already discussed MSE as a cost function, but it's also a common performance metric. While it squares errors, making it sensitive to outliers, it provides a measure of the variance in prediction errors:
 
-\[
+\begin{equation}
 MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
-\]
+\end{equation}
 
 MSE is widely used due to its mathematical properties and suitability for optimization.
 
@@ -101,9 +126,9 @@ MSE is widely used due to its mathematical properties and suitability for optimi
 
 RMSE is the square root of the MSE and shares the same unit as the target variable. It provides a measure of the standard deviation of prediction errors:
 
-\[
+\begin{equation}
 RMSE = \sqrt{MSE}
-\]
+\end{equation}
 
 RMSE is preferred when you want the performance metric to be in the same unit as the target variable.
 
@@ -111,13 +136,14 @@ RMSE is preferred when you want the performance metric to be in the same unit as
 
 R-squared, also known as the coefficient of determination, quantifies the proportion of the variance in the dependent variable (target) that is predictable from the independent variables (features). It ranges from 0 to 1, with higher values indicating better model fit:
 
-\[
+\begin{equation}
 R^2 = 1 - \frac{SSR}{SST}
-\]
+\end{equation}
 
 Where:
-- \(SSR\) is the sum of squared residuals (prediction errors).
-- \(SST\) is the total sum of squares, a measure of the variance in the target variable.
+
+* `$SSR$` is the sum of squared residuals (prediction errors).
+* `$SST$` is the total sum of squares, a measure of the variance in the target variable.
 
 R-squared values closer to 1 suggest that the model explains a significant portion of the variance in the target variable, while values closer to 0 indicate poor model fit.
 
@@ -125,13 +151,14 @@ R-squared values closer to 1 suggest that the model explains a significant porti
 
 Adjusted R-squared is a modification of R-squared that accounts for the number of predictors in the model. It penalizes the addition of unnecessary variables and helps prevent overfitting:
 
-\[
+\begin{equation}
 Adjusted\ R^2 = 1 - \frac{(1 - R^2)(n - 1)}{n - p - 1}
-\]
+]
 
 Where:
-- \(n\) is the number of observations.
-- \(p\) is the number of predictors (independent variables).
+
+* `$n$` is the number of observations.
+* `$p$` is the number of predictors (independent variables).
 
 Adjusted R-squared tends to be lower than R-squared when additional variables do not improve the model significantly.
 
