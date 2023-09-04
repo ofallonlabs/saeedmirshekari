@@ -25,6 +25,7 @@ rating: 5
 <style TYPE="text/css">
 code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
 </style>
+
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
     tex2jax: {
@@ -39,6 +40,7 @@ MathJax.Hub.Queue(function() {
     }
 });
 </script>
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
 
 # Understanding Cost Functions and Measuring Classification Model Performance
@@ -46,16 +48,17 @@ MathJax.Hub.Queue(function() {
 In the realm of data science and machine learning, classification problems are ubiquitous. Whether it's spam email detection, disease diagnosis, or sentiment analysis, the ability to build and evaluate classification models is fundamental. To gauge the effectiveness of these models, we turn to cost functions and performance metrics. In this in-depth exploration, we'll dive into the world of cost functions and various techniques to measure the performance of classification models. Whether you're a budding data scientist or a seasoned enthusiast, this guide will equip you with the tools you need.
 
 ## Table of Contents
-- What Are Cost Functions?
-- The Importance of Cost Functions
-- Performance Metrics for Classification
-- Confusion Matrix
-- Accuracy
-- Precision and Recall
-- F1-Score
-- ROC Curve and AUC
-- Implementing in Python
-- Conclusion
+
+* What Are Cost Functions?
+* The Importance of Cost Functions
+* Performance Metrics for Classification
+* Confusion Matrix
+* Accuracy
+* Precision and Recall
+* F1-Score
+* ROC Curve and AUC
+* Implementing in Python
+* Conclusion
 
 ## What Are Cost Functions?
 
@@ -65,16 +68,15 @@ In classification, the most commonly used cost function is the **cross-entropy l
 
 Mathematically, for binary classification, the cross-entropy loss can be defined as:
 
-
 \begin{equation}
-J(y, \hat{y}) = -\frac{1}{m} \sum_{i=1}^{m} \left[y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)\right]
+J(y, \hat{y}) = -\frac{1}{m} \sum_{i=1}^{m} \left\[y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)\right]
 \end{equation}
 
-
 Where:
-- `$y_i$` is the true label (0 or 1) for the i-th example.
-- `$\hat{y}_i$` is the predicted probability that the i-th example belongs to class 1.
-- `$m$` is the number of examples in the dataset.
+
+* `$y_i$` is the true label (0 or 1) for the i-th example.
+* `$\hat{y}_i$` is the predicted probability that the i-th example belongs to class 1.
+* `$m$` is the number of examples in the dataset.
 
 The goal is to minimize this loss function during the training of a classification model.
 
@@ -104,10 +106,10 @@ Measuring the performance of a classification model involves more than just look
 
 The confusion matrix is a fundamental tool for understanding classification performance. It provides a tabular representation of actual versus predicted class labels. It consists of four values:
 
-- **True Positives (TP)**: The number of instances correctly predicted as positive.
-- **True Negatives (TN)**: The number of instances correctly predicted as negative.
-- **False Positives (FP)**: The number of instances incorrectly predicted as positive (Type I error).
-- **False Negatives (FN)**: The number of instances incorrectly predicted as negative (Type II error).
+* **True Positives (TP)**: The number of instances correctly predicted as positive.
+* **True Negatives (TN)**: The number of instances correctly predicted as negative.
+* **False Positives (FP)**: The number of instances incorrectly predicted as positive (Type I error).
+* **False Negatives (FN)**: The number of instances incorrectly predicted as negative (Type II error).
 
 Here's a visual representation:
 
@@ -131,13 +133,13 @@ While accuracy is easy to understand, it can be misleading when dealing with imb
 
 Precision and recall provide more nuanced insights into classification performance:
 
-- **Precision** measures the proportion of true positive predictions among all positive predictions. It focuses on minimizing false positives.
+* **Precision** measures the proportion of true positive predictions among all positive predictions. It focuses on minimizing false positives.
 
 \begin{equation}
 \text{Precision} = \frac{TP}{TP + FP}
 \end{equation}
 
-- **Recall** (also known as sensitivity or true positive rate) measures the proportion of true positive predictions among all actual positives. It focuses on minimizing false negatives.
+* **Recall** (also known as sensitivity or true positive rate) measures the proportion of true positive predictions among all actual positives. It focuses on minimizing false negatives.
 
 \begin{equation}
 \text{Recall} = \frac{TP}{TP + FN}
@@ -157,10 +159,7 @@ The F1-Score is particularly useful when you want a single metric that captures 
 
 ### ROC Curve and AUC
 
-<img src="_public/assets/img/uploads/roc_cutoff-1.gif" width="100%">
-
-
-
+<img src="/assets/img/uploads/roc_cutoff-1.gif" width="80%">
 
 The Receiver Operating Characteristic (ROC) curve is a graphical representation of a classifier's performance across different thresholds. It plots the true positive rate (recall) against the false positive rate as the decision threshold varies.
 
