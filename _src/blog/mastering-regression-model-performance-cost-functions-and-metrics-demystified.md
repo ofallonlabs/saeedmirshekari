@@ -153,7 +153,7 @@ Adjusted R-squared is a modification of R-squared that accounts for the number o
 
 \begin{equation}
 Adjusted\ R^2 = 1 - \frac{(1 - R^2)(n - 1)}{n - p - 1}
-]
+\end{equation}
 
 Where:
 
