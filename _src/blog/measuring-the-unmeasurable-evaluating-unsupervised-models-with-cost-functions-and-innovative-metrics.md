@@ -21,23 +21,47 @@ tags:
 thumbnail: /assets/img/uploads/undraw_city_girl_ccpd.png
 rating: 5
 ---
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
+
 # Unveiling Unsupervised Model Evaluation: Cost Functions and Performance Metrics
 
 Unsupervised learning is a captivating field in data science, where algorithms uncover hidden patterns and structures within data without the need for labeled targets. But how do we measure the performance of unsupervised models when traditional metrics like accuracy and precision aren't applicable? In this comprehensive guide, we'll delve into the fascinating world of cost functions and innovative techniques to assess the effectiveness of unsupervised models. Whether you're an aspiring data scientist or a junior practitioner, this article will equip you with the knowledge to navigate the intricacies of unsupervised model evaluation.
 
 ## Table of Contents
-- The Challenge of Unsupervised Model Evaluation
-- Clustering Evaluation Metrics
-  - Silhouette Score
-  - Davies-Bouldin Index
-  - Adjusted Rand Index
-  - Mutual Information
-- Dimensionality Reduction Evaluation Metrics
-  - Explained Variance Ratio
-  - Reconstruction Error
-- Cost Functions in Unsupervised Learning
-- Implementing in Python
-- Conclusion
+
+* The Challenge of Unsupervised Model Evaluation
+* Clustering Evaluation Metrics
+
+  * Silhouette Score
+  * Davies-Bouldin Index
+  * Adjusted Rand Index
+  * Mutual Information
+* Dimensionality Reduction Evaluation Metrics
+
+  * Explained Variance Ratio
+  * Reconstruction Error
+* Cost Functions in Unsupervised Learning
+* Implementing in Python
+* Conclusion
 
 ## The Challenge of Unsupervised Model Evaluation
 
@@ -51,11 +75,14 @@ Let's explore these innovative evaluation techniques and metrics that can help u
 
 ### Silhouette Score
 
+<img src="/assets/img/uploads/silhouette-coefficient-example.png" width="100%">
+
 The Silhouette Score measures the similarity of each data point to its own cluster compared to other clusters. It ranges from -1 to 1, where a higher value indicates better-defined clusters.
 
 Mathematically, for each sample:
-- \(a\) is the average distance from the sample to other points in the same cluster.
-- \(b\) is the smallest average distance from the sample to points in other clusters.
+
+* `$a$` is the average distance from the sample to other points in the same cluster.
+* `$b$` is the smallest average distance from the sample to points in other clusters.
 
 The silhouette score for a dataset is the average silhouette score for all samples.
 
@@ -65,15 +92,16 @@ A Silhouette Score close to 1 suggests that the object is well-suited to its own
 
 The Davies-Bouldin Index measures the average similarity ratio of each cluster with the cluster that is most similar to it. Lower values indicate better clustering.
 
-For each cluster \(i\), the Davies-Bouldin Index calculates:
-- \(R_i\) as the average distance from each point in cluster \(i\) to the centroid of cluster \(i\).
-- \(S(i, j)\) as the distance between the centroids of clusters \(i\) and \(j\).
+For each cluster `$i$`, the Davies-Bouldin Index calculates:
 
-The Davies-Bouldin Index for cluster \(i\) is defined as the maximum similarity ratio:
+* `$R_i$` as the average distance from each point in cluster `$i$` to the centroid of cluster `$i$`.
+* `$S(i, j)$` as the distance between the centroids of clusters `$i$` and `$j$`.
 
-\[
+The Davies-Bouldin Index for cluster `$i$` is defined as the maximum similarity ratio:
+
+\begin{equation}
 DB(i) = \max_{j \neq i} \left(\frac{R_i + R_j}{S(i, j)}\right)
-\]
+\end{equation}
 
 The Davies-Bouldin Index is the average of the similarity ratios for all clusters.
 
@@ -99,7 +127,7 @@ Mutual Information considers the joint distribution of true labels and predicted
 
 When dealing with dimensionality reduction techniques like Principal Component Analysis (PCA), the explained variance ratio can provide insights into how well the model captures the data's variation. It tells us the proportion of the total variance in the data that is explained by each principal component.
 
-The explained variance ratio for the \(i\)-th principal component is calculated as the ratio of the variance of the \(i\)-th component to the total variance.
+The explained variance ratio for the (i)-th principal component is calculated as the ratio of the variance of the (i)-th component to the total variance.
 
 A high explained variance ratio for the first few principal components indicates that the model retains most of the data's information in a lower-dimensional space.
 
