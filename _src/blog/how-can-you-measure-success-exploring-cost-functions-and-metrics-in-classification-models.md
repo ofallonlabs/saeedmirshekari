@@ -72,6 +72,8 @@ $$J(y, \hat{y}) = -\frac{1}{m} \sum_{i=1}^{m} \left[y_i \log(\hat{y}_i) + (1 - 
 I = \int \rho R^{2} dV
 \end{equation}
 
+`$x^2$` or `$$x^2$$`
+
 
 Where:
 - \(y_i\) is the true label (0 or 1) for the i-th example.
