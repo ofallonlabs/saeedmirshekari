@@ -73,7 +73,7 @@ MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
 Where:
 
 * `$y_i$` is the actual value for the i-th observation.
-* `$hat{y}_i$` is the predicted value for the i-th observation.
+* `$\hat{y}_i$` is the predicted value for the i-th observation
 * `$n$` is the total number of observations.
 
 The goal during training is to minimize the MSE, effectively making the model's predictions as close as possible to the actual values.
