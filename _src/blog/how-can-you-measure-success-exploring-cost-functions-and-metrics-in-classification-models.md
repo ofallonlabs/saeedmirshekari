@@ -157,6 +157,11 @@ The F1-Score is particularly useful when you want a single metric that captures 
 
 ### ROC Curve and AUC
 
+<img src="/assets/img/uploads/p﻿ic6.gif" width="100%">
+
+
+
+
 The Receiver Operating Characteristic (ROC) curve is a graphical representation of a classifier's performance across different thresholds. It plots the true positive rate (recall) against the false positive rate as the decision threshold varies.
 
 The Area Under the Curve (AUC) of the ROC curve quantifies the model's ability to distinguish between positive and negative classes. A higher AUC indicates better performance.
