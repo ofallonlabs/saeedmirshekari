@@ -157,7 +157,7 @@ The F1-Score is particularly useful when you want a single metric that captures 
 
 ### ROC Curve and AUC
 
-<img src="/assets/img/uploads/p﻿ic6.gif" width="100%">
+<img src="_public/assets/img/uploads/pic6.gif" width="100%">
 
 
 
