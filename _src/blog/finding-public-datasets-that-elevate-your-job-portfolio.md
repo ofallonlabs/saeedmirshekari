@@ -146,7 +146,6 @@ Uncover societal insights: [Pew Research Center](https://www.pewresearch.org/)
 Data.gov.uk is the UK's equivalent of Data.gov in the U.S. It provides access to open data from various UK government departments, offering valuable datasets for data science projects with a British focus.
 
 British data at your service: [Data.gov.uk](https://data.gov.uk/
-
 )
 
 ## 21. Eurostat
