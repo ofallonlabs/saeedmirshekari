@@ -17,7 +17,7 @@ date: 2023-09-22T14:27:46.258Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/undraw_electricity_k2ft.png
+thumbnail: /assets/img/uploads/undraw_newspaper_re_syf5.png
 rating: 5
 ---
 # The Power of Mentoring in Career Growth
