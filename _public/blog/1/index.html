@@ -142,12 +142,89 @@ h1, h2, h3, h4, h5 {
 
 
 <head style="font-family: 'Helvetica', 'Arial', sans-serif;">
+  
  <!-- SEO -->
   <meta content="Read our regular, original posts on Career Development, Data Science, Machine Learning Tips & Tricks, and content related to other topics right here. Hot topics in this page includes: Top 10 Most In-Demand Skills for Data Scientists in 2022; Is Data Science For Me? 6 Questions to Ask Yourself; How To Prepare For Success In Your First Data Science Job Interview; " name="description">
   <meta content="Data Science Mentoring Program, Data Science Training, Become Data Scientist, Data Scientist Salary" name="keywords">
   <meta content="Saeed Mirshekari" name="author">
   <link rel=“canonical” href=“https://www.saeedmirshekari.com/blog” />
 </head>
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <title>Simple Web Page</title>
+    <style>
+      h1 {
+        margin: 2em 0;
+      }
+    </style>
+    <!-- widget stuff here -->
+    <script src="https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.16.0/js/okta-sign-in.min.js" type="text/javascript"></script>
+    <link href="https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.16.0/css/okta-sign-in.min.css" type="text/css" rel="stylesheet"/>
+    <link href="https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.16.0/css/okta-theme.css" type="text/css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center">Simple Web Page</h1>
+      <div id="messageBox" class="jumbotron">
+        You are not logged in. Get outta here! Shoo! >:S
+      </div>
+      <!-- where the sign-in form will be displayed -->
+      <div id="okta-login-container"></div>
+    </div>
+    <script type="text/javascript">
+      var oktaSignIn = new OktaSignIn({
+        baseUrl: "dev-12563978.okta.com",
+        clientId: "",
+        authParams: {
+          issuer: "default",
+          responseType: ['token', 'id_token'],
+          display: 'page'
+        }
+      });
+
+      if (oktaSignIn.token.hasTokensInUrl()) {
+        oktaSignIn.token.parseTokensFromUrl(
+          // If we get here, the user just logged in.
+          function success(res) {
+            var accessToken = res[0];
+            var idToken = res[1];
+
+            oktaSignIn.tokenManager.add('accessToken', accessToken);
+            oktaSignIn.tokenManager.add('idToken', idToken);
+
+            window.location.hash='';
+            document.getElementById("messageBox").innerHTML = "Hello, " + idToken.claims.email + "! You just logged in! :)";
+          },
+          function error(err) {
+            console.error(err);
+          }
+        );
+      } else {
+        oktaSignIn.session.get(function (res) {
+          // If we get here, the user is already signed in.
+          if (res.status === 'ACTIVE') {
+            document.getElementById("messageBox").innerHTML = "Hello, " + res.login + "! You are *still* logged in! :)";
+            return;
+          }
+          oktaSignIn.renderEl(
+            { el: '#okta-login-container' },
+            function success(res) {},
+            function error(err) {
+              console.error(err);
+            }
+          );
+        });
+      }
+    </script>
+  </body>
+</html>
+
 
 
 
@@ -163,6 +240,105 @@ h1, h2, h3, h4, h5 {
 
 <!-- ======= Blog Section ======= -->
 <div class="row">
+
+
+
+  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
+
+    <a href="/blog/healthcare-fraud-a-data-driven-approach-to-detecting-anomalies-in-claims-and-providers/">
+
+      <div id="wrap">
+        <div id="left_col">
+          <div class="column zoom"> <img src="/assets/img/uploads/undraw_medicine_b1ol.png" alt="" class="" 
+          style="object-fit:cover; width:90%; height:150px;">  </div>
+        </div>
+
+        <div id="right_col">
+          <div class="column"> 
+          <a style="line-height:120%; color:#777" href="/blog/healthcare-fraud-a-data-driven-approach-to-detecting-anomalies-in-claims-and-providers/" style="position:static; bottom:0px;">
+          <b>Healthcare Fraud: A Data-Driven Approach to Detecting Anomalies in Claims and Providers</b></a> 
+          <br>
+          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Sep 4, 2023"></i>
+          <br>
+          <i class="bi bi-person"></i> <i href="/blog/healthcare-fraud-a-data-driven-approach-to-detecting-anomalies-in-claims-and-providers/">Saeed Mirshekari</i>
+          <br>
+          
+            <i class="bi bi-tags"></i> <i>post</i>
+          
+            <i class="bi bi-tags"></i> <i>projects</i>
+          
+          </div>
+        </div>
+      </div>
+    </a>
+
+  </article>
+
+
+
+  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
+
+    <a href="/blog/cracking-the-code-a-deep-dive-into-credit-and-debit-card-fraud-detection/">
+
+      <div id="wrap">
+        <div id="left_col">
+          <div class="column zoom"> <img src="/assets/img/uploads/undraw_hacker_mind_6y85-1-.png" alt="" class="" 
+          style="object-fit:cover; width:90%; height:150px;">  </div>
+        </div>
+
+        <div id="right_col">
+          <div class="column"> 
+          <a style="line-height:120%; color:#777" href="/blog/cracking-the-code-a-deep-dive-into-credit-and-debit-card-fraud-detection/" style="position:static; bottom:0px;">
+          <b>Cracking the Code: A Deep Dive into Credit and Debit Card Fraud Detection</b></a> 
+          <br>
+          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Sep 4, 2023"></i>
+          <br>
+          <i class="bi bi-person"></i> <i href="/blog/cracking-the-code-a-deep-dive-into-credit-and-debit-card-fraud-detection/">Saeed Mirshekari</i>
+          <br>
+          
+            <i class="bi bi-tags"></i> <i>post</i>
+          
+            <i class="bi bi-tags"></i> <i>projects</i>
+          
+          </div>
+        </div>
+      </div>
+    </a>
+
+  </article>
+
+
+
+  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
+
+    <a href="/blog/measuring-the-unmeasurable-evaluating-unsupervised-models-with-cost-functions-and-innovative-metrics/">
+
+      <div id="wrap">
+        <div id="left_col">
+          <div class="column zoom"> <img src="/assets/img/uploads/undraw_city_girl_ccpd.png" alt="" class="" 
+          style="object-fit:cover; width:90%; height:150px;">  </div>
+        </div>
+
+        <div id="right_col">
+          <div class="column"> 
+          <a style="line-height:120%; color:#777" href="/blog/measuring-the-unmeasurable-evaluating-unsupervised-models-with-cost-functions-and-innovative-metrics/" style="position:static; bottom:0px;">
+          <b>Measuring the Unmeasurable: Evaluating Unsupervised Models with Cost Functions and Innovative Metrics</b></a> 
+          <br>
+          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Sep 4, 2023"></i>
+          <br>
+          <i class="bi bi-person"></i> <i href="/blog/measuring-the-unmeasurable-evaluating-unsupervised-models-with-cost-functions-and-innovative-metrics/">Saeed Mirshekari</i>
+          <br>
+          
+            <i class="bi bi-tags"></i> <i>post</i>
+          
+            <i class="bi bi-tags"></i> <i>projects</i>
+          
+          </div>
+        </div>
+      </div>
+    </a>
+
+  </article>
 
 
 
@@ -265,105 +441,6 @@ h1, h2, h3, h4, h5 {
 
 
 
-  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
-
-    <a href="/blog/common-mistakes-to-avoid-in-data-scientist-resumes/">
-
-      <div id="wrap">
-        <div id="left_col">
-          <div class="column zoom"> <img src="/assets/img/uploads/undraw_fixing_bugs_w7gi.png" alt="" class="" 
-          style="object-fit:cover; width:90%; height:150px;">  </div>
-        </div>
-
-        <div id="right_col">
-          <div class="column"> 
-          <a style="line-height:120%; color:#777" href="/blog/common-mistakes-to-avoid-in-data-scientist-resumes/" style="position:static; bottom:0px;">
-          <b>Common Mistakes To Avoid in Data Scientist Resumes</b></a> 
-          <br>
-          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Aug 29, 2023"></i>
-          <br>
-          <i class="bi bi-person"></i> <i href="/blog/common-mistakes-to-avoid-in-data-scientist-resumes/">Saeed Mirshekari</i>
-          <br>
-          
-            <i class="bi bi-tags"></i> <i>post</i>
-          
-            <i class="bi bi-tags"></i> <i>mentoring</i>
-          
-          </div>
-        </div>
-      </div>
-    </a>
-
-  </article>
-
-
-
-  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
-
-    <a href="/blog/finding-public-datasets-that-elevate-your-job-portfolio/">
-
-      <div id="wrap">
-        <div id="left_col">
-          <div class="column zoom"> <img src="/assets/img/uploads/undraw_young_and_happy_hfpe.png" alt="" class="" 
-          style="object-fit:cover; width:90%; height:150px;">  </div>
-        </div>
-
-        <div id="right_col">
-          <div class="column"> 
-          <a style="line-height:120%; color:#777" href="/blog/finding-public-datasets-that-elevate-your-job-portfolio/" style="position:static; bottom:0px;">
-          <b>Finding Public Datasets That Elevate Your Job Portfolio</b></a> 
-          <br>
-          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Aug 29, 2023"></i>
-          <br>
-          <i class="bi bi-person"></i> <i href="/blog/finding-public-datasets-that-elevate-your-job-portfolio/">Saeed Mirshekari</i>
-          <br>
-          
-            <i class="bi bi-tags"></i> <i>post</i>
-          
-            <i class="bi bi-tags"></i> <i>mentoring</i>
-          
-          </div>
-        </div>
-      </div>
-    </a>
-
-  </article>
-
-
-
-  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
-
-    <a href="/blog/conventional-and-unconventional-paths-towards-a-data-science-career/">
-
-      <div id="wrap">
-        <div id="left_col">
-          <div class="column zoom"> <img src="/assets/img/uploads/undraw_workout_gcgu.png" alt="" class="" 
-          style="object-fit:cover; width:90%; height:150px;">  </div>
-        </div>
-
-        <div id="right_col">
-          <div class="column"> 
-          <a style="line-height:120%; color:#777" href="/blog/conventional-and-unconventional-paths-towards-a-data-science-career/" style="position:static; bottom:0px;">
-          <b>Conventional and Unconventional Paths towards A Data Science Career</b></a> 
-          <br>
-          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Aug 29, 2023"></i>
-          <br>
-          <i class="bi bi-person"></i> <i href="/blog/conventional-and-unconventional-paths-towards-a-data-science-career/">Saeed Mirshekari</i>
-          <br>
-          
-            <i class="bi bi-tags"></i> <i>post</i>
-          
-            <i class="bi bi-tags"></i> <i>career</i>
-          
-          </div>
-        </div>
-      </div>
-    </a>
-
-  </article>
-
-
-
 
 
 <center>
@@ -443,7 +520,7 @@ h1, h2, h3, h4, h5 {
 
 
 
-  <a href="/blog/14">>></a>
+  <a href="/blog/15">>></a>
 
 
 

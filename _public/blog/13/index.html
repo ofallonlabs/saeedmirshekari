@@ -142,12 +142,89 @@ h1, h2, h3, h4, h5 {
 
 
 <head style="font-family: 'Helvetica', 'Arial', sans-serif;">
+  
  <!-- SEO -->
   <meta content="Read our regular, original posts on Career Development, Data Science, Machine Learning Tips & Tricks, and content related to other topics right here. Hot topics in this page includes: Top 10 Most In-Demand Skills for Data Scientists in 2022; Is Data Science For Me? 6 Questions to Ask Yourself; How To Prepare For Success In Your First Data Science Job Interview; " name="description">
   <meta content="Data Science Mentoring Program, Data Science Training, Become Data Scientist, Data Scientist Salary" name="keywords">
   <meta content="Saeed Mirshekari" name="author">
   <link rel=“canonical” href=“https://www.saeedmirshekari.com/blog” />
 </head>
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <title>Simple Web Page</title>
+    <style>
+      h1 {
+        margin: 2em 0;
+      }
+    </style>
+    <!-- widget stuff here -->
+    <script src="https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.16.0/js/okta-sign-in.min.js" type="text/javascript"></script>
+    <link href="https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.16.0/css/okta-sign-in.min.css" type="text/css" rel="stylesheet"/>
+    <link href="https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.16.0/css/okta-theme.css" type="text/css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center">Simple Web Page</h1>
+      <div id="messageBox" class="jumbotron">
+        You are not logged in. Get outta here! Shoo! >:S
+      </div>
+      <!-- where the sign-in form will be displayed -->
+      <div id="okta-login-container"></div>
+    </div>
+    <script type="text/javascript">
+      var oktaSignIn = new OktaSignIn({
+        baseUrl: "dev-12563978.okta.com",
+        clientId: "",
+        authParams: {
+          issuer: "default",
+          responseType: ['token', 'id_token'],
+          display: 'page'
+        }
+      });
+
+      if (oktaSignIn.token.hasTokensInUrl()) {
+        oktaSignIn.token.parseTokensFromUrl(
+          // If we get here, the user just logged in.
+          function success(res) {
+            var accessToken = res[0];
+            var idToken = res[1];
+
+            oktaSignIn.tokenManager.add('accessToken', accessToken);
+            oktaSignIn.tokenManager.add('idToken', idToken);
+
+            window.location.hash='';
+            document.getElementById("messageBox").innerHTML = "Hello, " + idToken.claims.email + "! You just logged in! :)";
+          },
+          function error(err) {
+            console.error(err);
+          }
+        );
+      } else {
+        oktaSignIn.session.get(function (res) {
+          // If we get here, the user is already signed in.
+          if (res.status === 'ACTIVE') {
+            document.getElementById("messageBox").innerHTML = "Hello, " + res.login + "! You are *still* logged in! :)";
+            return;
+          }
+          oktaSignIn.renderEl(
+            { el: '#okta-login-container' },
+            function success(res) {},
+            function error(err) {
+              console.error(err);
+            }
+          );
+        });
+      }
+    </script>
+  </body>
+</html>
+
 
 
 
@@ -163,6 +240,105 @@ h1, h2, h3, h4, h5 {
 
 <!-- ======= Blog Section ======= -->
 <div class="row">
+
+
+
+  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
+
+    <a href="/blog/2022-07-15-top-10-most-in-demand-skills-for-data-scientists-in-2022/">
+
+      <div id="wrap">
+        <div id="left_col">
+          <div class="column zoom"> <img src="/assets/img/uploads/undraw_creative_woman_re_u5tk.png" alt="" class="" 
+          style="object-fit:cover; width:90%; height:150px;">  </div>
+        </div>
+
+        <div id="right_col">
+          <div class="column"> 
+          <a style="line-height:120%; color:#777" href="/blog/2022-07-15-top-10-most-in-demand-skills-for-data-scientists-in-2022/" style="position:static; bottom:0px;">
+          <b>Top 10 Most In-Demand Skills for Data Scientists in 2022</b></a> 
+          <br>
+          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Jul 15, 2022"></i>
+          <br>
+          <i class="bi bi-person"></i> <i href="/blog/2022-07-15-top-10-most-in-demand-skills-for-data-scientists-in-2022/">Katherine Olowookere</i>
+          <br>
+          
+            <i class="bi bi-tags"></i> <i>post</i>
+          
+            <i class="bi bi-tags"></i> <i>career</i>
+          
+          </div>
+        </div>
+      </div>
+    </a>
+
+  </article>
+
+
+
+  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
+
+    <a href="/blog/2022-07-04-a-special-4th-of-july-in-ofallon-labs/">
+
+      <div id="wrap">
+        <div id="left_col">
+          <div class="column zoom"> <img src="/assets/img/uploads/festival.png" alt="" class="" 
+          style="object-fit:cover; width:90%; height:150px;">  </div>
+        </div>
+
+        <div id="right_col">
+          <div class="column"> 
+          <a style="line-height:120%; color:#777" href="/blog/2022-07-04-a-special-4th-of-july-in-ofallon-labs/" style="position:static; bottom:0px;">
+          <b>A Special 4th of July in O&#39;Fallon Labs</b></a> 
+          <br>
+          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Jul 4, 2022"></i>
+          <br>
+          <i class="bi bi-person"></i> <i href="/blog/2022-07-04-a-special-4th-of-july-in-ofallon-labs/">Saeed Mirshekari</i>
+          <br>
+          
+            <i class="bi bi-tags"></i> <i>post</i>
+          
+            <i class="bi bi-tags"></i> <i>mentoring</i>
+          
+          </div>
+        </div>
+      </div>
+    </a>
+
+  </article>
+
+
+
+  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
+
+    <a href="/blog/2022-06-11-preparing-for-success-in-your-first-data-science-job-interview/">
+
+      <div id="wrap">
+        <div id="left_col">
+          <div class="column zoom"> <img src="/assets/img/uploads/interview.png" alt="" class="" 
+          style="object-fit:cover; width:90%; height:150px;">  </div>
+        </div>
+
+        <div id="right_col">
+          <div class="column"> 
+          <a style="line-height:120%; color:#777" href="/blog/2022-06-11-preparing-for-success-in-your-first-data-science-job-interview/" style="position:static; bottom:0px;">
+          <b>How To Prepare For Success In Your First Data Science Job Interview</b></a> 
+          <br>
+          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Jun 30, 2022"></i>
+          <br>
+          <i class="bi bi-person"></i> <i href="/blog/2022-06-11-preparing-for-success-in-your-first-data-science-job-interview/">Katherine Olowookere</i>
+          <br>
+          
+            <i class="bi bi-tags"></i> <i>post</i>
+          
+            <i class="bi bi-tags"></i> <i>mentoring</i>
+          
+          </div>
+        </div>
+      </div>
+    </a>
+
+  </article>
 
 
 
@@ -265,105 +441,6 @@ h1, h2, h3, h4, h5 {
 
 
 
-  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
-
-    <a href="/blog/2022-05-14-the-talent-gap-in-data-science-today-and-tomorrow/">
-
-      <div id="wrap">
-        <div id="left_col">
-          <div class="column zoom"> <img src="/assets/img/uploads/undraw_grades_re_j7d6.png" alt="" class="" 
-          style="object-fit:cover; width:90%; height:150px;">  </div>
-        </div>
-
-        <div id="right_col">
-          <div class="column"> 
-          <a style="line-height:120%; color:#777" href="/blog/2022-05-14-the-talent-gap-in-data-science-today-and-tomorrow/" style="position:static; bottom:0px;">
-          <b>The Talent Gap in Data Science Today and Tomorrow (2022)</b></a> 
-          <br>
-          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="May 29, 2022"></i>
-          <br>
-          <i class="bi bi-person"></i> <i href="/blog/2022-05-14-the-talent-gap-in-data-science-today-and-tomorrow/">Afeefa Maryam</i>
-          <br>
-          
-            <i class="bi bi-tags"></i> <i>post</i>
-          
-            <i class="bi bi-tags"></i> <i>career</i>
-          
-          </div>
-        </div>
-      </div>
-    </a>
-
-  </article>
-
-
-
-  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
-
-    <a href="/blog/2022-05-13-mentoring-is-a-road-trip-a-personal-story/">
-
-      <div id="wrap">
-        <div id="left_col">
-          <div class="column zoom"> <img src="/assets/img/uploads/undraw_by_the_road_re_vvs7.png" alt="" class="" 
-          style="object-fit:cover; width:90%; height:150px;">  </div>
-        </div>
-
-        <div id="right_col">
-          <div class="column"> 
-          <a style="line-height:120%; color:#777" href="/blog/2022-05-13-mentoring-is-a-road-trip-a-personal-story/" style="position:static; bottom:0px;">
-          <b>Mentoring is a Road Trip: An Interview</b></a> 
-          <br>
-          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="May 13, 2022"></i>
-          <br>
-          <i class="bi bi-person"></i> <i href="/blog/2022-05-13-mentoring-is-a-road-trip-a-personal-story/">Saeed Mirshekari</i>
-          <br>
-          
-            <i class="bi bi-tags"></i> <i>post</i>
-          
-            <i class="bi bi-tags"></i> <i>mentoring</i>
-          
-          </div>
-        </div>
-      </div>
-    </a>
-
-  </article>
-
-
-
-  <article class="entry col-md-6" style="margin-left: 0px; margin-right: 0px; background-color:#fff;">
-
-    <a href="/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/">
-
-      <div id="wrap">
-        <div id="left_col">
-          <div class="column zoom"> <img src="/assets/img/uploads/undraw_both_sides_hbv3.png" alt="" class="" 
-          style="object-fit:cover; width:90%; height:150px;">  </div>
-        </div>
-
-        <div id="right_col">
-          <div class="column"> 
-          <a style="line-height:120%; color:#777" href="/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/" style="position:static; bottom:0px;">
-          <b>5 Steps Between You and Your First Data-Science Job  [Long Version]</b></a> 
-          <br>
-          <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="Apr 17, 2022"></i>
-          <br>
-          <i class="bi bi-person"></i> <i href="/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/">Saeed Mirshekari</i>
-          <br>
-          
-            <i class="bi bi-tags"></i> <i>post</i>
-          
-            <i class="bi bi-tags"></i> <i>mentoring</i>
-          
-          </div>
-        </div>
-      </div>
-    </a>
-
-  </article>
-
-
-
 
 
 <center>
@@ -433,7 +510,11 @@ h1, h2, h3, h4, h5 {
   
 
     
-      <a style='background-color:#fff; color:#fff;'>16</a>
+      
+      
+      <a href="/blog/15" style='background-color:#ddd; color:#000;'>16</a>
+      
+
     
 
   
@@ -443,7 +524,7 @@ h1, h2, h3, h4, h5 {
 
 
 
-  <a href="/blog/14">>></a>
+  <a href="/blog/15">>></a>
 
 
 
