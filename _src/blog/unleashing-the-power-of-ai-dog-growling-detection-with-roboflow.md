@@ -81,6 +81,12 @@ The successful implementation of this object detection model opens the door to v
 
 While the current model performs admirably, there's always room for improvement. Fine-tuning the model with additional diverse datasets and exploring advanced architectures could enhance its robustness. Moreover, incorporating real-time video analysis capabilities could elevate its utility in dynamic environments.
 
+### Model Source Access
+
+T﻿his model that I have trained is publicly available for any legal use with your own responsibility:
+
+[Click Here to Access the Growling Detection Model](https://app.roboflow.com/ofallon-labs/dog-manner/deploy/1) 
+
 ## Conclusion
 
 Embarking on this journey with `roboflow.com` has been a rewarding experience. The project not only allowed me to delve into the intricacies of object detection but also showcased the practicality of AI in discerning specific behaviors within images. Whether you're a novice in the AI realm or a seasoned developer, this project serves as a testament to the accessibility and power of AI tools like Roboflow.
