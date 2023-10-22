@@ -64,8 +64,10 @@ Before delving into the visual results, let's briefly touch upon the evaluation 
 
 ### Visual Results
 
-Now, let's feast our eyes on the model's performance. Below are screenshots showcasing the object detection model in action. 
+Now, let's feast our eyes on the model's performance. Below are screenshots showcasing the object detection model in action.
+
 <img src="/assets/img/uploads/dogs_001.png" width="60%" />
+
 <img src="/assets/img/uploads/dogs_004.png" width="60%" />
 
 In these images, you can observe the bounding boxes drawn around the dog's face, with a specific focus on the regions associated with growling. The model successfully identifies instances of growling with high precision and recall.
