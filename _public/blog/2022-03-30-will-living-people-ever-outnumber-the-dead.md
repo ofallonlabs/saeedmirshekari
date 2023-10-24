@@ -105,8 +105,6 @@ value of life expectancy.</p>
 
 \[2] http://www.worldometers.info
 
-\[3] http://www.wikipedia.org
-
 * Thanks to M. Le Delliou for useful discussions.
-* This calculations might be vey well know and we probably
-  just have rediscoved them one more time.
+* This calculations might be vey well known and we probably
+  just have rediscovered them here.

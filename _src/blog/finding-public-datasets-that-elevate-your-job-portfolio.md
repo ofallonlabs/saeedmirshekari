@@ -1,7 +1,6 @@
 ---
 layout: blog_base.njk
-title: How to Find High-Quality Datasets for Data Science Projects That Elevate
-  Your Job Portfolio
+title: Finding Public Datasets That Elevate Your Job Portfolio
 description: Discover 21 reputable sources for free, high-quality datasets to
   elevate your data science projects. Stand out in the job market with
   impressive real-world projects that showcase your skills and expertise. Happy
@@ -13,7 +12,7 @@ meta_description: Discover 21 reputable sources for free, high-quality datasets
   impressive real-world projects that showcase your skills and expertise. Happy
   data hunting! 🚀📊
 author: Saeed Mirshekari
-date: 2023-08-07T14:14:54.440Z
+date: 2023-08-29T16:31:32.986Z
 tags:
   - post
   - mentoring
@@ -147,7 +146,6 @@ Uncover societal insights: [Pew Research Center](https://www.pewresearch.org/)
 Data.gov.uk is the UK's equivalent of Data.gov in the U.S. It provides access to open data from various UK government departments, offering valuable datasets for data science projects with a British focus.
 
 British data at your service: [Data.gov.uk](https://data.gov.uk/
-
 )
 
 ## 21. Eurostat

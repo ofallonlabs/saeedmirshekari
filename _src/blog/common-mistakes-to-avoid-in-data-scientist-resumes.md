@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: 10 Common Mistakes in Entry-Level Data Scientist Resumes
+title: Common Mistakes To Avoid in Data Scientist Resumes
 description: In the competitive realm of data science, an impeccable resume is
   your ticket to an entry-level position. This blog unveils 10 critical blunders
   to evade when crafting your resume. Learn from examples and tips to make your
@@ -13,7 +13,7 @@ meta_description: In the competitive realm of data science, an impeccable resume
   make your application shine, boosting your prospects in the dynamic data
   science landscape.
 author: Saeed Mirshekari
-date: 2023-08-16T13:35:06.709Z
+date: 2023-08-29T16:33:33.370Z
 tags:
   - post
   - mentoring

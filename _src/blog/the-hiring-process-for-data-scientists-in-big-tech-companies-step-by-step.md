@@ -14,7 +14,7 @@ meta_description: "Unveiling the Hiring Process for Data Scientists in Big Tech
   insights and strategies to stand out in the competitive field of data science
   and secure your desired position."
 author: Saeed Mirshekari
-date: 2023-07-08T14:34:37.369Z
+date: 2023-07-08T14:35:00.000Z
 tags:
   - post
   - mentoring
