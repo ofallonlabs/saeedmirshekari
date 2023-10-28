@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: "Groove Your Career: Crafting a Data Science Resume that Rocks! 🚀🎸"
+title: "Groove Your Career: Crafting a Data Science Resume that Rocks!"
 description: Craft a stellar data science resume that steals the spotlight with
   tailored beats for each job. From creating a master resume to jamming with
   keywords, this guide transforms the daunting into a rocking process. Elevate
@@ -20,8 +20,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_updated_resume_re_7r9j.png
 rating: 5
 ---
-# Crafting a Tailored Data Science Resume for Career Success
-
 ## Introduction
 
 In today's dynamic job market, your [data science resume](#) serves as your professional calling card. However, many individuals find it challenging to keep their resumes updated and finely tuned for each data science job application. The process can be time-consuming and prone to errors. Fear not, for in this comprehensive guide, we will explore the best strategies to ensure your data science resume not only reflects your true potential but also stands out in the competitive landscape.
