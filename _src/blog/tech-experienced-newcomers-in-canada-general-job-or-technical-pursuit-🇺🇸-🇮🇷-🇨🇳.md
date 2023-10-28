@@ -20,7 +20,7 @@ date: 2023-10-28T13:46:45.903Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/undraw_travelers_re_y25a-1-.png
+thumbnail: /assets/img/uploads/mac41_citizenship_post.jpg
 rating: 5
 ---
 ## Embracing Change: A Mother's Journey into the Canadian Tech Landscape
