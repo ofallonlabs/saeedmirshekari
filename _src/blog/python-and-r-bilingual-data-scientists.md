@@ -1,13 +1,13 @@
 ---
 layout: blog_base.njk
-title: "Python AND R: Bilingual Data Scientists"
+title: "Python AND R: The Rise of Bilingual Data Scientists"
 description: Mastering both R and Python, like being bilingual, enriches
   cognitive flexibility and problem-solving in data science. Similar to
   bilingual brains, a multilingual coder proficient in R and Python adapts to
   diverse tasks, delaying technological obsolescence. This dual proficiency
   fosters an agile and resilient mindset, vital for a successful and balanced
   tech career.
-meta_title: "Python AND R: Bilingual Data Scientists"
+meta_title: "Python AND R: The Rise of Bilingual Data Scientists"
 meta_description: Mastering both R and Python, like being bilingual, enriches
   cognitive flexibility and problem-solving in data science. Similar to
   bilingual brains, a multilingual coder proficient in R and Python adapts to
