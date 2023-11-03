@@ -53,7 +53,7 @@ layout: blog_base_nobody.njk
           <i class="bi bi-clock"></i> <i class="timeago" style="position:static; bottom:0px; color:#94c045" title="{{post.date | postDate}}"></i>
           {# <br> #}
           <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
-          <br>
+          {# <br> #}
           {% for tag in post.data.tags %}
             <i class="bi bi-tags"></i> <i>{{tag}}</i>
           {% endfor %}
