@@ -17,7 +17,7 @@ date: 2023-11-03T14:50:06.001Z
 tags:
   - post
   - career
-thumbnail: /assets/img/uploads/ageism.png
+thumbnail: /assets/img/uploads/undraw_meet_the_team_re_4h08.png
 rating: 5
 ---
 
