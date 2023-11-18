@@ -1,13 +1,13 @@
 ---
 layout: blog_base.njk
 title: Top 10 Universities for Data Science and Machine Learning Education
-description: Explore the top 11 global universities for data science and machine
+description: Explore the top global universities for data science and machine
   learning education, from Stanford's Silicon Valley innovation hub to Oxford's
   centuries-old academic tradition. Each institution, deeply rooted in history
   and diverse cultures, offers a unique environment for aspiring professionals
   to thrive in the dynamic fields of data science and machine learning.
 meta_title: Top 10 Universities for Data Science and Machine Learning Education
-meta_description: Explore the top 11 global universities for data science and
+meta_description: Explore the top global universities for data science and
   machine learning education, from Stanford's Silicon Valley innovation hub to
   Oxford's centuries-old academic tradition. Each institution, deeply rooted in
   history and diverse cultures, offers a unique environment for aspiring
