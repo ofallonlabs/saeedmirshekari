@@ -107,7 +107,7 @@ With roots dating back to 1209, the University of Cambridge is synonymous with a
 
 ## 9. **University of Toronto**
    - *Location:* Toronto, Canada
-   - *Program Highlight:* [Master of Science in Applied Computing - Machine Learning and Data Mining](https://web.cs.toronto.edu/graduate/msc-admissions)
+   - *Program Highlight:* [Master of Science in Applied Computing - Machine Learning and Data Mining](https://datasciences.utoronto.ca/)
    - *Notable Faculty:* [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/), a pioneering researcher in deep learning.
 
 
