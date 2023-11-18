@@ -27,7 +27,7 @@ In the ever-evolving landscape of technology, data science and machine learning 
 
 ## 1. **Stanford University**
    - *Location:* Stanford, California, USA
-   - *Program Highlight:* [Master of Science in Computer Science - Data Science Track](https://cs.stanford.edu/academics/mscs/datascience)
+   - *Program Highlight:* [Master of Science in Computer Science - Data Science Track](https://datascience.stanford.edu/)
    - *Notable Faculty:* [Andrew Ng](http://www.andrewng.org/), a leading expert in machine learning, and [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li), renowned for her contributions to computer vision.
 
 Located in the heart of Silicon Valley, Stanford University has a rich history of fostering innovation and entrepreneurship. Founded in 1885, Stanford has played a pivotal role in the development of the technology industry. The university's culture encourages collaboration and interdisciplinary research, creating an environment where data science and machine learning thrive alongside other cutting-edge fields.
@@ -37,7 +37,7 @@ Located in the heart of Silicon Valley, Stanford University has a rich history o
 
 ## 2. **Massachusetts Institute of Technology (MIT)**
    - *Location:* Cambridge, Massachusetts, USA
-   - *Program Highlight:* [Master of Business Analytics](https://mitsloan.mit.edu/master-of-business-analytics)
+   - *Program Highlight:* [Master of Data Science](https://micromasters.mit.edu/ds/)
    - *Notable Faculty:* [Dimitris Bertsimas](https://www.dbertsim.mit.edu/), an influential figure in optimization and machine learning.
 
 
@@ -58,7 +58,7 @@ UC Berkeley, founded in 1868, is renowned for its activism and intellectual rigo
 
 ## 4. **Carnegie Mellon University**
    - *Location:* Pittsburgh, Pennsylvania, USA
-   - *Program Highlight:* [Master of Computational Data Science](https://www.cmu.edu/ms-cds/)
+   - *Program Highlight:* [Master of Computational Data Science](https://www.cmu.edu/dietrich/statistics-datascience/index.html)
    - *Notable Faculty:* [Tom Mitchell](http://www.cs.cmu.edu/~tom/), renowned for his work in machine learning and cognitive neuroscience.
 
 
@@ -68,7 +68,7 @@ Established in 1900, Carnegie Mellon has a strong tradition of excellence in bot
 
 ## 5. **University of Oxford**
    - *Location:* Oxford, United Kingdom
-   - *Program Highlight:* [MSc in Machine Learning](https://www.cs.ox.ac.uk/admissions/postgraduate/machinelearning/)
+   - *Program Highlight:* [MSc in Machine Learning](https://conted.ox.ac.uk/about/computing-and-mathematics-and-data-science)
    - *Notable Faculty:* [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/), Professor of Information Engineering and a leading figure in Bayesian machine learning.
 
 
@@ -88,7 +88,7 @@ Harvard, founded in 1636, is one of the oldest and most prestigious universities
 
 ## 7. **ETH Zurich - Swiss Federal Institute of Technology**
    - *Location:* Zurich, Switzerland
-   - *Program Highlight:* [Master in Data Science](https://www.ds.msc.ethz.ch/)
+   - *Program Highlight:* [Master in Data Science](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/data-science.html)
    - *Notable Faculty:* [Joachim M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html), known for his research in machine learning and computer vision.
 
 
@@ -98,7 +98,7 @@ Founded in 1854, ETH Zurich has a rich history of scientific and engineering ach
 
 ## 8. **University of Cambridge**
    - *Location:* Cambridge, United Kingdom
-   - *Program Highlight:* [MPhil in Machine Learning and Machine Intelligence](https://www.cst.cam.ac.uk/admissions/postgraduate/mphil/machine-learning)
+   - *Program Highlight:* [MPhil in Machine Learning and Machine Intelligence](https://www.cl.cam.ac.uk/teaching/2021/DataSci/materials.html)
    - *Notable Faculty:* [Neil Lawrence](http://inverseprobability.com/), a leading researcher in machine learning.
 
 
@@ -116,7 +116,7 @@ Founded in 1827, the University of Toronto is known for its diverse and inclusiv
 
 ## 10. **University of Washington**
    - *Location:* Seattle, Washington, USA
-   - *Program Highlight:* [Master of Science in Data Science](https://www.csc.washington.edu/msds/)
+   - *Program Highlight:* [Master of Science in Data Science](https://ischool.uw.edu/programs/msim/specializations/data-science)
    - *Notable Faculty:* [Emily Fox](https://www.cs.washington.edu/people/faculty/ebfox)
 
 (https://www.stat.washington.edu/people/faculty/fox_emily/), recognized for her work in statistical machine learning.
