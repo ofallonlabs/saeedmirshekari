@@ -67,7 +67,7 @@ Thanksgiving traditions vary across regions. Analyzing regional data unveils uni
 
 ### 5.1 Regional Thanksgiving Customs: Diverse Celebrations
 
-<img src="/assets/img/uploads/d24d3784f8b5a71cec1121bdc598aa0f-186069441.png" width="100%" />
+<img src="/assets/img/uploads/d24d3784f8b5a71cec1121bdc598aa0f-186069441.png" width="80%" />
 
 ## 6. Environmental Impact: Beyond the Table
 
@@ -75,7 +75,7 @@ The environmental impact of Thanksgiving is a growing concern. Analyzing data re
 
 ### 6.1 Food Waste Statistics: Nourishing the Earth
 
-<img src="/assets/img/uploads/c04795f40848e585fdd10a2569329569-2609048131.png" width="100%" />
+<img src="/assets/img/uploads/c04795f40848e585fdd10a2569329569-2609048131.png" width="80%" />
 
 The amount of food waste generated during the Thanksgiving holiday, emphasizing the need for sustainable practices is huge.
 
