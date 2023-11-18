@@ -126,7 +126,7 @@ Established in 1861, the University of Washington is deeply connected to the Pac
 
 
 
-## 11. **Washington University in St. Louis**
+## ++ **Washington University in St. Louis**
   - *Location:* St. Louis, Missouri, USA
   - *Program Highlight:* [Master of Science in Data Analytics and Statistics](https://bulletin.wustl.edu/grad/engineering/electrical-and-systems/ms-data-analytics-statistics/)
   - *Notable Faculty:* [Roman Garnett](https://www.cse.wustl.edu/~garnett/), known for his contributions to machine learning and artificial intelligence.
