@@ -41,7 +41,7 @@ This plot shows the common flying paths between the cities across the united sta
 
 ### 2.2 Road Trips: Journeying Across the States
 
-![Thanksgiving Road Trips](/assets/img/uploads/roadtripusa-11-cross-country-road-trip-routes-1024x690-3972767465.png)
+<img src="/assets/img/uploads/roadtripusa-11-cross-country-road-trip-routes-1024x690-3972767465.png" width="100%" />
 
 This plot shows the most popular road trip routes during the Thanksgiving holiday, along with key points of interest. 
 
