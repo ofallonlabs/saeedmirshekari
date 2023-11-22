@@ -31,7 +31,7 @@ Hey there, fellow personality detectives! Ever wonder what your choice of workpl
 
 ## Remote Wonderland: Pajamas, Coffee, and Code
 
-![](/assets/img/uploads/3800110d-af3a-4b80-81e1-16361805ccf2.jpg)
+<img src="/assets/img/uploads/3800110d-af3a-4b80-81e1-16361805ccf2.jpg" width="500px">
 
 ### Personality Traits:
 
@@ -45,7 +45,7 @@ Hey there, fellow personality detectives! Ever wonder what your choice of workpl
 
 ## Hybrid Highway: The Commute Connoisseur
 
-![](/assets/img/uploads/a6273b7a-e710-41bd-b187-0bed8dcc539c.jpg)
+<img src="/assets/img/uploads/a6273b7a-e710-41bd-b187-0bed8dcc539c.jpg" width="500px">
 
 ### Personality Traits:
 
@@ -59,7 +59,7 @@ Hey there, fellow personality detectives! Ever wonder what your choice of workpl
 
 ## On-Site Oasis: Desk, Coffee, Action!
 
-![](/assets/img/uploads/92f4c5db-17dc-4b82-875d-b73177ddf042.jpg)
+<img src="/assets/img/uploads/92f4c5db-17dc-4b82-875d-b73177ddf042.jpg" width="500px">
 
 ### Personality Traits:
 
@@ -73,7 +73,7 @@ Hey there, fellow personality detectives! Ever wonder what your choice of workpl
 
 ## West-Coast Vibes: Surfboards, Tech, and Avocado Toast
 
-![](/assets/img/uploads/1da2c8a1-3d10-4009-a450-2f6de38e3aee.jpg)
+<img src="/assets/img/uploads/1da2c8a1-3d10-4009-a450-2f6de38e3aee.jpg" width="500px">
 
 ### Lifestyle Traits:
 
@@ -87,7 +87,7 @@ Hey there, fellow personality detectives! Ever wonder what your choice of workpl
 
 ## East-Coast Hustle: Skyscrapers, Bagels, and High-Speed Meetings
 
-![](/assets/img/uploads/2c667871-263a-4c72-9158-6058b56c4744.jpg)
+<img src="/assets/img/uploads/2c667871-263a-4c72-9158-6058b56c4744.jpg" width="500px">
 
 ### Lifestyle Traits:
 
@@ -101,7 +101,7 @@ Hey there, fellow personality detectives! Ever wonder what your choice of workpl
 
 ## Midwest Wonder: Fields, Barbecues, and Heartland Warmth
 
-![](/assets/img/uploads/4ff8487a-dbf1-4aa2-b29f-fe9551bbbf88.jpg)
+<img src="/assets/img/uploads/4ff8487a-dbf1-4aa2-b29f-fe9551bbbf88.jpg" width="500px">
 
 ### Lifestyle Traits:
 
