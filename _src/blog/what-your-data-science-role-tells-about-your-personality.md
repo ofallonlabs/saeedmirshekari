@@ -63,8 +63,6 @@ The data scientist, often dubbed as the artisan of algorithms, possesses a perso
 * **Curiosity:** Data scientists are driven by an innate curiosity to explore and understand data intricacies.
 * **Creativity:** The ability to weave insights from seemingly disparate data points showcases their creative approach.
 * **Analytical Mindset:** A natural inclination to break down complex problems into manageable components.
-*
-*
 
 ## The Data Science Tech Lead: Navigating the Strategic Seas
 
