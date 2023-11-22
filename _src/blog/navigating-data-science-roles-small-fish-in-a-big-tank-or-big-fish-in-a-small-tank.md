@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: "Tech Startups vs Established Corporations: Small Fish in a Big Tank or
+title: "Established Corporations vs Tech Startups: Small Fish in a Big Tank or
   Big Fish in a Small Tank?"
 description: Summer, a symphony of sunshine and warmth, paints days in vibrant
   hues. Lazy afternoons bask in the glow of the sun, while evenings host golden
