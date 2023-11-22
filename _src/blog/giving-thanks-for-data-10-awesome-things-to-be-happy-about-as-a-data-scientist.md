@@ -98,9 +98,7 @@ Thumbs up for challenges that make us smarter! They're like puzzles that make ou
 Imagine challenges as friendly monsters in a game. They might look scary, but once we figure them out, we level up and become data champions!
 
 - [Kaggle Competitions](https://www.kaggle.com/competitions): Data science challenges to test and enhance your skills.
-- [LeetCode](https://leetcode.com/): Coding challenges to sharpen your problem-solving abilities
-
-.
+- [LeetCode](https://leetcode.com/): Coding challenges to sharpen your problem-solving abilities.
 
 ## 9. Friends with Different Ideas
 
