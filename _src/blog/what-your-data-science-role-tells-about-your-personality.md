@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: What Your Data Science Role Tells About Your Personality
+title: What Your Data Science Role Tells About Your Personality?
 description: In the dynamic world of data science, the data scientist embodies
   curiosity and creativity, the data engineer exudes pragmatism, the data
   science lead navigates strategically, the data science manager orchestrates
