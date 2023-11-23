@@ -22,20 +22,6 @@ rating: 5
 ---
 In the intricate tapestry of data science, where algorithms weave patterns and insights illuminate possibilities, the roles one assumes in this field are not merely titles; they are windows into unique personalities. From the analytical prowess of a data scientist to the structural finesse of a data engineer, the strategic mindset of a data science lead or manager, and the meticulous nature of a data analyst, each role unfolds a distinctive narrative about the individual behind the data curtain. In this exploration, we embark on a journey to decode the personalities associated with key data science roles.
 
-## The Data Analyst: Precision in Every Pixel
-
-### Role: Data Analyst
-
-<img src="/assets/img/uploads/5bfa0851-82c5-4dab-9af2-bdcf034bc730.jpg"  width="100%">
-
-Amidst the intricate dance of algorithms and the strategic orchestration of data initiatives, the data analyst emerges as the precision artist. Their role is marked by a meticulous examination of data, uncovering actionable insights that drive decision-making. The personality of a data analyst is characterized by attention to detail, a love for data storytelling, and a commitment to transforming raw data into valuable nuggets of information.
-
-### Traits:
-
-* **Attention to Detail:** Data analysts possess a meticulous nature, ensuring accuracy in every analysis.
-* **Data Storytelling:** Their personality includes the ability to craft compelling narratives from data, making it accessible to a broader audience.
-* **Problem-Solving:** Like detectives of the data world, data analysts thrive on solving puzzles hidden within datasets.
-
 ## The Data Engineer: Architect of Order
 
 ### Role: Data Engineer
@@ -63,6 +49,20 @@ The data scientist, often dubbed as the artisan of algorithms, possesses a perso
 * **Curiosity:** Data scientists are driven by an innate curiosity to explore and understand data intricacies.
 * **Creativity:** The ability to weave insights from seemingly disparate data points showcases their creative approach.
 * **Analytical Mindset:** A natural inclination to break down complex problems into manageable components.
+
+## The Data Analyst: Precision in Every Pixel
+
+### Role: Data Analyst
+
+<img src="/assets/img/uploads/5bfa0851-82c5-4dab-9af2-bdcf034bc730.jpg"  width="100%">
+
+Amidst the intricate dance of algorithms and the strategic orchestration of data initiatives, the data analyst emerges as the precision artist. Their role is marked by a meticulous examination of data, uncovering actionable insights that drive decision-making. The personality of a data analyst is characterized by attention to detail, a love for data storytelling, and a commitment to transforming raw data into valuable nuggets of information.
+
+### Traits:
+
+* **Attention to Detail:** Data analysts possess a meticulous nature, ensuring accuracy in every analysis.
+* **Data Storytelling:** Their personality includes the ability to craft compelling narratives from data, making it accessible to a broader audience.
+* **Problem-Solving:** Like detectives of the data world, data analysts thrive on solving puzzles hidden within datasets.
 
 ## The Data Science Tech Lead: Navigating the Strategic Seas
 
