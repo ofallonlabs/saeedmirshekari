@@ -1,7 +1,6 @@
 ---
 layout: blog_base.njk
-title: What Your Choice of Workplace Tells about Your Personality? Remote vs
-  Onsite vs Hybrid
+title: "Remote, Onsite or Hybrid: What These Tell about Your Personality?"
 description: "Explore the workplace personality saga: remote wanderers love
   independence, hybrid nomads blend social vibes, and on-site enthusiasts thrive
   in routine. West-Coast chillers exude zen with tech vibes, East-Coast hustlers
