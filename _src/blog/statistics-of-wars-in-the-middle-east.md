@@ -1,12 +1,12 @@
 ---
 layout: blog_base.njk
-title: Statistics of Wars in the Middle East
+title: The Statistics of Wars in the Middle East
 description: This research blog explores the statistics and historical contexts
   of wars in the Middle East, spanning from ancient conflicts to modern
   geopolitical struggles. From the Arab-Israeli conflicts to the Syrian and
   Yemeni Civil Wars, it unveils the complex tapestry of a region shaped by
   tumultuous histories and ongoing challenges.
-meta_title: Statistics of Wars in the Middle East
+meta_title: The Statistics of Wars in the Middle East
 meta_description: This research blog explores the statistics and historical
   contexts of wars in the Middle East, spanning from ancient conflicts to modern
   geopolitical struggles. From the Arab-Israeli conflicts to the Syrian and
