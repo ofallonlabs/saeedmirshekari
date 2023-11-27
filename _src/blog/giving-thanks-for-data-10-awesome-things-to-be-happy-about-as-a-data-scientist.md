@@ -24,8 +24,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_a_whole_year_vnfm.png
 rating: 5
 ---
-# Giving Thanks for Data: 10 Awesome Things to Be Happy About as a Data Scientist
-
 Hey data buddies! Thanksgiving is almost here, and it's time to talk about the cool stuff that makes being a data scientist so awesome. Let's keep it simple and chat about the 10 things that make us super thankful in the world of data!
 
 ## 1. Loads of Data to Play With
