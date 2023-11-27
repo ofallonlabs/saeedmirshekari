@@ -74,14 +74,18 @@ If you do not have a mentor yet, consider reading [this page](https://saeedmirsh
 We hope that the questions above will help you to build a better relationship with your mentor. It is important to remember that these are just examples, and there are many more questions you could ask. The more you know about your work and how it fits in with what's happening in the industry, the more prepared you'll be when it comes time for promotions or raises!
 
 1. What inspired you to pursue a career in data science, and how did you get started?
-2. Can you share some key lessons you've learned throughout your journey in data science?
-3. How do you stay updated on the latest trends and advancements in the field of data science?
-4. What advice do you have for someone just starting their career in data science?
-5. Can you tell me about a challenging project you've worked on and how you approached solving the problems that arose?
-6. How do you balance the technical and business aspects of data science in your work?
-7. What programming languages and tools do you find most valuable in your day-to-day work, and why?
-8. In your experience, what skills are crucial for a successful data scientist, beyond technical expertise?
-9. How do you approach communicating complex technical findings to non-technical stakeholders?
-10. Can you recommend any books, courses, or resources that you've found particularly helpful in advancing your skills as a data scientist?
+
+
+
+1. Can you share some key lessons you've learned throughout your journey in data science?
+2. How do you stay updated on the latest trends and advancements in the field of data science?
+3. What advice do you have for someone just starting their career in data science?
+4. Can you tell me about a challenging project you've worked on and how you approached solving the problems that arose?
+5. How do you balance the technical and business aspects of data science in your work?
+6. What programming languages and tools do you find most valuable in your day-to-day work, and why?
+7. In your experience, what skills are crucial for a successful data scientist, beyond technical expertise?
+8. How do you approach communicating complex technical findings to non-technical stakeholders?
+9. Can you recommend any books, courses, or resources that you've found particularly helpful in advancing your \
+   skills as a data scientist?
 
 <!--EndFragment-->
