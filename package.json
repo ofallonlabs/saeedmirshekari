@@ -32,6 +32,7 @@
     "cssp": "^1.0.6",
     "express": "^4.18.1",
     "express-session": "^1.17.3",
+    "firebase": "^10.7.0",
     "mysql": "^2.18.1",
     "njk": "^4.2.2",
     "npm-css": "^0.2.3",
