@@ -2,17 +2,17 @@
 layout: blog_base.njk
 title: "Tech Startups vs Established Corporations: Big Fish in a Small Tank or
   Small Fish in a Big Tank?"
-description: Summer, a symphony of sunshine and warmth, paints days in vibrant
-  hues. Lazy afternoons bask in the glow of the sun, while evenings host golden
-  sunsets. It's a season of laughter, ice cream cones, and barefoot adventures—a
-  fleeting embrace of nature's warmth and the carefree dance of long, sun-kissed
-  days.
+description: " This blog explores the dynamics of data science roles, comparing
+  the experience of being a small fish in a big tank (larger company) versus a
+  big fish in a small tank (smaller company). It delves into the challenges and
+  advantages of each scenario, helping readers navigate their career choices in
+  the field."
 meta_title: "Data Scientist Jobs: Small Startups or Big Corporations?"
-meta_description: Summer, a symphony of sunshine and warmth, paints days in
-  vibrant hues. Lazy afternoons bask in the glow of the sun, while evenings host
-  golden sunsets. It's a season of laughter, ice cream cones, and barefoot
-  adventures—a fleeting embrace of nature's warmth and the carefree dance of
-  long, sun-kissed days.
+meta_description: " This blog explores the dynamics of data science roles,
+  comparing the experience of being a small fish in a big tank (larger company)
+  versus a big fish in a small tank (smaller company). It delves into the
+  challenges and advantages of each scenario, helping readers navigate their
+  career choices in the field."
 author: Saeed Mirshekari
 date: 2023-11-22T15:16:29.092Z
 tags:
