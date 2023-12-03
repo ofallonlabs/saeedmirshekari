@@ -22,7 +22,7 @@ rating: 5
 ---
 Before you start reading this blog, take a look at this recent article at The Wall Street Journal about [](https://www.wsj.com/lifestyle/careers/workers-morale-pay-benefits-remote-52c4ab10)[Why Is Everyone So Unhappy at Work Right Now?](https://www.wsj.com/lifestyle/careers/workers-morale-pay-benefits-remote-52c4ab10)
 
-![](/assets/img/uploads/wsj.png)
+<img title="why is everyone so unhappy at work right now" alt="Alt text" src="/assets/img/uploads/wsj.png" width="100%">
 
 ## [](https://www.wsj.com/lifestyle/careers/workers-morale-pay-benefits-remote-52c4ab10)Introduction
 
