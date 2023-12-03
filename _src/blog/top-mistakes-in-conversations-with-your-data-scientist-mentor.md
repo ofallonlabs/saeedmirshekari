@@ -21,7 +21,7 @@ date: 2023-11-22T21:31:42.571Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/undraw_feeling_blue_4b7q.png
+thumbnail: /assets/img/uploads/undraw_access_denied_re_awnf.png
 rating: 5
 ---
 Hey there, aspiring data wizards! So, you've got yourself a data scientist mentor—someone to guide you through the intricate realms of algorithms, datasets, and the magical land of machine learning. While mentorship is a golden ticket to growth, there are pitfalls to avoid in your conversations with your mentor. In this blog, we'll delve into the top mistakes and offer you a treasure map to navigate the seas of mentorship successfully.
