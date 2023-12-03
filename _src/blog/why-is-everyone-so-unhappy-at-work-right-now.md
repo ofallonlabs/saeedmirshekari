@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: Happiness in Data Science
+title: Why Are Data Scientists So Unhappy at Work Right Now?
 description: Exploring the roots of workplace unhappiness, this blog analyzes
   the impact of evolving work dynamics, burnout culture, lack of purpose, toxic
   environments, and technology overload. It provides strategies for employers to
