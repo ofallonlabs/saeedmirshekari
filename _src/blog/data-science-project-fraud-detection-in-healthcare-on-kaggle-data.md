@@ -15,7 +15,7 @@ rating: 3
 ---
 # Fraud Detection in Healthcare Claims (at Provider Level)
 
-Here is the [L﻿ink to the full GitHub Repository](https://github.com/pradlanka/medical-fraud-detection-analysis) including the Python codes and Jupyter Notebooks.
+Before you start reading, please note that this is the [L﻿ink to the full GitHub Repository](https://github.com/pradlanka/medical-fraud-detection-analysis) including the Python codes and Jupyter Notebooks. Below is an overview and summary of this project.
 
 ## 1. The Business Problem
 
