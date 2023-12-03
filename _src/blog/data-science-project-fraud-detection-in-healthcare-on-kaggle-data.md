@@ -10,7 +10,7 @@ date: 2023-12-03T16:11:37.938Z
 tags:
   - post
   - projects
-thumbnail: /assets/img/uploads/4shades_of_datascientist.png
+thumbnail: /assets/img/uploads/undraw_doctors_p6aq.png
 rating: 3
 ---
 # Fraud Detection in Healthcare Claims (at Provider Level)
