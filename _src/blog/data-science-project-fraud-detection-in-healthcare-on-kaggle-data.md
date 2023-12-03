@@ -1,11 +1,11 @@
 ---
-layout: blog_base.njk
+layout: blog_base_pradyumna.njk
 title: "Fraud Detection in Healthcare: The Latest Data Science Project by O'Labs
   Mentees (Public Dataset)"
 description: desc
 meta_title: "Data Science Project: Fraud Detection in Healthcare on Kaggle Data"
 meta_description: desc
-author: Saeed Mirshekari
+author: Pradyumna Lanka
 date: 2023-12-03T16:11:37.938Z
 tags:
   - post
