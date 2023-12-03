@@ -17,7 +17,7 @@ date: 2023-11-28T15:23:38.792Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/6d9d0398-011f-4a47-8dc6-c5e55bdaebd5.jpg
+thumbnail: /assets/img/uploads/undraw_feeling_blue_4b7q.png
 rating: 5
 ---
 Before you start reading this blog, take a look at this recent article at The Wall Street Journal about [](https://www.wsj.com/lifestyle/careers/workers-morale-pay-benefits-remote-52c4ab10)[Why Is Everyone So Unhappy at Work Right Now?](https://www.wsj.com/lifestyle/careers/workers-morale-pay-benefits-remote-52c4ab10)
