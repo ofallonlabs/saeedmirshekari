@@ -1,7 +1,7 @@
 ---
 layout: blog_base.njk
-title: "Fraud Detection in Healthcare on Kaggle Data: The Latest Data Science
-  Project by O'Labs Mentees"
+title: "Fraud Detection in Healthcare: The Latest Data Science Project by O'Labs
+  Mentees (Public Dataset)"
 description: desc
 meta_title: "Data Science Project: Fraud Detection in Healthcare on Kaggle Data"
 meta_description: desc
