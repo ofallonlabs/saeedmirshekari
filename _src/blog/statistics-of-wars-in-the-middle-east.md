@@ -16,7 +16,7 @@ author: Saeed Mirshekari
 date: 2023-11-27T16:14:18.430Z
 tags:
   - post
-thumbnail: /assets/img/uploads/undraw_mobile_search_jxq5.png
+thumbnail: /assets/img/uploads/war_design_elements_illustration_vector_graphic.jpg
 rating: 5
 ---
 
