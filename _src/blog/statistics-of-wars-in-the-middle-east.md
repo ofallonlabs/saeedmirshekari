@@ -67,9 +67,7 @@ The Iraq War was initiated by the United States-led coalition based on claims of
 
 The Syrian Civil War, which began in 2011, has resulted in significant human suffering and displacement. [Casualty figures](https://en.wikipedia.org/wiki/Casualties_of_the_Syrian_Civil_War) for the conflict are challenging to determine accurately but are estimated to be in the hundreds of thousands.
 
-The Syrian Civil War erupted as part of the broader Arab Spring uprisings. The conflict involves a
-
- complex web of internal and external actors, including the Syrian government, rebel groups, and international powers. The war has led to a humanitarian crisis and reshaped regional geopolitics.
+The Syrian Civil War erupted as part of the broader Arab Spring uprisings. The conflict involves a complex web of internal and external actors, including the Syrian government, rebel groups, and international powers. The war has led to a humanitarian crisis and reshaped regional geopolitics.
 
 ## VIII. Yemeni Civil War
 
