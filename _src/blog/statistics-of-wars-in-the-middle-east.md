@@ -25,9 +25,9 @@ The Middle East, a region of historical significance and geopolitical complexity
 
 In each section below there is a link to the number of deaths during each conflict in the Middle East. Below is the numbers of casualty in WWII for comparison:
 
-<img src="/assets/img/uploads/world_war_ii_casualties.svg.png" width="100%">
+<img src="/assets/img/uploads/115-45693604.jpg" width="100%">
 <﻿br>
-<img src="/assets/img/uploads/world_war_ii_casualties.svg.png" width="100%">
+<img src="/assets/img/uploads/ww2.jpg" width="100%">
 <﻿br>
 <img src="/assets/img/uploads/world_war_ii_casualties.svg.png" width="100%">
 <﻿br>
