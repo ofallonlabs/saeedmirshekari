@@ -27,6 +27,10 @@ In each section below there is a link to the number of deaths during each confli
 
 <img src="/assets/img/uploads/world_war_ii_casualties.svg.png" width="100%">
 <﻿br>
+<img src="/assets/img/uploads/world_war_ii_casualties.svg.png" width="100%">
+<﻿br>
+<img src="/assets/img/uploads/world_war_ii_casualties.svg.png" width="100%">
+<﻿br>
 
 ## I. Ancient Conflicts in the Middle East
 
