@@ -8,7 +8,7 @@ author: Saeed Mirshekari
 date: 2023-12-18T19:06:29.118Z
 tags:
   - post
-thumbnail: /assets/img/uploads/end_of_year_report_2022.gif
+thumbnail: /assets/img/uploads/impacts_2023.gif
 rating: 5
 ---
 As 2023 comes to an end, O'Fallon Labs journey continues.
@@ -24,6 +24,3 @@ Thank you for being with me in this journey this year!
 <img src="/assets/img/uploads/map_2023_3.png" width="100%">
 
 Happy holidays!
-
-Best regards,
-Saeed
