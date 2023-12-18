@@ -20,6 +20,9 @@ Here is a quick summary of O'Labs in 2023:
 -Our offered services attracted another 5,000 new visitors from all around the globe
 Thank you for being with me in this journey this year!
 
+<img src="/assets/img/uploads/world_war_ii_casualties.svg.png" width="100%">
+<img src="/assets/img/uploads/world_war_ii_casualties.svg.png" width="100%">
+
 Happy holidays!
 
 Best regards,
