@@ -11,8 +11,6 @@ tags:
 thumbnail: /assets/img/uploads/end_of_year_report_2022.gif
 rating: 5
 ---
-![](/assets/img/uploads/growth_2023.png)
-
 As 2023 comes to an end, O'Fallon Labs journey continues.
 It might not be huge but the impacts makes me happy and I'd like to share that with you today! I thought you would like to see it.
 
@@ -23,7 +21,7 @@ Here is a quick summary of O'Labs in 2023:
 Thank you for being with me in this journey this year!
 
 <img src="/assets/img/uploads/growth_2023.png" width="100%">
-<img src="/assets/img/uploads/map_2023.png" width="100%">
+<img src="/assets/img/uploads/map_2023_3.png" width="100%">
 
 Happy holidays!
 
