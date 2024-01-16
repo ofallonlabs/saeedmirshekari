@@ -16,7 +16,7 @@ meta_description: Discover the wealth of resources at O'Fallon Labs Learning
   comprehensive guide to accelerate your data science career and secure a
   rewarding job quickly.
 author: Saeed Mirshekari
-date: 2024-01-16T17:31:17.607Z
+date: 2024-01-13T17:31:17.607Z
 tags:
   - post
   - mentoring
