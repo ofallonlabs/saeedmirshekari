@@ -18,7 +18,7 @@ meta_description: Unlock remote data science opportunities with our guide.
   Join the revolution—thrive in the dynamic world of remote data science
   careers!
 author: Saeed Mirshekari
-date: 2024-01-04T18:52:46.007Z
+date: 2024-01-14T18:52:46.007Z
 tags:
   - post
   - mentoring
