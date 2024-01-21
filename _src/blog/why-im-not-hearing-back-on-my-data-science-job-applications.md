@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: Why I'm Not Hearing Back on My Data Science Job Applications
+title: Top Reasons for Not Hearing Back on Your Data Science Job Applications
 description: Revamp your data science job search with insights into why you
   might not be hearing back. From resume optimization to networking, learn to
   navigate the application process effectively. Real-world examples and useful
