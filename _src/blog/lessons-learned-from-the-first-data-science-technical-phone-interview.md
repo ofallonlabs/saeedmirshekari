@@ -18,7 +18,7 @@ date: 2023-10-28T14:28:49.665Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/undraw_online_discussion_re_nn7e.png
+thumbnail: /assets/img/uploads/undraw_contact_us_re_4qqt.png
 rating: 5
 ---
 # Navigating the Waters of the First Data Science Technical Phone Interview

@@ -67,7 +67,7 @@ Udacity, an e-learning platform, offers various data science courses and nanodeg
 
 Stack Overflow is a well-known Q&A platform for programmers, including data scientists. It offers a vast community of professionals willing to share their expertise and mentor others. By actively participating in the data science section of Stack Overflow, learners can gain valuable insights, troubleshoot problems, and build their professional network.
 
-## 9. [Data Science for All (DS4A)/Empowerment](https://ds4a.com/)
+## 9. [Data Science for All (DS4A)/Empowerment](https://www.correlation-one.com/data-skills-for-all)
 
 DS4A/Empowerment is an initiative aimed at empowering underrepresented communities through data science education. They offer a free mentoring program connecting aspiring data scientists with experienced mentors from diverse backgrounds. This program fosters inclusive learning, enriching the data science community with a broader range of perspectives.
 
