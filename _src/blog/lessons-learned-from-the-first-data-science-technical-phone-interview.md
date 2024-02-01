@@ -14,7 +14,7 @@ meta_description: Explore a debut data science phone interview experience,
   future interviews. Explore relevant questions to enhance your data science
   interview preparation and overall performance.
 author: Saeed Mirshekari
-date: 2024-01-27T01:40:53.578Z
+date: 2024-01-31T01:40:53.578Z
 tags:
   - post
   - mentoring
