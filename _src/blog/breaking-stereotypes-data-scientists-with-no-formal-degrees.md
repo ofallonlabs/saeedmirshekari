@@ -13,7 +13,7 @@ meta_description: Discover the inspiring journeys of top data scientists who
   Howard and Rachel Thomas shattered stereotypes, showcasing that passion and
   perseverance are the ultimate keys to triumph in data science.
 author: Saeed Mirshekari
-date: 2024-01-27T15:12:56.311Z
+date: 2024-01-30T15:12:56.311Z
 tags:
   - post
   - mentoring
