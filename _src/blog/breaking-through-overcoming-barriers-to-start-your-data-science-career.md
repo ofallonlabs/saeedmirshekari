@@ -13,7 +13,7 @@ meta_description: Navigating a data science career path is daunting due to
   and imposter syndrome. However, with persistence and resilience, aspiring data
   scientists can overcome these obstacles and pursue their dreams.
 author: Saeed Mirshekari
-date: 2024-01-27T14:51:38.863Z
+date: 2024-02-05T04:22:12.379Z
 tags:
   - post
   - career
