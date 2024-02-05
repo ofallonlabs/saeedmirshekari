@@ -66,4 +66,8 @@ So why wait? Sign up for O'Mentors today and embark on your mentorship journey t
 
 [Sign Up Now](https://olabs.ck.page/waitlist)
 
+<img src="/assets/img/uploads/user_journey_omentors.png" width="100%">
+
+
+
 *Join the conversation: Have you had a mentor in data science? How has mentorship impacted your career? Share your thoughts and experiences in the comments below!*
