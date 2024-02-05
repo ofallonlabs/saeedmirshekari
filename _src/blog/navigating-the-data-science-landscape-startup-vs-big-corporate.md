@@ -15,7 +15,7 @@ meta_description: "Choosing between a startup and a big corporate as a data
   desired impact. Your data symphony, your choice – compose the career that
   resonates with you! "
 author: Saeed Mirshekari
-date: 2024-01-21T21:01:01.833Z
+date: 2024-02-05T04:21:36.417Z
 tags:
   - post
   - career
