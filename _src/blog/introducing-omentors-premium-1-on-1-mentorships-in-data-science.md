@@ -1,12 +1,12 @@
 ---
 layout: blog_base.njk
-title: "Introducing O'Mentors: Premium 1-on-1 Mentorships in Data Science"
+title: "O'Mentors: Beta Testing Invitation for Data Science Enthusiasts"
 description: Join the beta testing of O'Mentors, a groundbreaking platform
   connecting data science enthusiasts with top mentors. Early adopters play a
   crucial role in refining the platform, ensuring it meets diverse needs. Sign
   up, create a profile, connect with mentors, and book personalized 1-on-1
   sessions to elevate your data science journey.
-meta_title: "Introducing O'Mentors: Premium 1-on-1 Mentorships in Data Science"
+meta_title: "O'Mentors: Beta Testing Invitation for Data Science Enthusiasts"
 meta_description: Join the beta testing of O'Mentors, a groundbreaking platform
   connecting data science enthusiasts with top mentors. Early adopters play a
   crucial role in refining the platform, ensuring it meets diverse needs. Sign
@@ -20,8 +20,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_group_chat_re_frmo-1-.png
 rating: 5
 ---
-**Title: Unveiling O'Mentors: Beta Testing Invitation for Data Science Enthusiasts**
-
 Are you a data science enthusiast eager to take your skills to the next level? Do you wish to learn from the best in the field, those who have traversed the path you're treading? If so, then you're in luck! We're thrilled to introduce you to O'Mentors, a revolutionary platform designed to connect passionate learners with seasoned mentors in the realm of data science.
 
 **Why Beta Testing Matters**
