@@ -15,7 +15,7 @@ meta_description: Transitioning to data science can be daunting due to imposter
   a strong network, focusing on transferable skills, and starting small to build
   momentum towards a successful career transition.
 author: Saeed Mirshekari
-date: 2024-02-05T17:50:31.985Z
+date: 2024-02-10T14:20:43.507Z
 tags:
   - post
   - career
