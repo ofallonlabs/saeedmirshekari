@@ -13,7 +13,7 @@ meta_description: Explore the optimal path for data science education with this
   introducing O'Fallon Labs for personalized mentoring. Make an informed
   decision to propel your data science career. Good luck!
 author: Saeed Mirshekari
-date: 2024-01-04T17:05:47.295Z
+date: 2024-02-10T14:21:10.430Z
 tags:
   - post
   - mentoring
