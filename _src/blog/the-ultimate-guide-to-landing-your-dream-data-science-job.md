@@ -13,7 +13,7 @@ meta_description: Unlock your path to a dream data science job with essential
   projects. Develop business acumen, stay adaptable, network, and craft an
   outstanding resume. Your data-driven journey starts here! 🚀✨
 author: Saeed Mirshekari
-date: 2024-01-20T16:21:49.753Z
+date: 2024-01-31T16:21:49.753Z
 tags:
   - post
   - mentoring
