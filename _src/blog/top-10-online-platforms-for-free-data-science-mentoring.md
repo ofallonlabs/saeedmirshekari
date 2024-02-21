@@ -75,6 +75,11 @@ DS4A/Empowerment is an initiative aimed at empowering underrepresented communiti
 
 LinkedIn hosts numerous data science-related groups where professionals discuss industry trends, job opportunities, and provide mentorship. Joining these groups and actively engaging in discussions allows learners to build connections with data science practitioners and seek advice from experienced individuals.
 
+<a href="omentors.com"><img src="/assets/img/uploads/omentors_banner.png" width="100%"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
+</a>
+
+
+
 ### Conclusion
 
 In the fast-paced world of data science, having a mentor can make a significant difference in one's learning journey. The online platforms mentioned in this blog post offer fantastic opportunities for aspiring data scientists to access free mentoring services from experienced professionals. Whether it's through specialized platforms like Kaggle and DataCamp or community-driven spaces like Reddit and LinkedIn Groups, the availability of free mentorship fosters an inclusive and supportive environment for all data science enthusiasts. Embracing these opportunities and seeking guidance from mentors can undoubtedly accelerate skill development and help individuals thrive in the data science field. So, don't hesitate to take advantage of these resources and embark on your data science journey with confidence!
