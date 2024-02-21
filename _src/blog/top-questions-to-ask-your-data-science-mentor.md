@@ -35,6 +35,9 @@ As a data scientist, you may have technical questions that are specific to your 
 * How do I learn these tools and techniques?
 * What are the most important things I should know about my industry?
 
+<a href="https:\\www.omentors.com"><img src="/assets/img/uploads/omentors_banner.png" width="100%"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
+</a>
+
 ## Industry
 
 The industry is the first thing you want to ask your mentor about. What is the industry? How does it differ from others? Which industries are related and how do they interact with each other?
