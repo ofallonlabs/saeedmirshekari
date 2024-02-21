@@ -75,7 +75,7 @@ DS4A/Empowerment is an initiative aimed at empowering underrepresented communiti
 
 LinkedIn hosts numerous data science-related groups where professionals discuss industry trends, job opportunities, and provide mentorship. Joining these groups and actively engaging in discussions allows learners to build connections with data science practitioners and seek advice from experienced individuals.
 
-<a href="omentors.com"><img src="/assets/img/uploads/omentors_banner.png" width="100%"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
+<a href="https:\\www.omentors.com"><img src="/assets/img/uploads/omentors_banner.png" width="100%"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
 </a>
 
 
