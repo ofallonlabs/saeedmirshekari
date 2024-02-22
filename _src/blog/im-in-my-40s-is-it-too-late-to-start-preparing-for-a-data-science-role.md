@@ -37,6 +37,9 @@ The data science industry is facing a [labor shortage](https://saeedmirshekari.c
 
 <h2>How To Get Started In The Data Science Field?</h2>
 
+<a href="https:\\www.omentors.com"><img src="/assets/img/uploads/omentors_banner.png" width="100%"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
+</a>
+
 <h3>1. Tackle the Career Changes</h3>
 
 As mentioned before, mid-career change is daunting. You wouldn’t know where to start, especially moving into the field of data science. Determine which data science path you want to take, what skills you need to learn, how you will practice critical thinking, etc. Create an everyday learning pattern, and don’t deviate from it. 
