@@ -20,35 +20,39 @@ tags:
 thumbnail: /assets/img/uploads/mahdi_.png
 rating: 5
 ---
+# Introducing Our New Data Science Mentor: Mahdi Jadaliha
 
-We are thrilled to introduce our newest addition to the mentorship team at OMENTORS: Mahdi Jadaliha. With a diverse background and a wealth of experience in both academia and industry, Mahdi brings a unique perspective to the table for aspiring data scientists.
+Are you ready to take your data science skills to the next level? Meet Mahdi Jadaliha, our newest mentor at O'Mentors! With a rich background in mechanical engineering and extensive experience in data science, Mahdi brings a unique perspective and wealth of knowledge to the table. Let's dive into what makes Mahdi the perfect mentor for your data science journey.
 
-### Meet Mahdi Jadaliha
+## About Mahdi Jadaliha
 
-Mahdi is a polyglot, fluent in Persian, Turkish, and English, reflecting his rich cultural upbringing and international experience. Born and raised in Iran, Mahdi embarked on an academic journey that led him to pursue a Ph.D. in Mechanical Engineering at Michigan State University in the United States.
+Born and raised in Iran, Mahdi's journey in academia led him to pursue a Ph.D. in Mechanical Engineering at Michigan State University. But his passion for data science took him beyond the realm of traditional engineering. Throughout his career, Mahdi has worked with various companies in the United States, honing his skills and expertise in this rapidly evolving field.
 
-### Blend of Academia and Industry
+In addition to his professional ventures, Mahdi is also the brains behind CLOCKTO, an innovative AI-Driven Scheduling platform poised to revolutionize the way we manage our time. [CLOCKTO](https://www.clockto.com) promises efficiency and convenience, embodying Mahdi's commitment to leveraging technology for practical solutions.
 
-Mahdi's journey in the world of data science is a testament to his versatility. Following his academic pursuits, Mahdi delved into the corporate world, lending his expertise to multiple companies in the U.S. His hands-on experience in real-world applications of data science sets him apart as a mentor who can bridge the gap between theory and practice.
+## Services Offered by Mahdi
 
-### Entrepreneurial Spirit
+At O'Mentors, Mahdi offers personalized mentorship tailored to your data science aspirations. Here's a glimpse of the services he provides:
 
-In addition to his corporate endeavors, Mahdi is also an entrepreneur at heart. He runs his tech startup, [clockto.com](clockto.com), alongside his other ventures. CLOCKTO is an AI-driven scheduling platform poised to revolutionize how businesses manage their time and resources.
+### 1. Hands-on LLM with Python
 
+With LLM and generative AI gaining traction, Mahdi is here to guide you through the intricacies of these cutting-edge technologies. Whether you're looking to grasp fundamental concepts or embark on project-based learning, Mahdi will support you every step of the way. Expect to dive deep into hands-on exercises and even collaborate on projects for your GitHub portfolio.
 
+**Qualifications:**
+Mahdi's expertise shines through his real-world projects in embedding, RAG, and AI assistant applications. You can witness his proficiency firsthand [here](https://youtu.be/YhjEsM2X7hc).
 
-### Mentorship Opportunity
+### 2. Data Manipulation with Python
 
-At OMENTORS, we believe in the power of mentorship to shape aspiring data scientists into industry leaders. Mahdi Jadaliha's expertise and experience make him an invaluable addition to our mentorship roster. Whether you are just starting your journey in data science or looking to advance your career, Mahdi can provide the guidance and insights you need to succeed.
+In the realm of data science, effective data manipulation is key. Mahdi understands the importance of mastering tools like pandas, polars, and dbduck for seamless data handling. Drawing from over two decades of experience, Mahdi unveils the tricks and techniques that streamline your workflow and maximize productivity.
 
-### Connect with Mahdi
+**Qualifications:**
+With a rich history of working with data spanning more than 20 years, Mahdi possesses invaluable insights and strategies to optimize your data manipulation endeavors.
 
-If you're eager to learn more about Mahdi Jadaliha and how he can help you navigate your data science career, we encourage you to explore his profile on [omentors.com](omentors.com)
+## Connect with Mahdi
 
-To schedule a personalized 1-on-1 meeting with Mahdi, where you can discuss your goals and aspirations in data science, visit our website at [OMENTORS.com](https://www.omentors.com/) and apply for mentorship today.
+Ready to elevate your data science career? Take the first step by connecting with Mahdi Jadaliha at O'Mentors. Whether you're a novice seeking guidance or a seasoned professional aiming to refine your skills, Mahdi offers mentorship catered to your unique needs and goals.
 
-Join us in welcoming Mahdi Jadaliha to OMENTORS. Together, let's unlock the potential of data science and pave the way for a brighter future.
+To learn more about Mahdi and schedule a one-on-one meeting to discuss your data science journey, visit [OMENTORS.com](https://omentors.com). Empower yourself with the guidance and expertise of Mahdi Jadaliha, and embark on a transformative data science adventure today!
 
-
-
-*Are you ready to take your data science journey to the next level? Apply for mentorship with Mahdi Jadaliha today!*
+---
+With Mahdi's multidimensional expertise and passion for empowering aspiring data scientists, O'Mentors is thrilled to welcome him aboard as our newest mentor. Don't miss out on the opportunity to learn from the best – connect with Mahdi and kickstart your data science journey today!
