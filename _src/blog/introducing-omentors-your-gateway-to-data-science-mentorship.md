@@ -17,7 +17,7 @@ date: 2024-02-19T22:23:20.412Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/omentors_banner.png
+thumbnail: /assets/img/uploads/omentors-animation.gif
 rating: 5
 ---
 
