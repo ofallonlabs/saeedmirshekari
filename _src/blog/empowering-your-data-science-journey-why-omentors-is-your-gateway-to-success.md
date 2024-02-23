@@ -15,7 +15,7 @@ meta_description: O'Mentors, a specialized data science mentorship platform,
   focused approach and quality mentors ensure personalized guidance for aspiring
   data scientists, making it the premier choice for career advancement.
 author: Saeed Mirshekari
-date: 2024-02-12T19:26:13.560Z
+date: 2024-02-23T02:07:38.745Z
 tags:
   - post
   - mentoring
