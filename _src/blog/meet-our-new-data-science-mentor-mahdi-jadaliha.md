@@ -13,7 +13,7 @@ meta_description: Introducing Mahdi Jadaliha, our versatile new data science
   Mahdi brings a wealth of expertise to guide aspiring data scientists on their
   career paths.
 author: Saeed Mirshekari
-date: 2024-02-19T21:35:22.849Z
+date: 2024-02-24T19:35:00.000Z
 tags:
   - post
   - mentoring
