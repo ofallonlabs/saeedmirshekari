@@ -37,7 +37,7 @@ The data science industry is facing a [labor shortage](https://saeedmirshekari.c
 
 <h2>How To Get Started In The Data Science Field?</h2>
 
-<a href="https:\\www.omentors.com"><img src="/assets/img/uploads/omentors_banner.png" width="100%"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
+<a href="https:\\www.omentors.com"><img src="/assets/img/uploads/omentors-animation.gif" width="100%"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
 </a>
 
 <h3>1. Tackle the Career Changes</h3>
