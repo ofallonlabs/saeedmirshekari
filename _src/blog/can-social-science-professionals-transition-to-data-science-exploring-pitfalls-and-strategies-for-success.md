@@ -15,7 +15,7 @@ meta_description: Transitioning from social sciences to data science is
   experience, portfolio building, combating imposter syndrome, and leveraging
   transferable skills.
 author: Saeed Mirshekari
-date: 2024-02-05T18:06:00.215Z
+date: 2024-02-23T02:07:05.775Z
 tags:
   - post
   - career
