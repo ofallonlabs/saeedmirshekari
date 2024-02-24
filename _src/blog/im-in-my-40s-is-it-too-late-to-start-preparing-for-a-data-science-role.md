@@ -73,7 +73,7 @@ Here’s how a bootcamp or online course can help you:
 
 Online Courses: [Coursera ](https://www.coursera.org/), [edX](https://www.edx.org/), [Udacity](https://www.udacity.com/)
 
-One-on-one Mentorship: [O﻿'Fallon Labs](https://saeedmirshekari.com/), [Mentoring Club](https://www.mentoring-club.com/), [Mentor Cruise](https://mentorcruise.com/)
+One-on-one Mentorship: [O﻿'Mentors](https://omentors.com/), [Mentoring Club](https://www.mentoring-club.com/), [Mentor Cruise](https://mentorcruise.com/)
 
 Projects: [Kaggle](https://www.kaggle.com/learn), [DataCamp](https://www.datacamp.com/), [Google AI](https://developers.google.com/machine-learning/crash-course/)
 
