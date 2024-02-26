@@ -15,7 +15,7 @@ meta_description: " Embark on your data science journey: 3-6 months basics, 6-12
   varies. Real-world examples: Sarah fast-tracked in 9 months, John progressed
   steadily in 18 months. Your unique journey awaits! "
 author: Saeed Mirshekari
-date: 2024-01-21T21:17:46.495Z
+date: 2024-02-26T13:36:00.534Z
 tags:
   - post
   - mentoring
