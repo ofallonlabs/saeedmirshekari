@@ -13,7 +13,7 @@ meta_description: Meet Saeed Mirshekari, our new data science mentor at
   insights to propel your data science career forward. Connect with him today to
   unlock your full potential.
 author: Saeed Mirshekari
-date: 2024-02-23T16:44:24.751Z
+date: 2024-02-14T16:44:24.751Z
 tags:
   - post
   - mentoring
