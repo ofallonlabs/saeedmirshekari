@@ -13,7 +13,7 @@ meta_description: Meet Maryam Biazaran, our new data science mentor at
   and expert guidance, Maryam is here to help you excel in your data science
   career journey. Connect today!
 author: Saeed Mirshekari
-date: 2024-02-25T14:55:30.421Z
+date: 2024-03-03T14:55:30.421Z
 tags:
   - post
   - mentoring
