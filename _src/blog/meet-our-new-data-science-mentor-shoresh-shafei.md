@@ -26,7 +26,8 @@ We are thrilled to introduce our newest addition to the O'Mentors family, Shores
 
 ## Meet Shoresh Shafei
 
-Shoresh Shafei is currently serving as a Principal Data Scientist at Microsoft, based in the vibrant tech hub of Seattle. Hailing from Iran, Shoresh brings a diverse cultural background and multilingual fluency in Persian, Kurdish, and English to the table. His journey into the world of data science began with a Ph.D. in Physics from Washington State University, setting the stage for an illustrious career ahead.
+Shoresh Shafei is currently serving as a Principal Data Scientist at Microsoft, based in the vibrant tech hub of Seattle. Hailing from Iran, Shoresh brings a diverse cultural background and multilingual fluency in Persian, Kurdish, and English to the table. His journey into the world of data science began with a Ph.D. in Physics from [Washington State University](https://wsu.edu/)
+, setting the stage for an illustrious career ahead.
 
 ## Expertise Across Diverse Domains
 
