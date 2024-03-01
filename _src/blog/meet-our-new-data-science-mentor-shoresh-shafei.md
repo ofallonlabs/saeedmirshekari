@@ -13,7 +13,7 @@ meta_description: Introducing Shoresh Shafei, our new data science mentor at
   Benefit from his leadership, technical prowess, and diverse domain knowledge
   by connecting with him today at OMENTORS.com.
 author: Saeed Mirshekari
-date: 2024-02-23T14:17:26.484Z
+date: 2024-03-02T17:00:00.050Z
 tags:
   - post
   - mentoring
