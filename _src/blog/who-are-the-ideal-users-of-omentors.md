@@ -26,13 +26,13 @@ In the vast landscape of job hunting, finding the right opportunities in the fie
 
 ## Who We Are
 
-<img src="/assets/img/uploads/can_we_help_u.png" width="100%">
-
-
 
 At Omentors, we understand the unique challenges that recent PhD graduates face as they transition from academia to industry. Our platform is designed to bridge this gap by providing tailored mentorship and resources specifically crafted for individuals with backgrounds in Science, Technology, Engineering, and Mathematics (STEM), who are eager to dive into the realms of Data Science and Machine Learning.
 
 ## Who We Can Help
+
+<img src="/assets/img/uploads/can_we_help_u.png" width="100%">
+
 
 
 ### Recent PhD Graduates in STEM
