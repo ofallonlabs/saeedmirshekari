@@ -17,7 +17,7 @@ date: 2024-03-02T20:44:07.837Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/can_we_help_u.png
+thumbnail: /assets/img/uploads/stud.jpg
 rating: 5
 ---
 # Unlocking Opportunities in Data Science and Machine Learning: How Omentors Can Help
