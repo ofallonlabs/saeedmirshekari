@@ -3,13 +3,13 @@ layout: blog_base.njk
 title: "Meet Our New Data Science Mentor: Anand Deshmukh"
 description: Meet Dr. Anand Deshmukh, our new Data Science mentor at O'Mentors.
   With a PhD in Systems Engineering and seven years of industry experience, he
-  offers resume reviews and expertise in Deep Learning & Conversational AI.
-  Connect with him today to elevate your Data Science career.
+  offers resume reviews and expertise in Deep Learning & Generative AI. Connect
+  with him today to elevate your Data Science career.
 meta_title: "Meet Our New Data Science Mentor: Anand Deshmukh"
 meta_description: Meet Dr. Anand Deshmukh, our new Data Science mentor at
   O'Mentors. With a PhD in Systems Engineering and seven years of industry
   experience, he offers resume reviews and expertise in Deep Learning &
-  Conversational AI. Connect with him today to elevate your Data Science career.
+  Generative AI. Connect with him today to elevate your Data Science career.
 author: Saeed Mirshekari
 date: 2024-03-10T12:48:02.059Z
 tags:
@@ -40,18 +40,18 @@ Are you looking to enhance your resume for Data Science or Machine Learning role
 - Over 7 years of experience in the field.
 - Extensive involvement in industry interviews for AI, Data Science, and Machine Learning roles.
 
-### Service 2: Deep Learning & Conversational AI
+### Service 2: Deep Learning & Generative AI
 
-Stay ahead of the curve with Anand's expertise in Deep Learning and Conversational AI. Whether you're aiming to explore the latest trends in DL or seeking guidance to ace interviews in the ever-evolving field of Generative AI, Anand has the knowledge and experience to guide you.
+Stay ahead of the curve with Anand's expertise in Deep Learning and Generative AI. Whether you're aiming to explore the latest trends in DL or seeking guidance to ace interviews in the ever-evolving field of Generative AI, Anand has the knowledge and experience to guide you.
 
 **Qualifications:**
-- 7 years of hands-on experience in Deep Learning and Conversational AI.
+- 7 years of hands-on experience in Deep Learning and Generative AI.
 - A keen understanding of the latest trends in DL and Generative AI.
 
 ## How to Connect with Anand
 
 If you're ready to take your Data Science career to the next level, Anand is just a click away. Visit [omentors.com](https://www.omentors.com/) to explore more about Anand Deshmukh and apply for a personalized 1-on-1 mentorship session.
 
-Don't miss the opportunity to have your resume reviewed by an industry expert or delve into the world of Deep Learning and Conversational AI with a mentor who is at the forefront of these advancements.
+Don't miss the opportunity to have your resume reviewed by an industry expert or delve into the world of Deep Learning and Generative AI. with a mentor who is at the forefront of these advancements.
 
 Connect with Anand Deshmukh today and pave the way for a successful and fulfilling career in Data Science!
