@@ -11,7 +11,7 @@ meta_description: Introducing Ally Fikas, our new data science mentor at
   Science Technical Lead at Bayer Crop Science, Ally offers resume reviews and
   expert guidance. Connect with her to advance your data science career today!
 author: Saeed Mirshekari
-date: 2024-03-08T13:47:29.945Z
+date: 2024-03-09T13:47:29.945Z
 tags:
   - post
   - mentoring
