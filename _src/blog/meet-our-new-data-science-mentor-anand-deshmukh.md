@@ -11,7 +11,7 @@ meta_description: Meet Dr. Anand Deshmukh, our new Data Science mentor at
   experience, he offers resume reviews and expertise in Deep Learning &
   Conversational AI. Connect with him today to elevate your Data Science career.
 author: Saeed Mirshekari
-date: 2024-02-23T16:12:16.833Z
+date: 2024-03-10T12:48:02.059Z
 tags:
   - post
   - mentoring
