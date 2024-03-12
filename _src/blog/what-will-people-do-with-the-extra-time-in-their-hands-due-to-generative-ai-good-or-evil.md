@@ -15,7 +15,7 @@ meta_description: "Explore the ethical conundrum of generative AI: will it lead
   Navigate the complex landscape of technology and ethics as we ponder the
   future of AI."
 author: Saeed Mirshekari
-date: 2024-02-28T14:42:20.819Z
+date: 2024-03-12T22:25:17.428Z
 tags:
   - post
   - career
