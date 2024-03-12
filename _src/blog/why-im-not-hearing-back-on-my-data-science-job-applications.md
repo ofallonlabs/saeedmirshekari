@@ -13,7 +13,7 @@ meta_description: Revamp your data science job search with insights into why you
   links guide you to enhance your online presence, tailor applications, and turn
   rejections into opportunities.
 author: Saeed Mirshekari
-date: 2024-01-21T20:50:35.347Z
+date: 2024-03-12T22:26:08.843Z
 tags:
   - post
   - mentoring
