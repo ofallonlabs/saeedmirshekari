@@ -15,7 +15,7 @@ meta_description: " Transitioning from engineering to data science is feasible
   and continuous learning are vital for engineers to overcome obstacles and
   thrive in data science careers."
 author: Saeed Mirshekari
-date: 2024-02-27T13:36:57.310Z
+date: 2024-03-12T22:25:44.395Z
 tags:
   - post.mentoring
 thumbnail: /assets/img/uploads/undraw_qa_engineers_dg5p.png
