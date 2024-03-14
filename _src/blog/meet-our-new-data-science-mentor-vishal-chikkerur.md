@@ -13,7 +13,7 @@ meta_description: Introducing Vishal Chikkerur, our new Data Science mentor at
   Proficient in English, Hindi, and Italian, his diverse background and
   communication skills make him an invaluable mentor. Apply now at omentors.com!
 author: Saeed Mirshekari
-date: 2024-02-23T16:22:52.930Z
+date: 2024-03-16T15:22:52.930Z
 tags:
   - post
   - mentoring
