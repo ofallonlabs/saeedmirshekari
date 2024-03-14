@@ -13,7 +13,7 @@ meta_description: Introducing Mahak Kapoor, our new Data Science Mentor at
   Connect with her and apply for mentorship at omentors.com to elevate your data
   science career.
 author: Saeed Mirshekari
-date: 2024-03-14T22:56:50.763Z
+date: 2024-03-23T13:56:50.763Z
 tags:
   - post
   - mentoring
