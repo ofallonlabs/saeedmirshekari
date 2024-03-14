@@ -13,7 +13,7 @@ meta_description: Meet Christopher Schlosberg, our new data science mentor at
   as professional development services. Schedule your 1-on-1 session at
   omentors.com and elevate your career today!
 author: Saeed Mirshekari
-date: 2024-02-23T16:40:58.389Z
+date: 2024-03-17T15:40:58.389Z
 tags:
   - post
   - mentoring
