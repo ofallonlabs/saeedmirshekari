@@ -17,7 +17,7 @@ date: 2024-03-23T13:56:50.763Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/mahak_kappr.png
+thumbnail: /assets/img/uploads/mahak_jpg.jpg
 rating: 5
 ---
 
