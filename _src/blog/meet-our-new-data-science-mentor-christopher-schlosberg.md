@@ -17,7 +17,7 @@ date: 2024-03-17T15:40:58.389Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/chris_jpg.jpg
+thumbnail: /assets/img/uploads/chris_sh_.jpg
 rating: 5
 ---
 # Introducing Our New Data Science Mentor: Christopher Schlosberg
