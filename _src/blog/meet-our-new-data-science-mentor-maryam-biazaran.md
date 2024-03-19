@@ -17,7 +17,7 @@ date: 2024-03-03T14:55:30.421Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/maryam_.png
+thumbnail: /assets/img/uploads/biazaran.jpg
 rating: 5
 ---
 # Introducing Our New Data Science Mentor: Maryam Biazaran
