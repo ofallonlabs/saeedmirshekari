@@ -17,7 +17,7 @@ date: 2024-02-14T16:44:24.751Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/saeed_.png
+thumbnail: /assets/img/uploads/mirshekari.jpg
 rating: 5
 ---
 # Introducing Our New Data Science Mentor: Saeed Mirshekari
