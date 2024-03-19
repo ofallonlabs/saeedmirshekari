@@ -17,7 +17,7 @@ date: 2024-03-02T17:00:00.050Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/shoresh_.png
+thumbnail: /assets/img/uploads/shafei.jpg
 rating: 5
 ---
 # Introducing Our New Data Science Mentor: Shoresh Shafei
