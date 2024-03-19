@@ -17,7 +17,7 @@ date: 2024-02-24T19:35:00.000Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/mahdi_.png
+thumbnail: /assets/img/uploads/jadaliha.jpg
 rating: 5
 ---
 # Introducing Our New Data Science Mentor: Mahdi Jadaliha
