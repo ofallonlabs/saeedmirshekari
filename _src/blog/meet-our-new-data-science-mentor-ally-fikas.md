@@ -15,7 +15,7 @@ date: 2024-03-09T13:47:29.945Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/ally_fikas.png
+thumbnail: /assets/img/uploads/fikas.jpg
 rating: 5
 ---
 # Introducing Our New Data Science Mentor: Ally Fikas
