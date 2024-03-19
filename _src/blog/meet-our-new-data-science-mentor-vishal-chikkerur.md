@@ -17,7 +17,7 @@ date: 2024-03-16T15:22:52.930Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/vishal_jpg.jpg
+thumbnail: /assets/img/uploads/chikkerur.jpg
 rating: 5
 ---
 # Introducing Our New Data Science Mentor: Vishal Chikkerur
