@@ -15,7 +15,7 @@ date: 2024-03-10T12:48:02.059Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/anand_deshmukh.png
+thumbnail: /assets/img/uploads/deshmukh.jpg
 rating: 5
 ---
 # Introducing Our New Data Science Mentor: Anand Deshmukh
