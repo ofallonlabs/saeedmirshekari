@@ -17,7 +17,7 @@ meta_description: Navigating the data science hiring process in tech companies
   Strategic preparation and a positive mindset are crucial for a successful
   career in data science.
 author: Saeed Mirshekari
-date: 2024-02-05T20:17:58.025Z
+date: 2024-03-19T22:58:40.015Z
 tags:
   - post
   - mentoring
