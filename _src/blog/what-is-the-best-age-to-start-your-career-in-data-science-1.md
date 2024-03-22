@@ -14,7 +14,7 @@ meta_description: Determining the best age to start a career in data science
   technology adoption. Regardless of age, passion and adaptability are key to
   success.
 author: Saeed Mirshekari
-date: 2024-03-01T15:41:33.192Z
+date: 2024-03-22T05:29:39.183Z
 tags:
   - post
   - career
