@@ -13,7 +13,7 @@ meta_description: Discover the top and bottom states for data scientists in the
   living, and quality of life to make an informed decision about your data
   science career location.
 author: Saeed Mirshekari
-date: 2024-02-26T14:07:27.017Z
+date: 2024-03-22T05:30:10.331Z
 tags:
   - post
   - career
