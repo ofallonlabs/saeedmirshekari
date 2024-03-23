@@ -24,9 +24,10 @@ rating: 5
 
 Are you aspiring to carve a successful path in the realm of Data Science? Looking for guidance from seasoned professionals who have navigated the complex terrain of data analytics and machine learning? Well, look no further! We are thrilled to introduce our newest mentor at O'Mentors, Mahak Kapoor.
 
-Mahak Kapoor, affectionately known as the "Data Ninja," brings a wealth of experience and expertise to our mentoring platform. Currently serving as a Data Science Lead at Bayer, based in St. Louis, Mahak's journey into the world of data began with a Master's degree in Bioinformatics & Computational Biology from George Mason University.
+Mahak Kapoor brings a wealth of experience and expertise to our mentoring platform. Currently serving as a Data Science Lead at Bayer, based in St. Louis, Mahak's journey into the world of data began with a Master's degree in Bioinformatics & Computational Biology from George Mason University. Over the last few years, she has worked across multiple technical spaces, and in recent years, she has spent time both leading and coaching teams across the globe.
 
 With over a decade of dedicated service in the data science space, Mahak has honed her skills and knowledge, making her a sought-after mentor for aspiring data scientists. Her passion for leveraging data to drive insights and inform strategic decisions is evident in her work and mentorship approach.
+
 
 ## Services Offered by Mahak Kapoor
 
