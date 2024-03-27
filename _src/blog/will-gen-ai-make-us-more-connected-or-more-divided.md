@@ -13,7 +13,7 @@ meta_description: Generative AI promises to revolutionize productivity and
   personalization, ensuring that it enhances, rather than erodes, our autonomy
   and uniqueness in a digital age.
 author: Saeed Mirshekari
-date: 2024-02-26T14:49:19.613Z
+date: 2024-03-27T00:03:43.670Z
 tags:
   - post
   - career
