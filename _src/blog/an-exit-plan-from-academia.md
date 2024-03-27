@@ -15,7 +15,7 @@ meta_description: Explore the journey from academia to industry as a Data
   pace, and thrive in a dynamic industry environment while retaining the option
   to return to academia if desired.
 author: Saeed Mirshekari
-date: 2024-03-22T13:10:35.881Z
+date: 2024-03-27T00:03:14.534Z
 tags:
   - post
   - career
