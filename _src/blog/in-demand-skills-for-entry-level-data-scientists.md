@@ -17,7 +17,7 @@ meta_description: " Master entry-level data science skills with practical
   refine communication through Data to Viz. Enroll in courses like Coursera,
   edX, and Udacity. Fast-track your data science career today!"
 author: Saeed Mirshekari
-date: 2024-01-04T17:17:37.487Z
+date: 2024-04-01T17:11:13.241Z
 tags:
   - post
   - mentoring
