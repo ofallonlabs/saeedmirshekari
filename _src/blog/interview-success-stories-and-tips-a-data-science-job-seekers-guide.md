@@ -13,7 +13,7 @@ meta_description: Unlock data science job success with real stories and
   and explore online resources like LeetCode and Glassdoor. Elevate your
   interview game and secure your dream job in data science today!
 author: Saeed Mirshekari
-date: 2024-02-28T17:27:54.151Z
+date: 2024-04-16T20:00:26.557Z
 tags:
   - post
   - mentoring
