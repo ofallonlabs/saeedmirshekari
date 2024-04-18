@@ -13,7 +13,7 @@ meta_description: Learn how to hire top data scientists effectively with our
   data science and machine learning. Make informed hiring decisions to drive
   innovation and success in your organization.
 author: Saeed Mirshekari
-date: 2024-02-26T13:51:23.043Z
+date: 2024-04-18T16:31:03.727Z
 tags:
   - post
   - career
