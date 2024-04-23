@@ -15,7 +15,7 @@ meta_description: " Explore common mistakes junior data scientists make, such as
   aspiring data scientists to navigate challenges effectively and accelerate
   their career growth in the dynamic field of data science."
 author: Saeed Mirshekari
-date: 2024-04-18T16:45:19.129Z
+date: 2024-04-23T16:42:14.758Z
 tags:
   - post
   - mentoring
