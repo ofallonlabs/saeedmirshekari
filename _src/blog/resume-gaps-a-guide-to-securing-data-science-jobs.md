@@ -15,7 +15,7 @@ meta_description: " Learn how to navigate resume gaps when applying for data
   networking opportunities, you can overcome resume gaps and increase your
   chances of securing your dream data science job."
 author: Saeed Mirshekari
-date: 2024-04-27T06:06:17.699Z
+date: 2024-05-06T15:17:29.488Z
 tags:
   - post
   - career
