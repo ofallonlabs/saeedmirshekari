@@ -1,12 +1,12 @@
 ---
 layout: blog_base.njk
-title: "NIW: Notoriously Ingenious Workaround (for International Students)"
+title: "NIW: National Interest Waiver (for International Students)"
 description: Discover the secrets to navigating the National Interest Waiver
   (NIW) with humor and expertise. This guide outlines essential dos and don'ts,
   including building a strong case, seeking expert guidance, and avoiding common
   pitfalls. Maximize your chances of success and embark on your immigration
   journey with confidence and laughter.
-meta_title: "NIW: Notoriously Ingenious Workaround (for International Students)"
+meta_title: "NIW: National Interest Waiver (for International Students)"
 meta_description: Discover the secrets to navigating the National Interest
   Waiver (NIW) with humor and expertise. This guide outlines essential dos and
   don'ts, including building a strong case, seeking expert guidance, and
