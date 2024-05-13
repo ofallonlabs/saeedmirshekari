@@ -17,7 +17,7 @@ date: 2024-04-18T16:31:27.439Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/undraw_around_the_world_re_rb1p.png
+thumbnail: /assets/img/uploads/undraw_around_the_world_re_rb1p-1-.png
 rating: 5
 ---
 # International Students and the Challenges After Graduation
