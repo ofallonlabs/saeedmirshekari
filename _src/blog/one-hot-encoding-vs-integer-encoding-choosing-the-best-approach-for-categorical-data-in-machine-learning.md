@@ -15,7 +15,7 @@ meta_description: "Discover the ideal approach for handling categorical data in
   pros, cons, and practical considerations to optimize model performance and
   interpretability."
 author: Saeed Mirshekari
-date: 2024-04-23T20:10:43.827Z
+date: 2024-05-15T12:48:51.458Z
 tags:
   - post
   - mentoring
