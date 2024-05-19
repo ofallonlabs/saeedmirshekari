@@ -2550,11 +2550,11 @@ Page Split
 }
 #left_col {
   float:left;
-  width:40%;
+  width:20%;
 }
 #right_col {
-  float:right;
-  width:60%;
+  float:left;
+  width:80%;
 }
 
 
