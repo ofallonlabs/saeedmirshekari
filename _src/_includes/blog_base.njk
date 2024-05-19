@@ -50,14 +50,19 @@ layout: 'base_blog.njk'
             </body>
 
             <div class="blog-author d-flex align-items-center">
-              <a href="https://omentors.com"><img src="/assets/img/gifs/attractive.gif" class="float-center" alt="" width="250px"></a>
-              <div>
+
+              <div id="left_col">
+              <a href="https://omentors.com"><img src="/assets/img/gifs/attractive.gif" class="float-center" alt=""></a>
+              </div>            
+
+              <div id="right_col">
                 <h4>We Are O'Mentors!</h4>
                 <a>
                   Meet Top Data Scientist Mentors from Fortune 500 Companies 1-on-1<br>
                   <a href="https://omentors.com">Click Here to Explore 🔍</a>
                 </a>
               </div>
+              
             </div>
 
                 {{content | safe}}
