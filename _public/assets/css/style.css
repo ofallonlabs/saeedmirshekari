@@ -1650,7 +1650,7 @@ section {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 .blog .blog-author img {
-  width: 100;
+  width: 100px;
   margin-right: 20px;
 }
 .blog .blog-author h4 {
