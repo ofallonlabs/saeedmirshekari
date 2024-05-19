@@ -2549,11 +2549,13 @@ Page Split
   margin:0 auto;
 }
 #left_col {
+  font-size: 8;
   float:left;
   width:40%;
 }
 #right_col {
-  float:right;
+  font-size: 8;
+  float:left;
   width:60%;
 }
 
