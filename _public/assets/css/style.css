@@ -2551,12 +2551,12 @@ Page Split
 #left_col {
   font-size: 8;
   float:left;
-  width:15%;
+  width:40%;
 }
 #right_col {
   font-size: 8;
   float:left;
-  width:85%;
+  width:60%;
 }
 
 #left_col_small {
