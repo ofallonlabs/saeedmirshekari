@@ -15,7 +15,7 @@ meta_description: Transitioning to a data science career at 40 is possible and
   and overcome challenges like balancing commitments and staying updated on
   technology to succeed.
 author: Saeed Mirshekari
-date: 2024-05-21T00:36:03.511Z
+date: 2024-05-21T02:43:25.942Z
 tags:
   - post
   - mentoring
