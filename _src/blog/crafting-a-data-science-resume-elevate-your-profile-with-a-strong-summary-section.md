@@ -15,7 +15,7 @@ meta_description: " Learn why the Summary section is vital in your data science
   description for maximum impact and increased interview opportunities in the
   competitive data science field."
 author: Saeed Mirshekari
-date: 2024-04-23T20:15:17.590Z
+date: 2024-05-21T02:48:47.120Z
 tags:
   - post
   - mentoring
