@@ -13,7 +13,7 @@ meta_description: Understand the importance of both ROC (Receiver Operating
   in imbalanced scenarios. Leveraging both provides a comprehensive view of
   model performance and informs decision-making.
 author: Saeed Mirshekari
-date: 2024-05-22T20:35:17.541Z
+date: 2024-05-22T20:45:09.369Z
 tags:
   - post
   - mentoring
