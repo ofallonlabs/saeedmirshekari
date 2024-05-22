@@ -11,7 +11,7 @@ meta_description: Explore the trajectory of Generative AI, from groundbreaking
   deepfakes and bias reshaped perceptions of AI. Uncover lessons for responsible
   AI development in a rapidly evolving landscape.
 author: Saeed Mirshekari
-date: 2024-04-23T20:01:44.713Z
+date: 2024-05-22T20:40:08.994Z
 tags:
   - post
   - career
