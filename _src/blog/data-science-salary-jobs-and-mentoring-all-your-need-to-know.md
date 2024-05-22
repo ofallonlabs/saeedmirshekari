@@ -1,19 +1,19 @@
 ---
 layout: blog_base.njk
-title: "Data Science Salary, Jobs, and Mentoring: A Guide to Success"
+title: "Data Science Salary, Jobs, and Mentoring: All Your Need To Know"
 description: Explore data science salary expectations, job opportunities, and
   the importance of mentoring in this comprehensive guide. Learn about key
   skills, top-paying industries, and how to find a data science mentor. Whether
   you're starting out or advancing your career, discover the steps to succeed in
   the dynamic field of data science.
-meta_title: "Data Science Salary, Jobs, and Mentoring: The Ultimate Guide to Success"
+meta_title: "Data Science Salary, Jobs, and Mentoring: All Your Need To Know"
 meta_description: Explore data science salary expectations, job opportunities,
   and the importance of mentoring in this comprehensive guide. Learn about key
   skills, top-paying industries, and how to find a data science mentor. Whether
   you're starting out or advancing your career, discover the steps to succeed in
   the dynamic field of data science.
 author: Saeed Mirshekari
-date: 2024-05-22T13:41:36.270Z
+date: 2024-05-22T14:23:22.921Z
 tags:
   - post
   - mentoring
