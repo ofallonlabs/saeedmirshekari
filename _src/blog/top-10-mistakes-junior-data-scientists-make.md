@@ -1,19 +1,15 @@
 ---
 layout: blog_base.njk
 title: Top 10 Mistakes Junior Data Scientists Make
-description: " Explore common mistakes junior data scientists make, such as
-  neglecting fundamental concepts and overlooking data cleaning, and discover
-  actionable tips to avoid these pitfalls. From prioritizing model
-  interpretability to embracing continuous learning, this guide empowers
-  aspiring data scientists to navigate challenges effectively and accelerate
-  their career growth in the dynamic field of data science."
+description: Discover the top 10 mistakes junior data scientists make and how a
+  data science mentorship can help. Learn from mentors in a data science
+  mentorship program to avoid pitfalls, ask the right questions, and
+  successfully transition your career, even at 40.
 meta_title: Top 10 Mistakes Junior Data Scientists Make
-meta_description: " Explore common mistakes junior data scientists make, such as
-  neglecting fundamental concepts and overlooking data cleaning, and discover
-  actionable tips to avoid these pitfalls. From prioritizing model
-  interpretability to embracing continuous learning, this guide empowers
-  aspiring data scientists to navigate challenges effectively and accelerate
-  their career growth in the dynamic field of data science."
+meta_description: Discover the top 10 mistakes junior data scientists make and
+  how a data science mentorship can help. Learn from mentors in a data science
+  mentorship program to avoid pitfalls, ask the right questions, and
+  successfully transition your career, even at 40.
 author: Saeed Mirshekari
 date: 2024-04-23T16:42:14.758Z
 tags:
