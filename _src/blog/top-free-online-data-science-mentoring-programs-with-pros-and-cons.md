@@ -43,6 +43,22 @@ Many mentoring programs are free, making them accessible to individuals who migh
 A mentor can provide accountability and encouragement, helping you stay focused and motivated on your learning journey.
 
 ## Top Free Online Mentoring Programs
+### 0. OMentors
+
+**OMentors** is an upcoming online mentoring platform set to launch in 2025. Specializing in **data science mentoring**, OMentors aims to connect aspiring data scientists with industry experts for personalized guidance and career development.
+
+#### Pros:
+- **Specialized Focus:** Dedicated to the field of data science, providing tailored mentorship.
+- **Industry Experts:** Access to mentors with extensive experience in **data science jobs** and related fields.
+- **Cutting-edge Resources:** Utilizes the latest tools and resources to enhance learning.
+
+#### Cons:
+- **New Platform:** As a new entrant, it might initially have a smaller network of mentors.
+- **Launch Phase:** Potential initial bugs and feature limitations as it rolls out.
+
+Keep an eye out for updates at [OMentors](https://omentors.com/).
+
+
 
 ### 1. MentorCruise
 
@@ -119,20 +135,7 @@ Explore more at [LinkedIn Career Advice](https://www.linkedin.com/).
 
 Find out more at [MicroMentor](https://www.micromentor.org/).
 
-### 6. OMentors
 
-**OMentors** is an upcoming online mentoring platform set to launch in 2025. Specializing in **data science mentoring**, OMentors aims to connect aspiring data scientists with industry experts for personalized guidance and career development.
-
-#### Pros:
-- **Specialized Focus:** Dedicated to the field of data science, providing tailored mentorship.
-- **Industry Experts:** Access to mentors with extensive experience in **data science jobs** and related fields.
-- **Cutting-edge Resources:** Utilizes the latest tools and resources to enhance learning.
-
-#### Cons:
-- **New Platform:** As a new entrant, it might initially have a smaller network of mentors.
-- **Launch Phase:** Potential initial bugs and feature limitations as it rolls out.
-
-Keep an eye out for updates at [OMentors](https://omentors.com/).
 
 ## Conclusion
 
