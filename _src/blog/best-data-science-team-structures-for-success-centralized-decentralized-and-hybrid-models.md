@@ -39,7 +39,6 @@ In a centralized model, all data scientists are part of a single, dedicated team
 - **Bureaucratic Bottlenecks:** Centralized teams may face delays due to bureaucratic processes.
 - **Limited Business Context:** Data scientists may lack deep understanding of specific business units’ needs.
 
-**Example:** For a detailed case study on centralized data science teams, check out this [article from DataScience.com](https://datascience.com/blog/data-science-centralized-teams).
 
 ### 2. Decentralized Data Science Teams
 
@@ -53,7 +52,6 @@ Decentralized teams are embedded within individual business units or departments
 - **Inconsistent Standards:** Risk of fragmented data practices and standards across the organization.
 - **Duplication of Efforts:** Potential redundancy in tools, resources, and efforts.
 
-**Example:** To understand more about decentralized data science teams, read this [insightful piece by Harvard Business Review](https://hbr.org/2020/09/why-decentralized-data-teams-fail).
 
 ### 3. Hybrid Data Science Teams
 
@@ -67,7 +65,6 @@ The hybrid model combines elements of both centralized and decentralized structu
 - **Complex Coordination:** Requires robust communication and coordination mechanisms to function effectively.
 - **Potential Conflicts:** Misalignment between core and satellite teams can arise.
 
-**Example:** Learn more about the hybrid approach in this [blog post from Towards Data Science](https://towardsdatascience.com/hybrid-data-science-teams).
 
 ## Best Practices for Building a Data Science Team
 
