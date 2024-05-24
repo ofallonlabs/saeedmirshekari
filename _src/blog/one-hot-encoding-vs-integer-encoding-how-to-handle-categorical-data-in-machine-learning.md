@@ -1,7 +1,7 @@
 ---
 layout: blog_base.njk
-title: "One-Hot Encoding vs. Integer Encoding: Choosing the Best Approach for
-  Categorical Data in Machine Learning"
+title: "One-Hot Encoding vs. Integer Encoding: How To Handle Categorical Data in
+  Machine Learning"
 description: "Discover the ideal approach for handling categorical data in
   machine learning: one-hot encoding vs. integer encoding. Learn when to use
   each method based on data characteristics and model requirements. Explore
@@ -15,7 +15,7 @@ meta_description: "Discover the ideal approach for handling categorical data in
   pros, cons, and practical considerations to optimize model performance and
   interpretability."
 author: Saeed Mirshekari
-date: 2024-05-15T12:48:51.458Z
+date: 2024-05-24T00:35:59.046Z
 tags:
   - post
   - mentoring
