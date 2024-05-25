@@ -61,7 +61,7 @@ rating: 4
 
                 <figure>
 
-                    <img style="border:1px dashed DarkSlateBlue;" src="assets/img/phd_graduates_flowchart.png" class="img-fluid" alt="" >
+                    <img style="border:1px dashed DarkSlateBlue;" src="/assets/img/phd_graduates_flowchart.png" class="img-fluid" alt="" >
 
                     <figcaption><em><small>Science PhD Flow: This diagram illustrates the transition points in academic scientific career following a PhD and shows the flow of scientifically-trained people into other sectors.</small></em>
 
@@ -85,7 +85,7 @@ rating: 4
 
                 <figure>
 
-                    <img style="border:1px dashed DarkSlateBlue;" src="assets/img/bdsf-01.jpg" class="img-fluid" alt="" >
+                    <img style="border:1px dashed DarkSlateBlue;" src="/assets/img/bdsf-01.jpg" class="img-fluid" alt="" >
 
                     <figcaption><em><small>The myth of the data scientist unicorn. See <a href="http://www.theguardian.com/media-network/2015/feb/12/data-scientists-as-rare-as-unicorns">this Guardian article</a> on “Data Scientists: As Rare as Unicorns”</small></em>
 
@@ -195,7 +195,7 @@ The data scientist must have knowledge in applied science, with an extensive exp
 
                 <figure>
 
-                    <img style="border:1px dashed DarkSlateBlue;" src="assets/img/venn_diagram.jpg" class="img-fluid" alt="" >
+                    <img style="border:1px dashed DarkSlateBlue;" src="/assets/img/venn_diagram.jpg" class="img-fluid" alt="" >
 
                     <figcaption><em><small>Data Science Venn Diagram. Proposed by Drew Conway in 2010. This modified version is taken from “The first rule of data science” by A. Azam, 2014</small></em>
 
@@ -235,7 +235,7 @@ The data scientist must have knowledge in applied science, with an extensive exp
 
                 <figure>
 
-                    <img style="border:1px dashed DarkSlateBlue;" src="assets/img/mypath_to_ds.jpeg" class="img-fluid" alt="" >
+                    <img style="border:1px dashed DarkSlateBlue;" src="/assets/img/mypath_to_ds.jpeg" class="img-fluid" alt="" >
 
                     <figcaption><em><small>Depending on what topic in data science you want to work on, there are many different resources out there that you can reach and use online and offline. During my learning/preparing phase, I got to know and use different resources that I have listed the most useful ones below. Most of the following resources are general data science resources which are useful at introductory level. Some of them are more advanced which I have marked.</small></em>
 
@@ -405,7 +405,7 @@ The data scientist must have knowledge in applied science, with an extensive exp
 
                 <figure>
 
-                    <img style="border:1px dashed DarkSlateBlue;" src="assets/evolution.png" class="img-fluid" alt="" >
+                    <img style="border:1px dashed DarkSlateBlue;" src="/assets/img/evolution.png" class="img-fluid" alt="" >
 
                     <figcaption><em><small>Evolution timeline of an academic scientist turning into a data scientist in industry.</small></em>
 
