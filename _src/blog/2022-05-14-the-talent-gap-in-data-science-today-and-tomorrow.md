@@ -5,8 +5,11 @@ description: Do we need more people in the field of Data Science in 2022? The
   short answer is absolutely yes. In this note you will learn about Data Science
   and Data Scientists and find customized solutions to fill the talent gap in
   data science.
-meta_title: NA
-meta_description: NA
+meta_title: The Talent Gap in Data Science Today and Tomorrow (2022)
+meta_description: Do we need more people in the field of Data Science in 2022?
+  The short answer is absolutely yes. In this note you will learn about Data
+  Science and Data Scientists and find customized solutions to fill the talent
+  gap in data science.
 author: Afeefa Maryam
 date: 2022-05-29T14:59:09.847Z
 tags:

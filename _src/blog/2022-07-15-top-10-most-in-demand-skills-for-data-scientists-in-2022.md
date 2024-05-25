@@ -8,8 +8,14 @@ description: You are enthusiastic about getting into the field of Data Science?
   post you can learn more about these important topics. At the end of this post
   you will also learn about some effective ways that you can take on to acquire
   these skills and prepare for your first Data Science job in advance.
-meta_title: NA
-meta_description: NA
+meta_title: Top 10 Most In-Demand Skills for Data Scientists in 2022
+meta_description: You are enthusiastic about getting into the field of Data
+  Science? That's great! But what technical skills you need to have to succeed
+  in your job interview? What are the most important technical skills you have
+  to have to become a Data Scientist? Is that enough? What about soft-skills? In
+  this post you can learn more about these important topics. At the end of this
+  post you will also learn about some effective ways that you can take on to
+  acquire these skills and prepare for your first Data Science job in advance.
 author: Katherine Olowookere
 date: 2022-07-15T23:05:14.801Z
 tags:
