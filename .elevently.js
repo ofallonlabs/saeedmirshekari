@@ -1,10 +1,8 @@
 const { DateTime } = require("luxon");
-const formatDate = (date, format) => dayjs(date).format(format);
 
 module.exports = function(eleventyConfig) {
 
     eleventyConfig.addLayoutAlias('default', 'base.njk');
-    eleventyConfig.addFilter('formatDate', formatDate);
 
     eleventyConfig.addPassthroughCopy('./_src/admin');
     // eleventyConfig.addPassthroughCopy('./_src/blog');
