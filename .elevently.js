@@ -5,10 +5,10 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./_src/admin');
     eleventyConfig.addPassthroughCopy('./_src/blog');
     // eleventyConfig.addPassthroughCopy('./_src/terms_of_service.txt');
-    // eleventyConfig.addPassthroughCopy('./_src/terms_of_service.html');
-    // eleventyConfig.addPassthroughCopy('./_src/privacy_policy.html');
+    eleventyConfig.addPassthroughCopy('./_src/terms_of_service.html');
+    eleventyConfig.addPassthroughCopy('./_src/privacy_policy.html');
 
-    eleventyConfig.addFilter("postDate", (dateObj) => {
+    eleventyConfig.addFilter("date", (dateObj) => {
         return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED)
     });
 
@@ -22,7 +22,8 @@ module.exports = function(eleventyConfig) {
     return {
         dir: {
             input: "_src",
-            output: "_public"
+            output: "_public",
+            includes: "_includes"
         }
     };
 }
