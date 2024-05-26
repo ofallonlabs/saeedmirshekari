@@ -173,7 +173,7 @@ layout: 'base_blog.njk'
 
               <div class="sidebar-item recent-posts">
 
-                {%- for post in collections.all.reverse().slice(0, 5) -%}
+                {%- for post in collections.post.reverse().slice(0, 5) -%}
                   <div class="post-item clearfix">
                     <a href="{{post.data.url}}"><img src="{{post.data.thumbnail}}" alt="{{post.data.title}}"></a>
                     <h4><a href="{{post.data.url}}">{{post.data.title}}</a></h4>
