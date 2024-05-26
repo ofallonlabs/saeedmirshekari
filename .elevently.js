@@ -1,4 +1,6 @@
 const { DateTime } = require("luxon");
+const toISOString = (dateString) => new Date(dateString).toISOString();
+.addFilter('toISOString', toISOString);
 
 module.exports = function(eleventyConfig) {
 
