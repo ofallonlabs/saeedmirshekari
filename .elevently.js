@@ -2,6 +2,8 @@ const {DateTime} = require("luxon");
 
 module.exports = function(eleventyConfig) {
 
+    eleventyConfig.addLayoutAlias('default', 'base.njk');
+    
     eleventyConfig.addPassthroughCopy('./_src/admin');
     eleventyConfig.addPassthroughCopy('./_src/blog');
     // eleventyConfig.addPassthroughCopy('./_src/terms_of_service.txt');
