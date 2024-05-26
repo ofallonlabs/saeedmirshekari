@@ -1,10 +1,12 @@
 const { DateTime } = require("luxon");
 const formatDate = (date, format) => dayjs(date).format(format);
+const toISOString = (dateString) => new Date(dateString).toISOString();
 
 module.exports = function(eleventyConfig) {
 
     eleventyConfig.addLayoutAlias('default', 'base.njk');
     eleventyConfig.addFilter('formatDate', formatDate);
+    eleventyConfig.addFilter('toISOString', toISOString);
 
     eleventyConfig.addPassthroughCopy('./_src/admin');
     // eleventyConfig.addPassthroughCopy('./_src/blog');
