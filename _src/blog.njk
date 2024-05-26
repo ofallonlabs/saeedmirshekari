@@ -52,11 +52,7 @@ layout: blog_base_nobody.njk
           <b>{{ post.data.title }}</b></a> 
           <br>
           <i class="bi bi-clock"></i>
-          <i>
-            <time datetime="{{ post.data.date | toISOString }}">
-              {{ post.data.date }}
-            </time>
-          </i>
+          <i>{{ post.data.date | formatDate: 'MM/DD/YYYY' }}</i>
           {# <br> #}
           <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
           {# <br> #}
