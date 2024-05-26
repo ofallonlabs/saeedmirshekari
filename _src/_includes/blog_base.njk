@@ -173,15 +173,13 @@ layout: 'base_blog.njk'
 
               <div class="sidebar-item recent-posts">
 
-                {% for post in collections.feed -%}
-
+                {%- for post in collections.feed -%}
                   <div class="post-item clearfix">
-                    <a href="{{post.url}}"><img src="{{post.data.thumbnail}}" alt="{{post.data.title}}"></a>
-                    <h4><a href="{{post.url}}">{{post.data.title}}</a></h4>
-                    <time>{{post.data.date}}</time>
+                    <a href="{{post.data.url}}"><img src="{{post.data.thumbnail}}" alt="{{post.data.title}}"></a>
+                    <h4><a href="{{post.data.url}}">{{post.data.title}}</a></h4>
                   </div>
 
-                {% endfor -%}
+                {%- endfor -%}
 
 
 

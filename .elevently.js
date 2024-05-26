@@ -1,8 +1,10 @@
 const { DateTime } = require("luxon");
 
+
 module.exports = function(eleventyConfig) {
 
     eleventyConfig.addLayoutAlias('default', 'base.njk');
+
 
     eleventyConfig.addPassthroughCopy('./_src/admin');
     // eleventyConfig.addPassthroughCopy('./_src/blog');
@@ -10,12 +12,9 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./_src/terms_of_service.html');
     eleventyConfig.addPassthroughCopy('./_src/privacy_policy.html');
 
-    eleventyConfig.addFilter("myFilter", (dateObj) => {
-        return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_FULL)
-    });
 
     eleventyConfig.addCollection("feed", collection => {
-        return collection
+        return collection.all
           .getFilteredByTag("post")
           .reverse()
           .slice(0, 5);
@@ -27,4 +26,5 @@ module.exports = function(eleventyConfig) {
             output: "_public"
         }
     };
+
 }
