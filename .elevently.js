@@ -16,7 +16,7 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addCollection("feed", collection => {
         return collection
-        //   .getFilteredByTag("post")
+          .getFilteredByTag("post")
           .reverse()
           .slice(0, 5);
       });
