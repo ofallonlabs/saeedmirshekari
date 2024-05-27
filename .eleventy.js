@@ -23,8 +23,8 @@ module.exports = function(eleventyConfig) {
         return collectionApi.getAllSorted().reverse().slice(0, 5);
       });
 
-    eleventyConfig.addCollection("allposts", function(collection) {
-        return collection.getFilteredByTags("post", "mentoring", "career", "projects");
+    eleventyConfig.addCollection("allposts", function(collectionApi) {
+        return collectionApi.getFilteredByTags("post", "mentoring", "career", "projects");
     });
 
     return {
