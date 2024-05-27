@@ -3,7 +3,7 @@ title: Data Science Learning Center
 pagination:
   data: collections.post
   reverse: true
-  size: 12
+  size: 9
 layout: blog_base_nobody.njk
 ---
 
@@ -51,7 +51,7 @@ layout: blog_base_nobody.njk
           <a style="line-height:120%; color:#777" href="{{post.url}}" style="position:static; bottom:0px;">
           <b>{{ post.data.title }}</b></a> 
           <br>
-          <i class="bi bi-clock"></i> <i>{{post.data.date}}</i>
+          <i class="bi bi-clock"></i> <i>{{ post.data.date|dateFull }}</i>
           {# <br> #}
           <i class="bi bi-person"></i> <i href="{{post.url}}">{{ post.data.author }}</i>
           {# <br> #}
