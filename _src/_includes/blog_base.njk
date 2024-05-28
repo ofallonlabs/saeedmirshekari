@@ -1,5 +1,8 @@
 ---
 layout: 'base_blog.njk'
+writer: 'Mr Boujee'
+profilePicture: '/assets/img/blog/saeed.jpg'
+profileDescription: 'Saeed is currently a Director of Data Science in Mastercard and the Founder & Director of OFallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017).'
 ---
 
 
@@ -23,10 +26,10 @@ layout: 'base_blog.njk'
                 <div id="wrap">
                     <div id="left_col">
                       
-                      <img src="/assets/img/blog/saeed.jpg" class="rounded-circle float-left" alt="profile picture of saeed mirshekari, data science mentoring" width="50px">
+                      <img src={{profilePicture}} class="rounded-circle float-left" alt={{profileDescription}}} width="50px">
                     </div>
                     <div id="right_col">
-                      By Saeed Mirshekari
+                      By {{writer}}
                       <p class="bi bi-clock">  {{date | dateFull}} </p>
 
 
@@ -85,14 +88,14 @@ layout: 'base_blog.njk'
             </article><!-- End blog entry -->
 
             <div class="blog-author d-flex align-items-center">
-              <img src="/assets/img/blog/saeed.jpg" class="rounded-circle float-left" style="filter: grayscale(100%);" alt="saeed mirshekari the founder and director of ofallon labs | connecting mentors and mentees in data science">
+              <img src={{profilePicture}} class="rounded-circle float-left" style="filter: grayscale(100%);" alt={{profileDescription}}>
               <div>
-                <h4>Saeed Mirshekari, PhD</h4>
+                <h4>{{writer}}</h4>
                 {# <div class="social-links">
                   <a href="https://twitter.com/smirshekari_"><i class="bi bi-twitter"></i></a>
                 </div> #}
                 <p>
-                Saeed is currently a Director of Data Science in Mastercard and the Founder & Director of O'Fallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017). <a href="https://saeedmirshekari.com/team/">Learn more about Saeed...</a> 
+                {{profileDescription}} 
                 </p>
               </div>
             </div>
@@ -143,21 +146,36 @@ layout: 'base_blog.njk'
             <div class="sidebar">
 
               <div class="blog-author d-flex align-items-center">
+                <div id="wrap">
                 <div>
-                <img src="/assets/img/blog/ai_mentor.jpg" class="float-center" alt="connecting mentors and mentees in data science careers">
-                  <h3>Welcome!</h3>
-                  {# <div class="social-links">
-                    <a href="https://twitter.com/smirshekari_"><i class="bi bi-twitter"></i></a>
-                  </div> #}
-                  <a>
-                    Are You Transitioning to Data Science? <br>
-                    Discover how to get better results, faster.
-                    <a href="/data-science-one-on-one-mentoring/" class="btn-blupill" style="font-size:14;">Mentorship with Saeed</a>
 
-                  </a>
+                    <div id="left_col_50">
+                      <img src="/assets/img/blog/saeed.jpg" class="rounded-circle" alt="connecting mentors and mentees in data science careers"> 
+                      <h4>MENTOR</h4>                 
+                    </div>
+
+                    
+                    <div id="right_col_50">
+                      <img src='https://www.thispersondoesnotexist.com/' class="rounded-circle" alt={{profileDescription}}} >
+                      <h4>MENTEE</h4>                    
+                    </div>
+
+                </div>
                 </div>
               </div>
-              <object data="/assets/text/saeed.txt" type="text/plain"></object>
+
+              <div>
+                <div>
+                    <a>
+                    Are You Transitioning to Data Science?
+                    Discover how to get better results, faster.
+                    <center><a href="/data-science-one-on-one-mentoring/" class="btn-blupill" style="font-size:12px;">Mentorship with Saeed</a>
+                    <object data="/assets/text/saeed.txt" type="text/plain"></object>
+
+                    </center>
+                    </a>
+                </div>
+              </div>
 
             {# START inline-form #}
             <script async data-uid="a8b0144480" src="https://olabs.ck.page/a8b0144480/index.js"></script>
@@ -193,6 +211,8 @@ layout: 'base_blog.njk'
                   </div>
 
                 {% endfor -%}
+                <br>
+                <a href="https://www.saeedmirshekari.com/blog" class="btn-blupill" style="font-size:12;">Learning Center</a>
 
 
 

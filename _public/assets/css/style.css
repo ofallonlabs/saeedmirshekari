@@ -34,6 +34,12 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
+/* vertical line devider */
+.vl {
+  border-left: 6px solid green;
+  height: 50px;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -2555,21 +2561,35 @@ Page Split
 }
 #right_col {
   font-size: 8;
-  float:left;
+  float:right;
   width:60%;
 }
 
-#left_col_small {
+#left_col_50 {
   font-size: 9;
   float:left;
-  width:10%;
+  width:50%;
 }
-#right_col_small {
+#right_col_50 {
   font-size: 9;
-  float:left;
+  float:right;
+  width:50%;
+}
+#left_col_30 {
+  font-size: 9;
+  float:right;
+  width:30%;
+}
+#left_col_40 {
+  font-size: 9;
+  float:right;
   width:40%;
 }
-
+#left_col_10 {
+  font-size: 9;
+  float:right;
+  width:10%;
+}
 
 /*-----------------------------------------------
 pagination
