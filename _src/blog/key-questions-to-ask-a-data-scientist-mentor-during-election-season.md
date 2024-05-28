@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: Key Questions to Ask a Data Scientist Mentor During Election Season
+title: Key Questions to Ask a Data Scientist During Election Season
 description: "Election season data science mentoring requires asking key
   questions: data sourcing, voter behavior, modeling, sentiment analysis,
   ethics, communication, adaptation. Learn from historical examples for
