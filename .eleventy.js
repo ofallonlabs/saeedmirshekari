@@ -20,7 +20,7 @@ module.exports = function(eleventyConfig) {
 
 
     eleventyConfig.addCollection("feed", function (collectionApi) {
-        return collectionApi.getAllSorted().reverse().slice(0, 5);
+        return collectionApi.getAllSorted().reverse().slice(20, 25);
       });
 
     eleventyConfig.addCollection("tagposts", function(collectionApi) {
