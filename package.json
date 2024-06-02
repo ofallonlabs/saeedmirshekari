@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smirs/saeedmirshekari.git"
+    "url": "git+https://github.com/ofallonlabs/saeedmirshekari.git"
   },
   "keywords": [
     "data science consulting",
@@ -22,9 +22,9 @@
   "author": "Saeed Mirshekari, PhD",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smirs/saeedmirshekari/issues"
+    "url": "https://github.com/ofallonlabs/saeedmirshekari/issues"
   },
-  "homepage": "https://github.com/smirs/saeedmirshekari#readme",
+  "homepage": "https://github.com/ofallonlabs/saeedmirshekari#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   },
