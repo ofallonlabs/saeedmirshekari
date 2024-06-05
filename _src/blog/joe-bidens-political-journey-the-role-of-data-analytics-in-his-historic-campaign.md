@@ -11,7 +11,7 @@ meta_description: Joe Biden's political career, spanning decades, highlights his
   resilience. Data analytics were pivotal in his 2020 presidential campaign,
   shaping strategy, targeting, and outreach, securing his historic victory.
 author: Saeed Mirshekari
-date: 2024-05-29T14:36:33.480Z
+date: 2024-06-05T00:04:09.596Z
 tags:
   - post
   - trends
