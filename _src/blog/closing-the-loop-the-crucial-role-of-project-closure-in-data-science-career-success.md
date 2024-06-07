@@ -11,7 +11,7 @@ meta_description: Successfully ending data science projects is pivotal for
   career growth. It demonstrates value, fosters learning, maintains focus, and
   opens doors to new opportunities.
 author: Saeed Mirshekari
-date: 2024-05-31T13:12:29.060Z
+date: 2024-06-07T12:38:35.148Z
 tags:
   - post
 thumbnail: /assets/img/uploads/how-to-end-data-science-projects.png
