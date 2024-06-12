@@ -13,7 +13,7 @@ meta_description: Embark on your journey into machine learning for data science
   regression, and clustering problems. Equip yourself with the knowledge and
   skills to tackle real-world data challenges effectively.
 author: Saeed Mirshekari
-date: 2024-05-24T15:33:19.164Z
+date: 2024-06-12T00:03:32.607Z
 tags:
   - post
   - mentoring
