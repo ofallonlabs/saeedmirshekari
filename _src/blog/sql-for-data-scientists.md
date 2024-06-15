@@ -11,7 +11,7 @@ meta_description: Master the fundamentals of SQL with this comprehensive guide
   topics such as joins, subqueries, and window functions. Elevate your data
   manipulation and analysis skills to excel in the world of data science.
 author: Saeed Mirshekari
-date: 2024-05-24T15:14:33.961Z
+date: 2024-06-15T13:39:32.146Z
 tags:
   - post
   - projects
