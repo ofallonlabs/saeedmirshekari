@@ -20,11 +20,11 @@ module.exports = function(eleventyConfig) {
 
 
     eleventyConfig.addCollection("all", function(collectionApi) {
-        return collectionApi.getAllSorted();
+        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("post"));
     });
 
     eleventyConfig.addCollection("feed", function (collectionApi) {
-        return collectionApi.getAllSorted().reverse().slice(20, 25);
+        return collectionApi.getAllSorted().slice(20, 25);
       });
 
     eleventyConfig.addCollection("tag", function(collectionApi) {
