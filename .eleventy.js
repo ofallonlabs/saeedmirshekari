@@ -26,8 +26,16 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addCollection("career", function(collectionApi) {
         return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("career"));
     });
-    
-    
+    eleventyConfig.addCollection("mentoring", function(collectionApi) {
+        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("mentoring"));
+    });
+    eleventyConfig.addCollection("projects", function(collectionApi) {
+        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("projects"));
+    });
+    eleventyConfig.addCollection("trends", function(collectionApi) {
+        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("trends"));
+    });
+
     eleventyConfig.addCollection("feed", function (collectionApi) {
         return collectionApi.getAllSorted().slice(20, 25);
       });
