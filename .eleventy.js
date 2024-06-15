@@ -23,14 +23,15 @@ module.exports = function(eleventyConfig) {
         return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("post"));
     });
 
+    eleventyConfig.addCollection("career", function(collectionApi) {
+        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("career"));
+    });
+    
+    
     eleventyConfig.addCollection("feed", function (collectionApi) {
         return collectionApi.getAllSorted().slice(20, 25);
       });
 
-    eleventyConfig.addCollection("tag", function(collectionApi) {
-        return collectionApi.getFilteredByTags("post");
-    });
-    
     return {
         dir: {
             input: "_src",
