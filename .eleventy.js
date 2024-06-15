@@ -19,14 +19,18 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./_src/privacy_policy.html');
 
 
+    eleventyConfig.addCollection("all", function(collectionApi) {
+        return collectionApi.getAllSorted();
+    });
+
     eleventyConfig.addCollection("feed", function (collectionApi) {
         return collectionApi.getAllSorted().reverse().slice(20, 25);
       });
 
-    eleventyConfig.addCollection("tagposts", function(collectionApi) {
-        return collectionApi.getFilteredByTags("post").reverse().slice(0, 5);
+    eleventyConfig.addCollection("tag", function(collectionApi) {
+        return collectionApi.getFilteredByTags("post");
     });
-
+    
     return {
         dir: {
             input: "_src",
