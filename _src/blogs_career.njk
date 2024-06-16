@@ -22,7 +22,7 @@ layout: blog_base_nobody.njk
 {# Next/Previous #}
 <center>
 <div class="pagination_flat">
-<a href="/blogs_career" class="prev"> <i class="bi bi-tags"></i> Career </a>
+<a href="/blogs_career" class="prev" style='background:green'> <i class="bi bi-tags"></i> Career </a>
 <a href="/blogs_projects" class="prev"> <i class="bi bi-tags"></i> Projects </a> 
 <a href="/blogs_mentoring" class="prev"> <i class="bi bi-tags"></i> Mentoring </a>
 <a href="/blogs_trends" class="prev"> <i class="bi bi-tags"></i> Trends </a>
@@ -40,6 +40,8 @@ layout: blog_base_nobody.njk
     <a href="{{post.url}}">
 
       <div id="wrap">
+      <div class="box" >
+        <span class="advanced"> Best Seller</span>
 
         <div id="left_col">
           <div class="column zoom"> <img src="{{post.data.thumbnail}}"  alt="{{post.data.title}}" class="" 
@@ -63,6 +65,8 @@ layout: blog_base_nobody.njk
           {% endfor %}
           </div>
         </div>
+        
+      </div>
 
       </div>
     </a>
