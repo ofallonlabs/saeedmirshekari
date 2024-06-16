@@ -13,7 +13,7 @@ meta_description: Learn how to respond to your first data scientist job offer
   Navigate the process effectively with tips for data scientist job offer
   response and first data scientist job.
 author: Saeed Mirshekari
-date: 2024-05-24T14:08:43.490Z
+date: 2024-06-16T15:33:37.112Z
 tags:
   - post
   - mentoring
