@@ -9,7 +9,7 @@ meta_description: Exploring elections in Iran, this article examines the
   potential for Data Science to enhance transparency and efficiency while
   addressing challenges in a politically complex environment.
 author: Saeed Mirshekari
-date: 2024-05-31T12:02:27.794Z
+date: 2024-06-19T15:22:01.565Z
 tags:
   - post
   - trends
