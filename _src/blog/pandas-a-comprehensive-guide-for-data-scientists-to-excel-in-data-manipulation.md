@@ -15,7 +15,7 @@ meta_description: Explore the power of Pandas with this comprehensive guide.
   topics like data cleaning, transformation, and time series analysis. Perfect
   for data scientists eager to excel in data manipulation with Python.
 author: Saeed Mirshekari
-date: 2024-05-24T15:03:07.405Z
+date: 2024-06-19T15:23:10.542Z
 tags:
   - post
   - projects
