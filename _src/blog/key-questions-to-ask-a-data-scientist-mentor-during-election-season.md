@@ -11,7 +11,7 @@ meta_description: "Election season data science mentoring requires asking key
   ethics, communication, adaptation. Learn from historical examples for
   invaluable insights."
 author: Saeed Mirshekari
-date: 2024-05-28T14:48:25.942Z
+date: 2024-06-27T21:38:23.374Z
 tags:
   - post
   - trends
