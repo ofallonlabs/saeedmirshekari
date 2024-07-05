@@ -9,7 +9,7 @@ meta_description: Global election statistics reveal varied voter turnout,
   electoral systems, gender parity, and the transformative role of data science
   in enhancing elections.
 author: Saeed Mirshekari
-date: 2024-05-29T14:25:09.365Z
+date: 2024-07-05T12:48:25.904Z
 tags:
   - post
   - trends
