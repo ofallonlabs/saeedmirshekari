@@ -11,7 +11,7 @@ meta_description: Heatwaves, exacerbated by climate change, pose severe risks.
   predictive modeling, enables better preparation, warnings, and resilience
   measures to mitigate impacts.
 author: Saeed Mirshekari
-date: 2024-06-10T16:40:33.679Z
+date: 2024-07-11T13:05:21.173Z
 tags:
   - post
   - trends
