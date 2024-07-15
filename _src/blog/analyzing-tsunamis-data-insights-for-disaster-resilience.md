@@ -9,7 +9,7 @@ meta_description: Explore the statistical patterns of tsunamis and the pivotal
   role of data analysis in prediction and mitigation, highlighting case studies
   and technological advancements for disaster resilience.
 author: Saeed Mirshekari
-date: 2024-06-10T16:52:32.574Z
+date: 2024-07-15T18:18:24.804Z
 tags:
   - post
   - trends
