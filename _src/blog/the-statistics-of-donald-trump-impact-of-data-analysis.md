@@ -9,7 +9,7 @@ meta_description: Exploring Donald Trump and his family's journey through
   statistics, from business empires to political controversies, including the
   pivotal role of data analytics in his presidential campaigns.
 author: Saeed Mirshekari
-date: 2024-05-31T11:34:39.308Z
+date: 2024-07-15T18:17:06.112Z
 tags:
   - post
   - trends
