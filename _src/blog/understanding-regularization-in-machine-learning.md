@@ -36,7 +36,10 @@ Regularization is a technique used to prevent overfitting in machine learning mo
 
 L1 regularization adds a penalty proportional to the sum of the absolute values of the coefficients to the loss function. Mathematically, for a linear regression model, the objective function with L1 regularization (Lasso) can be defined as:
 
-![\Large \text{Loss}_{\text{Lasso}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j|](https://latex.codecogs.com/svg.latex\Large&space;\text{Loss}_{\text{Lasso}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j|) 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
+
+![\text{Loss}_{\text{Lasso}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j|](https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{Lasso}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j|)
 
 
 
