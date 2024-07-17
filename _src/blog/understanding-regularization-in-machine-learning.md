@@ -22,6 +22,8 @@ thumbnail: /assets/img/uploads/regularization_in_machine_learning.png
 
 # Understanding Regularization in Machine Learning
 
+
+
 Machine learning models often grapple with the challenge of overfitting, where they fit the training data too closely, capturing noise rather than the underlying patterns. Regularization techniques offer powerful solutions to this problem by imposing constraints on model complexity. In this blog, we delve deeper into the concept of regularization, explore its types, and examine its practical applications with technical insights and real-world examples.
 
 ## What is Regularization?
@@ -34,9 +36,13 @@ Regularization is a technique used to prevent overfitting in machine learning mo
 
 L1 regularization adds a penalty proportional to the sum of the absolute values of the coefficients to the loss function. Mathematically, for a linear regression model, the objective function with L1 regularization (Lasso) can be defined as:
 
-\[ \text{Loss}_{\text{Lasso}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j| \]
+![\Large \text{Loss}_{\text{Lasso}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j|](https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{Lasso}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j|) 
 
-where \( \lambda \) controls the strength of regularization, and \( \beta_j \) are the model coefficients.
+
+
+
+
+where \( ![\Large \lambda](https://latex.codecogs.com/svg.latex?\Large&space;\lambda) \) controls the strength of regularization, and \( ![\Large \beta_j](https://latex.codecogs.com/svg.latex?\Large&space;\beta_j) \) are the model coefficients.
 
 **Example Application:** In finance, predicting stock prices with multiple features often involves high-dimensional data. L1 regularization can help select the most relevant features (e.g., trading volume, historical prices) by shrinking coefficients of less significant predictors to zero, thus simplifying the model and improving prediction accuracy.
 
@@ -44,9 +50,13 @@ where \( \lambda \) controls the strength of regularization, and \( \beta_j \) a
 
 L2 regularization adds a penalty proportional to the sum of the squares of the coefficients to the loss function. For linear regression, the objective function with L2 regularization (Ridge) is:
 
-\[ \text{Loss}_{\text{Ridge}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} \beta_j^2 \]
+![\Large \text{Loss}_{\text{Ridge}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} \beta_j^2](https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{Ridge}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} \beta_j^2) 
 
-where \( \lambda \) again controls the regularization strength.
+
+
+
+
+where \( ![\Large \lambda](https://latex.codecogs.com/svg.latex?\Large&space;\lambda) \) again controls the regularization strength.
 
 **Example Application:** In image processing, where pixel values are highly correlated, L2 regularization helps in stabilizing the model coefficients by reducing the impact of multicollinearity. This enhances the model's robustness and improves generalization to new images.
 
@@ -54,9 +64,13 @@ where \( \lambda \) again controls the regularization strength.
 
 Elastic Net regularization combines both L1 and L2 penalties in the loss function:
 
-\[ \text{Loss}_{\text{ElasticNet}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda_1 \sum_{j=1}^{p} |\beta_j| + \lambda_2 \sum_{j=1}^{p} \beta_j^2 \]
+![\Large \text{Loss}_{\text{ElasticNet}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda_1 \sum_{j=1}^{p} |\beta_j| + \lambda_2 \sum_{j=1}^{p} \beta_j^2](https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{ElasticNet}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda_1 \sum_{j=1}^{p} |\beta_j| + \lambda_2 \sum_{j=1}^{p} \beta_j^2) 
 
-where \( \lambda_1 \) and \( \lambda_2 \) control the strengths of L1 and L2 regularization, respectively.
+
+
+
+
+where \( ![\Large \lambda_1](https://latex.codecogs.com/svg.latex?\Large&space;\lambda_1) \) and \( ![\Large \lambda_2](https://latex.codecogs.com/svg.latex?\Large&space;\lambda_2)  \) control the strengths of L1 and L2 regularization, respectively.
 
 **Example Application:** In genomics, where gene expression data often contains highly correlated genes, Elastic Net regularization is effective in selecting relevant genes while handling multicollinearity, thereby improving the accuracy of predicting disease outcomes based on gene profiles.
 
