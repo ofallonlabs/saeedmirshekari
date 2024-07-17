@@ -37,9 +37,13 @@ Regression tasks involve predicting continuous values. Here are some commonly us
 
 Mean Squared Error (MSE) is one of the most widely used loss functions for regression tasks. It calculates the average squared difference between the predicted and actual values.
 
-\[ \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 \]
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2" />
 
-where \( y_i \) is the actual value, \( \hat{y}_i \) is the predicted value, and \( n \) is the number of data points.
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;xxx" />
+
+
+
+where \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;y_i" /> \) is the actual value, \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;\hat{y}_i" /> \) is the predicted value, and \( n \) is the number of data points.
 
 ##### Real-World Application
 
@@ -49,7 +53,9 @@ MSE is often used in financial modeling, such as predicting stock prices. By min
 
 Mean Absolute Error (MAE) calculates the average absolute differences between the predicted and actual values.
 
-\[ \text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i| \]
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|" />
+
+
 
 MAE is less sensitive to outliers compared to MSE, making it a robust choice for certain applications.
 
@@ -59,11 +65,15 @@ MAE is useful in scenarios where outliers are prevalent, such as in the energy s
 
 #### Huber Loss
 
-Huber Loss is a combination of MSE and MAE, offering the benefits of both. It is quadratic for small errors and linear for large errors, controlled by a hyperparameter \( \delta \).
+Huber Loss is a combination of MSE and MAE, offering the benefits of both. It is quadratic for small errors and linear for large errors, controlled by a hyperparameter 
+\( <img src="https://latex.codecogs.com/svg.latex?\Large&space;\delta"/> \).
 
-\[ L_{\delta}(a) = \begin{cases} \frac{1}{2}a^2 & \text{if } |a| \leq \delta \\
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;L_{\delta}(a) = \begin{cases} \frac{1}{2}a^2 & \text{if } |a| \leq \delta \\
 \delta (|a| - \frac{1}{2}\delta) & \text{otherwise}
-\end{cases} \]
+\end{cases}" />
+
+
+
 
 ##### Real-World Application
 
@@ -79,11 +89,15 @@ Cross-Entropy Loss, also known as Log Loss, is widely used for classification ta
 
 For binary classification:
 
-\[ \text{Cross-Entropy Loss} = -\frac{1}{n} \sum_{i=1}^{n} [y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)] \]
+
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Cross-Entropy Loss} = -\frac{1}{n} \sum_{i=1}^{n} [y_i \log(\hat{y}_i) + (1 - y_i) \log(1 {-}\hat{y}_i)]" />
+
 
 For multi-class classification:
 
-\[ \text{Cross-Entropy Loss} = -\frac{1}{n} \sum_{i=1}^{n} \sum_{c=1}^{C} y_{i,c} \log(\hat{y}_{i,c}) \]
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Cross-Entropy Loss} = -\frac{1}{n} \sum_{i=1}^{n} \sum_{c=1}^{C} y_{i,c} \log(\hat{y}_{i,c})" />
+
 
 ##### Real-World Application
 
@@ -95,7 +109,10 @@ Hinge Loss is primarily used for training Support Vector Machines (SVMs). It ens
 
 For binary classification:
 
-\[ L(y, f(x)) = \max(0, 1 - y \cdot f(x)) \]
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;L(y, f(x)) = \max(0, 1 - y \cdot f(x))" />
+
+
 
 where \( y \) is the actual class label (\(+1\) or \(-1\)), and \( f(x) \) is the predicted score.
 
@@ -111,7 +128,10 @@ In addition to the standard regression and classification loss functions, severa
 
 Dice Loss is commonly used in image segmentation tasks. It measures the overlap between the predicted segmentation and the ground truth, focusing on the regions of interest.
 
-\[ \text{Dice Loss} = 1 - \frac{2 |P \cap G|}{|P| + |G|} \]
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Dice Loss} = 1 - \frac{2 |P \cap G|}{|P| + |G|}" />
+
+
 
 where \( P \) is the predicted set of pixels, and \( G \) is the ground truth set of pixels.
 
@@ -123,7 +143,8 @@ Dice Loss is prevalent in medical imaging, particularly for segmenting tumors in
 
 Triplet Loss is used in tasks involving similarity learning, such as face verification. It aims to ensure that an anchor sample is closer to positive samples (same class) than negative samples (different class) by a specified margin.
 
-\[ L(A, P, N) = \max(0, d(A, P) - d(A, N) + \alpha) \]
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;L(A, P, N) = \max(0, d(A, P) - d(A, N) + \alpha)" />
+
 
 where \( A \) is the anchor, \( P \) is the positive sample, \( N \) is the negative sample, \( d \) is the distance metric, and \( \alpha \) is the margin.
 
