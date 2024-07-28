@@ -9,7 +9,7 @@ meta_description: Explore how data analytics and machine learning revolutionize
   volcanic eruption prediction and mitigation, crucial for safeguarding lives
   and communities in the face of natural disasters.
 author: Saeed Mirshekari
-date: 2024-06-10T17:18:55.461Z
+date: 2024-07-28T16:23:16.050Z
 tags:
   - post
   - trends
