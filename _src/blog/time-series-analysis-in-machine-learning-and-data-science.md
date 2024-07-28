@@ -11,7 +11,7 @@ meta_description: Time series analysis is essential in machine learning and data
   techniques include ARIMA, LSTM, and Prophet, with applications in finance,
   weather forecasting, healthcare, supply chain management, and more.
 author: Saeed Mirshekari
-date: 2024-07-17T22:52:54.329Z
+date: 2024-07-28T16:22:25.555Z
 tags:
   - post
   - mentoring
