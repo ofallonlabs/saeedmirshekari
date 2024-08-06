@@ -11,7 +11,7 @@ meta_description: Harnessing data analysis, we delve into the statistics of
   and early warning systems, we minimize loss, safeguarding lives and
   infrastructure.
 author: Saeed Mirshekari
-date: 2024-06-10T16:44:35.163Z
+date: 2024-08-06T13:39:23.821Z
 tags:
   - post
   - trends
