@@ -13,7 +13,7 @@ meta_description: Handling imbalanced data in machine learning involves
   fraud detection, disease diagnosis, and predictive maintenance, ensuring
   accurate and fair predictions.
 author: Saeed Mirshekari
-date: 2024-07-18T13:59:02.824Z
+date: 2024-08-06T13:41:24.356Z
 tags:
   - post
   - mentoring
