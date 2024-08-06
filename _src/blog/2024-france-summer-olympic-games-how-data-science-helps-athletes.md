@@ -11,7 +11,7 @@ meta_description: Data science revolutionizes the Summer Olympics by optimizing
   advanced analytics, wearable technology, and machine learning, while
   addressing challenges like data quality and privacy.
 author: Saeed Mirshekari
-date: 2024-05-31T14:34:12.522Z
+date: 2024-08-06T13:40:17.984Z
 tags:
   - post
   - trends
