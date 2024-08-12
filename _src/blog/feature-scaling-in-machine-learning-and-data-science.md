@@ -13,7 +13,7 @@ meta_description: Feature scaling adjusts feature scales to improve machine
   robust scaling, and max-abs scaling. Applications span finance, healthcare,
   image processing, and NLP.
 author: Saeed Mirshekari
-date: 2024-07-17T22:57:33.847Z
+date: 2024-08-12T17:36:29.406Z
 tags:
   - post
   - mentoring
