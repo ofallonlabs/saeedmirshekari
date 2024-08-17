@@ -11,7 +11,7 @@ meta_description: Understanding wildfires is critical due to their increasing
   Historical wildfires like the Great Fire of 1910 illustrate the need for
   proactive measures.
 author: Saeed Mirshekari
-date: 2024-06-10T17:24:25.858Z
+date: 2024-08-17T02:14:27.086Z
 tags:
   - post
   - trends
