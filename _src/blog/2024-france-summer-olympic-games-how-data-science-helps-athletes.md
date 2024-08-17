@@ -15,7 +15,7 @@ date: 2024-08-06T13:40:17.984Z
 tags:
   - post
   - trends
-thumbnail: /assets/img/uploads/france-olympic-games-2024.png
+thumbnail: /assets/img/uploads/shooter_olympics_paris.jpg
 ---
 # The Statistics of Summer Olympic Games: How Data Science Helps Athletes Achieve Peak Performance at France 2024
 
