@@ -11,7 +11,7 @@ meta_description: Data science is crucial in modern political campaigns, with
   significant influence on strategies and voter targeting. Mentorship is key,
   especially for career changers at 40, to navigate and succeed in this field.
 author: Saeed Mirshekari
-date: 2024-05-28T14:24:33.242Z
+date: 2024-08-17T02:12:04.359Z
 tags:
   - post
   - trends
