@@ -15,7 +15,7 @@ meta_description: Loss functions measure model prediction errors, guiding
   loss function enhances model performance in tasks from finance to medical
   imaging.
 author: Saeed Mirshekari
-date: 2024-07-17T19:39:16.130Z
+date: 2024-08-21T12:41:51.488Z
 tags:
   - post
   - mentoring
