@@ -10,7 +10,7 @@ meta_description: Data scientists are crucial in the 2024 U.S. Presidential
   mentorship is essential for aspiring professionals, especially those changing
   careers at 40.
 author: Saeed Mirshekari
-date: 2024-05-28T14:19:39.188Z
+date: 2024-08-21T12:43:09.630Z
 tags:
   - post
   - trending
