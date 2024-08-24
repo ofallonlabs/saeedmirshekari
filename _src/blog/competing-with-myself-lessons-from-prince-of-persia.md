@@ -1,10 +1,12 @@
 ---
 layout: blog_base.njk
-title: "Competing with Myself: Lessons from *Prince of Persia*"
+title: "Mastering Self-Competition: Career Lessons from Prince of Persia's
+  Mirror Duel"
 description: A personal reflection on *Prince of Persia*, exploring how the
   game’s mirror duel taught valuable life lessons about self-competition,
   letting go, and finding fulfillment by embracing personal growth.
-meta_title: "Competing with Myself: Lessons from *Prince of Persia*"
+meta_title: "Mastering Self-Competition: Career Lessons from Prince of Persia's
+  Mirror Duel"
 meta_description: A personal reflection on *Prince of Persia*, exploring how the
   game’s mirror duel taught valuable life lessons about self-competition,
   letting go, and finding fulfillment by embracing personal growth.
