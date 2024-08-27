@@ -13,7 +13,7 @@ meta_description: Gradient Descent is a key optimization algorithm in machine
   regression, neural networks, logistic regression, SVMs, and recommender
   systems.
 author: Saeed Mirshekari
-date: 2024-07-17T19:33:41.234Z
+date: 2024-08-27T22:44:51.564Z
 tags:
   - post
   - mentoring
