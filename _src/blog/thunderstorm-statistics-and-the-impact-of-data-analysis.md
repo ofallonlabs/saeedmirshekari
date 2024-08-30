@@ -11,7 +11,7 @@ meta_description: Thunderstorms pose significant risks, but data analysis
   monitoring, and advanced modeling, we improve forecasts, mitigate impacts, and
   enhance community resilience.
 author: Saeed Mirshekari
-date: 2024-06-10T16:22:35.814Z
+date: 2024-08-30T23:36:09.460Z
 tags:
   - post
   - trends
