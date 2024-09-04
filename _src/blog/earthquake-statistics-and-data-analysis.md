@@ -11,7 +11,7 @@ meta_description: Earthquakes pose significant risks globally. Data analysis
   real-time monitoring, we improve resilience, mitigating the impact of these
   unpredictable natural disasters.
 author: Saeed Mirshekari
-date: 2024-06-10T16:36:14.563Z
+date: 2024-09-04T15:04:19.832Z
 tags:
   - post
   - trends
