@@ -11,7 +11,7 @@ meta_description: Feature engineering transforms raw data into meaningful
   encoding, scaling, transformation, interaction, and aggregation, crucial for
   robust and effective machine learning models.
 author: Saeed Mirshekari
-date: 2024-07-17T14:27:17.888Z
+date: 2024-09-04T15:03:34.073Z
 tags:
   - post
   - mentoring
