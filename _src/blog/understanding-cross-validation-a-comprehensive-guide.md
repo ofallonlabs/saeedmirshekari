@@ -11,7 +11,7 @@ meta_description: Cross-validation is crucial for assessing machine learning
   robustness, aiding in model selection and avoiding overfitting across diverse
   real-world applications.
 author: Saeed Mirshekari
-date: 2024-07-17T14:35:18.810Z
+date: 2024-09-04T15:02:34.737Z
 tags:
   - post
   - mentoring
