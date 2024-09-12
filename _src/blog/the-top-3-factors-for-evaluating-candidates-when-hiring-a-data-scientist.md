@@ -1,10 +1,10 @@
 ---
 layout: blog_base.njk
-title: The Top 3 Factors for Evaluating Candidates When Hiring a Data Scientist
+title: How To Hire A Fine Data Scientist Who Lasts
 description: "This article explores the top three factors to evaluate when
   hiring a data scientist: technical skills, behavioral fit, and potential for
   growth, ensuring long-term success and team collaboration."
-meta_title: The Top 3 Factors for Evaluating Candidates When Hiring a Data Scientist
+meta_title: How To Hire A Fine Data Scientist Who Lasts
 meta_description: "This article explores the top three factors to evaluate when
   hiring a data scientist: technical skills, behavioral fit, and potential for
   growth, ensuring long-term success and team collaboration."
