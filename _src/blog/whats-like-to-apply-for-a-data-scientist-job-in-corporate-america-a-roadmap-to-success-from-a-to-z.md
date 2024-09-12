@@ -20,9 +20,7 @@ tags:
   - career
 thumbnail: /assets/img/uploads/thebridge.png
 ---
-Here's a draft of the requested blog post in markdown format:
 
----
 
 # The Hiring Journey: From Resume Submission to Moving On
 
