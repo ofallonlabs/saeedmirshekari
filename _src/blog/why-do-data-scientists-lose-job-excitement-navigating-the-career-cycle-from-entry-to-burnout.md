@@ -18,9 +18,7 @@ tags:
   - career
 thumbnail: /assets/img/uploads/slide1.png
 ---
-Here’s a draft for your requested blog on the life-span of job excitement from job search to burnout:
 
----
 
 # The Life-Span of Job Excitement: From Job Search to Burnout
 
