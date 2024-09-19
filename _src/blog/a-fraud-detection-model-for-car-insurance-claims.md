@@ -9,7 +9,7 @@ meta_description: Fraud detection for car insurance claims using ML models to
   analyze claim patterns, reducing fraud and ensuring accurate, efficient claim
   processing.
 author: Michael Hirschberger
-date: 2024-09-19T14:36:34.140Z
+date: 2024-09-19T16:19:01.773Z
 tags:
   - post
   - projects
