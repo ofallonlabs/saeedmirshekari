@@ -77,8 +77,6 @@ In contrast to Logistic Regression, `PolicyNumber` was seen to be the most impor
 
 CatBoost is a framework that can solve for categorical features. The results for the best performing model were as follows: 
 
-Catboost ROC Curve  |  Catboost PR Curve
-:-------------------------:|:-------------------------:
 <img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-17.png" width="100%">
 <img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-18.png" width="100%">
 
@@ -93,7 +91,6 @@ Like Random Forest, `PolicyNumber` was seen to be the most important feature whe
 
 XGBoost showed results similar to CatBoost. However, the most important features for XGBoost were `Fault_Third Party`and `Fault_Policy Holder`:
 
-:-------------------------:|:-------------------------:
 <img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-20.png" width="100%">
 <img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-21.png" width="100%">
 
