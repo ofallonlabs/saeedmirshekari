@@ -12,7 +12,7 @@ meta_description: Neural networks, inspired by the brain, power machine learning
   computing, and interpretability, driving ongoing research for future
   enhancements.
 author: Saeed Mirshekari
-date: 2024-07-18T14:11:47.474Z
+date: 2024-10-05T16:05:04.230Z
 tags:
   - post
   - mentoring
