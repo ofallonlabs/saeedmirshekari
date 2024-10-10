@@ -29,6 +29,8 @@ This model would enable insurance companies to target those claims that are most
     
 The results show poorer model performance for Logistic Regression and Random Forest and better model performance for CatBoost and XGBoost Classifier.
 
+Y﻿ou can find a copy of my Python scripts for this project in [This GitHub Repository](https://github.com/MHirschberger/car-insurance-fraud-detection/blob/main/fraud_detection.ipynb)
+
 ## Exploratory Data Analysis
 
 To begin, exploratory data analysis was performed to identify relationships in the data and to ascertain correlations between features and the incidence of fraud. Three relationships in particular demonstrated a clear relationship:
