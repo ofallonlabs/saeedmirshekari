@@ -20,7 +20,6 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy('./_src/admin');
     eleventyConfig.addPassthroughCopy('./_src/404.html');
-    // eleventyConfig.addPassthroughCopy('./_src/terms_of_service.txt');
     eleventyConfig.addPassthroughCopy('./_src/terms_of_service.html');
     eleventyConfig.addPassthroughCopy('./_src/privacy_policy.html');
 
