@@ -1,13 +1,13 @@
 ---
 pagination:
-  data: collections
+  data: collections.{{ tag }}
   size: 12
   alias: tag
 permalink: /blogs_{{ tag }}
 layout: blog_base_ai.njk
 ---
 <h1>Our best blogs about Data Science {{ tag }}...</h1>
-<img src="/assets/img/{{tag}}.png" width="100%">
+<img src="/assets/img/{{ tag }}.png" width="100%">
 
 <ol>
 {% set myPosts = collections.career %}

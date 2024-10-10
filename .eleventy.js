@@ -12,28 +12,38 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addLayoutAlias('default', 'base.njk');
 
 
+    // Copy the `public` directory to the root of the output folder
+    eleventyConfig.addPassthroughCopy({ "public": "." });
+    // Watch the `public` directory for changes
+    eleventyConfig.addWatchTarget("public");
+
+
     eleventyConfig.addPassthroughCopy('./_src/admin');
-    // eleventyConfig.addPassthroughCopy('./_src/blog');
+    eleventyConfig.addPassthroughCopy('./_src/blog');
     // eleventyConfig.addPassthroughCopy('./_src/terms_of_service.txt');
     eleventyConfig.addPassthroughCopy('./_src/terms_of_service.html');
     eleventyConfig.addPassthroughCopy('./_src/privacy_policy.html');
 
 
+    eleventyConfig.addCollection("everything", function(collectionApi) {
+        return collectionApi.getAllSorted();
+    });
+
     eleventyConfig.addCollection("all", function(collectionApi) {
-        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("post"));
+        return collectionApi.getAllSorted().filter((item) => item.data.tags && item.data.tags.includes("post"));
     });
 
     eleventyConfig.addCollection("career", function(collectionApi) {
-        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("career"));
+        return collectionApi.getAllSorted().filter((item) => item.data.tags && item.data.tags.includes("career"));
     });
     eleventyConfig.addCollection("mentoring", function(collectionApi) {
-        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("mentoring"));
+        return collectionApi.getAllSorted().filter((item) => item.data.tags && item.data.tags.includes("mentoring"));
     });
     eleventyConfig.addCollection("projects", function(collectionApi) {
-        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("projects"));
+        return collectionApi.getAllSorted().filter((item) => item.data.tags && item.data.tags.includes("projects"));
     });
     eleventyConfig.addCollection("trends", function(collectionApi) {
-        return collectionApi.getAllSorted().filter(item => item.data.tags && item.data.tags.includes("trends"));
+        return collectionApi.getAllSorted().filter((item) => item.data.tags && item.data.tags.includes("trends"));
     });
 
     eleventyConfig.addCollection("feed", function (collectionApi) {
@@ -43,7 +53,7 @@ module.exports = function(eleventyConfig) {
     return {
         dir: {
             input: "_src",
-            output: "_public"
+            output: "_site"
         }
     };
 

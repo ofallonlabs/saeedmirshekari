@@ -1,9 +1,9 @@
 ---
-title: Data Science Learning Center
 pagination:
-  data: collections.all
+  data: collections.everything
   reverse: true
   size: 12
+title: Data Science Learning Center
 layout: blog_base_nobody.njk
 ---
 
@@ -77,14 +77,14 @@ layout: blog_base_nobody.njk
 <div class="pagination" style='color=#000; font-size:11px;'>
 
 {% if pagination.pageNumber == 0  %}
-  <a class="disabled active prev"><<</a>
+  <a class="disabled active prev"><i class="bi bi-skip-start-fill"></i></a>
 {% endif %}
 
 {% if pagination.pageNumber > 0 %}
   {% if pagination.pageNumber == 1 %}
-    <a href="/blog/" class="prev"><<</a>
+    <a href="/blog/" class="prev"><i class="bi bi-skip-start-fill"></i></a>
   {% else %}
-  <a href="/blog/" class="prev"><<</a>
+  <a href="/blog/" class="prev"><i class="bi bi-skip-start-fill"></i></a>
   {% endif %}
 {% endif %}
 
@@ -116,20 +116,14 @@ layout: blog_base_nobody.njk
 {# end---------- #}
 
 {% if (pagination.pageNumber) < (pagination.pages.length - 1)  %}
-  <a href="/blog/{{ pagination.pages.length-1}}">>></a>
+  <a href="/blog/{{ pagination.pages.length-1}}"><i class="bi bi-skip-end-fill"></i></a>
 {% endif %}
 
 {% if pagination.pageNumber == pagination.pages.length - 1  %}
-  <a class="disabled active">>></a>
+  <a class="disabled active"><i class="bi bi-skip-end-fill"></i></a>
 {% endif %}
 
 
 </div>
 </center>
-
-{# ********************************** #}
-
-<script>
-
-</script>
 

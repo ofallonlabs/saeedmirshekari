@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<script async data-uid="28ecebe197" src="https://olabs.ck.page/28ecebe197/index.js"></script>
+
+
+<head style="font-family: 'Helvetica', 'Arial', sans-serif;">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N4WBFLP0G4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N4WBFLP0G4');
+</script>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Time Series Analysis in Machine Learning and Data Science</title>
+
+  <meta name = "image" content=/assets/img/uploads/time_series.png>
+  <meta name = "title" content="Time Series Analysis in Machine Learning and Data Science">
+  <meta name = "description" content="Time series analysis is essential in machine learning and data science for forecasting and understanding patterns in sequential data. Key techniques include ARIMA, LSTM, and Prophet, with applications in finance, weather forecasting, healthcare, supply chain management, and more.">
+  <meta name="keywords" content="data science mentoring, data science learning, data analytics courses, top data science courses in the usa, data science mentoring programs in the usa, data science online in the usa, Data science tutorials in the USA, data science online mentoring, data science course online, data science and machine learning course, data analytics courses, best data science mentoring in the usa, best online data science mentors in the usa, data science mentoring, data science mentoring program in the usa, best online data science courses, best online platform to learn data science, best online learning, data science jobs">
+
+  <meta property="og:image" content=/assets/img/uploads/time_series.png>
+  <meta property="og:title" content="Time Series Analysis in Machine Learning and Data Science">
+  <meta property="og:description" content="Time series analysis is essential in machine learning and data science for forecasting and understanding patterns in sequential data. Key techniques include ARIMA, LSTM, and Prophet, with applications in finance, weather forecasting, healthcare, supply chain management, and more.">
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="@("https://saeedmirshekari.com/blog/"+Time Series Analysis in Machine Learning and Data Science.replace(/\s+/g, '-').toLowerCase())"/>
+  
+  <meta property="og:site_name" content="OFallon Labs" />
+  <meta property="article:publisher" content="https://www.omentors.com" />
+  <meta property="article:section" content="Coding" />
+  <meta property="article:tag" content="Coding" />
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:site" content="@smirshekari_" />
+
+
+  
+
+  <!-- Favicons -->
+  <link href="/assets/img/favicon.ico" rel="icon">
+  <link href="/assets/img/favicon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="/assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Serenity - v4.7.0
+  * Template URL: https://bootstrapmade.com/serenity-bootstrap-corporate-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+
+
+
+</head>
+
+
+<main id="main"> 
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+  
+
+    <div class="container d-flex align-items-center justify-content-between">
+      <a style="text-align:left; font-size: 24px; color:#666;" href="/index.html"><img style="vertical-align: -5px; text-align:left; width:4vh" src="/assets/img/OLAB_LOGO.png" alt="The logo of the Company O'Fallon Labs" class=""> O'Fallon Labs</a>
+       
+      
+
+      <nav id="navbar" class="navbar" style="">
+      
+        <ul>
+          <li><a href="/index.html" style="">Home</a></li>
+          <li><a href="/team" style="">About</a></li>
+
+          <li class="dropdown"><a href="/services" style="">Services<i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="/data-science-one-on-one-mentoring" style="">Mentoring <i class="bi bi-trophy" style="color: #94c045;"></i></a></li>
+              <li><a href="/data-science-learning-program" style="">Learning (FREE) <i class="bi bi-headphones" style="color: #94c045;"></i></a></li>
+              <li><a href="/data-science-training-program" style="">Training <i class="bi bi-headset" style="color: #94c045;"></i></a></li>
+              <li><a href="/analytics" style="">Analytics <i class="bi bi-gem" style="color: #94c045;"></i></a></li>
+              
+
+              </li>
+            </ul>
+          </li>
+          
+          <li><a href="/pricing" style="">Pricing</a></li>
+          <li><a href="/results" style="">Results</a></li>
+          <li><a href="/blog" style="">Learning Center</a></li>
+          <li><a href="/contact" style="">Contact</a></li>
+
+          <li><a class="getstarted" href="https://saeedmirshekari.com/data-science-one-on-one-mentoring/">Get Started</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+
+  </header><!-- End Header -->
+
+        <!-- ======= Breadcrumbs ======= -->
+        
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="breadcrumb-hero">
+        <div class="container">
+          <div class="breadcrumb-herol">
+            <h1 style="text-align: left;">Time Series Analysis in Machine Learning and Data Science</h1>
+            <h6 style="text-align: left;">Time series analysis is essential in machine learning and data science for forecasting and understanding patterns in sequential data. Key techniques include ARIMA, LSTM, and Prophet, with applications in finance, weather forecasting, healthcare, supply chain management, and more.</h6>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <ol>
+          <li><a href="/blog">Learning Center</a></li>
+          <li>Time Series Analysis in Machine Learning and Data Science</li>
+        </ol>
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+<style>
+h1, h2, h3, h4, h5 {
+  font-family: Merriweather;
+  font-weight: bold;
+}
+</style>
+
+
+
+<body style="font-family: Arial; font-weight: normal;">
+
+
+
+    <!-- ======= Blog Single Section ======= -->
+    <section id="blog" class="blog">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-8 entries">
+
+
+
+              <div class="entry-content">
+
+
+            <body>   
+            <img src=/assets/img/uploads/time_series.png width="100%"  alt=" Time Series Analysis in Machine Learning and Data Science ">
+
+            <div class="blog-author d-flex align-items-center">
+                <div id="wrap">
+                    <div id="left_col">
+                      
+                      <img src=/assets/img/blog/saeed.jpg class="rounded-circle float-left" alt=Saeed is currently a Director of Data Science in Mastercard and the Founder &amp; Director of OFallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017). width="50px">
+                    </div>
+                    <div id="right_col">
+                      By Saeed Mirshekari
+                      <p class="bi bi-clock">  July 28, 2024 </p>
+
+
+                      <p class = "myframe">
+                        <a href="http://www.facebook.com/share.php?u=saeedmirshekari.com" class="mybtn">
+                          <i class="bi bi-facebook" style="color: #94c045;"></i>
+                        </a>
+                        <a href="https://twitter.com/intent/tweet?url=Hey! Check out this interesting website I found saeedmirshekari.com" class="mybtn">
+                          <i class="bi bi-twitter" style="color: #94c045;"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/sharing/share-offsite/?url=saeedmirshekari.com" class="mybtn">
+                          <i class="bi bi-linkedin" style="color:#94c045;"></i>
+                        </a>
+                        <a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://saeedmirshekari.com."
+                            title="Check out this website!" class="mybtn">
+                          <i class="bi bi-envelope" style="color:#94c045;"></i>
+                        </a>
+                      </p>
+                    </div>
+                </div>
+            </div>
+            </body>
+
+            <div class="blog-author d-flex align-items-center">
+              <a href="https://omentors.com"><img src="/assets/img/gifs/attractive.gif" class="float-center" alt="onw on one mentoring platform connecting people in data science" width="250px">
+
+              <div>
+                <h3>We Are O'Mentors!</h3>
+                <a>
+                  Meet Top Data Scientist Mentors from Fortune 500 Companies 1-on-1
+                </a>
+              <a href="https://www.omentors.com" class="btn-blupill" style="font-size:14;">Choose Your Mentor Today</a>
+
+              </div>
+
+            </div>
+
+                <h1>Time Series Analysis in Machine Learning and Data Science</h1>
+<p>Time series analysis is a crucial aspect of machine learning and data science, particularly when dealing with data that is sequentially ordered in time. This type of data is common in various fields, from finance to weather forecasting, and understanding the underlying patterns and trends is essential for making accurate predictions and informed decisions.</p>
+<h2>What is Time Series Analysis?</h2>
+<p>Time series analysis involves methods for analyzing time-ordered data points. The goal is to extract meaningful statistics and characteristics from the data. Time series data typically comprises observations taken at successive points in time, usually at equally spaced intervals. This type of data is unique because it carries an inherent temporal ordering, which introduces specific patterns such as trends, seasonality, and cyclic behaviors that are not present in other types of data.</p>
+<h2>Key Concepts in Time Series Analysis</h2>
+<h3>Trend</h3>
+<p>A trend refers to the long-term movement in a time series. It is the underlying direction in which the data is moving over a period of time, often due to underlying factors such as economic conditions, technological advancements, or other external influences.</p>
+<h3>Seasonality</h3>
+<p>Seasonality is the presence of variations that occur at regular intervals less than a year, such as monthly or quarterly. These variations are often due to seasonal factors such as weather conditions, holidays, or other recurring events.</p>
+<h3>Cyclic Patterns</h3>
+<p>Cyclic patterns are fluctuations that occur over periods longer than a year. Unlike seasonality, cycles do not have a fixed period and are often influenced by economic or business conditions.</p>
+<h3>Noise</h3>
+<p>Noise is the random variation in a time series that cannot be attributed to trend, seasonality, or cyclic patterns. It represents the irregular or unpredictable component of the time series.</p>
+<h2>Time Series Decomposition</h2>
+<p>To analyze a time series, it is often helpful to decompose it into its constituent components: trend, seasonality, and residuals (noise). This decomposition can be additive or multiplicative:</p>
+<ul>
+<li><strong>Additive Decomposition</strong>: When the components are added together (i.e., Time Series = Trend + Seasonality + Residual).</li>
+<li><strong>Multiplicative Decomposition</strong>: When the components are multiplied together (i.e., Time Series = Trend * Seasonality * Residual).</li>
+</ul>
+<h2>Techniques for Time Series Analysis</h2>
+<p>Several techniques and models are used in time series analysis, each with its strengths and applications. Some of the most common methods include:</p>
+<h3>Moving Averages</h3>
+<p>Moving averages smooth out short-term fluctuations and highlight longer-term trends or cycles. There are different types of moving averages, such as simple moving averages (SMA) and weighted moving averages (WMA).</p>
+<h3>Exponential Smoothing</h3>
+<p>Exponential smoothing assigns exponentially decreasing weights to past observations. It is particularly useful for making short-term forecasts. Variants include Simple Exponential Smoothing, Holt's Linear Trend Model, and Holt-Winters Seasonal Model.</p>
+<h3>Autoregressive Integrated Moving Average (ARIMA)</h3>
+<p>ARIMA is a popular and versatile model that combines autoregressive (AR) and moving average (MA) models with differencing to make the time series stationary. ARIMA models are denoted as ARIMA(p, d, q), where:</p>
+<ul>
+<li><strong>p</strong>: Number of lag observations included in the model (AR part).</li>
+<li><strong>d</strong>: Number of times that the raw observations are differenced (I part).</li>
+<li><strong>q</strong>: Size of the moving average window (MA part).</li>
+</ul>
+<h3>Seasonal ARIMA (SARIMA)</h3>
+<p>SARIMA extends ARIMA by explicitly modeling the seasonal component of the time series. It includes additional parameters to capture seasonal effects, denoted as ARIMA(p, d, q)(P, D, Q)m, where P, D, and Q are the seasonal components and m is the length of the seasonal cycle.</p>
+<h3>Prophet</h3>
+<p>Prophet is an open-source forecasting tool developed by Facebook. It is designed to handle time series data that exhibits strong seasonal effects and multiple seasonality with robust handling of missing data and outliers. Prophet is particularly user-friendly and provides intuitive parameter tuning.</p>
+<h2>Advanced Techniques</h2>
+<h3>Long Short-Term Memory (LSTM) Networks</h3>
+<p>LSTM networks are a type of recurrent neural network (RNN) capable of learning long-term dependencies. They are particularly effective for time series forecasting because they can capture the temporal dynamics and relationships within the data.</p>
+<h3>Seasonal and Trend decomposition using Loess (STL)</h3>
+<p>STL is a robust and versatile method for decomposing time series. It uses locally estimated scatterplot smoothing (Loess) to extract the trend and seasonal components, allowing for flexible modeling of non-linear relationships and complex seasonality.</p>
+<h2>Real-World Applications of Time Series Analysis</h2>
+<h3>Finance</h3>
+<p>Time series analysis is extensively used in finance for tasks such as stock price prediction, risk management, and portfolio optimization. Techniques like ARIMA and LSTM networks are commonly employed to model and forecast financial time series data.</p>
+<h3>Weather Forecasting</h3>
+<p>Meteorological data is inherently sequential, making time series analysis indispensable for weather forecasting. Models like SARIMA and Prophet are used to predict temperature, precipitation, and other weather-related variables.</p>
+<h3>Healthcare</h3>
+<p>In healthcare, time series analysis is applied to monitor patient vitals, detect anomalies, and predict disease outbreaks. For instance, ARIMA models can be used to forecast the spread of infectious diseases based on historical data.</p>
+<h3>Supply Chain Management</h3>
+<p>Time series analysis helps in demand forecasting, inventory management, and supply chain optimization. Accurate demand forecasts enable businesses to maintain optimal inventory levels and improve customer satisfaction.</p>
+<h3>Energy Consumption</h3>
+<p>Energy providers use time series analysis to predict energy consumption patterns, optimize grid operations, and plan for future energy needs. Models like exponential smoothing and ARIMA are employed to forecast electricity demand and generation.</p>
+<h3>Social Media Analytics</h3>
+<p>Analyzing social media trends and user engagement over time requires time series analysis. Businesses leverage this analysis to understand user behavior, optimize content strategies, and predict viral trends.</p>
+<h3>Retail</h3>
+<p>In the retail sector, time series analysis aids in sales forecasting, price optimization, and promotional planning. Accurate sales forecasts help retailers manage inventory and improve supply chain efficiency.</p>
+<h2>Challenges in Time Series Analysis</h2>
+<p>Despite its wide applications, time series analysis comes with several challenges:</p>
+<h3>Non-Stationarity</h3>
+<p>Time series data often exhibit non-stationarity, where statistical properties such as mean and variance change over time. This can complicate modeling and forecasting efforts. Techniques like differencing and transformation are used to address non-stationarity.</p>
+<h3>Missing Data</h3>
+<p>Time series data can have missing values due to various reasons, such as sensor failures or data entry errors. Handling missing data is crucial for accurate analysis and forecasting. Imputation methods and robust models like Prophet can manage missing data effectively.</p>
+<h3>Seasonality and Trends</h3>
+<p>Identifying and modeling seasonality and trends can be challenging, especially when they change over time. Advanced decomposition techniques like STL and models like SARIMA help in capturing these components accurately.</p>
+<h3>Computational Complexity</h3>
+<p>Complex models like LSTM networks require significant computational resources and can be challenging to train. Efficient algorithms and hardware acceleration (e.g., GPUs) are often necessary for handling large-scale time series data.</p>
+<h2>Conclusion</h2>
+<p>Time series analysis is a powerful tool in the arsenal of data scientists and machine learning practitioners. Its ability to model and forecast sequential data makes it invaluable across various domains, from finance to healthcare. By understanding the underlying patterns and employing the right techniques, businesses and researchers can make informed decisions and accurate predictions.</p>
+<p>As the field of machine learning continues to evolve, new and more sophisticated methods for time series analysis are likely to emerge, further enhancing our ability to understand and predict complex temporal phenomena. Whether you're a beginner or an experienced practitioner, mastering time series analysis opens up a world of possibilities for solving real-world problems.</p>
+
+
+              </div>
+              <a href="https://olabs.ck.page/blupill">If you like our work, you will love our newsletter..💚</a>
+              <br><br>
+
+            <div>
+              <a href="https://omentors.com"><img src="/assets/img/gifs/omentors-animation.gif" class="float-center" alt="online data science mentoring one on one" width="100%"></a>
+              <center>
+              <a href="https://www.omentors.com" class="btn-blupill" style="font-size:14;">Find A Mentor Now</a>
+              </center>
+              <hr/>
+
+            </div>
+
+              <h3>About O'Fallon Labs</h3>
+              <p>In <a href="https://saeedmirshekari.com"> O'Fallon Labs</a> we help recent graduates and professionals to get started and thrive in their Data Science careers via 1:1 mentoring and more.</p>
+              <br>
+            </article><!-- End blog entry -->
+
+            <div class="blog-author d-flex align-items-center">
+              <img src=/assets/img/blog/saeed.jpg class="rounded-circle float-left" style="filter: grayscale(100%);" alt=Saeed is currently a Director of Data Science in Mastercard and the Founder &amp; Director of OFallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017).>
+              <div>
+                <h4>Saeed Mirshekari</h4>
+                
+                <p>
+                Saeed is currently a Director of Data Science in Mastercard and the Founder &amp; Director of OFallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017). 
+                </p>
+              </div>
+            </div>
+
+
+            <div>
+              
+              
+              <div>
+                <div>
+                  <center>
+                  <hr/>
+                  
+                  <img src="/assets/img/morphious.png" class="float-center" alt="taking on the advanture to become a data scientist" width='50%'>
+                  <br>
+                  <a href="https://olabs.ck.page/d2d5cddf03" class="btn-redpill" style="font-size:1.5vh;">Let's Go</a>💊
+                  <a href="https://olabs.ck.page/789398da1b" class="btn-blupill" style="font-size:1.5vh;">I'm Good</a>
+                </div>
+                </center>
+              <br> 
+              </div>
+
+        <h4>leave a comment</h4>
+
+          <form name="contact" method="POST" data-netlify="true">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Comment" required></textarea>
+              </div>
+              <p>
+                <br>
+              </p>
+              <div class="text-center"><button type="submit"  style="color: #fff; background: #94c045;">Send Comment</button></div>
+              <br>
+          </form>
+        </div>
+        </div><!-- End blog entries list -->
+        
+          <div class="col-lg-4">
+
+            <div class="sidebar">
+
+              <div>
+                    <center>
+                    <h5>
+                    Transitioning to Data Science?<br>
+                    Get Better Results, Faster.
+                    </h5>
+                    </center>
+                <center><a href="/data-science-one-on-one-mentoring/" class="btn-blupill" style="font-size:14px;">Mentorship with Saeed</a></center>
+
+              </div>
+
+              
+              <div class="blog-author d-flex align-items-center">
+                <div>
+
+                    <div id="left_col_50">
+                      <center><img src="/assets/img/blog/saeed.jpg" class="rounded-circle" alt=Saeed is currently a Director of Data Science in Mastercard and the Founder &amp; Director of OFallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017).> 
+                      <img src="/assets/img/blog/mentor-txt.png" width="100%" alt=Saeed is currently a Director of Data Science in Mastercard and the Founder &amp; Director of OFallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017).> 
+                      </center>                
+                    </div>
+⚡
+                    
+                    <div id="right_col_50">
+                      <center>
+                      <img src='https://www.thispersondoesnotexist.com/' class="rounded-circle" alt=Saeed is currently a Director of Data Science in Mastercard and the Founder &amp; Director of OFallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017). >
+                      <img src="/assets/img/blog/mentee-txt.png" width="100px" alt=Saeed is currently a Director of Data Science in Mastercard and the Founder &amp; Director of OFallon Labs LLC. He is a former research scholar at LIGO team (Physics Nobel Prize of 2017).> 
+                      </center>                  
+                    </div>
+
+                </div>
+
+                </div>
+
+                <div>
+                    
+                    <section id="cta" class="cta">
+
+                    
+                        <div class="container " data-aos="/fade-in">
+                      <p style="font-size:16px">I am Saeed Mirshekari PhD and I help Data Science enthusiasts to land on their first Data Science job or move to their next role.</p>
+                      <center><a class="cta-btn cta" target="_blank" href="https://calendly.com/saeedmirshekari/introduction"><i class="bi bi-gift" style="color:#FFF;"></i> FREE CALL</a></center>
+                        </div>
+                      </section><!-- End Cta Section -->                   
+                    
+                </div>
+
+            
+            <script async data-uid="a8b0144480" src="https://olabs.ck.page/a8b0144480/index.js"></script>
+            
+
+              <h3 class="sidebar-title">Search</h3>
+              <div class="sidebar-item search-form">
+                <form action="">
+                  <input type="text">
+                  <button type="submit"><i class="bi bi-search"></i></button>
+                </form>
+              </div><!-- End sidebar search formn-->
+
+              
+
+              <h3 class="sidebar-title">Recent Posts</h3>
+
+              <div class="sidebar-item recent-posts">
+
+                <div class="post-item clearfix">
+                    <a href="/blog/im-in-my-40s-is-it-too-late-to-start-preparing-for-a-data-science-role/"><img src="/assets/img/uploads/undraw_outdoor_party_oqh3.svg"></a>
+                    <h4><a href="/blog/im-in-my-40s-is-it-too-late-to-start-preparing-for-a-data-science-role/">I&#39;m In My 40s - Is It Too Late To Start Preparing For A Data Science Role?</a></h4>
+                    
+                  </div>
+
+                <div class="post-item clearfix">
+                    <a href="/blog/how-to-overcome-procrastination-in-career-change/"><img src="/assets/img/uploads/undraw_witch_-7-uk7-1-.svg"></a>
+                    <h4><a href="/blog/how-to-overcome-procrastination-in-career-change/">How to Overcome Procrastination in Career Change </a></h4>
+                    
+                  </div>
+
+                <div class="post-item clearfix">
+                    <a href="/blog/how-to-enter-the-field-of-data-science-from-other-fields/"><img src="/assets/img/uploads/undraw_login_re_4vu2.png"></a>
+                    <h4><a href="/blog/how-to-enter-the-field-of-data-science-from-other-fields/">How To Enter The Field of Data Science From Other Fields</a></h4>
+                    
+                  </div>
+
+                <div class="post-item clearfix">
+                    <a href="/blog/7-reasons-why-you’re-getting-rejected-for-data-science-jobs/"><img src="/assets/img/uploads/undraw_not_found_re_44w9.png"></a>
+                    <h4><a href="/blog/7-reasons-why-you’re-getting-rejected-for-data-science-jobs/">7 Reasons Why You&#39;re Not Hearing Back from Your Data Science Job Applications</a></h4>
+                    
+                  </div>
+
+                <div class="post-item clearfix">
+                    <a href="/blog/new-to-data-science-but-are-you-job-ready-your-extensive-guide/"><img src="/assets/img/uploads/undraw_trip_re_f724.png"></a>
+                    <h4><a href="/blog/new-to-data-science-but-are-you-job-ready-your-extensive-guide/">New to Data Science - But Are You Job Ready? Your Extensive Guide!</a></h4>
+                    
+                  </div>
+
+                <br>
+                <a href="https://www.saeedmirshekari.com/blog" class="btn-blupill" style="font-size:12;">Learning Center</a>
+
+
+
+              </div><!-- End sidebar recent posts-->
+              
+
+            </div><!-- End sidebar -->
+          </div><!-- End blog sidebar -->
+
+        </div>
+      </div>
+
+
+
+
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="ef9a21bb-6362-4ff8-a348-4d3a6ab6c4e8";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+</body>
+
+</main>
+
+      <!-- ======= Cta Section ======= -->
+
+
+    <section id="cta" class="cta">
+      <div class="container" data-aos="/fade-in">
+
+        <div class="text-center">
+          <h4><i class="bi bi-people-fill"></i> Let's Talk One-on-one!</h4>
+          <a class="cta-btn" target="_blank" href="https://calendly.com/saeedmirshekari/introduction"><i class="bi bi-gift" style="color:#FFF;"></i>  SCHEDULE FREE CALL</a>
+          <br></br>
+          <p>Looking for a Data Science expert to help you score your first or the next Data Science job? Or, are you a business owner wanting to bring value and scale your business through Data Analysis? Either way, you’re in the right place. Let’s talk about your priorities!</p>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+    
+    <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <h4>O'Fallon Labs LLC</h4>
+            <p>One-on-one Data Science | Helping your career and business flourish with effective and proven Data Science & Machine Learning practices. Your one-stop shop for all Data Science needs.</p>
+            <img style="vertical-align: -5px; text-align:left; width:10vh" src="/assets/img/OLAB_LOGO.png" alt="the logo of the company O'Fallon Labs for 1:1 Data Science">
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><a href="/index.html">Home</a></li>
+              <li><a href="/team">About</a></li>
+              <li><a href="/services">Services</a></li>
+              <li><a href="/blog">Blog</a></li>
+              <li><a href="/terms_of_service">Terms of service</a></li>
+              <li><a href="/privacy_policy">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact US</h4>
+            <p>
+              <!-- A108 Adam Street <br> -->
+              O'Fallon, MO 63368<br>
+              United States<br>
+              <strong>Phone:</strong> +1 626 689 5848<br>
+              <strong>Email:</strong> info@saeedmirshekari.com<br>
+            </p>
+
+            <div class="social-links">
+              <a href="https://twitter.com/smirshekari_" class="twitter"><i class="bi bi-twitter"></i></a>
+              <!-- <a href="#" class="facebook"><i class="bi bi-facebook"></i></a> -->
+              <a href="https://www.instagram.com/smirshekari__/" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.linkedin.com/company/ofallonlabs" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            </div>
+
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-newsletter">
+            <h4>Our Newsletter</h4>
+            <p>Insert your email address to receive quality content on Data Science and discounts on my services.</p>
+<!--             <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form> -->
+              <form name="newsletter" method="POST" data-netlify="true">
+                  <input type="email" name="email"><input type="submit" value="Subscribe">
+              </form>
+              
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <script>document.write(/\d{4}/.exec(Date())[0])</script> <strong><span><a style="text-align:left; font-family: Merriweather; font-size: 2vh; color:#565e49;" href="/index.html"></a></span></strong> All Rights Reserved
+      </div>
+      
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="/assets/vendor/purecounter/purecounter.js"></script>
+  <script src="/assets/vendor/aos/aos.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  
+  
+
+  <!-- Template Main JS File -->
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/func.js"></script>
+
+<!-- Default Statcounter code for smirs.github.io
+http://smirs.github.io -->
+<script type="text/javascript">
+var sc_project=12086343; 
+var sc_invisible=0; 
+var sc_security="2709395b"; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12086343/0/2709395b/0/"
+alt="Web Analytics Made Easy -
+StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/assets/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+
+
+</html>
