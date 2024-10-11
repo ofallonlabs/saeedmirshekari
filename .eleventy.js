@@ -19,7 +19,7 @@ module.exports = function(eleventyConfig) {
 
 
     eleventyConfig.addPassthroughCopy('./_src/admin');
-    eleventyConfig.addPassthroughCopy('./_src/_includes/404.html');
+    eleventyConfig.addPassthroughCopy('./_src/404.html');
     eleventyConfig.addPassthroughCopy('./_src/terms_of_service.html');
     
     eleventyConfig.addPassthroughCopy('./_src/privacy_policy.html');
@@ -29,7 +29,7 @@ module.exports = function(eleventyConfig) {
         return collectionApi.getAllSorted();
     });
 
-    eleventyConfig.addCollection("all", function(collectionApi) {
+    eleventyConfig.addCollection("post", function(collectionApi) {
         return collectionApi.getAllSorted().filter((item) => item.data.tags && item.data.tags.includes("post"));
     });
 
