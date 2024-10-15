@@ -9,11 +9,11 @@ meta_description: Evaluation metrics in ML quantify model performance (e.g.,
   accuracy, MSE), crucial for tasks like fraud detection or medical diagnostics,
   guiding optimization and decision-making in diverse applications.
 author: Saeed Mirshekari
-date: 2024-07-17T14:44:06.986Z
+date: 2024-10-15T23:00:40.069Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/evaluation_metrics.png
+thumbnail: /assets/img/uploads/normalization_machine_learning.png
 ---
 # Evaluation Metrics in Machine Learning and Data Science
 
