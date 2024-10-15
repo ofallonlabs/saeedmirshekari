@@ -21,12 +21,11 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./_src/admin');
     eleventyConfig.addPassthroughCopy('./_src/404.html');
     eleventyConfig.addPassthroughCopy('./_src/terms_of_service.html');
-    
     eleventyConfig.addPassthroughCopy('./_src/privacy_policy.html');
 
 
     eleventyConfig.addCollection("everything", function(collectionApi) {
-        return collectionApi.getAllSorted();
+        return collectionApi.getFilteredByTag("post");
     });
 
     eleventyConfig.addCollection("post", function(collectionApi) {
