@@ -17,11 +17,11 @@ meta_description: Data-driven pandemic response harnesses statistics to forecast
   vital for early detection, resource optimization, and global collaboration in
   safeguarding public health.
 author: Saeed Mirshekari
-date: 2024-06-10T17:00:17.846Z
+date: 2024-10-19T15:25:42.236Z
 tags:
   - post
   - trends
-thumbnail: /assets/img/uploads/pandemic_an_data_analytics__1292211238.png
+thumbnail: /assets/img/uploads/undraw_convert_re_l0y1.png
 ---
 # Predictive Data Analysis in Pandemics: Mitigating Loss Through Statistics
 
