@@ -91,8 +91,7 @@ Key features include:
 
 Correlation between numerical features:
 
-![heatmap](https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/EDA_Heatmap.png?raw=true)
-
+<img src="https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/EDA_Heatmap.png?raw=true" width="100%">
 
 Top 3 models (with hypertuned parameters):
 
@@ -104,11 +103,11 @@ Top 3 models (with hypertuned parameters):
 
 Model evaluation (Confusion matrix, ROC-Curve and PR-Curve of LightGBM classifier):
 
-![Model evaluation](https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/LightGBM_evaluation.png?raw=true)
+<img src="https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/LightGBM_evaluation.png?raw=true" width="100%">
 
 Feature importance:
 
-![Feature importance](https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/LightGBM_FeatureImportance.png?raw=true)
+<img src="https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/LightGBM_FeatureImportance.png?raw=true" width="100%">
 
 - **The final model used for this project: LightGBM**
 - **Metrics used: Average Precision**
