@@ -13,11 +13,11 @@ meta_description: Ensemble methods in machine learning combine predictions from
   recognition for improved decision-making and predictive performance in
   real-world applications.
 author: Saeed Mirshekari
-date: 2024-07-17T16:58:16.324Z
+date: 2024-10-24T03:35:38.510Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/ensemple_methods_machine_learning.png
+thumbnail: /assets/img/uploads/jupyter-notebook-for-data-scientists.png
 ---
 
 # Ensemble Methods in Machine Learning: Harnessing the Power of Diversity
