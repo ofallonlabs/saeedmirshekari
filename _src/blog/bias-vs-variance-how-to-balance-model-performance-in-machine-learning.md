@@ -12,8 +12,8 @@ author: Saeed Mirshekari
 date: 2024-10-26T22:40:43.659Z
 tags:
   - post
-  - mantoring
-thumbnail: /assets/img/uploads/bias_and_varience.png
+  - mentoring
+thumbnail: /assets/img/uploads/undraw_focus_sey6.png
 ---
 # Understanding the Bias-Variance Tradeoff: A Deep Dive
 
