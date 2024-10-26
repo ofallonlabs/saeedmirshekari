@@ -9,7 +9,7 @@ meta_description: Master the bias-variance tradeoff to improve machine learning
   models, balance accuracy, prevent underfitting and overfitting, and enhance
   predictive performance with strategic techniques and continuous monitoring.
 author: Saeed Mirshekari
-date: 2024-07-17T14:21:56.678Z
+date: 2024-10-26T22:40:43.659Z
 tags:
   - post
   - mantoring
