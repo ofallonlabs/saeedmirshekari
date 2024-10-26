@@ -7,8 +7,7 @@ meta_description: This is a bloff
 author: Saeed Mirshekari
 date: 2024-10-26T23:09:44.315Z
 tags:
-  - post
-  - mentoring
+  - no-tag
 thumbnail: /assets/img/uploads/003.png
 rating: 3
 ---
