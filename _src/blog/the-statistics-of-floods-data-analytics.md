@@ -15,11 +15,11 @@ meta_description: Floods, a frequent and devastating natural disaster, impact
   improves preparedness and resilience, crucial for adapting to increasing flood
   risks due to climate change.
 author: Saeed Mirshekari
-date: 2024-06-10T16:15:56.888Z
+date: 2024-11-07T04:33:51.985Z
 tags:
   - post
   - trends
-thumbnail: /assets/img/uploads/pixlr-image-generator-143dc9cc-1ab7-4af1-9f00-72dc4262d733.png
+thumbnail: /assets/img/uploads/floods.jpg
 ---
 # The Statistics of Floods: Understanding the Impact
 
