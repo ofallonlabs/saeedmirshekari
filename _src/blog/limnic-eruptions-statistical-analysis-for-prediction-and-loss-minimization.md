@@ -11,11 +11,11 @@ meta_description: Limnic eruptions, deadly CO2 releases from deep lakes, pose
   and mitigation efforts, enabling early warnings and data-driven strategies for
   minimizing loss.
 author: Saeed Mirshekari
-date: 2024-06-10T17:16:17.973Z
+date: 2024-11-12T17:17:43.352Z
 tags:
   - post
   - trends
-thumbnail: /assets/img/uploads/limnic_eruptions_deadly_co2_releases_from_deep_lakes_pose_catastrophic_risks_statistical_analysis_an_1980202859.png
+thumbnail: /assets/img/uploads/1da2c8a1-3d10-4009-a450-2f6de38e3aee.jpg
 ---
 # Limnic Eruptions: Statistical Analysis for Prediction and Loss Minimization
 
