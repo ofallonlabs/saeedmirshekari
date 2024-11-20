@@ -20,7 +20,7 @@ thumbnail: /assets/img/uploads/undraw_pilates_ltw9.svg
 
 
 
-# Staying Motivated in a Silent Data Science Job Market
+# Staying Motivated in a Silent Data Silent Job Market
 
 Looking for a job in Data Science can be challenging, and one of the biggest hurdles is maintaining motivation when your applications seem to disappear into a black hole. No replies, no feedback—just silence. It’s easy to feel frustrated, disheartened, or question your own abilities. But staying motivated is crucial in getting through these quiet periods. This article explores why silence from recruiters happens and provides strategies for staying resilient, focused, and ready for the opportunities that lie ahead.
 
