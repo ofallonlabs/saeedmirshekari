@@ -9,11 +9,11 @@ meta_description: Landslides' frequency and impact demand data-driven solutions.
   Through analysis, predictive models guide mitigation efforts, integrating
   engineering, land use planning, and community engagement for resilience.
 author: Saeed Mirshekari
-date: 2024-06-10T16:55:48.286Z
+date: 2024-12-06T20:58:19.929Z
 tags:
   - post
   - trends
-thumbnail: /assets/img/uploads/landslides_frequency_and_impact_demand_data_driven_solutions_through_analysis_predictive_models_guid_698787332.png
+thumbnail: /assets/img/uploads/undraw_qa_engineers_dg5p-1-.png
 ---
 # Unveiling the Statistics of Landslides: Leveraging Data Analysis for Mitigation
 
