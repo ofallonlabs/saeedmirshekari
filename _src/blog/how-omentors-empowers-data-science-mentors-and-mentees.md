@@ -9,7 +9,7 @@ meta_description: O'Mentors connects Data Science mentors and mentees, offering
   personalized guidance, secure payments, and diverse learning opportunities to
   foster growth, career success, and community within the Data Science field.
 author: Saeed Mirshekari
-date: 2024-11-30T15:44:54.831Z
+date: 2024-12-08T19:47:36.106Z
 tags:
   - post
   - mentoring
