@@ -41,8 +41,6 @@ As a Full-Stack Developer at O'Fallon Labs, you will play a crucial role in deve
 * Participate in weekly meetings to provide project updates and align with the team.
 * Contribute to weekly updates and documentation to ensure project transparency and timely progress.
 
-
-
 **Required Qualifications:**
 
 * Minimum of 3 years of relevant experience in full-stack web development.
@@ -69,4 +67,4 @@ As a Full-Stack Developer at O'Fallon Labs, you will play a crucial role in deve
 
 **How to Apply:**
 
-Please submit your resume along with a portfolio or examples of your previous work to info@saeedmirshekari.com. Be sure to highlight your experience in building new platforms from scratch. We start reviewing applications as they come starting March 29, 2025.
+Please submit your resume along with a portfolio or examples of your previous work to info@saeedmirshekari.com with the exact title of "Job Application: Full-Stack Developer". Be sure to highlight your experience in building new platforms from scratch. We start reviewing applications as they come starting March 29, 2025.
