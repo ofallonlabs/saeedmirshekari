@@ -15,7 +15,7 @@ date: 2025-03-15T13:56:07.930Z
 tags:
   - post
   - mentoring
-thumbnail: /assets/img/uploads/undraw_mint-tea_gjmb.png
+thumbnail: /assets/img/uploads/undraw_order-flowers_vauv.png
 ---
 ## Introduction
 
