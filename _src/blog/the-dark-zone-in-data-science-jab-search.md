@@ -1,11 +1,11 @@
 ---
 layout: blog_base.njk
-title: The Dark Zone in Data Science Jab Search
+title: The Dark Zone in Data Science Job Search
 description: The "Dark Zone" is the uncertain phase after graduation or during a
   career change. This blog explores its challenges and emphasizes how mentorship
   can provide clarity, confidence, and direction—transforming confusion into
   growth through personalized guidance from experienced professionals.
-meta_title: The Dark Zone in Data Science Jab Search
+meta_title: The Dark Zone in Data Science Job Search
 meta_description: The "Dark Zone" is the uncertain phase after graduation or
   during a career change. This blog explores its challenges and emphasizes how
   mentorship can provide clarity, confidence, and direction—transforming
