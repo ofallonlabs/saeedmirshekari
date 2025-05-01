@@ -60,7 +60,7 @@ With plenty of impactful opportunities in the industry, your data science journe
 
 <h2>Are There Any Growth Opportunities?</h2>
 
-It doesn’t matter if you are in the academia-industry sourcing [analytics courses online](https://saeedmirshekari.com/coaching-plan/) or lectures; you can easily find better opportunities in the data science world. Data science contains sub-categories of many other roles like an applied scientist, big data engineer, database engineer, data analyst, data architect, machine learning engineer, and more. 
+It doesn’t matter if you are in the academia-industry sourcing [analytics courses online](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) or lectures; you can easily find better opportunities in the data science world. Data science contains sub-categories of many other roles like an applied scientist, big data engineer, database engineer, data analyst, data architect, machine learning engineer, and more. 
 
 So, there are countless opportunities with sub-markets in it, unlike the academia-industry. With your academic background, especially in quantitative fields and data science, you will have a significant head start and a solid foundation to boost your career. 
 
@@ -74,7 +74,7 @@ If you want, you can do research-focused jobs while being a data scientist. Othe
 
 Working for the private sector can take time to secure your job. Such corporations hire at will. This means they can terminate you at any time, for any reason (except for an illegal one), or for no reason without incurring any legal liability. 
 
-However, this won’t be a concern if you keep updating your skills, taking top-quality [free data analytics courses online](https://saeedmirshekari.com/ecourse-bdsf/), and bringing success to the company. So, make your name in the company, and the rest will be fine. 
+However, this won’t be a concern if you keep updating your skills, taking top-quality [free data analytics courses online](https://saeedmirshekari.com/data-science-learning-program/), and bringing success to the company. So, make your name in the company, and the rest will be fine. 
 
 <h3>2. Possible Toxic Workplaces</h3>
 

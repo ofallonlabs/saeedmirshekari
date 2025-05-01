@@ -58,7 +58,7 @@ We all know time is money, especially in your 40s. Time is a luxury you can’t 
 
 <h3>5. Get Enrolled in an Online Data Science Bootcamp</h3>
 
-Aspiring data scientists can learn DS skills and experience through virtual bootcamps. While you can teach yourself at your decided pace, it’s best to enroll in a **[data science online course](https://saeedmirshekari.com/coaching-plan/)** as it has the proper structure and support you need to score a job. 
+Aspiring data scientists can learn DS skills and experience through virtual bootcamps. While you can teach yourself at your decided pace, it’s best to enroll in a **[data science online course](https://saeedmirshekari.com/data-science-one-on-one-mentoring//)** as it has the proper structure and support you need to score a job. 
 
 Here’s how a bootcamp or online course can help you:
 
@@ -102,7 +102,7 @@ Remember to approach networking with authenticity, be open to learning from othe
 
 <h2>How Can O’Fallon Labs Help You Become A Data Scientist?</h2>
 
-At [O’Fallon Labs](https://saeedmirshekari.com/), we provide paid and **[free data analytics courses](https://saeedmirshekari.com/ecourse-bdsf/)**. Check out our data science tutorial for beginners on our homepage to understand how we operate and what services we offer. This isn’t all! 
+At [O’Fallon Labs](https://saeedmirshekari.com/), we provide paid and **[free data analytics courses](https://saeedmirshekari.com/data-science-learning-program/)**. Check out our data science tutorial for beginners on our homepage to understand how we operate and what services we offer. This isn’t all! 
 
 With us, you get one-on-one mentorship from a data science industry expert. From revamping your resume and mock interviews to helping you up on your feet and get a data analytics job, we will help you throughout your journey.
 

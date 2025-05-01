@@ -36,7 +36,7 @@ After you've written to them a few times, inquire if they have time for an infor
 
 <h3> One-on-One Online Mentorship Coaching Programs </h3>
 
-1-on-1 online mentorship programs are hyper-personalized mentorship programs that have been designed uniquely to be completely “mentee-driven”. An expert from the field of Data Science works with you more closely. Some of the advantages that [one-on-one mentorship/coaching programs](https://saeedmirshekari.com/coaching-plan/) have over other forms of mentorships include:
+1-on-1 online mentorship programs are hyper-personalized mentorship programs that have been designed uniquely to be completely “mentee-driven”. An expert from the field of Data Science works with you more closely. Some of the advantages that [one-on-one mentorship/coaching programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) have over other forms of mentorships include:
 
 * Weekly 1-on-1 to talk about: your progress, your questions, and the next steps
 * Full support via direct messaging access in private text channels

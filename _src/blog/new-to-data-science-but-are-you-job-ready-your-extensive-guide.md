@@ -64,11 +64,11 @@ Moreover, create a well-structured resume. A good resume should be short, tell y
 
 
 
-Remember, a resume is the first step to qualifying for a job interview. So, hire [professional help](https://saeedmirshekari.com/team/); a [mentor](https://saeedmirshekari.com/coaching-plan/). They’ll help you design the best resume that stands out in the eyes of recruiters. 
+Remember, a resume is the first step to qualifying for a job interview. So, hire [professional help](https://saeedmirshekari.com/team/); a [mentor](https://saeedmirshekari.com/data-science-one-on-one-mentoring//). They’ll help you design the best resume that stands out in the eyes of recruiters. 
 
 
 
-Check out the [best online data science programs](https://saeedmirshekari.com/coaching-plan/), including a free course [here](https://saeedmirshekari.com/services/). 
+Check out the [best online data science programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring//), including a free course [here](https://saeedmirshekari.com/services/). 
 
 <h3>3. Understand Yourself - Gain Self-Awareness</h3>
 
@@ -114,6 +114,6 @@ These interviews will make you understand how this process works and allow you t
 A data science degree or online bootcamp isn’t enough to [score your first job](https://saeedmirshekari.com/blog/how-to-get-your-first-data-science-job-without-any-job-experience-the-ultimate-solution/). Hiring a mentor who knows the process like the back of their fingertips is a plus for fresh graduates. 
 
 **\
-Instead of wasting time on the process of [getting your first data science job](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/) and its intricacies, a mentor will cut right to the chase and help you get a job in less time. If you are new, passionate about DS, and want to learn data science, check out our [free online course](https://saeedmirshekari.com/ecourse-bdsf/).**
+Instead of wasting time on the process of [getting your first data science job](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/) and its intricacies, a mentor will cut right to the chase and help you get a job in less time. If you are new, passionate about DS, and want to learn data science, check out our [free online course](https://saeedmirshekari.com/data-science-learning-program/).**
 
 <!--EndFragment-->

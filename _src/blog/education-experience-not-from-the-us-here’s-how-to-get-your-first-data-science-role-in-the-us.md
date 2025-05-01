@@ -78,7 +78,7 @@ It’s always best to talk to somebody who has already been through all these st
 
 Mentors like [Saeed MirShekari](https://saeedmirshekari.com/team/) will guide you in the right direction. These individuals know how vast the [talent gap](https://saeedmirshekari.com/blog/2022-05-19-the-talent-gap-in-data-science-today-and-tomorrow/) in the data science field is. And how [immigrants](https://saeedmirshekari.com/blog/2022-05-23-data-science-opportunities-and-immigrants-with-higher-educations/) can take advantage of this talent gap.
 
-Check out our data analytics for beginners course [here](https://saeedmirshekari.com/ecourse-bdsf/). 
+Check out our data analytics for beginners course [here](https://saeedmirshekari.com/data-science-learning-program/). 
 
 <h2>Conclusion</h2>
 

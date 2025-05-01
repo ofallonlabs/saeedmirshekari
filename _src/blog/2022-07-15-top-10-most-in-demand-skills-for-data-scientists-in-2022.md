@@ -149,4 +149,4 @@ Putting in the time and effort to learn these skills can set you up for a succes
 * Build up your skills bit by bit
 
 
-If you’re ready to start building your skill set or explore more, begin with our [learning solutions](https://saeedmirshekari.com/ecourse-bdsf/) (if you are a newbie), or sign up for our [1-on-1 mentorship](https://saeedmirshekari.com/coaching-plan/) (if you have some familiarity with the field) which can help you save a lot of time and bring the best results for you.
+If you’re ready to start building your skill set or explore more, begin with our [learning solutions](https://saeedmirshekari.com/data-science-learning-program/) (if you are a newbie), or sign up for our [1-on-1 mentorship](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) (if you have some familiarity with the field) which can help you save a lot of time and bring the best results for you.

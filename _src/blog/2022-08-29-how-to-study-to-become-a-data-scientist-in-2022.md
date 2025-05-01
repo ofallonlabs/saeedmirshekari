@@ -63,7 +63,7 @@ Online videos and interactive classes are more accessible and enable you to star
 
 Online courses and textbooks are best when paired together. 
 
-Our [free Introductory course](https://saeedmirshekari.com/ecourse-bdsf/) is a perfect learning program for you as a beginner to get you started on what Data Science and Machine Learning are all about and how quickly you can benefit from them. It will give you an overview of everything in the field, you can learn more about each topic in more depth on your own from other resources.
+Our [free Introductory course](https://saeedmirshekari.com/data-science-learning-program/) is a perfect learning program for you as a beginner to get you started on what Data Science and Machine Learning are all about and how quickly you can benefit from them. It will give you an overview of everything in the field, you can learn more about each topic in more depth on your own from other resources.
 
 Here are also some other good websites where you can learn Python for Data Science. They cover the foundational introductory topics to Python and Data Science. 
 
@@ -162,4 +162,4 @@ In order to be selected for your first data science interview, networking is a r
 
 As soon as you've established a connection with the recruiters, the next step is to demonstrate and explain how your data science expertise can assist their organizations in solving the issue. After that, your first interview will occur. Go for these interviews, interact, get feedback and ensure you implement this collected feedbacks. 
 
-In this article, we have walked you through valuable tips to follow in order to study effectively to become a Data Scientist in 2022 and beyond. When you implement these tips and with the guidance of an [experienced professional](https://saeedmirshekari.com/coaching-plan/) ( mentor) your success is guaranteed.
+In this article, we have walked you through valuable tips to follow in order to study effectively to become a Data Scientist in 2022 and beyond. When you implement these tips and with the guidance of an [experienced professional](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) ( mentor) your success is guaranteed.

@@ -34,7 +34,7 @@ Many data science employment will be available for experts with the necessary da
 
 Upskill yourself for the future at O'Fallon Labs. 
 
-[Learn how you can kickstart your Data Science career with this free immersive Data Science Training Program from O'Fallon Labs. ](https://saeedmirshekari.com/ecourse-bdsf/)
+[Learn how you can kickstart your Data Science career with this free immersive Data Science Training Program from O'Fallon Labs. ](https://saeedmirshekari.com/data-science-learning-program/)
 
 In this article, we will highlight the top 5 business sectors where Data Science is highly in use. These top sectors include Finance/Banking,  Healthcare, Advertisement/Marketing, Ecommerce, and Entertainment. 
 

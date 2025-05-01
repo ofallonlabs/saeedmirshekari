@@ -54,7 +54,7 @@ It is important to note that AI is not expected to completely replace humans in 
 
 In the future, it is certain that humans will continue to play a vital role in fields that require human intelligence and skills, such as art, music, design, research, and innovation. Moreover, as [AI technology advances, there will be new opportunities](https://saeedmirshekari.com/blog/2022-05-19-the-talent-gap-in-data-science-today-and-tomorrow/) for humans to collaborate with machines and create new forms of value that were previously not possible.
 
-It is also possible that as some jobs become automated, new jobs may emerge in areas such as AI programming, [data analysis](https://saeedmirshekari.com/analytics/), and robotics maintenance. These fields require specialized skills and knowledge that are currently in high demand and are [likely to continue to grow in the future.](https://saeedmirshekari.com/blog/the-future-of-data-science-trends-and-predictions-for-2023-and-beyond/)
+It is also possible that as some jobs become automated, new jobs may emerge in areas such as AI programming, [data analysis](https://saeedmirshekari.com/analytics-and-data-science-program/), and robotics maintenance. These fields require specialized skills and knowledge that are currently in high demand and are [likely to continue to grow in the future.](https://saeedmirshekari.com/blog/the-future-of-data-science-trends-and-predictions-for-2023-and-beyond/)
 
 As AI becomes increasingly prevalent, it's uncertain what the next steps for humans will be. However, it's evident that humans will need to continually acquire new skills and remain flexible in order to succeed in a swiftly changing technological environment, rather than succumbing to the fear of AI taking up their jobs. 
 

@@ -40,9 +40,9 @@ This can only be done when your curriculum includes:
 * Statistics and probability
 * Data visualization
 
-Don’t, for once, think that you can do all this alone without guidance. Start looking for [free data analytics courses](https://saeedmirshekari.com/ecourse-bdsf/) with or without certificates to acquire experience-based skills. Industry leaders design these courses for aspiring individuals. 
+Don’t, for once, think that you can do all this alone without guidance. Start looking for [free data analytics courses](https://saeedmirshekari.com/data-science-learning-program/) with or without certificates to acquire experience-based skills. Industry leaders design these courses for aspiring individuals. 
 
-They also offer other perks like [mentorship programs](https://saeedmirshekari.com/coaching-plan), career counseling, and more. Earning a data science degree typically takes 2 to 4 years, which is a long time. But there are different, more beneficial ways to learn all the essentials and gain skills and experience - \[from 6-month online data science programs and bootcamps](<https://saeedmirshekari.com/blog/202
+They also offer other perks like [mentorship programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring/), career counseling, and more. Earning a data science degree typically takes 2 to 4 years, which is a long time. But there are different, more beneficial ways to learn all the essentials and gain skills and experience - \[from 6-month online data science programs and bootcamps](<https://saeedmirshekari.com/blog/202
 2-09-07-the-best-way-to-become-a-
 data-scientist/>).  
 

@@ -22,7 +22,7 @@ What bugs the minds of most beginners in Data Science (especially those coming f
 
 So many 'coaches/experts' exaggerate the problem and scare away many newcomers by emphasizing that they cannot become data scientists until they have mastered complex statistics, linear algebra, calculus, programming, databases, distributed computing, machine learning, visualization, experimental design, clustering, deep learning, natural language processing, and more. This is false.
 
-Yes, at some point in your data career you might need to master some of these concepts to solve some complex problems, however, you don't need to master all of those skills to [begin a career in data science](https://saeedmirshekari.com/ecourse-bdsf/). 
+Yes, at some point in your data career you might need to master some of these concepts to solve some complex problems, however, you don't need to master all of those skills to [begin a career in data science](https://saeedmirshekari.com/data-science-learning-program/). 
 
 Where exactly do you begin in your Data Science career? In this article, I have explained the entire process of how you can successfully kickstart your Data Science career. 
 
@@ -104,6 +104,6 @@ From there your knowledge and abilities grow and you can advance the ladder by g
 
 <h2>Conclusion</h2>
 
-Data science is a field that would require a lifetime to fully understand because there is so much to learn. However, you do not have to master everything before you can begin your career. Evaluate your current position and just start! You can begin now with our [free data analytics beginner course.](https://saeedmirshekari.com/ecourse-bdsf/)
+Data science is a field that would require a lifetime to fully understand because there is so much to learn. However, you do not have to master everything before you can begin your career. Evaluate your current position and just start! You can begin now with our [free data analytics beginner course.](https://saeedmirshekari.com/data-science-learning-program/)
 
 <!--EndFragment-->

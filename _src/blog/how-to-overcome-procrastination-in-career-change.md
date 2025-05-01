@@ -76,7 +76,7 @@ To focus on the journey you've got to set meaningful goals that motivate you to 
 Knowing that you've worked effectively before lunch will help you enjoy your lunch break more. Additionally, knowing that you were productive in the morning can help you work more efficiently later in the day.
 <h2>6. Seek proper guidance and someone to hold you accountable:</h2> Proper guidance from an experienced professional in the career field you wish to switch to will extremely make the process easier for you.
 
-\[With the help of a mentor](https://saeedmirshekari.com/coaching-plan/) or career advisor, you can get clarity on what you want, how to begin, and what to focus on so you don't get overwhelmed. 
+\[With the help of a mentor](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) or career advisor, you can get clarity on what you want, how to begin, and what to focus on so you don't get overwhelmed. 
 
 An effective method for combating procrastination is to have a companion who can hold you accountable. Your accountability partner could be a colleague, manager, or friend.\
    \

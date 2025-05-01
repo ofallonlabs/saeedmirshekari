@@ -64,7 +64,7 @@ You can’t claim to be an expert without technical knowledge that backs your sk
 
 Maybe the data analytics jobs you are applying to aren’t the right ones according to your skill set. Or maybe you simply lack the required skills. If that is the problem, you should work on these gaps. 
 
-Closing your skills gap is critical for you to succeed in the data science industry. Get in touch with a [mentor](https://saeedmirshekari.com/blog/2022-08-15-why-you-need-a-data-science-career-mentor/) who will analyze your current skill set and identify the [skills](https://saeedmirshekari.com/blog/2022-07-15-top-10-most-in-demand-skills-for-data-scientists-in-2022/) you lack. This [mentorship](https://saeedmirshekari.com/coaching-plan/) will guide you on the right path. Your instructor may even recommend some paid and [free data science courses](https://saeedmirshekari.com/ecourse-bdsf/). 
+Closing your skills gap is critical for you to succeed in the data science industry. Get in touch with a [mentor](https://saeedmirshekari.com/blog/2022-08-15-why-you-need-a-data-science-career-mentor/) who will analyze your current skill set and identify the [skills](https://saeedmirshekari.com/blog/2022-07-15-top-10-most-in-demand-skills-for-data-scientists-in-2022/) you lack. This [mentorship](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) will guide you on the right path. Your instructor may even recommend some paid and [free data science courses](https://saeedmirshekari.com/data-science-learning-program/). 
 
 <h3>6. Your Networking Skills are Weak</h3>
 

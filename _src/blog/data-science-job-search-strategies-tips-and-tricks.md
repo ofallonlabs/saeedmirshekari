@@ -91,7 +91,7 @@ Here are some short tips to help you prepare for data science job interviews:
 
 <h3> 6. Keep Learning </h3>
 
-Keeping yourself updated with the latest trends and technologies in data science is crucial to stay relevant in the job market. Make sure to keep learning and improving your skills by attending workshops, webinars, and [online courses.](https://saeedmirshekari.com/ecourse-bdsf-training/) Having [a Data Science mentor](https://saeedmirshekari.com/team/) can greatly enhance your skill set also and improve your chances of securing a job in the field.
+Keeping yourself updated with the latest trends and technologies in data science is crucial to stay relevant in the job market. Make sure to keep learning and improving your skills by attending workshops, webinars, and [online courses.](https://saeedmirshekari.com/data-science-training-program/) Having [a Data Science mentor](https://saeedmirshekari.com/team/) can greatly enhance your skill set also and improve your chances of securing a job in the field.
 
 <h3> 7. Leverage Social Media </h3>
 

@@ -98,9 +98,9 @@ The job requisites that many companies put forth in their descriptions tend to b
 
 ## **Choose trustable mentoring programs.**
 
-As somebody [new to the data science industry](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/) in the US, you can put your faith in reputed and experienced data science mentors. The mentoring programs offer A to Z support regarding various facades of the country's data science career options. You can know your place in the competition and work to enhance your skills with adequate [guidance](https://saeedmirshekari.com/coaching-plan/).
+As somebody [new to the data science industry](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/) in the US, you can put your faith in reputed and experienced data science mentors. The mentoring programs offer A to Z support regarding various facades of the country's data science career options. You can know your place in the competition and work to enhance your skills with adequate [guidance](https://saeedmirshekari.com/data-science-one-on-one-mentoring//).
 
-## **Join comprehensive [online courses](https://saeedmirshekari.com/ecourse-bdsf/)**
+## **Join comprehensive [online courses](https://saeedmirshekari.com/data-science-learning-program/)**
 
 Even if you possess the required degree to enter the data science field, you might need to brush up on your know-how and skills from time to time. The data science realm is transforming by the day, and you need to keep pace with the transformation. Various online courses on specific topics related to data science can prove rewarding.
 

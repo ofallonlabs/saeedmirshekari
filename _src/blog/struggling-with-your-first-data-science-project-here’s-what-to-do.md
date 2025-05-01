@@ -120,11 +120,11 @@ Your career’s first job is never easy. It always highlights new strengths and 
 
 
 
-If you have just stepped foot in the data science world, learning data science and finding the [best data science courses](https://saeedmirshekari.com/coaching-plan/) can be challenging without proper guidance. 
+If you have just stepped foot in the data science world, learning data science and finding the [best data science courses](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) can be challenging without proper guidance. 
 
 
 
-At O’Fallon Labs, we provide one-to-one training under [one of the best data scientist mentors](https://saeedmirshekari.com/blog/2022-03-17-physicist-turned-data-scientist-ii-6-yrs-down-the-road/), [Saeed MirShekari’s](https://saeedmirshekari.com/) guidance. Check out our [free data science course online](https://saeedmirshekari.com/ecourse-bdsf/) to learn about the big picture of the field of data science and some hands-on experiences on the main topics in Machine Learning and Python Programming. 
+At O’Fallon Labs, we provide one-to-one training under [one of the best data scientist mentors](https://saeedmirshekari.com/blog/2022-03-17-physicist-turned-data-scientist-ii-6-yrs-down-the-road/), [Saeed MirShekari’s](https://saeedmirshekari.com/) guidance. Check out our [free data science course online](https://saeedmirshekari.com/data-science-learning-program/) to learn about the big picture of the field of data science and some hands-on experiences on the main topics in Machine Learning and Python Programming. 
 
 
 
