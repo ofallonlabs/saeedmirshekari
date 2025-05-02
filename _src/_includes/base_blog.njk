@@ -6,6 +6,10 @@
 {# END Sign Up Form #}
 
 <head style="font-family: 'Helvetica', 'Arial', sans-serif;">
+
+{# <title> Data Science Learning Center</title> #}
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N4WBFLP0G4"></script>
 <script>
@@ -19,12 +23,11 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> {{ title }}</title>
 
   <meta name="keywords" content="data science mentoring, data science learning, data analytics courses, top data science courses in the usa, data science mentoring programs in the usa, data science online in the usa, Data science tutorials in the USA, data science online mentoring, data science course online, data science and machine learning course, data analytics courses, best data science mentoring in the usa, best online data science mentors in the usa, data science mentoring, data science mentoring program in the usa, best online data science courses, best online platform to learn data science, best online learning, data science jobs">
 
   <meta property="og:image" content={{thumbnail}}>
-  <meta property="og:title" content={{title}}>
+  <meta property="og:title" content={{title}}/>
   <meta property="og:description" content={{description}}>
   <meta property="og:type" content="article" />
   <meta property="og:url" content="@("https://saeedmirshekari.com/blog/"+{{title}}.replace(/\s+/g, '-').toLowerCase())"/>
