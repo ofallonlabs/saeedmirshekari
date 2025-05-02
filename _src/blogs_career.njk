@@ -15,7 +15,6 @@ layout: blog_base_nobody.njk
   {# <meta content="Data Science Mentoring, Data Science Mentors, Career Development, Data Science, Machine Learning Tips & Tricks, and content related to other topics right here. Hot topics in this page includes: Top Skills for Data Scientists; Is Data Science For Me? 6 Questions to Ask Yourself; How To Prepare For Success In Your First Data Science Job Interview "+"{{pagination.pageNumber}}" name="description"> #}
   <meta content="Data Science Mentoring Program, Data Science Training, Become Data Scientist, Data Scientist Salary" name="keywords">
   <meta content="Saeed Mirshekari" name="author">
-  <link rel=“canonical” href=“https://www.saeedmirshekari.com/blog” />
 </head>
 
 
@@ -82,9 +81,9 @@ layout: blog_base_nobody.njk
 
 {% if pagination.pageNumber > 0 %}
   {% if pagination.pageNumber == 1 %}
-    <a href="/blog/" class="prev"><<</a>
+    <a href="/blogs_career/" class="prev"><<</a>
   {% else %}
-  <a href="/blog/" class="prev"><<</a>
+  <a href="/blogs_career/" class="prev"><<</a>
   {% endif %}
 {% endif %}
 
@@ -94,17 +93,17 @@ layout: blog_base_nobody.njk
 {% for page in [pagination.pageNumber-2, pagination.pageNumber-1, pagination.pageNumber, pagination.pageNumber+1, pagination.pageNumber+2] %}
 
   {% if page == pagination.pageNumber%}
-    <a href="/blog/{{ page }}" style='background-color:#94c045; color:#000;'><b>{{page+1}}</b></a>
+    <a href="/blogs_career/{{ page }}" style='background-color:#94c045; color:#000;'><b>{{page}}</b></a>
   {% else %}
 
     {% if page in [-2, -1 , pagination.pages.length, pagination.pages.length+1]  %}
-      <a style='background-color:#fff; color:#fff;'>{{page+1}}</a>
+      <a style='background-color:#fff; color:#fff;'>{{page}}</a>
     {% else %}
       
       {% if page == 0 %}
-      <a href="/blog/" style='background-color:#ddd; color:#111;'>{{page+1}}</a>
+      <a href="/blogs_career/" style='background-color:#ddd; color:#111;'>{{page}}</a>
       {% else %}
-      <a href="/blog/{{ page }}" style='background-color:#ddd; color:#000;'>{{page+1}}</a>
+      <a href="/blogs_career/{{ page }}" style='background-color:#ddd; color:#000;'>{{page}}</a>
       {% endif %}
 
     {% endif %}
@@ -116,7 +115,7 @@ layout: blog_base_nobody.njk
 {# end---------- #}
 
 {% if (pagination.pageNumber) < (pagination.pages.length - 1)  %}
-  <a href="/blog/{{ pagination.pages.length-1}}">>></a>
+  <a href="/blogs_career/{{ pagination.pages.length-1}}">>></a>
 {% endif %}
 
 {% if pagination.pageNumber == pagination.pages.length - 1  %}
