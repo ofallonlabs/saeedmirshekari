@@ -7,7 +7,14 @@
 
 <head style="font-family: 'Helvetica', 'Arial', sans-serif;">
 
-<title>{{ title }}</title>
+{% if pagination and pagination.pageNumber > 0 %}
+  {% set pageTitle = "O'Labs Learning Center – Page " ~ (pagination.pageNumber) %}
+{% else %}
+  {% set pageTitle = "O'Labs Learning Center" %}
+{% endif %}
+
+
+<title>{{pageTitle}}</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N4WBFLP0G4"></script>
