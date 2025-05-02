@@ -10,8 +10,9 @@
 {% if pagination and pagination.pageNumber > 0 %}
   {% set pageTitle = "O'Labs Learning Center – Page " ~ (pagination.pageNumber) %}
 {% else %}
-  {% set pageTitle = "O'Labs Learning Center" %}
+  {% set pageTitle = title%}
 {% endif %}
+  
 
 
 <title>{{pageTitle}}</title>
