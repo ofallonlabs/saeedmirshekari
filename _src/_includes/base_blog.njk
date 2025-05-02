@@ -8,7 +8,7 @@
 <head style="font-family: 'Helvetica', 'Arial', sans-serif;">
 
 {% if pagination and pagination.pageNumber > 0 %}
-  {% set pageTitle = "O'Labs Learning Center – Page " ~ (pagination.pageNumber) %}
+  {% set pageTitle = title ~ " – Page " ~ (pagination.pageNumber) %}
 {% else %}
   {% set pageTitle = title%}
 {% endif %}
