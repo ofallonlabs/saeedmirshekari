@@ -35,7 +35,7 @@ Data science practitioners are referred to as data scientists and they are indiv
 
 In simple terms, a data scientist's job is to examine data in order to find useful information. Organizations in every sector are now discovering the value of big data and want to leverage its power to drive smart business decisions, which is driving up the wages of data scientists across almost every industry.
 
-Data science creates an intersection between statistics, software engineering, and domain or business knowledge. Therefore as a job seeker or [an individual transitioning career into data science,](https://saeedmirshekari.com/blog/2022-03-17-physicist-turned-data-scientist-ii-6-yrs-down-the-road/) you must be creative, possess a little bit of coding skills and statistics skills to begin.
+Data science creates an intersection between statistics, software engineering, and domain or business knowledge. Therefore as a job seeker or [an individual transitioning career into data science,](https://saeedmirshekari.com/blog/2022-03-14-physicist-turned-data-scientist-i/) you must be creative, possess a little bit of coding skills and statistics skills to begin.
 
 <!--StartFragment-->
 

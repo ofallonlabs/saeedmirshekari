@@ -107,7 +107,7 @@ Don’t stop applying for jobs. Chances are, you will receive a call from a few 
 
 
 
-These interviews will make you understand how this process works and allow you to prepare better for it in the future. Absorb the feedback. Learn from these failed job interviews and get better in the next one. Again, seek help from a [great data science mentor](https://saeedmirshekari.com/blog/2022-03-17-physicist-turned-data-scientist-ii-6-yrs-down-the-road/) who knows this process and will help you prepare and breeze through it. 
+These interviews will make you understand how this process works and allow you to prepare better for it in the future. Absorb the feedback. Learn from these failed job interviews and get better in the next one. Again, seek help from a [great data science mentor](https://saeedmirshekari.com/blog/https://saeedmirshekari.com/blog/2022-03-14-physicist-turned-data-scientist-i/) who knows this process and will help you prepare and breeze through it. 
 
 <h2>Conclusion</h2>
 

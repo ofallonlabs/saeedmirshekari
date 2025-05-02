@@ -80,7 +80,7 @@ According to IBM, 2.7 million jobs in the field of data science and analysis wer
 
 Those who are new to the job market should definitely put their feet in the vast ocean of opportunities that data science presents. But the problem is that the demand for data scientists is soaring whereas the supply is not up to the mark. This could either be because of the lack of talent or most likely because of the focused education at the university level. 
 
-The talent gap in data science can be filled if more and more universities are offering bachelor's, and master's degrees in data science and related [skill-based courses](https://saeedmirshekari.com/blog/2022-03-14-test/). Newer opportunities in the field of data science can be provided to fresh graduates and job seekers if they acquire the necessary skills. 
+The talent gap in data science can be filled if more and more universities are offering bachelor's, and master's degrees in data science and related [skill-based courses](https://saeedmirshekari.com/blog/). Newer opportunities in the field of data science can be provided to fresh graduates and job seekers if they acquire the necessary skills. 
 
 <h1>The Future Solutions </h1>
 

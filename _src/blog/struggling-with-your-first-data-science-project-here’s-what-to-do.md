@@ -124,7 +124,7 @@ If you have just stepped foot in the data science world, learning data science a
 
 
 
-At O’Fallon Labs, we provide one-to-one training under [one of the best data scientist mentors](https://saeedmirshekari.com/blog/2022-03-17-physicist-turned-data-scientist-ii-6-yrs-down-the-road/), [Saeed MirShekari’s](https://saeedmirshekari.com/) guidance. Check out our [free data science course online](https://saeedmirshekari.com/data-science-learning-program/) to learn about the big picture of the field of data science and some hands-on experiences on the main topics in Machine Learning and Python Programming. 
+At O’Fallon Labs, we provide one-to-one training under [one of the best data scientist mentors](https://saeedmirshekari.com/blog/2022-03-14-physicist-turned-data-scientist-i/) [Saeed MirShekari’s](https://saeedmirshekari.com/) guidance. Check out our [free data science course online](https://saeedmirshekari.com/data-science-learning-program/) to learn about the big picture of the field of data science and some hands-on experiences on the main topics in Machine Learning and Python Programming. 
 
 
 
