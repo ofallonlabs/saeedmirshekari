@@ -14,7 +14,7 @@ tags:
   - post
 thumbnail: /assets/img/uploads/corporate_chess_league_2025.jpg
 ---
-**From Struggles to the Podium; From the Pawn to the Queens!**\
+**From Struggles to the Podium; From the Pawns to the Queens!**\
 \
 **The Journey of Building a Team That Works, Wins, and Smiles (all at the same time!)** 
 
