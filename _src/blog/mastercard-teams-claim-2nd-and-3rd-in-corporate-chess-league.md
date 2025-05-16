@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: Mastercard Teams Claim 2nd and 3rd in Corporate Chess League
+title: Mastercard Teams Claim 3rd and 4th in Corporate Chess League
 description: From humble beginnings to podium finishes, our Mastercard chess
   teams ranked 2nd and 3rd in the Corporate Chess League—proof that with passion
   and teamwork, we can work, win, and smile!
@@ -24,7 +24,7 @@ Back then, I met Ken, Brian, and Henry—fellow Mastercard colleagues I hadn’t
 
 We played a few decent games that night, even picked up a couple of wins, but ultimately, we were outmatched and knocked out of the tournament. Our debut wasn’t exactly a Cinderella story—we were struggling, no doubt—but something clicked. A spark was lit, and we weren’t ready to let it fade.
 
-Fast forward to *yesterday*, and I’m incredibly proud to say that our journey came full circle: **not one, but two Mastercard teams**—*Mastercard Red* and *Mastercard Orange*—finished **2nd and 3rd** respectively in the final standings of the 2024–25 Corporate Chess League!
+Fast forward to *yesterday*, and I’m incredibly proud to say that our journey came full circle: **not one, but two Mastercard teams**—*Mastercard Red* and *Mastercard Orange*—finished **3rd and 4th** respectively in the final standings of the 2024–25 Corporate Chess League!
 
 And that’s not all—while our teams battled it out in the main tournament, we also had three players represent us in the Blitz side event. I even managed to grab **3rd place** myself… and the prize? A crisp **white hat**, which instantly became the *perfect trophy*—because I could throw it on my bald head right away. 😄 Practical, stylish, and symbolic!
 
@@ -42,10 +42,10 @@ I’ll always remember those early days—sharing strategies, recovering from bl
 
 ### The Final 4 in 2024–25 Corporate Chess League
 
-1. **Washington University in St. Louis (Wash U)**
-2. **Mastercard Red**
-3. **Mastercard Orange**
-4. **Enterprise**
+1. **EnterpriseW**
+2. **Washington University in St. Louis (Wash U)**
+3. **Mastercard Red**
+4. **Mastercard Orange**
 
 More than ten corporate teams participated, and the competition was fierce. To come this far—and to do it *together*—is something I’ll always cherish.
 
