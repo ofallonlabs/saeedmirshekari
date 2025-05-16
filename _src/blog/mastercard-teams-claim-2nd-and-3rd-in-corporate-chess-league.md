@@ -40,7 +40,7 @@ We built something truly special: a team that **works hard, wins games, and neve
 
 I’ll always remember those early days—sharing strategies, recovering from blunders, and celebrating little wins that pushed us forward. Yesterday, standing beside this team of smart, humble, and passionate people, I felt nothing but pride.
 
-### Final Standings – 2024–25 Corporate Chess League
+### The Final 4 in 2024–25 Corporate Chess League
 
 1. **Washington University in St. Louis (Wash U)**
 2. **Mastercard Red**
