@@ -21,7 +21,7 @@ rating: 5
 ---
 # The Top Data Science Tools and Their Impact on the Industry
 
-Data Science has become one of the [most sought-after professions](https://saeedmirshekari.com/blog/5-hot-business-sectors-of-data-science-applications/) in the current job market. It is a profession that involves extracting insights and knowledge from data by using advanced technologies, algorithms, and statistical models. With the proliferation of big data, there has been a [surge in demand for data scientists](https://saeedmirshekari.com/blog/2022-05-14-the-talent-gap-in-data-science-today-and-tomorrow/) and tools that can help them extract insights from vast amounts of data.
+Data Science has become one of the [most sought-after professions](https://saeedmirshekari.com/blog/5-hot-business-sectors-of-data-science-applications/) in the current job market. It is a profession that involves extracting insights and knowledge from data by using advanced technologies, algorithms, and statistical models. With the proliferation of big data, there has been a surge in demand for data scientists and tools that can help them extract insights from vast amounts of data.
 
 In this blog post, we will discuss the five hot data science tools that have gained popularity in recent years and how each of them can help in every stage of the data science process. But first, before we dive into those, let's have a quick look into what data science tools are.
 
