@@ -91,7 +91,7 @@ layout: blog_base_nobody.njk
 {% for page in [pagination.pageNumber-2, pagination.pageNumber-1, pagination.pageNumber, pagination.pageNumber+1, pagination.pageNumber+2] %}
 
   {% if page == pagination.pageNumber%}
-    <a href="/blogs_projects/{{ page }}" style='background-color:#94c045; color:#000;'><b>{{page}}</b></a>
+    <a href="/blogs_projects/{{ page }}" style='background-color:#94c045; color:#000;'>{{page}}</a>
   {% else %}
 
     {% if page in [-2, -1 , pagination.pages.length, pagination.pages.length+1]  %}
