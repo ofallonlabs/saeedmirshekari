@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: Why My Boss Hates Me
+title: Getting Back on Track with Your Boss
 description: This blog explores why employees might feel disliked by their boss,
   examines underlying causes, offers strategies to improve the relationship, and
   guides readers on when to adapt, escalate, or move on.
