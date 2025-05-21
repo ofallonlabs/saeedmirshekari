@@ -75,5 +75,3 @@ As data science continues to evolve, mentorship will play an even greater role i
 1-on-1 mentoring through O’Mentors is not just an added advantage—it’s a catalyst for success in data science careers. By providing personalized guidance, fostering real-world problem-solving, and accelerating career transitions, mentorship is shaping the next generation of data professionals.
 
 If you’re looking to break into data science, navigate career challenges, or accelerate your growth, investing in mentorship might be the smartest decision you make.
-
-**Ready to elevate your data science career? Visit [O'Mentors](www.omentors.com) and connect with top mentors today.**

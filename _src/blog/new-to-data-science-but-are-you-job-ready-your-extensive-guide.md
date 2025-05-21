@@ -87,7 +87,7 @@ How will you prove that you can handle the job requirements if you aren’t self
 
 
 
-You will answer most of these questions while working on your skills and portfolio. But for soft skills assessment, you will have to take mock or real interviews. The best way we suggest is to work with a [qualified mentor](https://saeedmirshekari.com/blog/2022-03-14-physicist-turned-data-scientist-i/) who’ll highlight your strengths and weaknesses. That way, you can collect constructive feedback and regularly improve your technical and soft skills.
+You will answer most of these questions while working on your skills and portfolio. But for soft skills assessment, you will have to take mock or real interviews. The best way we suggest is to work with a qualified mentor who’ll highlight your strengths and weaknesses. That way, you can collect constructive feedback and regularly improve your technical and soft skills.
 
 <h3>4. Understand the Job Market </h3>
 
@@ -107,13 +107,13 @@ Don’t stop applying for jobs. Chances are, you will receive a call from a few 
 
 
 
-These interviews will make you understand how this process works and allow you to prepare better for it in the future. Absorb the feedback. Learn from these failed job interviews and get better in the next one. Again, seek help from a [great data science mentor](https://saeedmirshekari.com/blog/https://saeedmirshekari.com/blog/2022-03-14-physicist-turned-data-scientist-i/) who knows this process and will help you prepare and breeze through it. 
+These interviews will make you understand how this process works and allow you to prepare better for it in the future. Absorb the feedback. Learn from these failed job interviews and get better in the next one. Again, seek help from a great data science mentor who knows this process and will help you prepare and breeze through it. 
 
 <h2>Conclusion</h2>
 
-A data science degree or online bootcamp isn’t enough to [score your first job](https://saeedmirshekari.com/blog/how-to-get-your-first-data-science-job-without-any-job-experience-the-ultimate-solution/). Hiring a mentor who knows the process like the back of their fingertips is a plus for fresh graduates. 
+A data science degree or online bootcamp isn’t enough to score your first job. Hiring a mentor who knows the process like the back of their fingertips is a plus for fresh graduates. 
 
 **\
-Instead of wasting time on the process of [getting your first data science job](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/) and its intricacies, a mentor will cut right to the chase and help you get a job in less time. If you are new, passionate about DS, and want to learn data science, check out our [free online course](https://saeedmirshekari.com/data-science-learning-program/).**
+Instead of wasting time on the process of getting your first data science job and its intricacies, a mentor will cut right to the chase and help you get a job in less time. If you are new, passionate about DS, and want to learn data science, check out our free online course.**
 
 <!--EndFragment-->

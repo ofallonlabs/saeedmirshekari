@@ -21,7 +21,7 @@ Why Is 1-on-1 Mentoring Effective in Data Science Learning?
 
 # Introduction
 
-I've been a data scientist for the past 10 years. I've worked with AI, machine learning and deep learning technologies, and have helped dozens of companies grow their businesses by leveraging data analytics. But it wasn't always like this. I had to learn all these skills on my own through self-learning and by asking lots of questions from other people in my field. That's why I started offering 1-on-1 mentoring sessions through [O'Fallon Labs](saeedmirshekari.com): so that other aspiring data scientists could go from zero knowledge to a job within weeks or months rather than years. Now let me tell you why this works so well! 
+I've been a data scientist for the past 10 years. I've worked with AI, machine learning and deep learning technologies, and have helped dozens of companies grow their businesses by leveraging data analytics. But it wasn't always like this. I had to learn all these skills on my own through self-learning and by asking lots of questions from other people in my field. That's why I started offering 1-on-1 mentoring sessions through O'Fallon Labs: so that other aspiring data scientists could go from zero knowledge to a job within weeks or months rather than years. Now let me tell you why this works so well! 
 
 # Learn the right skills
 
@@ -51,4 +51,4 @@ Mentors can help you find the right tool for the job. They can also help you und
 
 # Conclusion
 
-If you’re considering learning data science, I hope this post has helped you decide whether 1-on-1 mentoring is right for you. If so, please reach out to me at [O'Fallon Labs](saeedmirshekari.com) to get started!
+If you’re considering learning data science, I hope this post has helped you decide whether 1-on-1 mentoring is right for you. If so, please reach out to me at O'Fallon Labs to get started!

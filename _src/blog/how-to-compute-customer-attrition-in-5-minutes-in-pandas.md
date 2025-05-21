@@ -64,4 +64,4 @@ If you're just getting started with data analysis, you will quickly come to real
 
 In this tutorial I showed you how to compute customer attrition in pandas using some basic pandas functions.
 
-I﻿ hope this was useful! To see more content like this subscribe to [O'Fallon Labs](saeedmirshekari.com) or check out this website again.
+I﻿ hope this was useful! To see more content like this subscribe to O'Fallon Labs or check out this website again.

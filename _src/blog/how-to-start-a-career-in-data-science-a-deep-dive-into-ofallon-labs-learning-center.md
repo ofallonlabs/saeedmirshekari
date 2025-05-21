@@ -36,7 +36,7 @@ If you're a data science enthusiast looking to fast-track your journey to a succ
 One of the standout features of O'Fallon Labs Learning Center is the carefully crafted learning paths designed to guide individuals from various backgrounds through the intricacies of data science. Whether you're a beginner or transitioning from another field, these learning paths provide a structured approach to acquiring the necessary skills. The learning center covers everything from fundamental concepts to advanced topics, ensuring a well-rounded education.
 
 - **Example Learning Path:**
-  - [Data Science Foundations](https://saeedmirshekari.com/tags/blogs_career/)
+  - [Data Science Foundations](https://saeedmirshekari.com/blogs_career/)
   - [Intermediate Data Science](https://saeedmirshekari.com/blogs_mentoring/)
   - [Advanced Machine Learning](https://saeedmirshekari.com/blogs_projects/)
 

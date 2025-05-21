@@ -84,7 +84,7 @@ Sometimes, directly asking for mentorship can feel too forward. Instead, seek ad
 ---
 
 ## 8. **Use Mentorship Platforms**
-Platforms designed for mentorship, such as **MentorCruise**, **ADPList**, or **[O'Mentors](www.omentors.com)**, streamline the process of finding mentors. These platforms allow you to explore mentors’ expertise and connect with them directly.!
+Platforms designed for mentorship, such as **MentorCruise**, **ADPList**, or **O'Mentors**, streamline the process of finding mentors. These platforms allow you to explore mentors’ expertise and connect with them directly.!
 
 
 ### Benefits:
@@ -120,4 +120,4 @@ Mentorship can accelerate your data science journey, but it’s essential to app
 Start your journey today, and you’ll be amazed at where the right guidance can take you. 
 
 --- 
-
+

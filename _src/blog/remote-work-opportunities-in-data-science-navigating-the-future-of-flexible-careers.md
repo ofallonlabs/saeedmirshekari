@@ -57,9 +57,6 @@ In the evolving landscape of data science, remote work has become a prominent tr
 7. [Remote-Friendly Tools and Technologies](#remote-friendly-tools-and-technologies)
 
    * [Collaboration Platforms](#collaboration-platforms)
-   * [Virtual Private Networks (VPNs)](virtual-private-networks-vpns)
-   * [Cloud Computing Services](cloud-computing-services)
-   * [Communication Tools](communication-tools)
 8. [Balancing Work and Personal Life in Remote Data Science Roles](#balancing-work-and-personal-life-in-remote-data-science-roles)
 
    * [Establishing Clear Boundaries](#establishing-clear-boundaries)
