@@ -1,21 +1,13 @@
 ---
 layout: blog_base.njk
-title: Burnout Alert! Can YOU Keep Up with the NEVER-ENDING Demands of Data
-  Science? The Shocking Reality Revealed!
+title: How to Prevent Burnout Among Data Scientists
 description: Data science's relentless demands can lead to burnout. The shocking
   reality includes continuous learning pressures, tight project deadlines, and
-  unrealistic expectations. To navigate this landscape, prioritize well-being,
-  set boundaries, manage learning effectively, seek support, and redefine
-  expectations. Real-world success stories emphasize the importance of balance
-  for a sustainable and fulfilling data science career.
-meta_title: Burnout Alert! Can YOU Keep Up with the NEVER-ENDING Demands of Data
-  Science? The Shocking Reality Revealed!
+  unrealistic expectations. 
+meta_title: How to Prevent Burnout Among Data Scientists
 meta_description: Data science's relentless demands can lead to burnout. The
   shocking reality includes continuous learning pressures, tight project
-  deadlines, and unrealistic expectations. To navigate this landscape,
-  prioritize well-being, set boundaries, manage learning effectively, seek
-  support, and redefine expectations. Real-world success stories emphasize the
-  importance of balance for a sustainable and fulfilling data science career.
+  deadlines, and unrealistic expectations.
 author: Saeed Mirshekari
 date: 2023-12-15T14:53:03.159Z
 tags:

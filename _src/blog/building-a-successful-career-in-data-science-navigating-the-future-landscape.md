@@ -1,18 +1,15 @@
 ---
 layout: blog_base.njk
-title: "Building a Successful Career in Data Science: Navigating the Future Landscape"
+title: "Building a Successful Career in Data Science"
 description: This comprehensive guide explores the steps to build a thriving
   career in Data Science amidst the AI revolution. From foundational education
   to specialized training and real-world applications, it emphasizes the urgency
-  of preparation. Examples, resources like edX and Coursera, and real-world
-  impact stories illustrate the path to success in this dynamic field.
-meta_title: "Building a Successful Career in Data Science: Navigating the Future Landscape"
+  of preparation.
+meta_title: "Building a Successful Career in Data Science"
 meta_description: This comprehensive guide explores the steps to build a
   thriving career in Data Science amidst the AI revolution. From foundational
   education to specialized training and real-world applications, it emphasizes
-  the urgency of preparation. Examples, resources like edX and Coursera, and
-  real-world impact stories illustrate the path to success in this dynamic
-  field.
+  the urgency of preparation.
 author: Saeed Mirshekari
 date: 2023-10-17T18:39:25.338Z
 tags:

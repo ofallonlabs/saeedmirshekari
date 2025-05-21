@@ -1,17 +1,13 @@
 ---
 layout: blog_base.njk
-title: "Breaking Stereotypes: Data Scientists With No Formal Degrees"
+title: "BrData Scientists With No Formal Degrees"
 description: Discover the inspiring journeys of top data scientists who achieved
   remarkable success without formal university degrees. Through resilience,
-  lifelong learning, and diverse pathways, individuals like Jeremy Howard and
-  Rachel Thomas shattered stereotypes, showcasing that passion and perseverance
-  are the ultimate keys to triumph in data science.
-meta_title: "Breaking Stereotypes: Data Scientists With No Formal Degrees"
+  lifelong learning, and diverse pathways.
+meta_title: "Data Scientists With No Formal Degrees"
 meta_description: Discover the inspiring journeys of top data scientists who
   achieved remarkable success without formal university degrees. Through
-  resilience, lifelong learning, and diverse pathways, individuals like Jeremy
-  Howard and Rachel Thomas shattered stereotypes, showcasing that passion and
-  perseverance are the ultimate keys to triumph in data science.
+  resilience, lifelong learning, and diverse pathways.
 author: Saeed Mirshekari
 date: 2024-01-30T15:12:56.311Z
 tags:

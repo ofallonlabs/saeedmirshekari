@@ -1,20 +1,13 @@
 ---
 layout: blog_base.njk
-title: "A Day in the Life of a Data Scientist in Industry: How Is It Different
-  from Academia?"
+title: "A Day in the Life of a Data Scientist in Industry"
 description: Explore the shocking realities of transitioning from academia to
   industry as a data scientist. From structured schedules to ethical dilemmas,
-  the blog navigates the challenges of real-world data, model deployment, and
-  continuous learning. Emphasizing adaptability and a broad skill set, it
-  unveils the paradigm shift required for success in the corporate landscape.
-meta_title: "A Day in the Life of a Data Scientist in Industry: How Is It
-  Different from Academia?"
+  the blog navigates the challenges of real-world data.
+meta_title: "A Day in the Life of a Data Scientist in Industry"
 meta_description: Explore the shocking realities of transitioning from academia
   to industry as a data scientist. From structured schedules to ethical
-  dilemmas, the blog navigates the challenges of real-world data, model
-  deployment, and continuous learning. Emphasizing adaptability and a broad
-  skill set, it unveils the paradigm shift required for success in the corporate
-  landscape.
+  dilemmas, the blog navigates the challenges of real-world data.
 author: Saeed Mirshekari
 date: 2023-11-12T16:06:38.737Z
 tags:
@@ -24,7 +17,8 @@ thumbnail: /assets/img/uploads/undraw_mornings_re_cofi.png
 rating: 5
 ---
 
-## Introduction
+
+## Introduction
 
 In recent years, the field of data science has emerged as a critical component in driving decision-making processes across various industries. As businesses increasingly rely on data-driven insights, the role of a data scientist has become pivotal. However, the transition from academia to industry can be a profound experience, filled with surprises, challenges, and valuable learning opportunities. In this blog post, we will delve into a typical day in the life of a data scientist working in industry, exploring the importance of communication with other roles and shedding light on the aspects of the job that may come as a shock to those making the leap from academia.
 

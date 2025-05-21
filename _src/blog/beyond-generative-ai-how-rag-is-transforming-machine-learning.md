@@ -1,14 +1,14 @@
 ---
 layout: blog_base.njk
-title: "Beyond Generative AI: How RAG is Transforming Machine Learning"
+title: "How RAG is Transforming Machine Learning"
 description: RAGs (Retrieval-Augmented Generation) enhance AI models by
   combining retrieval of relevant data with generative capabilities, improving
-  tasks like question-answering, content creation, and personalized
+  tasks like personalized
   recommendations in real-world applications.
-meta_title: "Beyond Generative AI: How RAG is Transforming Machine Learning"
+meta_title: "How RAG is Transforming Machine Learning"
 meta_description: RAGs (Retrieval-Augmented Generation) enhance AI models by
   combining retrieval of relevant data with generative capabilities, improving
-  tasks like question-answering, content creation, and personalized
+  tasks like personalized
   recommendations in real-world applications.
 author: Saeed Mirshekari
 date: 2025-03-15T14:01:15.098Z

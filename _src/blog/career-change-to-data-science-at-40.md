@@ -1,17 +1,13 @@
 ---
 layout: blog_base.njk
-title: Career Change To Data Science at 40
+title: Career Change To Data Science at Age 40
 description: " Transitioning to data science at 40 offers exciting opportunities
   amid growing demand. Overcome challenges by bridging skill gaps, showcasing
-  transferable skills, and continuous learning. Leverage online courses,
-  networking, and a data-driven portfolio. Embrace a supportive community,
-  tailor resumes, and ace interviews for a successful career change."
-meta_title: Career Change To Data Science at 40
+  transferable skills, and continuous learning."
+meta_title: Career Change To Data Science at Age 40
 meta_description: " Transitioning to data science at 40 offers exciting
   opportunities amid growing demand. Overcome challenges by bridging skill gaps,
-  showcasing transferable skills, and continuous learning. Leverage online
-  courses, networking, and a data-driven portfolio. Embrace a supportive
-  community, tailor resumes, and ace interviews for a successful career change."
+  showcasing transferable skills, and continuous learning."
 author: Saeed Mirshekari
 date: 2023-12-05T16:54:28.838Z
 tags:

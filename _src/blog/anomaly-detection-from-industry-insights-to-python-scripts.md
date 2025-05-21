@@ -3,14 +3,11 @@ layout: blog_base.njk
 title: "Anomaly Detection: From Industry Insights to Python Scripts"
 description: Dive into the world of anomaly detection! Explore its applications
   in finance, healthcare, and beyond. Discover top algorithms like Isolation
-  Forest, DBSCAN, and One-Class SVM, and grasp their inner workings. Python
-  scripts included for a hands-on experience. Become a data detective today!
+  Forest, DBSCAN, and One-Class SVM, and grasp their inner workings.
 meta_title: "Anomaly Detection: From Industry Insights to Python Scripts"
 meta_description: Dive into the world of anomaly detection! Explore its
   applications in finance, healthcare, and beyond. Discover top algorithms like
   Isolation Forest, DBSCAN, and One-Class SVM, and grasp their inner workings.
-  Python scripts included for a hands-on experience. Become a data detective
-  today!
 author: Saeed Mirshekari
 date: 2023-08-24T12:44:32.044Z
 tags:

@@ -1,10 +1,10 @@
 ---
 layout: blog_base_fatima.njk
-title: A Researcher Transitioning from Academia to Become a Data Scientist? Do This!
+title: From Academia to Become a Data Scientist? Do This!
 description: "Data science is all about exploring new opportunities. If you have
   been in academia for years and want to become a data scientist, you need
   proper guidance. Here’s what you need to do. "
-meta_title: Switching from Academia to Data Science Field, Do This | O’Fallon Labs
+meta_title: from Academia to Data Science Field, Do This
 meta_description: If you’re an individual switching from academia to the
   industry as a data scientist, don’t panic. Keep reading to find out what you
   need to do.

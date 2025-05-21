@@ -1,17 +1,14 @@
 ---
 layout: blog_base.njk
-title: "Bias and Variance in Machine Learning: Unveiling the Trade-Off"
+title: "Bias and Variance in Machine Learning"
 description: Bias and variance are key factors that influence the performance of
   machine learning models. While bias represents oversimplification and
   underfitting, variance refers to overfitting and lack of generalization.
-  Achieving a balance between the two is essential for optimal model
-  performance.
-meta_title: "What Are Bias and Variance in Machine Learning: Unveiling the Trade-Off"
+meta_title: "What Are Bias and Variance in Machine Learning"
 meta_description: Bias and variance are key factors that influence the
   performance of machine learning models. While bias represents
   oversimplification and underfitting, variance refers to overfitting and lack
-  of generalization. Achieving a balance between the two is essential for
-  optimal model performance.
+  of generalization.
 author: Saeed Mirshekari
 date: 2023-06-03T13:28:38.905Z
 tags:

@@ -1,19 +1,13 @@
 ---
 layout: blog_base.njk
-title: "Addressing Career Gaps on Your Data Scientist Resume: Strategies and
-  Examples to Stand Out"
+title: "Career Gaps on Your Data Scientist Resume"
 description: " Learn how to handle career gaps on a data scientist resume
   effectively. Highlight relevant skills, showcase personal projects, and
-  emphasize continuous learning. Structuring your resume strategically can help
-  you stand out and demonstrate readiness for data science roles despite career
-  breaks"
-meta_title: "Addressing Career Gaps on Your Data Scientist Resume: Strategies
-  and Examples to Stand Out"
+  emphasize continuous learning."
+meta_title: "Career Gaps on Your Data Scientist Resume"
 meta_description: " Learn how to handle career gaps on a data scientist resume
   effectively. Highlight relevant skills, showcase personal projects, and
-  emphasize continuous learning. Structuring your resume strategically can help
-  you stand out and demonstrate readiness for data science roles despite career
-  breaks"
+  emphasize continuous learning."
 author: Saeed Mirshekari
 date: 2024-04-23T20:18:23.250Z
 tags:

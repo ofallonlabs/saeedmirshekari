@@ -1,21 +1,15 @@
 ---
 layout: blog_base.njk
-title: Breaking into Data Science with ZERO Experience?! The Untold Secret Every
-  Beginner Needs!
+title: Breaking into Data Science with ZERO Experience
 description: Embark on a successful data science journey from zero experience
   with practical steps and a growth mindset. Master coding, gain hands-on
   experience through real-world projects, and build a compelling portfolio.
-  Network, seek mentorship, and tailor learning to industry needs for a
-  fulfilling career. Real-world success stories illuminate diverse paths to data
-  science success.
-meta_title: Breaking into Data Science with ZERO Experience?! The Untold Secret
-  Every Beginner Needs!
+
+meta_title: Breaking into Data Science with ZERO Experience
 meta_description: Embark on a successful data science journey from zero
   experience with practical steps and a growth mindset. Master coding, gain
   hands-on experience through real-world projects, and build a compelling
-  portfolio. Network, seek mentorship, and tailor learning to industry needs for
-  a fulfilling career. Real-world success stories illuminate diverse paths to
-  data science success.
+  portfolio. 
 author: Saeed Mirshekari
 date: 2023-12-15T14:49:49.884Z
 tags:

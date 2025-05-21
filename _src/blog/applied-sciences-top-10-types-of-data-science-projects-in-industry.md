@@ -1,17 +1,13 @@
 ---
 layout: blog_base.njk
-title: "Applied Sciences: Top 10 Types of Data Science Projects in Industry"
+title: "Top 10 Types of Data Science Projects in Industry"
 description: Discover the realm of data science projects and their
   organizational impact. This insightful post showcases specific examples of
-  projects and problems tackled by data scientists in the industry, highlighting
-  their transformative effects on businesses and the valuable insights they
-  provide.
-meta_title: "Applied Sciences: Top 10 Types of Data Science Projects in Industry"
+  projects.
+meta_title: "Top 10 Types of Data Science Projects in Industry"
 meta_description: Discover the realm of data science projects and their
   organizational impact. This insightful post showcases specific examples of
-  projects and problems tackled by data scientists in the industry, highlighting
-  their transformative effects on businesses and the valuable insights they
-  provide.
+  projects.
 author: Saeed Mirshekari
 date: 2023-06-13T16:06:55.652Z
 tags:

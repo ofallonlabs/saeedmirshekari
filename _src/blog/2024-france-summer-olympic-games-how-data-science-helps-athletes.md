@@ -1,15 +1,13 @@
 ---
 layout: blog_base.njk
-title: "2024 France Summer Olympic Games: How Data Science Helps Athletes"
+title: "Summer Olympic Games: How Data Science Helps Athletes"
 description: Data science revolutionizes the Summer Olympics by optimizing
   athlete training, enhancing performance, and preventing injuries through
-  advanced analytics, wearable technology, and machine learning, while
-  addressing challenges like data quality and privacy.
-meta_title: "2024 France Summer Olympic Games: How Data Science Helps Athletes"
+  advanced analytics, wearable technology, and machine learning.
+meta_title: "Summer Olympic Games: How Data Science Helps Athletes"
 meta_description: Data science revolutionizes the Summer Olympics by optimizing
   athlete training, enhancing performance, and preventing injuries through
-  advanced analytics, wearable technology, and machine learning, while
-  addressing challenges like data quality and privacy.
+  advanced analytics, wearable technology, and machine learning.
 author: Saeed Mirshekari
 date: 2024-08-06T13:40:17.984Z
 tags:

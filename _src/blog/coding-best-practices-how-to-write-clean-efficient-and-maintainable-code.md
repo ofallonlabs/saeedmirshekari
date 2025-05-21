@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: Coding Best Practices
+title: Coding Best Practices in Data Science
 description: Learn about the importance of good coding practices and how they
   can improve the quality of your code. Discover how incorporating PEP 8
   guidelines and Git version control can make your code more consistent,

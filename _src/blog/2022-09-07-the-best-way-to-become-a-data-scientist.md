@@ -1,13 +1,13 @@
 ---
 layout: blog_base_alexia.njk
-title: "The Best Way To Become a Better Data Scientist: University Programs?
-  Bootcamps? or Mentoring Programs?"
+title: "The Best Way To Become a Better Data Scientist"
 description: Do you need a PhD to become a data scientist? Do you need to enroll
   to data-science university programs? Do you need to enroll to expensive
-  data-science bootcamps? Are there any other alternatives? What about 1-on-1
-  data-science mentoring programs?
-meta_title: NA
-meta_description: NA
+  data-science bootcamps? Are there any other alternatives?
+meta_title: "The Best Way To Become a Better Data Scientist"
+meta_description: Do you need a PhD to become a data scientist? Do you need to enroll
+  to data-science university programs? Do you need to enroll to expensive
+  data-science bootcamps? Are there any other alternatives?
 author: Alexia Dominique
 date: 2022-09-14T04:43:29.993Z
 tags:

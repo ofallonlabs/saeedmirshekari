@@ -1,17 +1,14 @@
 ---
 layout: blog_base.njk
-title: Comparison of Data Science Bootcamps and Online Courses
+title: A Comparison of Data Science Bootcamps and Online Courses
 description: Explore the optimal path for data science education with this guide
   comparing bootcamps, online courses, and the benefits of one-on-one mentoring.
   Consider popular options like General Assembly, Coursera, and introducing
-  O'Fallon Labs for personalized mentoring. Make an informed decision to propel
-  your data science career. Good luck!
-meta_title: Comparison of Data Science Bootcamps and Online Courses
+  O'Fallon Labs for personalized mentoring.
+meta_title: A Comparison of Data Science Bootcamps and Online Courses
 meta_description: Explore the optimal path for data science education with this
   guide comparing bootcamps, online courses, and the benefits of one-on-one
-  mentoring. Consider popular options like General Assembly, Coursera, and
-  introducing O'Fallon Labs for personalized mentoring. Make an informed
-  decision to propel your data science career. Good luck!
+  mentoring. 
 author: Saeed Mirshekari
 date: 2024-02-10T14:21:10.430Z
 tags:

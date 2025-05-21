@@ -1,19 +1,11 @@
 ---
 layout: blog_base.njk
-title: Can Engineers Switch to Become Data Scientists? Exploring Pitfalls and
-  Strategies for Success
+title: Can Engineers Become Data Scientists?
 description: " Transitioning from engineering to data science is feasible but
-  poses challenges like skill gaps and limited networking. Strategies such as
-  education, portfolio building, networking, addressing imposter syndrome, and
-  continuous learning are vital for engineers to overcome obstacles and thrive
-  in data science careers."
-meta_title: Can Engineers Switch to Become Data Scientists? Exploring Pitfalls
-  and Strategies for Success
+  poses challenges like skill gaps and limited networking.
+meta_title: Can Engineers Become Data Scientists?
 meta_description: " Transitioning from engineering to data science is feasible
-  but poses challenges like skill gaps and limited networking. Strategies such
-  as education, portfolio building, networking, addressing imposter syndrome,
-  and continuous learning are vital for engineers to overcome obstacles and
-  thrive in data science careers."
+  but poses challenges like skill gaps and limited networking."
 author: Saeed Mirshekari
 date: 2024-03-12T22:25:44.395Z
 tags:

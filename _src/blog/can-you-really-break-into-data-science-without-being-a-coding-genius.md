@@ -1,19 +1,15 @@
 ---
 layout: blog_base.njk
-title: Can You REALLY Break Into Data Science Without Being a Coding Genius?
+title: Data Science Without Being a Coding Genius?
 description: Breaking into data science without being a coding genius is
   realistic. Focus on foundational coding skills, problem-solving, and industry
   understanding. Explore educational programs, bootcamps, and self-paced
-  learning. Prioritize communication and networking, build a strong portfolio,
-  and embrace continuous learning. It's about being a resourceful problem solver
-  in the dynamic field of data science.
-meta_title: Can You REALLY Break Into Data Science Without Being a Coding Genius?
+  learning. 
+meta_title: Data Science Without Being a Coding Genius?
 meta_description: Breaking into data science without being a coding genius is
   realistic. Focus on foundational coding skills, problem-solving, and industry
   understanding. Explore educational programs, bootcamps, and self-paced
-  learning. Prioritize communication and networking, build a strong portfolio,
-  and embrace continuous learning. It's about being a resourceful problem solver
-  in the dynamic field of data science.
+  learning. 
 author: Saeed Mirshekari
 date: 2023-12-15T14:34:35.426Z
 tags:

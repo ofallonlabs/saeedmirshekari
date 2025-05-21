@@ -1,17 +1,15 @@
 ---
 layout: blog_base.njk
-title: "Breaking Through: Overcoming Barriers to Start Your Data Science Career"
+title: "Overcoming Barriers to Start Your Data Science Career"
 description: Navigating a data science career path is daunting due to barriers
   like education prerequisites, technical skill gaps, limited resources, lack of
   experience, networking challenges, job market competition, and imposter
-  syndrome. However, with persistence and resilience, aspiring data scientists
-  can overcome these obstacles and pursue their dreams.
-meta_title: "Breaking Through: Overcoming Barriers to Start Your Data Science Career"
+  syndrome. 
+meta_title: "Overcoming Barriers to Start Your Data Science Career"
 meta_description: Navigating a data science career path is daunting due to
   barriers like education prerequisites, technical skill gaps, limited
   resources, lack of experience, networking challenges, job market competition,
-  and imposter syndrome. However, with persistence and resilience, aspiring data
-  scientists can overcome these obstacles and pursue their dreams.
+  and imposter syndrome.
 author: Saeed Mirshekari
 date: 2024-02-05T04:23:55.550Z
 tags:

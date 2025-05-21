@@ -1,20 +1,15 @@
 ---
 layout: blog_base.njk
-title: "Building a Standout Data Science Portfolio: A Comprehensive Guide for
-  Career Success"
+title: "Building a Standout Data Science Portfolio"
 description: Craft a standout data science portfolio with our guide, featuring
   real-life examples and actionable tips. Showcase projects, highlight coding
   skills, and demonstrate problem-solving abilities. Elevate your career with a
-  dynamic portfolio that attracts employers. Dive into the competitive field
-  confidently, armed with a compelling showcase of your data science expertise.
-meta_title: "Building a Standout Data Science Portfolio: A Comprehensive Guide
-  for Career Success"
+  dynamic portfolio that attracts employers.
+meta_title: "Building a Standout Data Science Portfolio"
 meta_description: Craft a standout data science portfolio with our guide,
   featuring real-life examples and actionable tips. Showcase projects, highlight
   coding skills, and demonstrate problem-solving abilities. Elevate your career
-  with a dynamic portfolio that attracts employers. Dive into the competitive
-  field confidently, armed with a compelling showcase of your data science
-  expertise.
+  with a dynamic portfolio that attracts employers.
 author: Saeed Mirshekari
 date: 2024-01-04T18:37:11.124Z
 tags:

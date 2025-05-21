@@ -1,17 +1,13 @@
 ---
 layout: blog_base.njk
-title: "A Journey of 14 Years: Embracing St. Louis as My Home"
+title: "Is St. Louis Home?"
 description: From starting a PhD program in physics at Washington University to
   working in industries like smart grid, modern ag, and finance, my 14-year
-  journey in St. Louis has been nothing short of extraordinary. I obtained
-  citizenship, explored cultural treasures, and indulged in local delights,
-  making St. Louis my beloved home.
-meta_title: "A Journey of 14 Years: Embracing St. Louis as My Home"
+  journey in St. Louis has been nothing short of extraordinary.
+meta_title: "Is St. Louis Home?"
 meta_description: "From starting a PhD program in physics at Washington
   University to working in industries like smart grid, modern ag, and finance,
-  my 14-year journey in St. Louis has been nothing short of extraordinary. I
-  obtained citizenship, explored cultural treasures, and indulged in local
-  delights, making St. Louis my beloved home. "
+  my 14-year journey in St. Louis has been nothing short of extraordinary."
 author: Saeed Mirshekari
 date: 2023-06-03T14:10:25.582Z
 tags:

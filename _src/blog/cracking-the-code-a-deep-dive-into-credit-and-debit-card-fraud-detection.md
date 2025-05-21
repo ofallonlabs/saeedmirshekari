@@ -1,17 +1,13 @@
 ---
 layout: blog_base.njk
-title: "Cracking the Code: A Deep Dive into Credit and Debit Card Fraud Detection"
+title: "A Deep Dive into Credit and Debit Card Fraud Detection"
 description: Explore the intricate world of fraud detection in credit and debit
   card transactions. This comprehensive guide delves into techniques,
   algorithms, and strategies used by data scientists to identify and prevent
-  financial fraud. Discover how data preprocessing, feature engineering, and
-  machine learning play crucial roles in safeguarding financial transactions.
-meta_title: "Cracking the Code: A Deep Dive into Credit and Debit Card Fraud Detection"
+  financial fraud.
+meta_title: "A Deep Dive into Credit and Debit Card Fraud Detection"
 meta_description: Explore the intricacies of fraud detection in credit and debit
   card transactions, from data collection and preprocessing to model evaluation.
-  This comprehensive guide provides data science enthusiasts and junior
-  practitioners with the knowledge and tools to combat financial fraud
-  effectively in an increasingly digital world.
 author: Saeed Mirshekari
 date: 2023-09-04T17:37:09.047Z
 tags:

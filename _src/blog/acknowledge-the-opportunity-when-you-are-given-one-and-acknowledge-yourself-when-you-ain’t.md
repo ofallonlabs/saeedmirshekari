@@ -1,17 +1,13 @@
 ---
 layout: blog_base.njk
-title: Acknowledge the Opportunity When You Are Given One, and Acknowledge
-  Yourself When You Ain’t
+title: Acknowledge the Opportunity
 description: This blog guides data scientists on career growth by seizing
   external opportunities and practicing self-acknowledgment during quiet phases,
-  emphasizing strategic development, resilience, and the transformative power of
-  mentorship.
-meta_title: Acknowledge the Opportunity When You Are Given One, and Acknowledge
-  Yourself When You Ain’t
+  emphasizing strategic development, resilience.
+meta_title: Acknowledge the Opportunity
 meta_description: This blog guides data scientists on career growth by seizing
   external opportunities and practicing self-acknowledgment during quiet phases,
-  emphasizing strategic development, resilience, and the transformative power of
-  mentorship.
+  emphasizing strategic development, resilience.
 author: Saeed Mirshekari
 date: 2025-02-08T20:25:07.662Z
 tags:

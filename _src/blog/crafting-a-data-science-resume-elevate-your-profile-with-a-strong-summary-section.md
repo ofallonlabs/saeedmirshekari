@@ -1,19 +1,13 @@
 ---
 layout: blog_base.njk
-title: " Crafting a Data Science Resume: Elevate Your Profile with a Strong
-  Summary Section"
+title: " Crafting a Data Science Resume"
 description: " Learn why the Summary section is vital in your data science
   resume. Include a professional title, key skills, domain expertise,
-  achievements, and career objectives. Tailor each summary to the job
-  description for maximum impact and increased interview opportunities in the
-  competitive data science field."
-meta_title: " Crafting a Data Science Resume: Elevate Your Profile with a Strong
-  Summary Section"
+  achievements, and career objectives."
+meta_title: " Crafting a Data Science Resume"
 meta_description: " Learn why the Summary section is vital in your data science
   resume. Include a professional title, key skills, domain expertise,
-  achievements, and career objectives. Tailor each summary to the job
-  description for maximum impact and increased interview opportunities in the
-  competitive data science field."
+  achievements, and career objectives.
 author: Saeed Mirshekari
 date: 2024-05-22T20:34:14.449Z
 tags:

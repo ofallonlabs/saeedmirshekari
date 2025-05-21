@@ -1,10 +1,10 @@
 ---
 layout: blog_base_srushti.njk
-title: Immigrants with Higher Educations in the US Tech Job Market
+title: Immigrants with Higher Educations in the Tech Job Market
 description: "The US is rightly termed as the land of immigrants. The immigrant
   populace has contributed copiously to the country's development. "
 meta_title: Immigrants with Higher Educations in the US Tech Job Market
-meta_description: "The US is rightly termed as the land of immigrants. The immigrant
+meta_description: Immigrants with Higher Educations in the Tech Job Market
   populace has contributed copiously to the country's development. "
 author: Srushti Pargat
 date: 2022-06-05T13:39:10.283Z

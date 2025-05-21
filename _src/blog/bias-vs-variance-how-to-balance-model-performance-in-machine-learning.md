@@ -1,10 +1,10 @@
 ---
 layout: blog_base.njk
-title: "Bias vs. Variance: How to Balance Model Performance in Machine Learning"
+title: "Bias vs. Variance: How to Balance Model Performance"
 description: Master the bias-variance tradeoff to improve machine learning
   models, balance accuracy, prevent underfitting and overfitting, and enhance
   predictive performance with strategic techniques and continuous monitoring.
-meta_title: "Bias vs. Variance: How to Balance Model Performance in Machine Learning"
+meta_title: "Bias vs. Variance: How to Balance Model Performance"
 meta_description: Master the bias-variance tradeoff to improve machine learning
   models, balance accuracy, prevent underfitting and overfitting, and enhance
   predictive performance with strategic techniques and continuous monitoring.

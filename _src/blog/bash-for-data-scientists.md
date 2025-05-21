@@ -4,14 +4,10 @@ title: Bash for Data Scientists
 description: Master Bash for data science with this comprehensive guide. Learn
   basic commands, navigate files, and automate tasks with scripts. Explore text
   processing, shell scripting, and advanced topics to enhance productivity.
-  Perfect for data scientists seeking efficiency and proficiency in the command
-  line.
 meta_title: Bash for Data Scientists
 meta_description: Master Bash for data science with this comprehensive guide.
   Learn basic commands, navigate files, and automate tasks with scripts. Explore
   text processing, shell scripting, and advanced topics to enhance productivity.
-  Perfect for data scientists seeking efficiency and proficiency in the command
-  line.
 author: Saeed Mirshekari
 date: 2024-05-24T15:18:30.123Z
 tags:

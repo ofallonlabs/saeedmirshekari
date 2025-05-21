@@ -1,12 +1,12 @@
 ---
 layout: blog_base.njk
-title: "Closing the Loop: The Crucial Role of Project Closure in Data Science
+title: "Project Closure in Data Science
   Career Success"
 description: Successfully ending data science projects is pivotal for career
   growth. It demonstrates value, fosters learning, maintains focus, and opens
   doors to new opportunities.
-meta_title: "Closing the Loop: The Crucial Role of Project Closure in Data
-  Science Career Success"
+meta_title: "Project Closure in Data Science
+  Career Success"
 meta_description: Successfully ending data science projects is pivotal for
   career growth. It demonstrates value, fosters learning, maintains focus, and
   opens doors to new opportunities.

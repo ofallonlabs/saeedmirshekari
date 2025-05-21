@@ -1,18 +1,13 @@
 ---
 layout: blog_base.njk
-title: "Action Plans for Effective 1-on-1 Meetings: An Essential Check-list For
-  Mentees and Mentors To Get Started and Set Them Up for Success"
+title: "Action Plans for Effective 1-on-1 Mentoring"
 description: This blog post emphasizes the significance of action plans in
   1-on-1 mentoring, highlighting key elements such as goal setting,
-  communication expectations, potential barriers, and success measures for
-  mentees and mentors. Effective action plans empower growth and ensure a
-  successful mentoring relationship.
-meta_title: "Action Plans for Effective 1-on-1 Mentoring: Empowering Mentees and Mentors"
+  communication expectations.
+meta_title: "Action Plans for Effective 1-on-1 Mentoring"
 meta_description: This blog post emphasizes the significance of action plans in
   1-on-1 mentoring, highlighting key elements such as goal setting,
-  communication expectations, potential barriers, and success measures for
-  mentees and mentors. Effective action plans empower growth and ensure a
-  successful mentoring relationship.
+  communication expectations.
 author: Saeed Mirshekari
 date: 2023-05-28T15:35:00.000Z
 tags:

@@ -1,19 +1,13 @@
 ---
 layout: blog_base.njk
-title: Can Social Science Professionals Transition to Data Science? Exploring
-  Pitfalls and Strategies for Success
+title: Can Social Science Professionals Transition to Data Science?
 description: Transitioning from social sciences to data science is feasible,
   though challenging. Pitfalls include technical skill gaps, imposter syndrome,
-  and competition. Overcoming these requires education, hands-on experience,
-  portfolio building, combating imposter syndrome, and leveraging transferable
-  skills.
+  and competition.
 meta_title: Can Social Science Professionals Transition to Data Science?
-  Exploring Pitfalls and Strategies for Success
 meta_description: Transitioning from social sciences to data science is
   feasible, though challenging. Pitfalls include technical skill gaps, imposter
-  syndrome, and competition. Overcoming these requires education, hands-on
-  experience, portfolio building, combating imposter syndrome, and leveraging
-  transferable skills.
+  syndrome, and competition. 
 author: Saeed Mirshekari
 date: 2024-02-23T02:07:05.775Z
 tags:

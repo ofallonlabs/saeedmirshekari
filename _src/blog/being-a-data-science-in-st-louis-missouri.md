@@ -3,15 +3,11 @@ layout: blog_base.njk
 title: Being A Data Science in St. Louis, Missouri
 description: Explore the burgeoning data science scene in St. Louis, Missouri.
   Discover career opportunities, vibrant community engagement, and a high
-  quality of life. From healthcare to finance and startups, St. Louis offers a
-  diverse landscape for data scientists seeking professional growth and personal
-  fulfillment in the heart of the Midwest.
+  quality of life. 
 meta_title: "Data Science in St. Louis: A Hidden Gem"
 meta_description: Explore the burgeoning data science scene in St. Louis,
   Missouri. Discover career opportunities, vibrant community engagement, and a
-  high quality of life. From healthcare to finance and startups, St. Louis
-  offers a diverse landscape for data scientists seeking professional growth and
-  personal fulfillment in the heart of the Midwest.
+  high quality of life.
 author: Being A Data Science in St. Louis, Missouri
 date: 2024-03-19T22:59:03.119Z
 tags:
