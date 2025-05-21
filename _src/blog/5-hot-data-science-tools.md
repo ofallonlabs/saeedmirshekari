@@ -1,16 +1,13 @@
 ---
 layout: blog_base_katherine.njk
 title: 5 Hot Data Science Tools
-description: The blog post "5 Hot Data Science Tools" provides an overview of
-  five popular tools used in data science.
-meta_title: "5 Hot Data Science Tools: Revolutionize Your Data Analysis with
-  These Must-Have Tools"
+description: Looking for the hottest data science tools to take your
+  analysis to the next level? Check out our latest blog post for an overview of
+  5 top tools, including Python, TensorFlow, Tableau, Hadoop, and Apache Spark.
+meta_title: "5 Hot Data Science Tools"
 meta_description: Looking for the hottest data science tools to take your
   analysis to the next level? Check out our latest blog post for an overview of
   5 top tools, including Python, TensorFlow, Tableau, Hadoop, and Apache Spark.
-  Learn about the key features and benefits of each tool and discover examples
-  of their use in data science. Don't miss out on this essential guide for any
-  data science enthusiast!
 author: Katherine Olowookere
 date: 2023-02-18T16:41:05.306Z
 tags:

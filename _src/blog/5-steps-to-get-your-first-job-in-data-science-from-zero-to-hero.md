@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: 5 Steps to Get Your First Job in Data Science from Zero to Hero
+title: 5 Steps to Get Your First Job in Data Science
 description: "Data science is a field that would require a lifetime to fully
   understand because there is so much to learn. However, you do not have to
   master everything before you can begin your career. "

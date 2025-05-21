@@ -1,9 +1,9 @@
 ---
 layout: blog_base.njk
-title: "10 Qualities of a Great Mentor: What Makes Mentorship Truly Transformational?"
+title: "10 Qualities of a Great Mentor"
 description: "This blog includes The top Qualities of a Great Mentor: What Makes
   Mentorship Truly Transformational."
-meta_title: "10 Qualities of a Great Mentor: What Makes Mentorship Truly Transformational?"
+meta_title: "10 Qualities of a Great Mentor"
 meta_description: "This blog includes The top Qualities of a Great Mentor: What
   Makes Mentorship Truly Transformational."
 author: Saeed Mirshekari

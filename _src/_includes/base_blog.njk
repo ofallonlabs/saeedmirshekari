@@ -7,7 +7,10 @@
 
 <head style="font-family: 'Helvetica', 'Arial', sans-serif;">
 
-{% if pagination and pagination.pageNumber > 0 %}
+
+{# Set the page title based on pagination #}
+{# If pagination is defined and pageNumber is greater than -1, append the page number to the title #}
+{% if pagination and pagination.pageNumber > -1 %}
   {% set pageTitle = title ~ " Page " ~ (pagination.pageNumber)%}
 {% else %}
   {% set pageTitle = title%}
