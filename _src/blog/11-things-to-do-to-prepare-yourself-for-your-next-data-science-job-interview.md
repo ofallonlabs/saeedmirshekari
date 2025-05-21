@@ -1,17 +1,13 @@
 ---
 layout: blog_base.njk
-title: 11 Things To Do to Prepare Yourself for Your Next Data Science Job Interview
+title: 11 Things To Do before Your Next Data Science Job Interview
 description: Prepare for a data science interview by mastering technical skills
   (programming, SQL, machine learning), revising statistics, practicing
-  data-driven problem-solving, demonstrating business acumen, preparing
-  behavioral responses, showcasing projects in a portfolio, and conducting mock
-  interviews for confidence.
-meta_title: 11 Things To Do to Prepare Yourself for Your Next Data Science Job Interview
+  data-driven problem-solving, demonstrating business acumen, preparing.
+meta_title: 11 Things To Do before Your Next Data Science Job Interview
 meta_description: Prepare for a data science interview by mastering technical
   skills (programming, SQL, machine learning), revising statistics, practicing
-  data-driven problem-solving, demonstrating business acumen, preparing
-  behavioral responses, showcasing projects in a portfolio, and conducting mock
-  interviews for confidence.
+  data-driven problem-solving, demonstrating business acumen, preparing.
 author: Saeed Mirshekari
 date: 2024-11-14T20:44:09.177Z
 tags:

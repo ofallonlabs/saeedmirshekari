@@ -1,12 +1,13 @@
 ---
 layout: blog_base_katherine.njk
-title: 1 in 3 Data Scientists in the US Are Born Outside the US
+title: 1 in 3 Data Scientists in the US Are Foreign Born
 description: "Several business sectors are about to be transformed by data
   science. With customized solutions from O'Fallon Labs LLC, learn about the
-  employment market opportunities and how to start a data science career as an
-  immigrant in the United States  "
-meta_title: NA
-meta_description: NA
+  employment market opportunities"
+meta_title: 1 in 3 Data Scientists in the US Are Foreign Born
+meta_description: "Several business sectors are about to be transformed by data
+  science. With customized solutions from O'Fallon Labs LLC, learn about the
+  employment market opportunities"
 author: Katherine Olowookere
 date: 2022-06-19T05:30:06.244Z
 tags:

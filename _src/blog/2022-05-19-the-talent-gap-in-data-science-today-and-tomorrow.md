@@ -1,12 +1,13 @@
 ---
 layout: blog_base_adil.njk
-title: "Opportunities in Data Science Job Market: How to Stand Out in 2022?"
+title: "Opportunities in Data Science Job Market: How to Stand Out"
 description: Data Science is a field full of untapped possibilities and
-  opportunities. However, the daily demand is increasing, and according to a
-  report published by the US Bureau of Labor Statistics, the number of data
+  opportunities. However, the daily demand is increasing, and the number of data
   science jobs will increase to almost 26% by 2026.
-meta_title: NA
-meta_description: NA
+meta_title: "Opportunities in Data Science Job Market: How to Stand Out"
+meta_description: Data Science is a field full of untapped possibilities and
+  opportunities. However, the daily demand is increasing, and the number of data
+  science jobs will increase to almost 26% by 2026.
 author: Adil Ansari
 date: 2022-06-12T13:56:46.676Z
 tags:

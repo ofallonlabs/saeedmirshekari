@@ -1,15 +1,13 @@
 ---
 layout: blog_base_afeefa.njk
-title: The Talent Gap in Data Science Today and Tomorrow (2022)
+title: The Talent Gap in Data Science
 description: Do we need more people in the field of Data Science in 2022? The
   short answer is absolutely yes. In this note you will learn about Data Science
-  and Data Scientists and find customized solutions to fill the talent gap in
-  data science.
-meta_title: The Talent Gap in Data Science Today and Tomorrow (2022)
+  and Data Scientists.
+meta_title: The Talent Gap in Data Science
 meta_description: Do we need more people in the field of Data Science in 2022?
   The short answer is absolutely yes. In this note you will learn about Data
-  Science and Data Scientists and find customized solutions to fill the talent
-  gap in data science.
+  Science and Data Scientists.
 author: Afeefa Maryam
 date: 2022-05-29T14:59:09.847Z
 tags:

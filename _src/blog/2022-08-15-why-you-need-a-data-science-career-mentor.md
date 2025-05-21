@@ -3,13 +3,11 @@ layout: blog_base_katherine.njk
 title: 1on1 Data Science Mentoring without Breaking the Bank!
 description: "Does it really worth it to spend several months (if not a few
   years) of your invaluable life time and tens of thousands of dollars __that
-  you have worked hard for__ to get a generic online Data Science degree while
-  you can receive premium 1on1 mentorship service from top experienced
-  professionals without breaking your bank? This post is dedicated to Data
-  Science mentoring: what is Data Science mentoring? how is it important and
-  beneficial to you? How a good mentoring program look like? "
-meta_title: NA
-meta_description: NA
+  you have worked hard for__ to get a generic online Data Science degree "
+meta_title: 1on1 Data Science Mentoring without Breaking the Bank!
+meta_description: "Does it really worth it to spend several months (if not a few
+  years) of your invaluable life time and tens of thousands of dollars __that
+  you have worked hard for__ to get a generic online Data Science degree "
 author: Katherine Olowookere
 date: 2022-08-15T01:28:07.775Z
 tags:

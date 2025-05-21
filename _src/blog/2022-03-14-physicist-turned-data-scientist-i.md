@@ -1,12 +1,10 @@
 ---
 layout: blog_base.njk
-title: "Physicist Turned Data Scientist I: A Path from Academia to Industry"
+title: "Physicist Turned Data Scientist: from Academia to Industry"
 description: I write this note to anyone with academic background who is
   interested to become a data scientist in industrial sector. Although this note
-  targets the academics with advanced degreed in quantitative fields such as
-  Physics, Statistics, Math, and Engineering, interested people from other
-  relevant backgrounds may also find reading this note useful.
-meta_title: "Physicist Turned Data Scientist I: A Path from Academia to Industry"
+  targets the academics with advanced degreed in quantitative fields.
+meta_title: "Physicist Turned Data Scientist: from Academia to Industry"
 meta_description: "Physicist Turned Data Scientist I: A Path from Academia to Industry"
 author: Saeed Mirshekari
 date: 2016-01-10T18:36:32.726Z

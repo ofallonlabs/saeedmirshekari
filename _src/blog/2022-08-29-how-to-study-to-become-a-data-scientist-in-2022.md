@@ -1,12 +1,13 @@
 ---
 layout: blog_base_katherine.njk
-title: "Becoming Data Scientist in 2022: A 3-Stage Study Guide for The Beginners"
+title: "Becoming Data Scientist: A 3-Stage Study Guide"
 description: Coding and Statistics are the two pillars of a career in Data
   Science. In this blog post gives you a practical guide on how you can
-  effectively study to become a Data Scientist and how to keep yourself
-  motivated as you study.
-meta_title: NA
-meta_description: NA
+  effectively study to become a Data Scientist
+meta_title: "Becoming Data Scientist: A 3-Stage Study Guide"
+meta_description: Coding and Statistics are the two pillars of a career in Data
+  Science. In this blog post gives you a practical guide on how you can
+  effectively study to become a Data Scientist
 author: "Katherine Olowookere "
 date: 2022-08-29T13:37:51.981Z
 tags:

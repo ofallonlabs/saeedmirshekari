@@ -3,11 +3,11 @@ layout: blog_base.njk
 title: Will Living People Ever Outnumber the Dead?
 description: 'Louis CK once asked his audience: "Do you know where are most of
   the people?". "Most of the people are dead", he replied. Is that actually
-  true? Will living people ever outnumber the dead?'
+  true?'
 meta_title: Will Living People Ever Outnumber the Dead?
 meta_description: 'Louis CK once asked his audience: "Do you know where are most
   of the people?". "Most of the people are dead", he replied. Is that actually
-  true? Will living people ever outnumber the dead?'
+  true?'
 author: Saeed Mirshekari
 date: 2014-02-28T08:01:20.249Z
 tags:
