@@ -49,7 +49,7 @@ layout: blog_base_nobody.njk
         <div id="right_col">
           <div class="column"> 
           <a style="line-height:120%; color:#777" href="{{post.url}}" style="position:static; bottom:0px;">
-          <b>{{ post.data.title }}</b></a> 
+          {{ post.data.title }}</a> 
           <br>
           <i class="bi bi-clock"></i> <i>{{ post.data.date|dateFull }}</i>
           {# <br> #}
@@ -94,9 +94,9 @@ layout: blog_base_nobody.njk
 
   {% if page == pagination.pageNumber%}
     {% if page == 0 %}
-      <a href="/blogs_career/" style='background-color:#94c045; color:#111;'><b>{{page}}</b></a>
+      <a href="/blogs_career/" style='background-color:#94c045; color:#111;'>{{page}}</a>
     {% else %}
-      <a href="/blogs_career/{{ page }}" style='background-color:#94c045; color:#000;'><b>{{page}}</b></a>
+      <a href="/blogs_career/{{ page }}" style='background-color:#94c045; color:#000;'>{{page}}</a>
     {% endif %}
 
   {% else %}
