@@ -1,9 +1,9 @@
 ---
 layout: blog_base.njk
-title: USA Citizenship: A 14 Years Journey
+title: USA Citizenship; A 14 Years Journey
 description: A brief personal story of my journey becoming a US citizen this
   weekend after 14 years of living and contributing in the United States.
-meta_title: USA Citizenship: A 14 Years Journey
+meta_title: USA Citizenship; A 14 Years Journey
 meta_description: A brief personal story of my journey becoming a US citizen this
   weekend after 14 years of living and contributing in the United States.
 author: Saeed Mirshekari
