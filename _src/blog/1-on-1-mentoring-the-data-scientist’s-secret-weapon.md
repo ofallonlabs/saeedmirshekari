@@ -1,10 +1,9 @@
 ---
 layout: blog_base.njk
-title: "1-on-1 Mentoring: The Data Scientist’s Secret Weapon"
+title: "The Data Scientist’s Secret Weapon"
 description: 1-on-1 mentoring accelerates data science careers by providing
   personalized learning, real-world problem-solving, networking, and career
-  transitions. O’Mentors’ structured mentorship model significantly improves job
-  placement, salary growth, and confidence.
+  transitions.
 meta_title: "1-on-1 Mentoring: The Data Scientist’s Secret Weapon"
 meta_description: 1-on-1 mentoring accelerates data science careers by providing
   personalized learning, real-world problem-solving, networking, and career
