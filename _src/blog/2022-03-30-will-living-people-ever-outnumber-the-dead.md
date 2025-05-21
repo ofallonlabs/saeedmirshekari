@@ -53,20 +53,16 @@ where N is an integer number and Dead(t0) is the
 
 Based on Equations (1), (3), it's not difficult to show
 the living population ultimately outnumber the dead
-if and only if:</p>
+if and only if:
 
-<img src="https://render.githubusercontent.com/render/math?math=(1 %2B r) [ L ] > 2" width="13%">
-<br><br>
+<!-- <img src="https://render.githubusercontent.com/render/math?math=(1 %2B r) [ L ] > 2" width="13%"> -->
+`(1 + r) x [L] > 2`
 
-$$(1 + r)[L] > 2$$
+For example, with the current value of the world average life expectancy, i.e. `67.88` years, the living population can outnumber the dead if and only if the annual population growth rate is not less than the critical value of `1.02%`. This number is only slightly smaller than the current value for the world i.e. `1.14%`. Although we have considered r to be
+constant, recent studies [2] predict a small decrease in the rate of population growth to a value less than `1%` in close future. This small decrease would be enough to conclude that the living population never outnumber the dead with the current world average
+value of life expectancy.
 
-
-<p>For example, with the current value of the world average life expectancy, i.e. 67.88 years, the living population can outnumber the dead if and only if the annual population growth rate is not less than the critical value of 1.02%. This number is only slightly smaller than the current value for the world i.e. 1.14%. Although we have considered r to be
-constant, recent studies \\\[2] predict a small decrease in the rate of population growth to a value less than 1% in close future. This small decrease would be enough to conclude that the living population never outnumber the dead with the current world average
-value of life expectancy.</p>
-
-<p>On the other hand, as another example, if we fix the population growth rate at its current value, the world average life expectancy has to be greater than 61.12 years to ultimately allow the living population outnumber the dead. Any values of r and <L> less than their critical values cause the dead population outnumber the living forever.
-</p>
+On the other hand, as another example, if we fix the population growth rate at its current value, the world average life expectancy has to be greater than `61.12` years to ultimately allow the living population outnumber the dead. Any values of r and `<L>` less than their critical values cause the dead population outnumber the living forever.
 
 ## References
 \[1] Carl Haub, http://www.prb.org (2011)
