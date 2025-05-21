@@ -1,19 +1,18 @@
 ---
 layout: blog_base.njk
-title: Can Engineers Become Data Scientists?
-description: " Transitioning from engineering to data science is feasible but
+title: Can Engineers Become Data Scientists
+description: Transitioning from engineering to data science is feasible but
   poses challenges like skill gaps and limited networking.
-meta_title: Can Engineers Become Data Scientists?
-meta_description: " Transitioning from engineering to data science is feasible
-  but poses challenges like skill gaps and limited networking."
+meta_title: Can Engineers Become Data Scientists
+meta_description: Transitioning from engineering to data science is feasible
+  but poses challenges like skill gaps and limited networking.
 author: Saeed Mirshekari
 date: 2024-03-12T22:25:44.395Z
 tags:
-  - post.mentoring
+  - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_qa_engineers_dg5p.png
-rating: 5
 ---
-
 
 In today's digital age, data science has emerged as a lucrative and in-demand career path, drawing professionals from various backgrounds, including engineering. With their strong analytical skills and problem-solving abilities, engineers are well-positioned to transition into the field of data science. However, such a shift comes with its own set of challenges and pitfalls. In this comprehensive guide, we'll delve into the feasibility of engineers transitioning to data science roles, explore common pitfalls they may encounter, and discuss effective strategies to overcome these challenges.
 

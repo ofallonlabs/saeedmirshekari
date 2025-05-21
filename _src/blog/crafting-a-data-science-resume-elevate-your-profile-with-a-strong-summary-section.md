@@ -7,7 +7,7 @@ description: " Learn why the Summary section is vital in your data science
 meta_title: " Crafting a Data Science Resume"
 meta_description: " Learn why the Summary section is vital in your data science
   resume. Include a professional title, key skills, domain expertise,
-  achievements, and career objectives.
+  achievements, and career objectives."
 author: Saeed Mirshekari
 date: 2024-05-22T20:34:14.449Z
 tags:
