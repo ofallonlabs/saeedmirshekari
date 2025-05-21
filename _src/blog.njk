@@ -55,7 +55,7 @@ layout: blog_base_nobody.njk
         <div id="right_col">
           <div class="column"> 
           <a style="line-height:120%; color:#777" href="{{post.url}}" style="position:static; bottom:0px;">
-          <b>{{ post.data.title }}</b></a> 
+          {{ post.data.title }}</a> 
           <br>
           <i class="bi bi-clock"></i> <i>{{ post.data.date|dateFull }}</i>
           {# <br> #}
