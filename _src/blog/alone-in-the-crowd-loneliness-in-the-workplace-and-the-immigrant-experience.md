@@ -1,10 +1,10 @@
 ---
 layout: blog_base.njk
-title: "Alone in the Crowd: Loneliness in the Workplace and the Immigrant Experience"
+title: Loneliness in the Workplace and the Immigrant Experience
 description: This blog explores workplace loneliness, focusing on immigrants'
   emotional struggles, cultural barriers, and the need for inclusive, supportive
   environments far from home and family.
-meta_title: "Alone in the Crowd: Loneliness in the Workplace and the Immigrant Experience"
+meta_title: Loneliness in the Workplace and the Immigrant Experience
 meta_description: This blog explores workplace loneliness, focusing on
   immigrants' emotional struggles, cultural barriers, and the need for
   inclusive, supportive environments far from home and family.
