@@ -13,7 +13,7 @@ date: 2014-02-28T08:01:20.249Z
 tags:
   - post
   - physics
-thumbnail: /assets/img/uploads/undraw_in_no_time_-6-igu.png
+thumbnail: /assets/img/uploads/undraw_augmented-reality_3ie0.png
 rating: 5
 ---
 ## Abstract
@@ -93,6 +93,9 @@ if and only if:</p>
 
 <img src="https://render.githubusercontent.com/render/math?math=(1 %2B r) [ L ] > 2" width="13%">
 <br><br>
+
+$$(1 + r)[L] > 2$$
+
 
 <p>For example, with the current value of the world average life expectancy, i.e. 67.88 years, the living population can outnumber the dead if and only if the annual population growth rate is not less than the critical value of 1.02%. This number is only slightly smaller than the current value for the world i.e. 1.14%. Although we have considered r to be
 constant, recent studies \\\[2] predict a small decrease in the rate of population growth to a value less than 1% in close future. This small decrease would be enough to conclude that the living population never outnumber the dead with the current world average
