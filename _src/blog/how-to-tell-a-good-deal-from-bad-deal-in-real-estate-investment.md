@@ -1,23 +1,15 @@
 ---
 layout: blog_base.njk
-title: "Maximizing ROI: How Our Analytics Tool Helps Real Estate Investors Make
-  Informed Decisions Quickly"
+title: "How Our Analytics Tool Helps Real Estate Investors"
 description: Our free analytics tool empowers real estate investors with
   real-time insights into a property's ROI. Built on Python and cloud-based
   deployment, the tool offers a user-friendly interface, advanced algorithms,
-  and a comprehensive analysis of potential rental properties. By exchanging
-  their email addresses, users gain access to a cost-effective and invaluable
-  resource that helps them make informed investment decisions quickly and
-  confidently.
-meta_title: "Maximizing ROI: How Our Analytics Tool Helps Real Estate Investors
-  Make Informed Decisions Quickly"
+  and a comprehensive analysis of potential rental properties.
+meta_title: "How Our Analytics Tool Helps Real Estate Investors"
 meta_description: Our free analytics tool empowers real estate investors with
   real-time insights into a property's ROI. Built on Python and cloud-based
   deployment, the tool offers a user-friendly interface, advanced algorithms,
-  and a comprehensive analysis of potential rental properties. By exchanging
-  their email addresses, users gain access to a cost-effective and invaluable
-  resource that helps them make informed investment decisions quickly and
-  confidently.
+  and a comprehensive analysis of potential rental properties.
 author: Saeed Mirshekari
 date: 2023-04-01T14:53:29.998Z
 tags:

@@ -3,12 +3,12 @@ layout: blog_base_katherine.njk
 title: "How to Overcome Procrastination in Career Change "
 description: "Procrastination hinders success in every way. If you're finding it
   difficult to switch careers to a field in tech or whatever area due to
-  procrastination, this blog post contains strategies to help you overcome.  "
+  procrastination, this blog post contains strategies to help you overcome."
 meta_title: "How to Overcome Procrastination in Career Change "
 meta_description: "Procrastination hinders success in every way. If you're
   finding it difficult to switch careers to a field in tech or whatever area due
   to procrastination, this blog post contains strategies to help you
-  overcome.  "
+  overcome."
 author: Katherine Olowookere
 date: 2022-10-02T15:02:11.819Z
 tags:

@@ -3,15 +3,11 @@ layout: blog_base.njk
 title: Data Science for the Transportation Industry
 description: Data science revolutionizes transportation by optimizing routes,
   enhancing safety, reducing costs, and enabling innovations like autonomous
-  vehicles. It empowers smarter logistics, improved passenger experiences, and
-  sustainable mobility solutions through predictive analytics, IoT integration,
-  and advanced machine learning models.
+  vehicles. It empowers smarter logistics.
 meta_title: Data Science for the Transportation Industry
 meta_description: Data science revolutionizes transportation by optimizing
   routes, enhancing safety, reducing costs, and enabling innovations like
-  autonomous vehicles. It empowers smarter logistics, improved passenger
-  experiences, and sustainable mobility solutions through predictive analytics,
-  IoT integration, and advanced machine learning models.
+  autonomous vehicles. It empowers smarter logistics.
 author: Saeed Mirshekari
 date: 2025-01-07T14:16:30.143Z
 tags:

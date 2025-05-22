@@ -1,13 +1,11 @@
 ---
 layout: blog_base.njk
-title: "Hyperparameter Tuning: Optimizing Machine Learning Models for Peak
-  Performance"
+title: "Hyperparameter Tuning: Optimizing Machine Learning Models"
 description: Hyperparameter tuning optimizes machine learning models by
   adjusting key settings before training. It enhances performance, prevents
   overfitting, and is crucial across domains like healthcare and finance,
   ensuring models deliver accurate predictions and insights.
-meta_title: "Hyperparameter Tuning: Optimizing Machine Learning Models for Peak
-  Performance"
+meta_title: "Hyperparameter Tuning: Optimizing Machine Learning Models"
 meta_description: Hyperparameter tuning optimizes machine learning models by
   adjusting key settings before training. It enhances performance, prevents
   overfitting, and is crucial across domains like healthcare and finance,

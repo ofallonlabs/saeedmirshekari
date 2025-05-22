@@ -1,11 +1,11 @@
 ---
 layout: blog_base.njk
-title: "Hurricanes: Data Analysis"
+title: "Hurricanes: A Data Analysis Report"
 description: Harnessing data analysis, we delve into the statistics of
   hurricanes, revealing their devastating impacts. Through predictive modeling
   and early warning systems, we minimize loss, safeguarding lives and
   infrastructure.
-meta_title: "Hurricanes: Data Analysis"
+meta_title: "Hurricanes: A Data Analysis Report"
 meta_description: Harnessing data analysis, we delve into the statistics of
   hurricanes, revealing their devastating impacts. Through predictive modeling
   and early warning systems, we minimize loss, safeguarding lives and

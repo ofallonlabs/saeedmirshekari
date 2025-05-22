@@ -1,12 +1,12 @@
 ---
 layout: blog_base.njk
 title: Data Science in Shaping Political Campaigns for the US Presidential
-  Election 2024
+  Elections
 description: Data science is crucial in modern political campaigns, with
   significant influence on strategies and voter targeting. Mentorship is key,
   especially for career changers at 40, to navigate and succeed in this field.
 meta_title: Data Science in Shaping Political Campaigns for the US Presidential
-  Election 2024
+  Elections
 meta_description: Data science is crucial in modern political campaigns, with
   significant influence on strategies and voter targeting. Mentorship is key,
   especially for career changers at 40, to navigate and succeed in this field.

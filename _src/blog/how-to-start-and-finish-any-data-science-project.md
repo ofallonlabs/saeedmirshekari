@@ -2,20 +2,10 @@
 layout: blog_base.njk
 title: How To Start and Finish Any Data Science Project in 7 Baby Steps
 description: Ready to dive into the exciting world of data analysis and
-  predictive modeling? Our step-by-step guide has got you covered! We'll walk
-  you through setting up Jupyter Notebook, exploring fascinating datasets on
-  Kaggle, tackling real business problems, cleaning and exploring data, creating
-  stunning visualizations, building powerful predictive models, and evaluating
-  their superhero-like performance. Let's unleash your data superpowers
-  together!
+  predictive modeling? Our step-by-step guide has got you covered! 
 meta_title: A 7-Minute Step-by-step Tutorial for Absolute Newbies in Data Science
 meta_description: Ready to dive into the exciting world of data analysis and
-  predictive modeling? Our step-by-step guide has got you covered! We'll walk
-  you through setting up Jupyter Notebook, exploring fascinating datasets on
-  Kaggle, tackling real business problems, cleaning and exploring data, creating
-  stunning visualizations, building powerful predictive models, and evaluating
-  their superhero-like performance. Let's unleash your data superpowers
-  together!
+  predictive modeling? Our step-by-step guide has got you covered!
 author: Saeed Mirshekari
 date: 2023-07-03T06:07:36.233Z
 tags:

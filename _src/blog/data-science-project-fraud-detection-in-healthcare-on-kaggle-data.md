@@ -2,9 +2,9 @@
 layout: blog_base_pradyumna.njk
 title: "Fraud Detection in Healthcare: The Latest Data Science Project by O'Labs
   Mentees (Public Dataset)"
-description: desc
+description: Health care fraud  is a huge problem in the United States. As the FBI website notes, health care fraud is not a victimless crime and it causes tens of billions of dollars in losses each year.
 meta_title: "Data Science Project: Fraud Detection in Healthcare on Kaggle Data"
-meta_description: desc
+meta_description: Health care fraud  is a huge problem in the United States. As the FBI website notes, health care fraud is not a victimless crime and it causes tens of billions of dollars in losses each year.
 author: Pradyumna Lanka
 date: 2023-12-03T16:11:37.938Z
 tags:

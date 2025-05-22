@@ -1,19 +1,19 @@
 ---
 layout: blog_base.njk
-title: How can I overcome imposter syndrome in data science and build confidence
-  for success?
+title: Build confidence
+  for success
 description: Conquer imposter syndrome in data science with our guide. Learn
   from real-life examples, tackle common challenges, and embrace strategies for
   success. Discover online courses, books, and communities for skill
   enhancement. Navigate your data science journey with confidence, turning
-  imposter syndrome into a catalyst for growth. Thrive in this dynamic field!
-meta_title: How can I overcome imposter syndrome in data science and build
-  confidence for success?
+  imposter syndrome into a catalyst for growth.
+meta_title: Build confidence
+  for success
 meta_description: Conquer imposter syndrome in data science with our guide.
   Learn from real-life examples, tackle common challenges, and embrace
   strategies for success. Discover online courses, books, and communities for
   skill enhancement. Navigate your data science journey with confidence, turning
-  imposter syndrome into a catalyst for growth. Thrive in this dynamic field!
+  imposter syndrome into a catalyst for growth.
 author: Saeed Mirshekari
 date: 2024-01-04T19:02:57.723Z
 tags:

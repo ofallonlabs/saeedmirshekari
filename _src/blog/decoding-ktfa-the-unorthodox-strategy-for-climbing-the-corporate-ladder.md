@@ -4,14 +4,12 @@ title: "Decoding KTFA: The Unorthodox Strategy for Climbing the Corporate Ladder
 description: Unveil the unconventional world of KTFA, a strategy for career
   advancement in toxic work cultures. Explore its principles of obsequiousness,
   dissent, and power posturing, and its implications for individuals and
-  organizations. Navigate the murky waters of office politics with integrity and
-  professionalism.
+  organizations. 
 meta_title: "Decoding KTFA: The Unorthodox Strategy for Climbing the Corporate Ladder"
 meta_description: Unveil the unconventional world of "Kiss The Fat Ass" (KTFA),
   a strategy for career advancement in toxic work cultures. Explore its
   principles of obsequiousness, dissent, and power posturing, and its
-  implications for individuals and organizations. Navigate the murky waters of
-  office politics with integrity and professionalism.
+  implications for individuals and organizations.
 author: Saeed Mirshekari
 date: 2024-03-22T15:45:07.671Z
 tags:

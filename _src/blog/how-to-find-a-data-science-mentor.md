@@ -1,6 +1,6 @@
 ---
 layout: blog_base_katherine.njk
-title: " How To Find A Trusted Data Science Mentor Even If Your Network Is Small?"
+title: "How To Find A Trusted Data Science Mentor Even If Your Network Is Small"
 description: Having a seasoned professional who acts as a leader and provides
   you a support system can be invaluable in 2023 as you navigate your career,
   try to learn new skills, and change industries. Discover you can find a

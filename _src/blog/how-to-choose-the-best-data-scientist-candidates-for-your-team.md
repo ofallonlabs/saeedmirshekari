@@ -1,14 +1,19 @@
 ---
 layout: blog_base.njk
-title: How To Choose The Best Data Scientist Candidates for Your Team?
+title: How To Choose The Best Data Scientist Candidates for Your Team
 description: You’ve got a new home project to do this summer and you need to
   hire; would you hire a handyman or a contractor? How does this relate
-  to   hiring the best candidate for your Data Science team? In this post you
-  will   learn about the Vertical/Horizontal Ladder metaphor which can help you
+  to hiring the best candidate for your Data Science team? In this post you
+  will learn about the Vertical/Horizontal Ladder metaphor which can help you
   make better decisions when it comes to hiring for the Data Science roles in
   your team.
-meta_title: NA
-meta_description: NA
+meta_title: How To Choose The Best Data Scientist Candidates for Your Team
+meta_description: You’ve got a new home project to do this summer and you need to
+  hire; would you hire a handyman or a contractor? How does this relate
+  to hiring the best candidate for your Data Science team? In this post you
+  will learn about the Vertical/Horizontal Ladder metaphor which can help you
+  make better decisions when it comes to hiring for the Data Science roles in
+  your team.
 author: Saeed Mirshekari
 date: 2022-09-13T14:25:54.740Z
 tags:

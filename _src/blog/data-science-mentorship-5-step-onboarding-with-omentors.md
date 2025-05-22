@@ -1,15 +1,13 @@
 ---
 layout: blog_base.njk
 title: "Data Science Mentorship: 5-Step Onboarding with O'Mentors"
-description: "\"Discover a seamless onboarding process for your 1-on-1 data
+description: Discover a seamless onboarding process for your 1-on-1 data
   science mentorship on O'Mentors. Sign up, share your LinkedIn, detail your
-  background and goals, then apply to mentors. Unleash your potential with
-  personalized guidance on your journey to success.\""
+  background and goals, then apply to mentors. 
 meta_title: "Data Science Mentorship: 5-Step Onboarding with O'Mentors"
-meta_description: "\"Discover a seamless onboarding process for your 1-on-1 data
+meta_description: Discover a seamless onboarding process for your 1-on-1 data
   science mentorship on O'Mentors. Sign up, share your LinkedIn, detail your
-  background and goals, then apply to mentors. Unleash your potential with
-  personalized guidance on your journey to success.\""
+  background and goals, then apply to mentors.
 author: Saeed Mirshekari
 date: 2024-02-23T15:16:46.751Z
 tags:

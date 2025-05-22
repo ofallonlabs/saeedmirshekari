@@ -1,19 +1,15 @@
 ---
 layout: blog_base.njk
-title: "How O'Mentors Can Supercharge Your Career Growth: Expert Mentorship for
-  Success"
+title: "How O'Mentors Can Supercharge Your Career Growth"
 description: O'Mentors connects ambitious professionals with top industry
   mentors to accelerate career growth. Through personalized one-on-one
   mentorship, job search guidance, real-world insights, and networking
-  opportunities, O'Mentors helps mentees unlock their full potential and secure
-  success in data science, machine learning, and leadership roles.
-meta_title: "How O'Mentors Can Supercharge Your Career Growth: Expert Mentorship
-  for Success"
+  opportunities, O'Mentors helps mentees unlock their full potential.
+meta_title: "How O'Mentors Can Supercharge Your Career Growth"
 meta_description: O'Mentors connects ambitious professionals with top industry
   mentors to accelerate career growth. Through personalized one-on-one
   mentorship, job search guidance, real-world insights, and networking
-  opportunities, O'Mentors helps mentees unlock their full potential and secure
-  success in data science, machine learning, and leadership roles.
+  opportunities, O'Mentors helps mentees unlock their full potential.
 author: Saeed Mirshekari
 date: 2025-03-08T12:21:19.048Z
 tags:

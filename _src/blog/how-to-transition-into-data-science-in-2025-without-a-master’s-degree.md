@@ -1,11 +1,11 @@
 ---
 layout: blog_base.njk
-title: How to Transition into Data Science in 2025 (Without a Master’s Degree)
+title: How to Transition into Data Science Without a Degree
 description: Learn how to break into data science in 2025 without a Master’s
   degree by building practical skills, creating projects, networking
   strategically, leveraging certifications, and showcasing value through
   real-world impact.
-meta_title: How to Transition into Data Science in 2025 (Without a Master’s Degree)
+meta_title: How to Transition into Data Science Without a Degree
 meta_description: Learn how to break into data science in 2025 without a
   Master’s degree by building practical skills, creating projects, networking
   strategically, leveraging certifications, and showcasing value through

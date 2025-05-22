@@ -1,16 +1,15 @@
 ---
 layout: blog_base_fatima.njk
-title: Education & Experience Not from the US? Here’s How to Get Your First Data
+title: Here’s How to Get Your First Data
   Science Role in the US!
 description: I’ve recently moved to the US. My education and work experience
   have not been in the United States. Can I get a Data Science job in the US now
-  or ever? What is available for me here? How do things work here? Where should
+  or ever? What is available for me here How do things work here? Where should
   I start? Who can help me get up to speed and set for success? Keep reading to
   find the answer to all your questions!
 meta_title: Getting Your First Data Science Role in the US Made Easier | O’Fallon Labs
 meta_description: You’ve moved to the US with education and work experience from
-  abroad and looking for a good job in the DS field. Here’s how you can get your
-  first Data Science role. 
+  abroad and looking for a good job in the DS field. 
 author: Fatima Haroon
 date: 2023-01-02T15:56:20.708Z
 tags:

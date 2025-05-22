@@ -1,17 +1,13 @@
 ---
 layout: blog_base.njk
-title: "Groove Your Career: Crafting a Data Science Resume that Rocks!"
+title: "Crafting a Data Science Resume that Rocks!"
 description: Craft a stellar data science resume that steals the spotlight with
   tailored beats for each job. From creating a master resume to jamming with
-  keywords, this guide transforms the daunting into a rocking process. Elevate
-  your career with precision and passion—your data science resume, your stage!
-  🌟📊
-meta_title: "Groove Your Career: Crafting a Data Science Resume that Rocks! 🚀🎸"
+  keywords, this guide transforms the daunting into a rocking process. 
+meta_title: "Crafting a Data Science Resume that Rocks! 🚀🎸"
 meta_description: Craft a stellar data science resume that steals the spotlight
   with tailored beats for each job. From creating a master resume to jamming
   with keywords, this guide transforms the daunting into a rocking process.
-  Elevate your career with precision and passion—your data science resume, your
-  stage! 🌟📊
 author: Saeed Mirshekari
 date: 2023-10-25T00:05:17.802Z
 tags:

@@ -5,17 +5,13 @@ description: This blog is focused on a checklist for mentors to follow in order
   to establish and maintain successful mentor-mentee relationships. The
   checklist includes several steps, such as setting expectations and goals
   during the first meeting, establishing the relationship and discussing career
-  goals during the second meeting, and understanding development needs and
-  sharing knowledge during subsequent meetings. The final step is to sustain the
-  relationship by wrapping up the mentoring process and keeping in touch.
+  goals.
 meta_title: "From First Meeting to Lasting Connection: A Mentorship Checklist"
 meta_description: This blog is focused on a checklist for mentors to follow in
   order to establish and maintain successful mentor-mentee relationships. The
   checklist includes several steps, such as setting expectations and goals
   during the first meeting, establishing the relationship and discussing career
-  goals during the second meeting, and understanding development needs and
-  sharing knowledge during subsequent meetings. The final step is to sustain the
-  relationship by wrapping up the mentoring process and keeping in touch.
+  goals.
 author: Saeed Mirshekari
 date: 2023-03-12T13:20:18.303Z
 tags:

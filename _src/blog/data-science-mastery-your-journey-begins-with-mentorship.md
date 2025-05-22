@@ -2,16 +2,10 @@
 layout: blog_base.njk
 title: "Data Science Mastery: Your Journey Begins with Mentorship"
 description: Transform your career and enter the dynamic world of data science
-  with the help of 1-on-1 mentorship. Discover the unmatched benefits of
-  mentorship, how to select the perfect mentor, and strategies to maximize your
-  learning. Prepare for a thriving data science career with hands-on projects,
-  networking, and expert guidance. Your data science journey starts now.
+  with the help of 1-on-1 mentorship. 
 meta_title: "Data Science Mastery: Your Journey Begins with Mentorship"
 meta_description: Transform your career and enter the dynamic world of data
-  science with the help of 1-on-1 mentorship. Discover the unmatched benefits of
-  mentorship, how to select the perfect mentor, and strategies to maximize your
-  learning. Prepare for a thriving data science career with hands-on projects,
-  networking, and expert guidance. Your data science journey starts now.
+  science with the help of 1-on-1 mentorship. 
 author: Saeed Mirshekari
 date: 2023-09-22T14:49:49.346Z
 tags:

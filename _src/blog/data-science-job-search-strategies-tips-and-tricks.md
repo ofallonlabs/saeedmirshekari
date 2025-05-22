@@ -2,16 +2,12 @@
 layout: blog_base_katherine.njk
 title: "Unlocking Success in Data Science Job Search: 7 Essential Tips and Tricks"
 description: Discover effective tips and tricks for landing your dream data
-  science job, from crafting the perfect resume to acing your interviews. Learn
-  how to stand out from the competition and secure your spot in the exciting
-  field of data science.
+  science job, from crafting the perfect resume to acing your interviews.
 meta_title: "Data Science Job Search Strategies: Tips and Tricks for Landing
   Your Dream Job"
 meta_description: Looking for data science job search strategies? Our blog post
   has got you covered! Discover effective tips and tricks for landing your dream
   data science job, from crafting the perfect resume to acing your interviews.
-  Learn how to stand out from the competition and secure your spot in the
-  exciting field of data science.
 author: Katherine Olowookere
 date: 2023-03-05T07:03:48.137Z
 tags:

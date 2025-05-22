@@ -1,13 +1,13 @@
 ---
 layout: blog_base.njk
-title: "Healthcare Fraud: A Data-Driven Approach to Detecting Anomalies in
+title: "Healthcare Fraud: Detecting Anomalies in
   Claims and Providers"
 description: Explore the intricate world of healthcare fraud detection, from
   claim-level to provider-level analysis, using data science techniques. This
   comprehensive guide equips data science enthusiasts and junior practitioners
   with the knowledge and tools to combat healthcare fraud effectively,
   safeguarding both financial resources and patient care.
-meta_title: "Healthcare Fraud: A Data-Driven Approach to Detecting Anomalies in
+meta_title: "Healthcare Fraud: Detecting Anomalies in
   Claims and Providers"
 meta_description: Explore the world of healthcare fraud detection, from
   understanding its impact to implementing data-driven techniques. This

@@ -1,11 +1,11 @@
 ---
 layout: blog_base.njk
-title: Data Science Jobs in Australia in 2025
+title: Data Science Jobs in Australia
 description: This article explores the top companies hiring data scientists in
   Australia and provides a comparative analysis of major cities—Sydney,
   Melbourne, Brisbane, Perth, and Adelaide—in terms of job market appeal for
   data professionals.
-meta_title: Data Science Jobs in Australia in 2025
+meta_title: Data Science Jobs in Australia
 meta_description: This article explores the top companies hiring data scientists
   in Australia and provides a comparative analysis of major cities—Sydney,
   Melbourne, Brisbane, Perth, and Adelaide—in terms of job market appeal for

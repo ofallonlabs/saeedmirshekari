@@ -1,21 +1,17 @@
 ---
 layout: blog_base.njk
-title: "Giving Thanks for Data: 10 Awesome Things to Be Happy About as a Data
+title: "10 Awesome Things to Be Happy About as a Data
   Scientist"
 description: Celebrate Thanksgiving in the data world with gratitude for diverse
   datasets, helpful algorithms, and the creative canvas of visualizations. Be
   thankful for continuous learning, a supportive data community, and the power
-  to make a positive impact. Cheers to friends, automation helpers, challenges
-  that sharpen skills, and the exciting possibilities in the ever-evolving data
-  playground! 🦃📊
-meta_title: "Giving Thanks for Data: 10 Awesome Things to Be Happy About as a
+  to make a positive impact. 
+meta_title: "10 Awesome Things to Be Happy About as a
   Data Scientist"
 meta_description: Celebrate Thanksgiving in the data world with gratitude for
   diverse datasets, helpful algorithms, and the creative canvas of
   visualizations. Be thankful for continuous learning, a supportive data
-  community, and the power to make a positive impact. Cheers to friends,
-  automation helpers, challenges that sharpen skills, and the exciting
-  possibilities in the ever-evolving data playground! 🦃📊
+  community, and the power to make a positive impact. 
 author: Saeed Mirshekari
 date: 2023-11-22T21:13:56.276Z
 tags:

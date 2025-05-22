@@ -1,11 +1,11 @@
 ---
 layout: blog_base.njk
-title: How to Target High-Paying Data Science Job Interviews?
+title: How to Target High-Paying Data Science Job Interviews
 description: Focus on crafting a tailored resume, targeting high-demand
   industries, building niche technical skills, networking strategically, and
   mastering advanced interview techniques to secure high-paying data science
   roles.
-meta_title: How to Target High-Paying Data Science Job Interviews?
+meta_title: How to Target High-Paying Data Science Job Interviews
 meta_description: Focus on crafting a tailored resume, targeting high-demand
   industries, building niche technical skills, networking strategically, and
   mastering advanced interview techniques to secure high-paying data science

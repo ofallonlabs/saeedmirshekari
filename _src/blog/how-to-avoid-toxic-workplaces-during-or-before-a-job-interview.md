@@ -1,12 +1,12 @@
 ---
 layout: blog_base.njk
-title: How to Avoid Toxic Workplaces During or Before a Job Interview
+title: Toxic Workplaces During or Before a Job Interview
 description: To avoid toxic work environments during or before a job interview,
   recognize warning signs, thoroughly research the company's culture, utilize
   interview opportunities, seek external perspectives, and trust your instincts.
   Prioritizing a healthy work environment is vital for long-term career
   satisfaction and well-being.
-meta_title: How to Avoid Toxic Workplaces During or Before a Job Interview
+meta_title: Toxic Workplaces During or Before a Job Interview
 meta_description: To avoid toxic work environments during or before a job
   interview, recognize warning signs, thoroughly research the company's culture,
   utilize interview opportunities, seek external perspectives, and trust your

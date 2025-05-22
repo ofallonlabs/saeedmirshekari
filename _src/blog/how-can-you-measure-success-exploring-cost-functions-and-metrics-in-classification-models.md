@@ -1,13 +1,12 @@
 ---
 layout: blog_base.njk
-title: How Can You Measure Success? Exploring Cost Functions and Metrics in
+title: Exploring Cost Functions and Metrics in
   Classification Models
 description: Discover how cost functions like cross-entropy guide model
   training, and explore essential performance metrics such as accuracy,
   precision, recall, F1-score, ROC curves, and AUC in the world of
-  classification models. Perfect for aspiring data scientists and enthusiasts
-  looking to master model evaluation techniques.
-meta_title: How Can You Measure Success? Exploring Cost Functions and Metrics in
+  classification models. 
+meta_title: Exploring Cost Functions and Metrics in
   Classification Models
 meta_description: Discover the significance of cost functions and metrics in
   evaluating classification models. This comprehensive guide explores their
