@@ -19,7 +19,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/nlp_basics.png
 ---
-# NLP Basics in Machine Learning and Data Science
+## NLP Basics in Machine Learning and Data Science
 
 Natural Language Processing (NLP) is a field at the intersection of computer science, artificial intelligence, and linguistics, focused on the interaction between computers and human (natural) languages. It involves programming computers to process and analyze large amounts of natural language data. The ultimate goal of NLP is to enable computers to understand, interpret, and generate human languages in a way that is both valuable and meaningful.
 

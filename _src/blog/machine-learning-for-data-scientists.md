@@ -19,7 +19,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/machine-learning-for-data-scientists.png
 ---
-# Getting Started with Machine Learning for Data Scientists
+## Getting Started with Machine Learning for Data Scientists
 
 Machine learning offers data scientists powerful tools to extract insights from data, make predictions, and automate decision-making processes. In this comprehensive guide, we'll delve deeper into the fundamentals of machine learning, explore key concepts, discuss practical applications, and introduce top tools and techniques for solving classification, regression, and clustering problems.
 

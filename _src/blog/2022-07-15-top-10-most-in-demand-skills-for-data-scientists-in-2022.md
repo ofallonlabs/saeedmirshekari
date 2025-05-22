@@ -29,7 +29,7 @@ In your journey to becoming a successful enterprise data scientist, one that lan
 Having expertise and experience in these skills (both technical and soft skills) will create a strong foundation for success in your career.
 
 
-<h1> Technical Skills Needed For Data Science </h1>
+<h2> Technical Skills Needed For Data Science </h2>
 <br>
 
 <h2> 1. Probability and Statistics:</h2>  
@@ -104,7 +104,7 @@ After data-cleaning (which is the most time consuming part of a typical data-sci
 When a model achieves the intended outcomes, data scientists can deploy it in a production setting — frequently in collaboration with data engineers — to assist their organizations in continuously making useful business decisions.
 
 
-<h1> Non-Technical Skills Needed in Data Science </h1>
+<h2> Non-Technical Skills Needed in Data Science </h2>
 
 
 <h2> 8. Business Understanding:</h2> 
@@ -125,7 +125,7 @@ Most organizations and business owners are not aware that the majority of their 
 Data scientists often need to collaborate with other people like data engineers, data analysts, and program managers to properly interpret and analyze data for the targeted business goals. They also need to be able to successfully communicate their understanding of the data and explain the analytics results so business executives and non-technical managers can use the information to make good decisions.
 
 
-<h1> Tips & Tricks </h1> 
+<h2> Tips & Tricks </h2> 
 
 
 These technical skills listed above and some other ones are what are being used in many organizations today to help make informed decisions. Several big industries today are in search of individuals with these skills who can help them solve major business problems using data and analytics. 

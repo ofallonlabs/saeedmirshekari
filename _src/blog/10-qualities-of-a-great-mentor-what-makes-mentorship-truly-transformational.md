@@ -13,7 +13,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_in-the-office_e7pg.png
 ---
-# 10 Qualities of a Great Mentor: What Makes Mentorship Truly Transformational?
+## 10 Qualities of a Great Mentor: What Makes Mentorship Truly Transformational?
 
 - - -
 

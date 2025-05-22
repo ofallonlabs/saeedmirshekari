@@ -18,7 +18,7 @@ tags:
 thumbnail: /assets/img/uploads/fikas.jpg
 rating: 5
 ---
-# Introducing Our New Data Science Mentor: Ally Fikas
+## Introducing Our New Data Science Mentor: Ally Fikas
 
 We are thrilled to introduce our newest addition to the O'Mentors team: Ally Fikas! With a wealth of experience and a passion for guiding aspiring data scientists, Ally brings a unique perspective to our mentoring platform.
 

@@ -16,7 +16,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_yacht_re_kkai.png
 rating: 5
 ---
-<!--StartFragment-->
 
 What bugs the minds of most beginners in Data Science (especially those coming from a non-IT background) is the question of where to begin. The Data field is so wide that figuring out where to begin all by yourself can be very overwhelming. 
 
@@ -26,7 +25,7 @@ Yes, at some point in your data career you might need to master some of these co
 
 Where exactly do you begin in your Data Science career? In this article, I have explained the entire process of how you can successfully kickstart your Data Science career. 
 
-<h1>Where to begin in DS? 5 Steps You Have to Go Through </h1>
+<h2>Where to begin in DS? 5 Steps You Have to Go Through </h2>
 
 <h2>1. Know Where You Are</h2>
 

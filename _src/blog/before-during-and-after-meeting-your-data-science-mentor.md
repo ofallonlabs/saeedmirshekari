@@ -16,7 +16,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_exams_re_4ios.png
 rating: 5
 ---
-# 10 Things to Do Before, During, and After Meeting Your Data Science Mentor 1-on-1
+## 10 Things to Do Before, During, and After Meeting Your Data Science Mentor 1-on-1
 
 Welcome to [Omentors.com](https://www.omentors.com/), where you embark on an exciting journey of growth and learning in the field of data science. As you prepare to meet your data science mentor for a 1-on-1 session, it's crucial to make the most out of this opportunity. Whether you're a seasoned professional or just starting out in the field, having a mentor can greatly accelerate your progress and help you navigate the complexities of the industry.
 

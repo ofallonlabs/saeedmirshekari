@@ -11,7 +11,7 @@ tags:
 thumbnail: /assets/img/uploads/impacts_2023.gif
 rating: 5
 ---
-As 2023 comes to an end, O'Fallon Labs journey continues.
+## As 2023 comes to an end, O'Fallon Labs journey continues.
 It might not be huge but the impacts makes me happy and I'd like to share that with you today! I thought you would like to see it.
 
 Here is a quick summary of O'Labs in 2023:

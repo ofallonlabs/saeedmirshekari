@@ -20,13 +20,14 @@ tags:
 thumbnail: /assets/img/uploads/chikkerur.jpg
 rating: 5
 ---
-# Introducing Our New Data Science Mentor: Vishal Chikkerur
+## Introducing Our New Data Science Mentor: Vishal Chikkerur
 
 We are thrilled to welcome Vishal Chikkerur to O'Mentors as our newest Data Science mentor! With a rich background in Aerospace, Aeronautical, and Astronautical Engineering, Vishal is currently making significant strides as a Senior Data Scientist at Bayer Crop Science in O'Fallon, Missouri. His journey from a PhD in Aerospace Engineering to a seasoned Data Scientist brings a unique perspective and wealth of knowledge to our mentoring community.
 
 ## Getting to Know Vishal
 
-Vishal is not just a data scientist; he's a people person. A good listener and effective communicator, he possesses the valuable skill of being able to connect with individuals on a personal level. His proficiency in multiple languages, including English, Hindi, and Italian, further enhances his ability to communicate with a diverse audience. He has raised and lived in Australia.
+Vishal is not just a data scientist; he's a people person. A good listener and effective communicator, he possesses the valuable skill of being able to connect with individuals on a personal level. His proficiency in multiple languages, including English, Hindi, and Italian, further enhances his ability to communicate with a diverse audience. 
+He has raised and lived in Australia.
 
 
 ## Services Offered by Vishal

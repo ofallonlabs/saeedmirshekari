@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/shafei.jpg
 rating: 5
 ---
-# Introducing Our New Data Science Mentor: Shoresh Shafei
+## Introducing Our New Data Science Mentor: Shoresh Shafei
 
 We are thrilled to introduce our newest addition to the O'Mentors family, Shoresh Shafei! With a wealth of experience and a passion for mentoring, Shoresh is ready to guide aspiring data scientists towards success in their careers.
 

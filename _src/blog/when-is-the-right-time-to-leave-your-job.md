@@ -14,7 +14,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_scooter_fj6g.png
 ---
-**When Is the Right Time to Leave Your Job? A Complete Guide to Making a Confident Career Move**
+## When Is the Right Time to Leave Your Job? A Complete Guide to Making a Confident Career Move
 
 **Introduction**
 

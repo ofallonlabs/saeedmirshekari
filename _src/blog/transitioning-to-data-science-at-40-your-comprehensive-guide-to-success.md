@@ -22,7 +22,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_shared_workspace_re_3gsu.png
 rating: 5
 ---
-# Can I Become a Data Scientist at 40? The Ultimate Guide
+## Can I Become a Data Scientist at 40? The Ultimate Guide
 
 ## Introduction
 
@@ -187,4 +187,4 @@ Paul Hernandez, with a background in engineering, shifted to data science at 42.
 ## Conclusion
 
 So, can you become a data scientist at 40? The answer is a definitive yes. With the right approach, dedication, and support, transitioning into data science later in life is not only possible but can be incredibly rewarding. Embrace the journey, seek out a data science mentor, and leverage data science mentoring to accelerate your progress. Your unique experiences and perspective can be a significant asset in the ever-evolving field of data science.
-
+

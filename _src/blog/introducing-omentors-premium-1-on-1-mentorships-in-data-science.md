@@ -22,7 +22,7 @@ rating: 5
 ---
 Are you a data science enthusiast eager to take your skills to the next level? Do you wish to learn from the best in the field, those who have traversed the path you're treading? If so, then you're in luck! We're thrilled to introduce you to O'Mentors, a revolutionary platform designed to connect passionate learners with seasoned mentors in the realm of data science.
 
-**Why Beta Testing Matters**
+## Why Beta Testing Matters
 
 Before we delve into the intricacies of O'Mentors, let's address the significance of beta testing. As we embark on this exciting journey, your role as early adopters is pivotal. Your feedback, insights, and experiences will shape the final product, ensuring it meets the diverse needs of our community. By participating in the beta testing phase, you not only gain exclusive access to cutting-edge features but also contribute to the refinement of O'Mentors, making it a premier destination for data science aficionados worldwide.
 

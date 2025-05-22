@@ -18,7 +18,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_check_boxes_re_v40f.png
 rating: 5
 ---
-# The 5-Step Process of Onboarding Mentees on O'Mentors for Data Science Mentorship
+## The 5-Step Process of Onboarding Mentees on O'Mentors for Data Science Mentorship
 
 Are you ready to embark on an enriching mentorship journey in the field of data science? At O'Mentors, we're dedicated to providing a seamless onboarding experience for mentees like you. Our five-step process ensures that you're equipped with the necessary tools and information to kickstart your mentorship journey with confidence. Let's dive into each step:
 

@@ -18,7 +18,7 @@ thumbnail: /assets/img/uploads/undraw_barista_qd50.svg
 
 
 
-# How to Prepare for a Data Science Job Interview
+## How to Prepare for a Data Science Job Interview
 
 Landing a job interview in data science is an achievement in itself. However, the real challenge lies in preparing thoroughly to showcase your technical skills, problem-solving abilities, and business acumen. Data science interviews are multi-faceted, often requiring proficiency in statistics, machine learning, programming, data manipulation, and business insights. Here’s a comprehensive guide to help you prepare for a data science job interview and make a lasting impression.
 

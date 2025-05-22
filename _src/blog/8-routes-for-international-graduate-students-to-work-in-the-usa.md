@@ -17,7 +17,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_moving_re_pipp.png
 rating: 5
 ---
-# Routes for International Graduate Students to Work in the USA
+## Routes for International Graduate Students to Work in the USA
 
 For international graduate students dreaming of building a career in the United States, navigating the complex landscape of work visa options can be daunting. However, with careful planning and understanding of the available pathways, it's possible to pursue employment opportunities in the US post-graduation. In this comprehensive guide, we'll explore the various routes available for international graduate students to work in the USA.
 

@@ -22,7 +22,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_pancakes_238t.png
 rating: 5
 ---
-# How to Handle Resume Gaps When Applying for Data Science Jobs
+## How to Handle Resume Gaps When Applying for Data Science Jobs
 
 In today's competitive job market, a flawless resume is essential to stand out, especially in data science roles where skills and experience are highly valued. However, many candidates face challenges due to breaks in their employment history. Whether due to personal reasons, career transitions, or other circumstances, resume gaps can raise concerns for hiring managers. But fear not! With the right approach, you can effectively address and mitigate these concerns. In this guide, we'll explore strategies to navigate resume gaps and increase your chances of landing your dream data science job.
 

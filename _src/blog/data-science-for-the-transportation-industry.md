@@ -18,7 +18,7 @@ tags:
   - post
 thumbnail: /assets/img/uploads/undraw_subway_66jh.png
 ---
-# Data Science for the Transportation Industry
+## Data Science for the Transportation Industry
 
 The transportation industry, the backbone of global commerce and connectivity, is undergoing a profound transformation driven by data science. As cities become smarter, logistics grow more complex, and consumers demand faster, safer, and more efficient services, the role of data science has never been more significant. From optimizing traffic flow in urban centers to enhancing the efficiency of supply chains, data science has emerged as the catalyst for innovation in transportation. This article delves into how data science is reshaping the transportation industry, the methodologies employed, and the real-world applications that are creating ripple effects across the sector.
 

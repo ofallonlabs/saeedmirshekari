@@ -18,7 +18,7 @@ tags:
   - career
 thumbnail: /assets/img/uploads/undraw_new-year-2025_1tmm.png
 ---
-# Cheers to 2025: A Year of Growth and Innovation at O'Fallon Labs
+## Cheers to 2025: A Year of Growth and Innovation at O'Fallon Labs
 
 As we welcome 2025, we at O'Fallon Labs couldn’t be more excited about the journey ahead. The new year marks a significant milestone for us, one filled with promise, innovation, and transformative initiatives. Among these, the launch of **O’Mentors**, our much-anticipated mentorship platform, is at the forefront. Set to release in the first quarter of 2025, O’Mentors is designed to revolutionize how Data Scientists and aspiring Data Scientists connect, learn, and grow. In this blog, we’ll reflect on our progress, share our vision for the future, and give you a detailed look at the groundbreaking features and potential impact of O’Mentors.
 

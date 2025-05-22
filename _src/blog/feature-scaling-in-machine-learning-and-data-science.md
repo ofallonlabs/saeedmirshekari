@@ -19,7 +19,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/normalization_machine_learning.png
 ---
-# Feature Scaling in Machine Learning and Data Science
+## Feature Scaling in Machine Learning and Data Science
 
 Feature scaling is a crucial step in the data preprocessing pipeline of machine learning and data science. It involves adjusting the scales of the features in a dataset to ensure they are on a similar level. This process can significantly impact the performance of various machine learning algorithms, making it an essential topic for practitioners to understand.
 

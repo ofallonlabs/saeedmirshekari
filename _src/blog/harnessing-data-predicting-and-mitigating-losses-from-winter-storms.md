@@ -15,7 +15,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/undraw_check_boxes_re_v40f.png
 ---
-# Unveiling the Power of Data Analysis in Predicting and Minimizing Losses from Winter Storms
+## Unveiling the Power of Data Analysis in Predicting and Minimizing Losses from Winter Storms
 
 ---
 

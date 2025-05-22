@@ -14,7 +14,9 @@ tags:
 thumbnail: /assets/img/uploads/festival.png
 rating: 5
 ---
-Happy 4th of July! This is a special day for me! Details are below.
+## Happy 4th of July! 
+
+This is a special day for me! Details are below.
 
 Almost 14 years ago, I came to this country from thousands of miles away with a different culture; while I was holding three thousand bucks tight in my hands and three thousands thoughts tight in my head. I landed in Chicago O’Hare on a new year’s eve. I missed my flight there because of a long TSA process on my case. It was snowing outside and very cold. So I decided to stay over night in an almost-empty huge airport to catch the next available flight early morning next day/year. This was how I spent my first night in America but this was not the beginning of the story.
 

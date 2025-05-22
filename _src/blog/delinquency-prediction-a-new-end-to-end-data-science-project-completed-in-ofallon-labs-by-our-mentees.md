@@ -26,9 +26,9 @@ The model is developed using Python and Jupyter Notebook and employs several mac
 
 The repository also includes a data cleaning script to preprocess the dataset and a detailed report explaining the methodology and results of the model. The code and report are well-documented and can serve as a useful reference for anyone interested in building a credit risk prediction model.
 
-Y﻿ou can check out the code and details in [Davood's GitHub](https://github.com/Davoodshahabi/Credit-Risk) directly. Below is an executive summary of the completed project.
+You can check out the code and details in [Davood's GitHub](https://github.com/Davoodshahabi/Credit-Risk) directly. Below is an executive summary of the completed project.
 
-# Credit-Risk Project
+## Credit-Risk Project
 
 The goal of the project is to predict the risk of financial failure based on historical data. 
 

@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/jadaliha.jpg
 rating: 5
 ---
-# Introducing Our New Data Science Mentor: Mahdi Jadaliha
+## Introducing Our New Data Science Mentor: Mahdi Jadaliha
 
 Are you ready to take your data science skills to the next level? Meet Mahdi Jadaliha, our newest mentor at O'Mentors! With a rich background in mechanical engineering and extensive experience in data science, Mahdi brings a unique perspective and wealth of knowledge to the table. Let's dive into what makes Mahdi the perfect mentor for your data science journey.
 

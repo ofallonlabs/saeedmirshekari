@@ -15,7 +15,7 @@ tags:
   - career
 thumbnail: /assets/img/uploads/undraw_3d-modeling_j8a3.png
 ---
-**Why My Boss Hates Me: Understanding Workplace Conflict and What to Do About It**
+## Why My Boss Hates Me: Understanding Workplace Conflict and What to Do About It
 
 **Introduction**
 

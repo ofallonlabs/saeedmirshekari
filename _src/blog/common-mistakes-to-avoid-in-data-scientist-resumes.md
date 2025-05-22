@@ -16,7 +16,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_fixing_bugs_w7gi.png
 rating: 4
 ---
-# 10 Common Mistakes to Avoid When Writing a Resume for Entry-Level Data Scientist Jobs
+## 10 Common Mistakes to Avoid When Writing a Resume for Entry-Level Data Scientist Jobs
 
 In the competitive field of data science, your resume serves as your first impression to potential employers. Crafting a compelling resume is crucial to stand out from the crowd and secure an entry-level data scientist job. However, many candidates fall into common pitfalls that can hinder their chances of landing their dream role. In this article, we'll explore ten common mistakes to avoid when writing your resume for entry-level data scientist positions, along with tips and examples to help you create a stellar resume.
 

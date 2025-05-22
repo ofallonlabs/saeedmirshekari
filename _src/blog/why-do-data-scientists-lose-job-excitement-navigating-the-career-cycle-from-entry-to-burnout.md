@@ -20,7 +20,7 @@ thumbnail: /assets/img/uploads/slide1.png
 ---
 
 
-# The Life-Span of Job Excitement: From Job Search to Burnout
+## The Life-Span of Job Excitement: From Job Search to Burnout
 
 The journey of a career often mirrors the rise and fall of excitement that comes with new challenges, learning curves, and eventually, burnout. Whether you’re just starting out or a seasoned professional, the ebb and flow of job excitement is a natural part of the career cycle. In this post, we’ll explore the stages of this cycle, from being carefree and naive, to the challenges of securing a job, to the eventual decline in excitement when you find yourself yearning for something new.
 
@@ -109,4 +109,4 @@ Regardless of how this phase plays out, it brings you back to the excitement you
 ### Conclusion
 
 The life-span of job excitement is cyclical, filled with highs and lows. From the moment you realize you need a job, through the challenges of job hunting, to the burnout that often comes after years in a role, the career journey is one of constant change. Embrace each stage for what it is, and remember: every end is a new beginning.
-
+

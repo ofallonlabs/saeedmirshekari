@@ -17,7 +17,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/undraw_goal_0v5v.png
 ---
-# The Statistics of the UEFA European Championship: Top Winning Countries and the Impact of Data Analysis
+## The Statistics of the UEFA European Championship: Top Winning Countries and the Impact of Data Analysis
 
 ## Introduction
 

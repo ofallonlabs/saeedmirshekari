@@ -43,7 +43,7 @@ MathJax.Hub.Queue(function() {
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
 
-# Understanding Cost Functions and Evaluating Regression Model Performance
+## Understanding Cost Functions and Evaluating Regression Model Performance
 
 Regression analysis is a fundamental tool in the data scientist's toolbox. It allows us to understand and make predictions based on relationships between variables. But how do we measure the performance of a regression model? In this comprehensive guide, we'll explore cost functions and various techniques to assess the effectiveness of regression models. Whether you're an aspiring data scientist or a junior practitioner, this article will equip you with the knowledge you need to excel in regression analysis.
 

@@ -16,7 +16,7 @@ tags:
   - post
 thumbnail: /assets/img/uploads/undraw_eiffel_tower_re_e11r.png
 ---
-# The Statistics of Elections in France and the Impact of Data Analytics and Data Science
+## The Statistics of Elections in France and the Impact of Data Analytics and Data Science
 
 ## Introduction
 

@@ -17,7 +17,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/undraw_junior_soccer_6sop.png
 ---
-# The Statistics of Copa America: Top Winning Countries and the Impact of Data Analysis
+## The Statistics of Copa America: Top Winning Countries and the Impact of Data Analysis
 
 ## Introduction
 

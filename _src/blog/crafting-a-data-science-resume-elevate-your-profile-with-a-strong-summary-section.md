@@ -16,7 +16,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_personal_file_re_5joy-1-.png
 rating: 5
 ---
-# Crafting a Winning Data Science Resume: Mastering the Summary Section
+## Crafting a Winning Data Science Resume: Mastering the Summary Section
 
 Your data science resume is your ticket to landing interviews and showcasing your expertise to potential employers. Among all sections, the Summary stands out as the most critical component—it's your chance to make a compelling first impression. In this comprehensive guide, we'll explore why the Summary section is paramount in your data science resume and what key elements to include to make it impactful and memorable.
 

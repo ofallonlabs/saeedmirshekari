@@ -18,8 +18,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_playing_cards_cywn-1-.svg
 rating: 5
 ---
-\
-“*How do I get a **job of Data Science** when I don’t have prior experience?”*
+## How do I get a **job of Data Science** when I don’t have prior experience?
 
 “*Every company I apply to asks for 1-2 years of relevant experience, and I don’t have any. What should I do?”*
 

@@ -16,7 +16,7 @@ tags:
   - career
 thumbnail: /assets/img/uploads/undraw_surveillance_k6wl.png
 ---
-# What Are AI Agents? Transforming the Data Science Job Market
+## What Are AI Agents? Transforming the Data Science Job Market
 
 Artificial Intelligence (AI) agents have become one of the most intriguing and transformative innovations in recent years. From automating repetitive tasks to making independent decisions, AI agents have reshaped the way we perceive intelligence in machines. This article delves into what AI agents are, their capabilities, and, most importantly, how they are poised to revolutionize the data science job market.
 

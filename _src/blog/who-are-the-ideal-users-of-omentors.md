@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/stud.jpg
 rating: 5
 ---
-# Unlocking Opportunities in Data Science and Machine Learning: How Omentors Can Help
+## Unlocking Opportunities in Data Science and Machine Learning: How Omentors Can Help
 
 In the vast landscape of job hunting, finding the right opportunities in the field of Data Science and Machine Learning can feel like navigating through a labyrinth. Especially for recent graduates in STEM disciplines, the journey towards securing a promising position in the US and Canadian job markets can be daunting. This is where Omentors steps in, offering guidance and support to those passionate about carving a career path in these cutting-edge fields.
 

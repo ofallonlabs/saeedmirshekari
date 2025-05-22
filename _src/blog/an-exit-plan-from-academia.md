@@ -18,7 +18,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_in_real_life_v8fk.png
 rating: 5
 ---
-# Navigating the Transition: From Academia to Industry as a Data Scientist
+## Navigating the Transition: From Academia to Industry as a Data Scientist
 
 ---
 

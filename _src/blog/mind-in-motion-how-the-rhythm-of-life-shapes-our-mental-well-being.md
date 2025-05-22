@@ -15,7 +15,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/events.png
 ---
-**The Dynamic Interplay of Our Minds: How Eventfulness Affects Mental Well-Being**
+## The Dynamic Interplay of Our Minds: How Eventfulness Affects Mental Well-Being
 
 Our emotions and mental states are deeply intertwined with the continuous activity of our brains. The human brain, a remarkable organ, never truly rests while we are awake. It is constantly processing, analyzing, and reacting to the myriad of inputs it receives from the world around us. This ongoing mental activity can be understood through a simple yet powerful framework: the interplay of three components—pre-processing, events, and post-processing.
 

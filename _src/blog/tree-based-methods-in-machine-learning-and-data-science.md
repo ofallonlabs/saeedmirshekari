@@ -19,7 +19,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/tree_based_models.png
 ---
-# Tree-Based Methods in Machine Learning and Data Science
+## Tree-Based Methods in Machine Learning and Data Science
 
 Tree-based methods are among the most popular and effective machine learning algorithms. These methods are intuitive, easy to implement, and capable of handling both classification and regression tasks. In this blog, we'll explore the fundamental concepts of tree-based methods, delve into various algorithms, and discuss their real-world applications.
 

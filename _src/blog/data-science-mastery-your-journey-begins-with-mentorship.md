@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_share_link_re_54rx.png
 rating: 5
 ---
-# Igniting Your Data Science Career: Unleash Your Potential with 1-on-1 Mentorship
+## Igniting Your Data Science Career: Unleash Your Potential with 1-on-1 Mentorship
 
 Are you ready to transform your career and step into the exciting world of data science? Whether you're a recent graduate embarking on your professional journey or a seasoned professional seeking a change, your aspirations are within reach. The secret to unlocking your true potential in data science lies in the power of 1-on-1 mentorship.
 

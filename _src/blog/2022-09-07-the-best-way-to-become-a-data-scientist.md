@@ -16,7 +16,8 @@ tags:
 thumbnail: /assets/img/uploads/undraw_nuxt_js_0fq9-1-.png
 rating: 5
 ---
-\
+## Do you need a PhD to become a data scientist?
+
 Many great data scientists have a degree in data science, so you think that maybe you should go to college, too, so you can be as great as them.
 
 But when you’re busy with your day job, too old to go to school, or don’t have the money to enroll in online courses, getting a data science degree isn’t the best option.

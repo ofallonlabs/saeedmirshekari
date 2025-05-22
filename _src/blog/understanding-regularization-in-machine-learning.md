@@ -20,7 +20,7 @@ thumbnail: /assets/img/uploads/regularization_in_machine_learning.png
 
 
 
-# Understanding Regularization in Machine Learning
+## Understanding Regularization in Machine Learning
 
 
 

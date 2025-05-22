@@ -15,7 +15,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/undraw_qa_engineers_dg5p-1-.png
 ---
-# Unveiling the Statistics of Landslides: Leveraging Data Analysis for Mitigation
+## Unveiling the Statistics of Landslides: Leveraging Data Analysis for Mitigation
 
 Landslides, natural phenomena triggered by various factors, have been prevalent throughout Earth's history. They occur when masses of rock, earth, or debris move down a slope, posing significant threats to life, property, and infrastructure. Understanding the statistics of landslides and employing data analysis techniques are paramount in predicting and mitigating their devastating impacts. In this article, we delve into the intricate world of landslides, examining their statistical patterns and exploring how data analysis can be harnessed to forecast and minimize the loss they entail.
 

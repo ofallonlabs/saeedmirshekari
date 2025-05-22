@@ -17,7 +17,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/pop2.png
 ---
-# Competing with Myself: Lessons from *Prince of Persia* for Job Seekers and Professionals
+## Competing with Myself: Lessons from *Prince of Persia* for Job Seekers and Professionals
 
 When I was a kid, *Prince of Persia* was *the* game. It was the early 90s, and in that era, personal computers were still a novelty. My father worked in a bank in the computing department, which was one of the first places in the country to have access to these new machines. I used to tag along with him, waiting eagerly for the moment when everyone had gone home. That’s when I could finally start playing *Prince of Persia*—my go-to game.
 

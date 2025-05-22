@@ -16,7 +16,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/people.png
 ---
-# Data Analysis of U.S. Presidential Inauguration Ceremonies
+## Data Analysis of U.S. Presidential Inauguration Ceremonies
 
 U.S. presidential inaugurations are steeped in history, tradition, and grandeur. These events mark the peaceful transfer of power, a cornerstone of American democracy. But beyond the pageantry lies a treasure trove of data. From attendance numbers and speech lengths to weather conditions and costs, each inauguration presents a unique dataset. In this blog, we will delve into the data surrounding U.S. presidential inaugurations to uncover trends, patterns, and interesting insights.
 

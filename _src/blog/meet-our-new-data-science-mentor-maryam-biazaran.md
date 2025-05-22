@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/biazaran.jpg
 rating: 5
 ---
-# Introducing Our New Data Science Mentor: Maryam Biazaran
+## Introducing Our New Data Science Mentor: Maryam Biazaran
 
 Are you looking to break into the tech industry or enhance your skills in this rapidly evolving domain? Look no further! We are thrilled to introduce our newest addition to the O'Mentors team, Maryam Biazaran. With her wealth of experience and passion for data science
 and software engineering, Maryam is here to guide and mentor you on your journey to success.

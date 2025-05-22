@@ -17,7 +17,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_ride-a-bicycle_oozn.png
 ---
-# Step-by-Step Guide: Setting Up Your Coding Environment for Your First Data Science Project Using VS Code and GitHub
+## Step-by-Step Guide: Setting Up Your Coding Environment for Your First Data Science Project Using VS Code and GitHub
 
 *Starting your first data science project is exciting, but the setup can feel overwhelming. This guide will walk you through every step—from installing the tools to pushing your first code to GitHub using Visual Studio Code (VS Code).*
 

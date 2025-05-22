@@ -19,7 +19,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/undraw_fishing_hoxa.png
 ---
-# Analyzing the Structure and Statistics of General Elections in the UK
+## Analyzing the Structure and Statistics of General Elections in the UK
 
 ## Introduction
 

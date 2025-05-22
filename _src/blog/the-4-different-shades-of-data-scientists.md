@@ -33,7 +33,7 @@ In this article, we will explore each one of these roles, what they do in organi
 
 <!--StartFragment-->
 
-<h1>Different Shades of Data Science</h1>
+<h2>Different Shades of Data Science</h2>
 
 <img src="/assets/img/uploads/4shades.png" width="100%" />
 

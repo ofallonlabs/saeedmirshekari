@@ -16,7 +16,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_void_3ggu.png
 rating: 5
 ---
-# How to Address Career Gaps on Your Data Scientist Resume
+## How to Address Career Gaps on Your Data Scientist Resume
 
 Transitioning into a data science role with career gaps can be challenging, but it's entirely manageable with the right approach. In this guide, we'll explore effective strategies for addressing career gaps on your resume when applying for data scientist positions. From emphasizing relevant skills to showcasing personal projects and leveraging online courses, we'll cover practical steps to present your experience and qualifications in the best possible light.
 

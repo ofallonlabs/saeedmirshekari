@@ -15,6 +15,8 @@ tags:
 thumbnail: /assets/img/uploads/undraw_unicorn_re_mi7i.png
 rating: 4
 ---
+
+## From Academia to Industry
  <h3>Who am I and to whom I am writing this note?</h3>
 
                 <p>

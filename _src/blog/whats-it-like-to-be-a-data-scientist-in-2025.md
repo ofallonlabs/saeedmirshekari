@@ -18,7 +18,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_happy_kals.png
 ---
-### What's It Like to Be a Data Scientist in 2025?
+## What's It Like to Be a Data Scientist in 2025?
 
 The year is 2025. Data science has evolved significantly from its earlier days of exploratory analytics and basic machine learning models. Now, it’s a field that drives strategic decision-making, powers intelligent automation, and shapes the way industries operate. If you’re wondering what it’s like to be a data scientist in 2025, let’s dive into the trends, expectations, and daily realities of this fascinating profession.
 

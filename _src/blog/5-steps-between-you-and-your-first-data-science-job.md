@@ -21,7 +21,7 @@ Luckily, the data-science field does not require you to have a specific academic
 <img src="/assets/img/uploads/5steps_to_ds_job.png" width="100%" alt="5 steps between you and your first data science job"/> 
 <b﻿r>
 
-**Step 1 - Learning the required data-science skills**
+## Step 1 - Learning the required data-science skills
 
 In each job, you’re required to possess a specific skill set. Data science jobs are no different. Luckily, you only need to have two skills to be a data scientist.
 
@@ -29,15 +29,15 @@ First, you must know statistics and machine learning algorithms. You must also k
 
 Secondly, you must know programming languages. As a data scientist, you will have several ideas regarding statistical methods and machine learning algorithms. You will only be able to implement those ideas using a programming language. The three best programming languages to know are SQL, R, and Python.
 
-**Step 2 - Project Portfolio**
+## Step 2 - Project Portfolio
 
 To land your first data science job, you must set yourself apart from other candidates. Your experience will help do that. Create a portfolio of all the data-science projects you have worked on. This will help demonstrate your abilities and knowledge in a tangible way.
 
-**Step 3 - Review your resume**
+## Step 3 - Review your resume
 
 Positioning yourself is key and your resume is the perfect tool for it. Keep your resume simple and clear. Your resume should communicate a unified story. It should also effectively communicate your technical skills to the reader.
 
-**Step 4 - Job Searching**
+## Step 4 - Job Searching
 
 The job searching process is menial and time-consuming. However, with the right strategy, you can make it time and energy efficient.
 
@@ -45,7 +45,7 @@ First, narrow down your options. Understand what your preferences are in terms o
 
 A good strategy is to apply for jobs in batches. In a singular time period, apply for various data-science jobs. Monitor the progress on your job applications and progress as necessary.
 
-**Step 5 - Interviews**
+## Step 5 - Interviews
 
 If you’re getting interview calls, you’re almost there. It’s time to verbally showcase your talent and technical abilities. Before walking in, research the company and the role you’re interviewing for. This way you will be able to showcase the sides of yourself the company is looking for.
 

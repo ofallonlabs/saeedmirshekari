@@ -31,7 +31,7 @@ rating: 5
 
 
 
-### Introduction
+## Introduction
 
 Data science is an exciting and dynamic field that is constantly evolving. Aspiring data scientists often face challenges and uncertainties along their learning journey. Mentorship plays a pivotal role in helping individuals navigate these obstacles and accelerate their growth in the field. However, finding a suitable mentor can be daunting, especially for those on a tight budget. In this blog post, we will explore the top 10 online platforms that offer free mentoring services in data science, allowing enthusiasts to access invaluable guidance and support from experienced professionals.
 

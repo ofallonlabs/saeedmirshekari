@@ -18,7 +18,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_starry-window_l1jg.png
 ---
-# The Dark Zone: Walking Through the Uncertainty After Graduation or Before a Career Change
+## The Dark Zone: Walking Through the Uncertainty After Graduation or Before a Career Change
 
 > *"In the middle of every difficulty lies opportunity."* — Albert Einstein
 

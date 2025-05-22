@@ -17,7 +17,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_readingbook_q8q0.png
 ---
-# Top 10 Tips for Finding Mentors in Data Science
+## Top 10 Tips for Finding Mentors in Data Science
 
 In the ever-evolving field of data science, mentorship can be the key to unlocking your potential. A good mentor provides guidance, offers constructive feedback, and opens doors to new opportunities. Finding the right mentor can feel daunting, but with the right approach, it’s an achievable goal. Here are the top 10 tips to help you find mentors in data science.
 

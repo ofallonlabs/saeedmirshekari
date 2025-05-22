@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_crypto_portfolio_2jy5.png
 rating: 5
 ---
-# ROC Curve or PR Curve: Why You Need Both in Machine Learning Evaluation
+## ROC Curve or PR Curve: Why You Need Both in Machine Learning Evaluation
 
 In the realm of machine learning model evaluation, the choice between ROC (Receiver Operating Characteristic) curve and PR (Precision-Recall) curve can be pivotal. Each curve provides unique insights into model performance depending on the problem at hand. In this article, we'll explore the differences between these evaluation metrics, when to use them, and why leveraging both can be essential for a comprehensive understanding of your model's capabilities.
 

@@ -15,7 +15,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/undraw_ice_cream_s2rh.png
 ---
-# The Statistics of Summer Olympic Games: How Data Science Helps Athletes Achieve Peak Performance at France 2024
+## The Statistics of Summer Olympic Games: How Data Science Helps Athletes Achieve Peak Performance at France 2024
 
 ## Introduction
 

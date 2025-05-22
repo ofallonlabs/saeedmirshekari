@@ -43,7 +43,7 @@ When you set out to do a project think about the followings:
 3. **The Impact of the Project:** How impactful is this project going to be? Can the results cause a real change?
 4. **Your Learning:** What will you learn by doing this project? 
 
-<h1>How to Choose a Data Science Project </h1>
+<h2>How to Choose a Data Science Project </h2>
 
 <h2> Make your projects unique and authentic </h2>
 
@@ -108,7 +108,7 @@ An essential skill for any job is the ability to succinctly and simply explain a
 
 Make sure your code is understandable and properly documented. Ensure that notebooks have titles and descriptions. Add comments to the functions in your code as you go along. If someone takes the time to read through a notebook, they will keep track of remarks and variable names that are easy to understand.
 
-<h1>Top Data Science Projects for Beginners in 2023 </h1>
+<h2>Top Data Science Projects for Beginners in 2023 </h2>
 
 Here are two examples of Data Science projects you can build in 2023 to get the attention of prospective employers. Remember to only work on projects that truly interest you. 
 

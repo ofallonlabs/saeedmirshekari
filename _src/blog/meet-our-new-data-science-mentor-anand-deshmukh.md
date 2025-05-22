@@ -18,7 +18,7 @@ tags:
 thumbnail: /assets/img/uploads/deshmukh.jpg
 rating: 5
 ---
-# Introducing Our New Data Science Mentor: Anand Deshmukh
+## Introducing Our New Data Science Mentor: Anand Deshmukh
 
 We are thrilled to introduce our latest addition to the O'Mentors family, Dr. Anand Deshmukh, currently serving as the Director of Generative AI Research at American Express in the vibrant tech hub of San Francisco Bay Area. With a PhD in Systems Engineering from the University of Illinois Urbana-Champaign, Anand brings a wealth of knowledge and experience to our mentoring platform.
 

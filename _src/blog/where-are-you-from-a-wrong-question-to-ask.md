@@ -14,7 +14,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_best_place_re_lne9.png
 rating: 5
 ---
-# Why people ask this question?
+## Why people ask this question?
 
 <p>The question "where are you from?" is a popular
  question. When people meet each other for the
@@ -45,7 +45,7 @@ rating: 5
  misleading pieces of information might enter into your mind about the person that you think you are
  trying to know.</p>
 
-# Why is it a wrong question?
+## Why is it a wrong question?
 
 <p>"Where are you from?" is an unwise question and
  sometimes has the potential to be considered as an
@@ -67,11 +67,11 @@ has the highest rate of obesity of any U.S. state \[2], you never think he is ob
 
 <p>If you really care about knowing the person you meet, you will certainly need much more information rather than the place of birth. It will be including his major interests, his expertise, the experiences he has had, the books he has read, the places he has seen, the people he has met and interacted with, etc. Among many others, these are the facts that give you much more valuable and reliable information about the person rather than the place of birth. Any answer to the question "where are you from?" gives no accurate information about the person except a few ones, like the language that she/he might speak and the historical local events that he may have experienced when she/he was living there.</p>
 
-# Is there any better alternative?
+## Is there any better alternative?
 
 <p>Yes, a better option is "where did you grow up?". By asking this question, you point right to the target. This alternative gives you all the information that you could get out of "where are you from?" but in a much clearer and nicer way with no possible offense. Also, it clearly states that you are just curious about the place that she/he grew up in and also send a signal that you are aware of the fact that whatever the answer will be, this will be just one single piece of information; there are many more that you can talk about them afterward.</p>
 
-# References
+## References
 
 \[1] "Religious Composition of the U.S.". U.S. Reli-
 gious Landscape Survey. Pew Forum on Religion

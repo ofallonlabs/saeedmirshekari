@@ -13,7 +13,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_doctors_p6aq.png
 rating: 3
 ---
-# Fraud Detection in Healthcare Claims (at Provider Level)
+## Fraud Detection in Healthcare Claims (at Provider Level)
 
 Before you start reading, please note that this is the [L﻿ink to the full GitHub Repository](https://github.com/pradlanka/medical-fraud-detection-analysis) including the Python codes and Jupyter Notebooks. Below is an overview and summary of this project.
 

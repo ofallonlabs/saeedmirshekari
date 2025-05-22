@@ -19,7 +19,7 @@ tags:
   - projects
 thumbnail: /assets/img/uploads/jupyter-notebook-for-data-scientists.png
 ---
-# Getting Started with Jupyter Notebooks for Data Scientists
+## Getting Started with Jupyter Notebooks for Data Scientists
 
 Welcome to the world of interactive computing with Jupyter Notebooks! As a data scientist, mastering Jupyter Notebooks can greatly enhance your productivity by enabling you to create and share documents that contain live code, equations, visualizations, and narrative text—all in one seamless environment. In this comprehensive guide, we'll take you through the fundamentals of Jupyter Notebooks, from installation to advanced techniques, empowering you to harness the full potential of this powerful tool in your data science workflow. Whether you're new to Jupyter Notebooks or looking to sharpen your skills, this guide will provide you with the knowledge and resources needed to become proficient in Jupyter Notebooks for data science.
 

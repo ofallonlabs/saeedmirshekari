@@ -19,7 +19,7 @@ tags:
   - trend
 thumbnail: /assets/img/uploads/us-priemeries-election-usa.png
 ---
-# The Statistics of US Primaries: Opportunities and Challenges for Data Analysis
+## The Statistics of US Primaries: Opportunities and Challenges for Data Analysis
 
 ## Introduction
 

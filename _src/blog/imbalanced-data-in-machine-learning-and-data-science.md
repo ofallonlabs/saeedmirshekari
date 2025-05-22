@@ -19,7 +19,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/imbalanced_data.png
 ---
-# Handling Imbalanced Data in Machine Learning and Data Science
+## Handling Imbalanced Data in Machine Learning and Data Science
 
 ## Introduction
 

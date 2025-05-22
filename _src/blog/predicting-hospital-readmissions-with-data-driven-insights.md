@@ -21,7 +21,7 @@ tags:
   - projects
 thumbnail: /assets/img/uploads/banner_crop.png
 ---
-# Key Findings
+## Key Findings
 Predicting hospital readmissions within 30 days is challenging, with the best model (LightGBM) achieving an Average Precision of 15.7%, but the analysis reveals that the number of previous inpatient visits, number of diagnoses, and length of hospital stay are the strongest predictors of readmission risk.
 
 ## Authors

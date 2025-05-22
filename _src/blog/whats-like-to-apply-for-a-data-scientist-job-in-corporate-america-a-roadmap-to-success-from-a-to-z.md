@@ -22,7 +22,7 @@ thumbnail: /assets/img/uploads/thebridge.png
 ---
 
 
-# The Hiring Journey: From Resume Submission to Moving On
+## The Hiring Journey: From Resume Submission to Moving On
 
 In today’s fast-paced and ever-evolving professional landscape, the hiring process has evolved into a multi-stage journey. From the moment you hit "submit" on your resume to the day you move on to a new role, there are key milestones to navigate. Understanding these stages helps demystify the process, prepare you for what's ahead, and set you up for success in your career.
 

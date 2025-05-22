@@ -17,7 +17,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_personalization_0q05.png
 ---
-# Why O'Mentors Is Calling for the Best Mentors in Data Science — And Why You Should Join Us
+## Why O'Mentors Is Calling for the Best Mentors in Data Science — And Why You Should Join Us
 
 ## Introduction
 

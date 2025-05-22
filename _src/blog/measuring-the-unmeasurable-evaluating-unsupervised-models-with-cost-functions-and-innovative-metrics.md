@@ -42,7 +42,7 @@ MathJax.Hub.Queue(function() {
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
 
-# Unveiling Unsupervised Model Evaluation: Cost Functions and Performance Metrics
+## Unveiling Unsupervised Model Evaluation: Cost Functions and Performance Metrics
 
 Unsupervised learning is a captivating field in data science, where algorithms uncover hidden patterns and structures within data without the need for labeled targets. But how do we measure the performance of unsupervised models when traditional metrics like accuracy and precision aren't applicable? In this comprehensive guide, we'll delve into the fascinating world of cost functions and innovative techniques to assess the effectiveness of unsupervised models. Whether you're an aspiring data scientist or a junior practitioner, this article will equip you with the knowledge to navigate the intricacies of unsupervised model evaluation.
 

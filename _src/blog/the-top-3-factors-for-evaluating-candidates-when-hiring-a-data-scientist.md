@@ -16,7 +16,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/3wayfork.png
 ---
-# The Three Verticals to Evaluate When Hiring a Data Scientist
+## The Three Verticals to Evaluate When Hiring a Data Scientist
 
 Hiring a data scientist can be a complex task due to the multi-disciplinary nature of the role. Data scientists are expected to possess a wide range of skills, work well within teams, and have the capacity to grow and adapt in a fast-evolving field. To ensure the right hire, it is essential to evaluate candidates across three key verticals:
 

@@ -22,7 +22,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_time_management_re_tk5w.png
 rating: 5
 ---
-# The Rise of Generative AI: Shaping the Future of Work and Leisure
+## The Rise of Generative AI: Shaping the Future of Work and Leisure
 
 Generative Artificial Intelligence (AI) is rapidly transforming the way we live and work, offering unprecedented capabilities to automate tasks and streamline processes. As this technology continues to advance, it's poised to free up more time in our lives, prompting us to ponder a crucial question: What will we do with this newfound time? In this blog, we'll explore the potential directions this shift may lead us to in the future, considering both the positive and negative scenarios that could unfold.
 

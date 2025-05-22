@@ -14,7 +14,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_adventure_map_hnin.png
 rating: 4
 ---
-# What can Immigrants with Higher Education expect from the US Data Science Job Market?
+## What can Immigrants with Higher Education expect from the US Data Science Job Market?
 
 Data has become the most critical form of asset for all types of business entities globally. No wonder we are witnessing an exponential boom in the data science industry. As per the [Grand View Research report](https://www.grandviewresearch.com/industry-analysis/data-science-platform-market), the global data science platform market shall proliferate at a CAGR of 26.9 percent between 2020 to 2027. 
 
@@ -24,7 +24,7 @@ Many overseas job seekers are looking for a career chance in the data science do
 
 As a data science mentor, I realize the turmoil overseas aspirants might undergo to land their dream data science job position. I bring to the table some eye-opening details regarding the US data science job market, along with some words of wisdom for immigrants hoping to prosper in the field.
 
-# **Interesting facts about the current data science job market in the US**
+## **Interesting facts about the current data science job market in the US**
 
 ## [Popular job titles in the data science field in the US](https://builtin.com/data-science/data-science-jobs)
 
@@ -66,13 +66,13 @@ Fortune 500 companies in the US offer 22 percent of the total jobs for data scie
 
 The states of California, Washington, Illinois, and New York are the hotbeds of the country's data science job market, presenting the maximum number of opportunities.
 
-# **Scope for immigrants** 
+## **Scope for immigrants** 
 
 The US is rightly termed as the land of immigrants. The immigrant populace has contributed copiously to the country's development. The above facts and figures regarding the American data science job market testify to the significant career possibilities it offers. According to a McKinsey report, there will be a shortage of around 190,000 people in the US data science industry by 2028. Hence, companies continue to explore the possibilities of hiring from overseas.
 
 Any jobseeker from a foreign land wanting to set sail to the country of dreams and fulfill his data science ambitions must have the needed skills and attitude. Even if you are new to data science, you can avail yourself of online courses and mentoring to navigate your way. There are ample opportunities for graduates, postgraduates, and doctorates in the industry. Individuals new to data science can choose to enroll in various University courses or STEM programs in the US. 
 
-# **The ideal skill set for a data science professional**
+## **The ideal skill set for a data science professional**
 
 * Acquaintance with neural networks and machine learning
 * Knowledge of Applied Mathematics
@@ -93,7 +93,7 @@ Choosing the apt job profile from the vast subdomains of data science can seem p
 
 The job requisites that many companies put forth in their descriptions tend to be quite ambiguous. Recruiters sometimes fail to communicate the actual requirements, placing many aspiring job seekers in a fix.
 
-# **Bridge the gap: Find the best opportunities in data science**
+## **Bridge the gap: Find the best opportunities in data science**
 
 ## **Choose trustable mentoring programs.**
 

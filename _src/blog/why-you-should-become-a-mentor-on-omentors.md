@@ -17,7 +17,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_listening-to-podcasts_j0hm.png
 ---
-# Why You Should Become a Mentor on O'Mentors: Make an Impact, Grow Your Influence, and Earn
+## Why You Should Become a Mentor on O'Mentors: Make an Impact, Grow Your Influence, and Earn
 
 ## Introduction
 

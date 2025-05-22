@@ -21,7 +21,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_contact_us_re_4qqt.png
 rating: 5
 ---
-# Navigating the Waters of the First Data Science Technical Phone Interview
+## Navigating the Waters of the First Data Science Technical Phone Interview
 
 ## Introduction
 

@@ -43,7 +43,7 @@ MathJax.Hub.Queue(function() {
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
 
-# Understanding Cost Functions and Measuring Classification Model Performance
+## Understanding Cost Functions and Measuring Classification Model Performance
 
 In the realm of data science and machine learning, classification problems are ubiquitous. Whether it's spam email detection, disease diagnosis, or sentiment analysis, the ability to build and evaluate classification models is fundamental. To gauge the effectiveness of these models, we turn to cost functions and performance metrics. In this in-depth exploration, we'll dive into the world of cost functions and various techniques to measure the performance of classification models. Whether you're a budding data scientist or a seasoned enthusiast, this guide will equip you with the tools you need.
 

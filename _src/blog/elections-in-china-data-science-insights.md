@@ -15,7 +15,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/中国选举与数据分析.png
 ---
-# Unveiling the Statistical Landscape of Elections in China
+## Unveiling the Statistical Landscape of Elections in China
 
 Elections in China present a unique and complex landscape shaped by the country's political structure, cultural context, and historical legacy. While China does hold elections at various levels of government, including local People's Congresses and the National People's Congress (NPC), the electoral process differs significantly from Western democracies. In this comprehensive analysis, we explore the statistics of elections in China, shedding light on key aspects of the electoral system, and examine the opportunities and challenges for Data Science to make a big impact.
 

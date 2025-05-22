@@ -18,7 +18,7 @@ rating: 4
 ---
 Companies in a variety of industries have begun to embrace and acknowledge data science as a method of obtaining and leveraging smarter business decisions. Industries that do not keep up will be unable to compete in the future. It is such an exciting time to be a data scientist, or an aspiring data scientist, as intriguing and lucrative new opportunities continue to emerge at a rapid pace.
 
-<h1> What Exactly Is Data Science?  </h1>
+<h2> What Exactly Is Data Science?  </h2>
 
 <!--StartFragment-->
 
@@ -28,7 +28,7 @@ Data science mainly involves preparing data for analysis and processing, conduct
 
 <!--EndFragment-->
 
-<h1> Who Is a Data Scientist?</h1>
+<h2> Who Is a Data Scientist?</h2>
 
 <!--StartFragment-->
 
@@ -40,7 +40,7 @@ Data science creates an intersection between statistics, software engineering, a
 
 <!--StartFragment-->
 
-<h1>How Much Do a Data Scientist Earn in Average? </h1>
+<h2>How Much Do a Data Scientist Earn in Average? </h2>
 
 [According to the US Bureau of Labor Statistics](https://www.bls.gov/oes/current/oes152051.htm), the average salary of a data scientist is $100,560 as of May 2021. 
 
@@ -52,7 +52,7 @@ The [most common ethnicity among data scientists](https://www.zippia.com/data-sc
 
 <!--EndFragment-->
 
-<h1>What Truths and Facts Exist Today in the Data Science Job Market for Immigrants?</h1>
+<h2>What Truths and Facts Exist Today in the Data Science Job Market for Immigrants?</h2>
 
 <!--StartFragment-->
 
@@ -60,7 +60,7 @@ Data science is a lucrative and a continuously growing field. Companies are cons
 
 Now that there has been a shortage of data scientists in the American workforce, many companies now look to hire overseas to help ease the domestic talent shortfall. A robust source of data science skills now lies in unlikely places including the US immigrants and refugee communities. This opens up a new career chance in the tech industry for immigrants and refugees in the United States.
 
-<h1> How Many New Immigrants Are in The US?</h1>
+<h2> How Many New Immigrants Are in The US?</h2>
 
 An analysis of the[ Census Bureau’s monthly Current Population Survey (CPS)](https://www.census.gov/programs-surveys/cps.html) from November 2021 shows that the total immigrant population (legal and illegal) in the U.S. hit 46.2 million.  
 
@@ -70,17 +70,17 @@ Also, a report by Forbes has revealed that [one in three data scientists are bor
 
 <!--StartFragment-->
 
-<h1> Number of Immigrants in the STEM Workforce </h1>
+<h2> Number of Immigrants in the STEM Workforce </h2>
 
 In 2015 the American Community Survey reported that foreign-born workers comprised one-fifth to one-quarter of the STEM (Science, Technology, Engineering, and Mathematics) workforce. 
 
-<h1>What Value Do the Immigrants Bring to the STEM Workforce?</h1>
+<h2>What Value Do the Immigrants Bring to the STEM Workforce?</h2>
 
 Over the years, immigrants have brought about incredible change to the US economy in terms of productivity and new innovations. As the demand for STEM workers continues to increase, foreign-born STEM workers will likely continue to complement U.S. workers and play a key role in U.S. productivity and innovation. 
 
 <!--EndFragment-->
 
-<h1>What Are The Top Obstacles Immigrants with Higher Education Encounter in Getting Their First Job in Data Science? </h1>
+<h2>What Are The Top Obstacles Immigrants with Higher Education Encounter in Getting Their First Job in Data Science? </h2>
 
 <!--StartFragment-->
 
@@ -92,17 +92,17 @@ Here are major obstacles that immigrants new to the job market or new in the tec
 
 <!--EndFragment-->
 
-<h1>Talent Gap and Opportunities Today</h1>
+<h2>Talent Gap and Opportunities Today</h2>
 
 ### <!--StartFragment-->
 
-<h1>How Many Open Positions are in Data Science in the US?</h1>
+<h2>How Many Open Positions are in Data Science in the US?</h2>
 
 The demand for data science specialists is high and it continues to rise, but the talent supply does not maintain this pace. This supply imbalance/talent gap is mostly caused by a lack of major educational focus in graduate programs and insufficient college courses. Only around a third of the top 100 global universities offer data science degrees, and the majority of them are only offered at the graduate or doctoral level.
 
 [QuantHub](https://quanthub.com/data-scientist-shortage-2020/) estimates a shortage of 250,000 data scientists in 2020. Data science and analytics skills were at the top of the hiring list for 31% of the CIOs responding to the [2021 State of the CIO survey, ](https://www.cio.com/article/189346/exclusive-survey-cios-outline-tech-priorities-for-2021-22.html)but 20% expected to have trouble sourcing AI and machine learning experts and 19% anticipated challenges finding and hiring Data Scientists.
 
-<h1>What Opportunities Exists Today?</h1>
+<h2>What Opportunities Exists Today?</h2>
 
 Employers in the Technology, Healthcare, Cyber-security, Telecommunications, and automotive industries are increasingly recognizing the impact of data scientists professionals and the value they can bring into the company. 
 
@@ -120,7 +120,7 @@ The below data shows the highest growth jobs with high paying salaries (their av
 
 [Here is a list of top companies hiring Data Scientists](https://www.glassdoor.com/Explore/top-data-scientist-companies_IO.4,18.htm) with their respective locations and average salaries. 
 
-<h1>What Are the Required Skills in Data Science?</h1>
+<h2>What Are the Required Skills in Data Science?</h2>
 
 Certain technical skill sets are required for a data scientists. They include: 
 
@@ -141,7 +141,7 @@ Certain technical skill sets are required for a data scientists. They include:
 
 <!--StartFragment-->
 
-<h1>The Future Solutions and Opportunities in Data Science</h1>
+<h2>The Future Solutions and Opportunities in Data Science</h2>
 
 The continued growth in the applications of data science has led to increasing numbers of highly skilled and specialized employment areas that require skills in data analytics, machine learning, decision science, data engineering, and other related areas, as well as in foundational tools such as Python, SQL, and TensorFlow. 
 

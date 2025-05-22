@@ -16,7 +16,7 @@ thumbnail: /assets/img/uploads/undraw_wait-in-line_fbdq.png
 ---
 
 
-**Job Title: Full-Stack Developer (Remote, 1-Year Contract)**
+## Job Title: Full-Stack Developer (Remote, 1-Year Contract)
 
 **Location:** Remote
 

@@ -17,7 +17,7 @@ tags:
   - projects
 thumbnail: /assets/img/uploads/sql-for-data-scientists.png
 ---
-# Getting Started with SQL for Data Scientists
+## Getting Started with SQL for Data Scientists
 
 Welcome to the world of data manipulation and analysis with SQL! As a data scientist, mastering SQL is essential for querying, analyzing, and extracting insights from vast datasets stored in relational databases. In this comprehensive guide, we'll take you through the fundamentals of SQL, from basic queries to advanced techniques, empowering you to leverage the power of SQL in your data science projects. Whether you're new to SQL or looking to enhance your skills, this guide will provide you with the knowledge and resources needed to become proficient in SQL for data science.
 

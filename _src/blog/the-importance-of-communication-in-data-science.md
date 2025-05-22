@@ -21,7 +21,7 @@ thumbnail: /assets/img/uploads/undraw_newspaper_cqtq.png
 ---
 
 
-# The Importance of Communication in Data Science
+## The Importance of Communication in Data Science
 
 *Data Science is more than just code, models, and metrics. At its heart, it's about solving real problems through people. And without communication, people break down into silos, and so does everything else.*
 
@@ -200,4 +200,4 @@ If the answer is no, start there.
 In a world obsessed with dashboards and deliverables, don’t forget the one thing that makes all the difference:
 
 **Talk to your people. Listen to your people. Make it safe to do both.**
-
+

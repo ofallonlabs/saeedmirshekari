@@ -17,7 +17,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_mint-tea_gjmb.png
 ---
-# Transitioning from Economics to Data Science: A Comprehensive Guide
+## Transitioning from Economics to Data Science: A Comprehensive Guide
 
 In today’s fast-evolving job market, transitioning careers has become a norm rather than an exception. One increasingly popular transition is moving from an economics background into the dynamic world of data science. If you’re an economist curious about leveraging your quantitative skills in data science, this guide will show you how to make that leap.
 

@@ -27,7 +27,7 @@ Below are the 5 steps between you and your first Data Scientist job in the moder
 <img src="/assets/img/uploads/5steps_to_ds_job.png" width="100%" alt="5 steps between you and your first data science job"/> 
 <b﻿r>
 
-# 1- Technical Skills
+## 1- Technical Skills
 
 You need to learn the required technical skills one way or another. What are those skills and what's the easiest way to learn them?
 
@@ -42,7 +42,7 @@ In addition to Machine Learning and Programming Language, it would be a big adva
 
 I have seen some people thinking that developing the technical skills would be all you need to get you a job as a Data Scientist and I have to break the news that nope, it doesn't! Technical skills in Programming and Machine Learning is of course needed but not sufficient to get a job. You have to go through other stages too. The good news is that after you develop the technical skills, the rest is going to be much easier. By completing the skill development you are half way through!
 
-# 2- Recent Projects
+## 2- Recent Projects
 
 You need to demonstrate your skills in action. You read Data Science books, go to Data Science classes, and attend Data Science Bootcamps and still unable to perform a Data Science project end-to-end. Projects are a great way to demonstrate your skills in action. But why employers would like to see a recent Data Science project from you?
 
@@ -52,7 +52,7 @@ If your background is not a quantitative field such as engineering, math, or phy
 
 If you don't know what project you should do and to what extend you should work on it, an experienced mentor can help you with that. Working with a professional, experienced mentor is a good idea and can help you save a lot of time guiding you from where you are to where you want to be with less pain.
 
-# 3- Resume Review
+## 3- Resume Review
 
 It is crucial to position yourself in the job market correctly. How your one-page resume can help you do that?
 
@@ -64,7 +64,7 @@ It is important to make sure your resume is simple, clear, and tells a unified s
 
 If you need professional help on writing or shaping your resume, reach out to professionals and spend a lot of attention on it. It is a great investment of your attention. It will pay off in the future and will stay with you for a long time.
 
-# 4- Job Search
+## 4- Job Search
 
 With a good resume in hand that efficiently communicates your developed technical skills and projects, now it is finally the time for searching and applying for your dream jobs.
 
@@ -75,7 +75,7 @@ Below are a couple of quick tips and tricks that can help you develop a better s
 * **Search/Apply in batches**. What do I mean by that? Send a bunch of applications for a bunch of roles that interests you, at the same period of time. Don't wait for one application to take action on another. Monitor and take action on your batches through the process as needed.
 * **Narrow Down Your Search**. It is a wild world out there in the job market, know what you are looking for. Be clear about your criteria and focus on your interests. You could narrow down your search by your preferences on field of experience and opportunities, geographical location, salary range, business sector, company size/culture, etc.
 
-# 5- Job Interview
+## 5- Job Interview
 
 You've got a job interview; Congratulations! You have done the hard work so far, but it is not done yet. At the very final stage before you land on your first job you need to go through a job interview. It is the time for you to communicate yourself and your abilities.
 
@@ -86,7 +86,7 @@ Below are a couple of quick tips and trick that can help you develop a better st
 * **Company interviews you and you interview the company**. Do not accept to work anywhere that offers you a job. Be cautious and try to learn as much as you can about the team, the hiring manager, the company, and the role during the interview. Interview stage is usually the stage in which companies treat you to the best of their abilities. So if you do not like the way they treat you at this stage, don't expect any better on the job for years to come.
 * **Learn as You Search**. There is a lot of learning in the process of job interviews as you go through it. You are going to get better at this as you go. Use the lessons learned from the previous interviews to improve the next ones.
 
-# Conclusion
+## Conclusion
 
 Data Science jobs are still in demand. There is still a big shortage of Data Scientists in the tech industry in various sectors. Thousands of people with various backgrounds are getting into the field of Data Science every year to help fill the gap.
 

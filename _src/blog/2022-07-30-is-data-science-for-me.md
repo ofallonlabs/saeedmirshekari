@@ -32,7 +32,7 @@ Working on data science projects and solving business problems using data scienc
 
 So here in this blog post, I have provided answers to some of these important questions that only a few experts talk about and most professionals and coaches avoid. 
 
-<h1> Is Data Science right for me?</h1>
+<h2> Is Data Science right for me?</h2>
 <br>This is a question that bugs the minds of most people whenever career topics on getting started with data science are being discussed.
 
 Other similar questions that come up include – how do I know this is the right career path to pursue? What are the innate qualities I possess that signify I will be a great data scientist? What special qualities do I have that if I master them well will make my data science career successful? 

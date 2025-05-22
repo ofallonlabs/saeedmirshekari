@@ -18,7 +18,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_ai-voice-interface_7uqq.png
 ---
-# What Are the Top Common Characteristics of the Best Mentors?
+## What Are the Top Common Characteristics of the Best Mentors?
 
 Mentorship has long been a cornerstone of personal and professional development. The right mentor can transform a mentee's career trajectory, provide invaluable guidance, and instill confidence in times of uncertainty. But what makes someone a great mentor? What separates an average advisor from someone who leaves a lasting impact on their mentees? In this blog, we will delve into the top common characteristics of the best mentors, drawing from real-world examples, research, and lessons from history.
 

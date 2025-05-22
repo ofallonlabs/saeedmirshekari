@@ -17,13 +17,13 @@ tags:
 thumbnail: /assets/img/uploads/undraw_under_construction_-46-pa.svg
 rating: 5
 ---
-<h1> Handyman vs Contractor</h1>
+<h2> Handyman vs Contractor</h2>
 You’ve got a home project to do this summer and you need to hire; would you hire a handyman (or, more inclusively, a handyperson) or a contractor? If you had to choose one, which one would you pick? The short answer is: it depends! If you are interested in my long answer, read on.
 
 How does this relate to careers in Data Science? Imagine you have recently hired a Machine Learning code ninja who can implement the latest pose-estimation AI model into your live stream videos and crush it, but cannot tell the difference between mean and median in his data. Is that OK? Should you be worried about the future a little?
 Before answering this question, let’s pause for a moment here and think about the big picture. To make my point, I would like to tell you a little story: an interesting metaphor I heard for the first time from my Cosmology professor, Prof. Ram Cowsik, when I was a young grad student at WashU.
 
-<h1> Vertical Ladder vs Horizontal Ladder</h1>
+<h2> Vertical Ladder vs Horizontal Ladder</h2>
 
 In one of his classes Ram talked about the history of Cosmology and I clearly remember he beautifully pointed out a fundamental difference between the nature of different branches of knowledge. 
 
@@ -35,7 +35,7 @@ He used the term “Vertical Ladder” as a metaphor for the branches of knowled
 
 However, in some other branches of knowledge such as History or Geography you don’t necessarily have to go through step 1 to 9 to reach 10. You can just walk straight to step 10 and you will be just fine. These are examples of the cases that Prof. Cowsik was calling the “Horizontal Ladder” models. You can reach any step of the ladder anytime you want when the ladder is in a horizontal position.
 
-<h1> What About Data Science?</h1>
+<h2> What About Data Science?</h2>
 
 Now let’s go back to our main branch of thought: what about Data Science? Is it a Vertical Ladder or a Horizontal Ladder? Can you reach step 10 without climbing step 1 to 9? Can you implement advanced AI models without necessarily knowing the Math and Statistics behind the Machine Learning algorithms?
 
@@ -45,7 +45,7 @@ For example, the answer would be different if you would ask me the same question
 
 Despite the earlier days of Data Science in which it was traditionally a Vertical Letter, nowadays, it is considered more of a Horizontal Ladder. Nowadays with knowing just a little bit about the generic frameworks of the ML problems and being familiar with Python libraries like Pandas and Sklearn, anybody can implement the most advanced algorithms on their data. \[now you might ask: “Are data scientists becoming data operators?”; well, yes and no! That’s a good topic for another blog post though.]
 
-<h1> Which Type of Data Scientist You Need?</h1>
+<h2> Which Type of Data Scientist You Need?</h2>
 
 Now let’s go back to the original question we asked earlier in this note: “Would you hire a handyperson or a contractor?”
 
@@ -53,7 +53,7 @@ A contractor is licensed in a specific task (electrician, AC repair, lawn care, 
 
 A handyman, however, has got life experiences on things he can do well. He may be able to even connect his past experiences to come up with some creative, unique, new solutions for your custom home projects.
 
-<h1> Summary</h1>
+<h2> Summary</h2>
 
 Would you hire a handyperson or a contractor? It really depends! It depends on what you are trying to achieve, the nature of the work, your future plans and the scope of the project. 
 If you want to get the job done, a contractor might be the best choice. On the other hand, if you are thinking more long term and might need some custom solutions or need to build totally new products then hiring a handyman would make much more sense.

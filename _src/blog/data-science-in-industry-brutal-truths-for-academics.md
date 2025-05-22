@@ -19,7 +19,7 @@ thumbnail: /assets/img/uploads/undraw_fun-moments_x0p9.png
 ---
 
 
-# The Huge Pile of "Fluff" in Academia That Your First Data Scientist Job in Industry Will Blow Away
+## The Huge Pile of "Fluff" in Academia That Your First Data Scientist Job in Industry Will Blow Away
 
 ---
 
@@ -203,4 +203,4 @@ And that’s where the fun begins.
 - Many of your academic skills are transferable—but you’ll need to *adapt* them.
 - The fluff will fall away. What remains is your core problem-solving ability.
 - The sooner you embrace the shift, the sooner you’ll thrive.
-
+

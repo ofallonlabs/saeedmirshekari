@@ -22,7 +22,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_medicine_b1ol.png
 rating: 5
 ---
-# Unmasking Healthcare Fraud: Detecting Anomalies in Claims and Providers
+## Unmasking Healthcare Fraud: Detecting Anomalies in Claims and Providers
 
 In the complex landscape of healthcare, where billions of transactions occur daily, fraud is a persistent threat. Fraudulent activities in healthcare claims and provider data not only drain financial resources but also jeopardize patient care. Data science emerges as a potent tool in the fight against healthcare fraud. In this in-depth guide, we will explore the world of fraud detection in healthcare transactions, focusing on both claim-level and provider-level fraud. Whether you are a data science enthusiast or a junior practitioner, this article equips you with the knowledge and techniques needed to identify and combat healthcare fraud effectively.
 
@@ -149,7 +149,8 @@ A confusion matrix summarizes the performance of a binary classification model. 
 
 - **Recall (Sensitivity)**: The ratio of correctly identified positive instances (TP) to all actual positive instances (TP + FN).
 
-- **F1-Score**: The harmonic mean of precision and recall, providing a balance between the two.
+- **
+F1-Score**: The harmonic mean of precision and recall, providing a balance between the two.
 
 ### ROC Curve and AUC
 

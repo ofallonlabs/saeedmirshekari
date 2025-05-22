@@ -17,7 +17,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_video_upload_3d4u.png
 ---
-# Understanding Cross-Validation: A Comprehensive Guide
+## Understanding Cross-Validation: A Comprehensive Guide
 
 In the realm of machine learning, one critical challenge is to ensure that a model generalizes well to unseen data. Cross-validation is a powerful technique that addresses this challenge by providing a robust method to estimate the performance of a model. This blog will delve deep into the concept of cross-validation, explain its various types, and provide real-world examples to illustrate its application.
 

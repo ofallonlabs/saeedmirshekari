@@ -15,7 +15,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/normalization_machine_learning.png
 ---
-# Evaluation Metrics in Machine Learning and Data Science
+## Evaluation Metrics in Machine Learning and Data Science
 
 Evaluation metrics are pivotal in assessing the performance of machine learning models and algorithms. They provide quantitative measures to gauge how well a model performs against its objectives. In this article, we delve into various evaluation metrics commonly used in machine learning, their real-world applications, and the steps to effectively apply them.
 

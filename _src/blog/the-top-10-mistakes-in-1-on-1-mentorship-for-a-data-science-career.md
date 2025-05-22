@@ -17,7 +17,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_warning_qn4r.png
 ---
-### The Top 10 Mistakes in 1-on-1 Mentorship for a Data Science Career
+## The Top 10 Mistakes in 1-on-1 Mentorship for a Data Science Career
 
 Mentorship is one of those things that can make or break your career—especially in data science, where the landscape is vast and sometimes overwhelming. When done right, it’s transformative. But when mistakes happen, it’s easy to feel stuck or frustrated. Let’s talk about some of the biggest mistakes that mentors and mentees often make in 1-on-1 mentorship for data science careers—and how to avoid them.
 

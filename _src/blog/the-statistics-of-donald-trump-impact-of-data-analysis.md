@@ -15,7 +15,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/trump-not-above-the-law.png
 ---
-# The Statistics of Donald Trump and His Family Over Time
+## The Statistics of Donald Trump and His Family Over Time
 
 Donald Trump and his family have been central figures in American public life for decades, with their actions and endeavors closely scrutinized by the media and the public alike. From business ventures to political campaigns, the Trump family's trajectory has been marked by successes, controversies, and notable milestones. In this article, we delve into the statistics of Donald Trump and his family over time, exploring key aspects of their personal and professional lives.
 

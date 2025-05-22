@@ -15,6 +15,7 @@ tags:
   - career
 thumbnail: /assets/img/uploads/undraw_ai-voice-interface_7uqq-1-.png
 ---
+## Workplace Loneliness
 
 In an increasingly interconnected world, many people chase career dreams across borders, oceans, and continents. Yet, in the pursuit of better opportunities, success often comes with a hidden cost: loneliness. The workplace, though brimming with people, can become a deeply isolating place, especially for immigrants living thousands of miles from their families. This blog explores the complex intersection of workplace loneliness and the unique emotional challenges faced by immigrants navigating foreign work cultures and life away from home.
 

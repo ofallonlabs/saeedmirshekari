@@ -17,7 +17,7 @@ tags:
   - career
 thumbnail: /assets/img/uploads/undraw_golden-gate-bridge_1c6x.png
 ---
-# Top Companies Hiring Data Scientists in Australia (2025)
+## Top Companies Hiring Data Scientists in Australia (2025)
 
 ## Introduction
 
@@ -109,4 +109,4 @@ The demand for data scientists in Australia continues to grow, with increasing i
 ## Conclusion
 
 Australia offers a thriving job market for data scientists, with top companies across banking, technology, and healthcare actively recruiting talent. Sydney and Melbourne remain the most attractive destinations due to their diverse industries and high salary potential, while emerging hubs like Brisbane, Perth, and Adelaide provide niche opportunities in government, mining, and defense technology. With competitive salaries and strong job growth projections, Australia remains a promising destination for data science professionals looking to advance their careers.
-
+

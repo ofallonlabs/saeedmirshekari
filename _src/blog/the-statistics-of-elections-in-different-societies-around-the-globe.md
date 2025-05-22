@@ -15,7 +15,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/voter-elections-society.png
 ---
-# The Statistics of Elections in Different Societies Around the Globe
+## The Statistics of Elections in Different Societies Around the Globe
 
 
 

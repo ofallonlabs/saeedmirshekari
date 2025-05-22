@@ -18,7 +18,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_beach-day_nedh.png
 ---
-# The Power of 1-on-1 Mentorship in Your Career
+## The Power of 1-on-1 Mentorship in Your Career
 
 Mentorship has long been recognized as a cornerstone of personal and professional development. It provides individuals with guidance, knowledge, and support as they navigate their career journeys. However, not all mentorship experiences are created equal. Among various forms of mentorship, 1-on-1 mentorship stands out as uniquely impactful. This personalized interaction has the potential to transform lives, propel careers, and foster lifelong learning. In this blog, I will explore the profound power of 1-on-1 mentorship, drawing from research, real-world examples, and my personal journey.
 

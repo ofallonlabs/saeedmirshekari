@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_runner_start_x0uu.png
 rating: 5
 ---
-# Ultimate Guide to Starting a Career in Data Science
+## Ultimate Guide to Starting a Career in Data Science
 
 Are you intrigued by the world of data science and considering a career switch? Whether you're a recent graduate or a professional looking to diversify your skill set, starting a career in data science can be an exciting and rewarding journey. This comprehensive guide will walk you through the essential steps, highlight key resources, and offer valuable tips to help beginners embark on a successful data science career.
 

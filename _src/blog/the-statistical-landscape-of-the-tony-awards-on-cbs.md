@@ -15,7 +15,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/tony-awards-data-analysis.png
 ---
-# Unveiling the Statistical Landscape of the Tony Awards on CBS
+## Unveiling the Statistical Landscape of the Tony Awards on CBS
 
 The Tony Awards, often dubbed as the "Oscars of Broadway," celebrate excellence in live Broadway theatre. Held annually, this prestigious event brings together the brightest stars, creative talents, and productions that grace the stages of New York City's renowned theatre district. With its rich history and cultural significance, the Tony Awards captivate audiences worldwide. In this comprehensive analysis, we delve into the statistics of the Tony Awards, focusing on its broadcast on CBS, and explore the fascinating insights behind Broadway's most celebrated accolades.
 

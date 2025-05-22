@@ -16,7 +16,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_home_run_oyhw.png
 rating: 5
 ---
-# Bank Churn Prediction
+## Bank Churn Prediction
 
 ## What Is The Problem?
 

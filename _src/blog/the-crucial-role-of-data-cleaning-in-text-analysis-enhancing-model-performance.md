@@ -19,7 +19,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_clean-up_af4s.png
 ---
-# The Crucial Role of Data Cleaning in Text Analysis: Enhancing Model Performance
+## The Crucial Role of Data Cleaning in Text Analysis: Enhancing Model Performance
 
 Data cleaning is an essential step in any data analysis pipeline, but its importance is often underestimated in the realm of text analysis. While raw text may appear readable, it's riddled with inconsistencies, noise, and irrelevant information that can hinder the performance of machine learning models. In this blog, we’ll dive into the nuances of data cleaning in text analysis, explore common techniques, and examine its profound impact on model performance.
 

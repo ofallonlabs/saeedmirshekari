@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_enter_uhqk.png
 rating: 5
 ---
-# Setting Up Your Data Science Toolkit: A Comprehensive Guide
+## Setting Up Your Data Science Toolkit: A Comprehensive Guide
 
 Embarking on your first data science project is an exciting journey, but getting your toolkit in order can be daunting. From setting up your development environment to managing version control, there are several essential tools to master. In this guide, we'll walk you through the process of setting up everything you need for your first data science project, including VS Code, GitHub, Jupyter Notebook, and more.
 

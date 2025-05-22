@@ -16,7 +16,6 @@ tags:
 thumbnail: /assets/img/uploads/undraw_not_found_re_44w9.png
 rating: 5
 ---
-<!--StartFragment-->
 
 Data science jobs are increasing due to the [influx in demand](https://saeedmirshekari.com/blog/2022-05-14-the-talent-gap-in-data-science-today-and-tomorrow/). Despite this increase, many data science professionals struggle to find a job. If you are just getting started with data science field, the chances of you filling numerous job applications are high. 
 

@@ -19,7 +19,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_bike-ride_ba0o.png
 ---
-# The Power of 1-on-1 Mentorship: The Most Efficient Way to Advance in Tech Careers
+## The Power of 1-on-1 Mentorship: The Most Efficient Way to Advance in Tech Careers
 
 The technology industry is evolving at an unprecedented pace, and those looking to break in—or advance—must constantly adapt, upskill, and refine their career strategies. But in a sea of online courses, bootcamps, and self-study resources, one method consistently stands out as the most efficient: 1-on-1 mentorship.
 

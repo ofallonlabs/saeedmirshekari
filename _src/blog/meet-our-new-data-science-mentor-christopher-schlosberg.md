@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/scholesberg.jpg
 rating: 5
 ---
-# Introducing Our New Data Science Mentor: Christopher Schlosberg
+## Introducing Our New Data Science Mentor: Christopher Schlosberg
 
 Are you ready to take your data science career to the next level? We're thrilled to introduce our newest mentor at [O'Mentors](https://www.omentors.com/), Christopher Schlosberg. With a wealth of experience and a passion for mentoring, Chris is here to guide you through your professional journey in the world of data science and software engineering.
 

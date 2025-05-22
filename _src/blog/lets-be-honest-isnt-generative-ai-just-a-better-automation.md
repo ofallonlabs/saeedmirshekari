@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_quality_time_wiyl.png
 rating: 5
 ---
-# Debunking the Myth: Why Gen AI is Just a Better Automation with Absolutely Zero "Creativity"
+## Debunking the Myth: Why Gen AI is Just a Better Automation with Absolutely Zero "Creativity"
 
 In the realm of artificial intelligence, the term "Generative AI" (Gen AI) has gained traction, representing a new wave of AI models capable of creating content autonomously. However, amidst the hype surrounding Gen AI, there's a prevailing argument that it is merely a form of automation, rather than a groundbreaking leap in AI capabilities. In this blog, we'll delve deeper into why Gen AI can be viewed as just automation, debunking some of the myths surrounding its perceived novelty.
 

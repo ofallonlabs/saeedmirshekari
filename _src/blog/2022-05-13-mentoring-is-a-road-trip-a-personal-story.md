@@ -18,7 +18,7 @@ rating: 5
 ---
 Following is an interview with me on [MentorCruise](https://mentorcruise.com/mentor/saeedmirshekari/) about my story as a Data Science mentor.
 
-<h1> Why did you decide to become a mentor? </h1>
+<h2> Why did you decide to become a mentor? </h2>
 
 It started small and I had no idea why I was doing what I was doing, but over time I realized I enjoy that a lot. I also learned that being a mentor is a great way to spend my time. So, I decided to continue that!
 
@@ -26,7 +26,7 @@ During any mentorship, there is also a lot of learning for me. Every case is dif
 
 By being a mentor, I directly help people who need my help and my experience. And that creates joy and satisfaction inside me while I create immediate values for my mentees. I love doing this!
 
-<h1> Who should reach out to you?</h1>
+<h2> Who should reach out to you?</h2>
 My broad range of experience in both academia and industry gives me the opportunity to work with a broad range of people in different stages of their career journey with different goals. 
 
 However, I recently discovered that most of my current and previous clients who reached out to me are either new to the tech job market in the US (from other countries) or new in the field of Data Science and Machine Learning (from other technical backgrounds), many of them both: new to the field AND new to the job market!
@@ -37,7 +37,7 @@ If you are new to the US tech job market or new to the field of Data Science, fe
 
 I will be delighted to chat with you and learn more about your background and goals. Let's [schedule a 30-minutes 1on1 now](https://calendly.com/saeedmirshekari/introduction).
 
-<h1> How did you get your career start?</h1>
+<h2> How did you get your career start?</h2>
 
 Since I was a kid, I’ve always been passionate about how things work in this universe. I chose Math & Physics in high school and continued that path all the way to a PhD in Physics under the supervision of the top gurus of the field. 
 
@@ -49,7 +49,7 @@ My research pointed me to the direction of Data Science in industry where I coul
 
 I still work with people and numbers every day!
 
-<h1> What was your experience with mentors as you grew in your career? </h1> 
+<h2> What was your experience with mentors as you grew in your career? </h2> 
 
 Mentors have always played a crucial role as I grew in my career. Mentorship has come to me in many different forms from direct supervisor-student type of mentorship all the way to an "anonymous" type of mentorship in which my mentors did not even realize they were playing a mentor-role in my journey. I just watched them over a certain period and I learned from them, and sometimes actually a lot!
 
@@ -63,7 +63,7 @@ I still remember I looked for and eventually found and purchased a Farsi-transla
 
 <img src="/assets/img/uploads/saeedonview.jpg" class="img-fluid" alt="" > *Saeed on a road trip sitting on the edge of his universe trying to see Seven States on Lookup Mountain, Chattanooga, TN 2015*  \[photo credit: Masoud A.]
 
-<h1> How do you usually set up mentorships?</h1> 
+<h2> How do you usually set up mentorships?</h2> 
 
 Mentorship is like going on a relatively long road-trip with your buddy who has done this trip in the past. I’m that buddy of yours in this road trip! And I will guide you through the best routes I know of and, equally importantly, I will try to stop you from taking dead-end routes.
 
@@ -71,7 +71,7 @@ In order to enjoy this trip, we both need to know where we are starting (your cu
 
 After that, we are in this journey together to take you from point A to point B. As my mentee, you will quickly realize that I am not your driver, but I am absolutely willing to drive when you can’t. I will show you around from what I know and I am willing to discover what is unknown to both of us too. I can get super technical or stay high-level. I will adjust our speed with your pace. At the end of the day, this is YOUR journey!
 
-<h1> How important is setting short- and long-term goals for your mentorships?</h1> 
+<h2> How important is setting short- and long-term goals for your mentorships?</h2> 
 
 Both are quite important! Long-term goals take us far in a certain direction, and short-term goals keep us moving daily in our mentorship road-trip. 
 
@@ -79,7 +79,7 @@ Again, metaphorically speaking, I see a mentorship as getting into a relatively 
 
 Without setting up long-term goals, you can hardly go any far in long term into any certain direction because you have no final destination set up at the beginning. In this scenario, every day is a new trip for you and you can go any direction every morning! On the other hand, with no short-term goals, many days you may find yourself not moving at all because you may feel too comfortable in where you are today and want to procrastinate.
 
-<h1> What are you getting out of being a mentor?</h1>
+<h2> What are you getting out of being a mentor?</h2>
 
 Every mentorship road-trip is unique and the mentees have their own unique stories! The learning is not always for the mentee, but for the mentor too. I learned a lot of new things (technical and non-technical) just by being on a new road-trip every time.
 

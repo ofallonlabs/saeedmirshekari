@@ -16,7 +16,7 @@ tags:
 thumbnail: /assets/img/uploads/undraw_pen_tool_re_s92o.png
 rating: 5
 ---
-# The Top Data Science Tools and Their Impact on the Industry
+## The Top Data Science Tools and Their Impact on the Industry
 
 Data Science has become one of the [most sought-after professions](https://saeedmirshekari.com/blog/5-hot-business-sectors-of-data-science-applications/) in the current job market. It is a profession that involves extracting insights and knowledge from data by using advanced technologies, algorithms, and statistical models. With the proliferation of big data, there has been a surge in demand for data scientists and tools that can help them extract insights from vast amounts of data.
 

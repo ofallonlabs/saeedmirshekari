@@ -17,7 +17,7 @@ tags:
   - trends
 thumbnail: /assets/img/uploads/india-election-data-analysis.png
 ---
-# Unveiling the Statistical Landscape of Elections in India
+## Unveiling the Statistical Landscape of Elections in India
 
 Elections in India are a monumental exercise in democracy, characterized by their scale, diversity, and significance. With over 900 million eligible voters, India boasts the world's largest electorate, making its electoral process a subject of global fascination and scrutiny. In this comprehensive analysis, we delve into the statistics of elections in India, exploring key trends, milestones, and challenges that define this vibrant democratic tradition.
 

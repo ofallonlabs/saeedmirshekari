@@ -19,7 +19,7 @@ thumbnail: /assets/img/uploads/undraw_everyday-life_5bqa.png
 ---
 
 
-# How to Transition into Data Science in 2025 (Without a Master’s Degree)
+## How to Transition into Data Science in 2025 (Without a Master’s Degree)
 
 > *You don’t need a master’s degree to break into data science in 2025 — but you do need a strategy.*
 

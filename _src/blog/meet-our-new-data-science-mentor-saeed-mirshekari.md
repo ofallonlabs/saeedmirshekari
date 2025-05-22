@@ -20,7 +20,7 @@ tags:
 thumbnail: /assets/img/uploads/mirshekari.jpg
 rating: 5
 ---
-# Introducing Our New Data Science Mentor: Saeed Mirshekari
+## Introducing Our New Data Science Mentor: Saeed Mirshekari
 
 Welcome to O'Mentors, where we believe in nurturing talent and fostering growth in the field of data science. Today, we're happy to introduce Saeed Mirshekari, a seasoned Director Data Scientist at Mastercard based in St. Louis. With a rich academic background, extensive industry experience, and a passion for mentoring, Saeed is poised to be an invaluable resource for anyone looking to advance their career in data science.
 

@@ -15,7 +15,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/omentors-rep.png
 ---
-# How O'Mentors Helps Mentors and Mentees in Data Science
+## How O'Mentors Helps Mentors and Mentees in Data Science
 
 The field of Data Science is booming, with opportunities that promise innovation, growth, and lucrative careers. However, navigating this complex landscape can be challenging, whether you're an aspiring Data Scientist trying to break into the field or an experienced professional seeking to advance your career. Enter **O'Mentors**—a platform designed to bridge the gap between mentors and mentees in Data Science.
 

@@ -17,7 +17,7 @@ tags:
   - mentoring
 thumbnail: /assets/img/uploads/undraw_qa_engineers_dg5p-1-.png
 ---
-# Feature Engineering: The Art of Crafting Data for Better Models
+## Feature Engineering: The Art of Crafting Data for Better Models
 
 Feature engineering is a crucial step in the data science workflow, transforming raw data into meaningful features that can enhance the performance of machine learning models. It involves creating new variables, modifying existing ones, and extracting valuable information from data to improve model accuracy and efficiency. In this blog, we'll explore the importance of feature engineering, discuss common techniques, and provide real-world examples to illustrate the process.
 

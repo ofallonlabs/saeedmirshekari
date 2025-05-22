@@ -21,7 +21,7 @@ tags:
   - projects
 thumbnail: /assets/img/uploads/learning-pandas-for-data-scientists.png
 ---
-# Getting Started with Pandas for Data Scientists
+## Getting Started with Pandas for Data Scientists
 
 Welcome to the realm of data manipulation and analysis with Pandas! If you're a data scientist looking to harness the power of Python for handling and exploring data, you're in the right place. In this comprehensive guide, we'll take you on a journey through the fundamentals of Pandas, the go-to library for data manipulation in Python. Whether you're a beginner or an experienced data professional, this guide will equip you with the knowledge and skills needed to get started with Pandas and unlock its full potential for your data science endeavors.
 
@@ -120,4 +120,4 @@ Pandas offers powerful tools for working with time series data, including resamp
 ## Conclusion
 
 Getting started with Pandas for data scientists opens up a world of possibilities in the realm of data manipulation and analysis. By familiarizing yourself with the basic concepts, building your first project, and exploring advanced topics, you'll be well-equipped to tackle a wide range of data science tasks with confidence and proficiency. Happy coding!
-
+

@@ -15,7 +15,7 @@ tags:
   - projects
 thumbnail: /assets/img/uploads/learning-bash-for-data-scientists.png
 ---
-# Getting Started with Bash for Data Scientists
+## Getting Started with Bash for Data Scientists
 
 Welcome to the world of command-line magic with Bash! As a data scientist, mastering Bash can greatly enhance your productivity by enabling you to efficiently navigate files, automate tasks, and run scripts—all from the comfort of your terminal. In this comprehensive guide, we'll take you through the fundamentals of Bash, from basic commands to advanced techniques, empowering you to harness the power of the command line in your data science workflow. Whether you're new to Bash or looking to sharpen your skills, this guide will provide you with the knowledge and resources needed to become proficient in Bash for data science.
 
