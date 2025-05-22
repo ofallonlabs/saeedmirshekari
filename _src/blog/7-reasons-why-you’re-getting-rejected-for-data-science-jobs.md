@@ -37,13 +37,13 @@ The data science and machine learning fields are highly competitive. So, a gener
 
 A crisp and direct resume highlighting your skill set will differentiate you from the rest. Use specific information and measurable results to woo the hiring managers and demonstrate your skills. 
 
-We recommend that you get your resume reviewed by a [professional](https://saeedmirshekari.com/) in the data science field. A [mentor](https://saeedmirshekari.com/team/) will help you correct your resume and make it stand out from others, increasing your chances of scoring data science roles. 
+We recommend that you get your resume reviewed by a [professional](https://saeedmirshekari.com/) in the data science field. A [mentor](https://saeedmirshekari.com/team//) will help you correct your resume and make it stand out from others, increasing your chances of scoring data science roles. 
 
 <h3>2. ATS Rejecting You</h3>
 
 Many companies now use ATS (Applicant Tracking System) to filter the suitable applications out of the hundreds they receive. So, an algorithm can reject you even before the hiring manager has a chance to review your resume. 
 
-A [mentor that drives results](https://saeedmirshekari.com/results/) can highlight the keywords and phrases your resume lacks. Later, you can review the results by scanning the resume on online software. This will help you identify the missing keywords, which you can include later in your resume. 
+A [mentor that drives results](https://saeedmirshekari.com/results//) can highlight the keywords and phrases your resume lacks. Later, you can review the results by scanning the resume on online software. This will help you identify the missing keywords, which you can include later in your resume. 
 
 <h3>3. Lack of Portfolio to Back Your Skills</h3>
 
@@ -55,7 +55,7 @@ Maybe you have the perfect portfolio. You simply haven’t utilized it to match 
 
 <h3>4. No Technical Experience</h3>
 
-You must be wondering, “I don’t even have any [relevant experience](https://saeedmirshekari.com/blog/how-to-get-your-first-data-science-job-without-any-job-experience-the-ultimate-solution). What should I do?” The data science requirements include having a portfolio. Why would a recruiter hire you if you don’t have experience at all? 
+You must be wondering, “I don’t even have any [relevant experience](https://saeedmirshekari.com/blog/how-to-get-your-first-data-science-job-without-any-job-experience-the-ultimate-solution/). What should I do?” The data science requirements include having a portfolio. Why would a recruiter hire you if you don’t have experience at all? 
 
 You can’t claim to be an expert without technical knowledge that backs your skills. So, you must start working on projects to enhance and polish your skills. Pick problems from the internet or on sites like Kaggle. Free data sets are available for you to work on. So, get started right away!
 

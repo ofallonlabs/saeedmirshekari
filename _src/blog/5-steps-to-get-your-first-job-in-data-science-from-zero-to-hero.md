@@ -41,7 +41,7 @@ For example, an individual from a technical background should have a basic/gener
 
 But the situation is totally different for an individual joining the Data Science field from a non-IT background.
 
-Understanding yourself is a vital part of getting started.  Without self-awareness, it will be difficult to make the right decisions. This self-awareness can be developed [by working with a mentor](https://saeedmirshekari.com/team/) who will be honest with you and can help you in evaluating your strengths and weaknesses. 
+Understanding yourself is a vital part of getting started.  Without self-awareness, it will be difficult to make the right decisions. This self-awareness can be developed [by working with a mentor](https://saeedmirshekari.com/team//) who will be honest with you and can help you in evaluating your strengths and weaknesses. 
 
 Once you understand your current position, strengths and limitations, then you can then begin to look into different [Data science career options](https://saeedmirshekari.com/blog/the-4-different-shades-of-data-scientists/) that match your existing skills and experiences.
 
