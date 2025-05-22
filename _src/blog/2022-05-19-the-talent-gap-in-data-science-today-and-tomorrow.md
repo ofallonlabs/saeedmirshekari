@@ -102,7 +102,7 @@ Moreover, the future opportunities for Data Science are spread across multiple i
 * Army and weapons
 * Banking and finance
 
-So, if you want a career change and land your first Data Science job, you will need a data science mentor. O’Fallon Labs provides multiple *[mentoring](https://saeedmirshekari.com/data-science-one-on-one-mentoring//)*, *[training](https://saeedmirshekari.com/services/)*, and *[learning programs](https://saeedmirshekari.com/data-science-learning-program/)*.
+So, if you want a career change and land your first Data Science job, you will need a data science mentor. O’Fallon Labs provides multiple *[mentoring](https://saeedmirshekari.com/data-science-one-on-one-mentoring/)*, *[training](https://saeedmirshekari.com/services/)*, and *[learning programs](https://saeedmirshekari.com/data-science-learning-program/)*.
 
 Let us help you understand your strengths and weaknesses to create an actionable plan to drive you in the right direction. With us, you will land your first Data Science job with the ideal skillset.
 

@@ -115,6 +115,6 @@ ML Engineers use various tools including:
 
 * Python and/or R to create Machine Learning models with libraries like TensorFlow or Spark etc. These libraries are used to create advanced Machine-Learning algorithms in various branches of Machine Learning such as Natural Language Processing (NLP) and Image Processing.
 
-Data Science has emerged into an all-inclusive job role that encompasses data mining, business analysis, predictive modeling, quality analysis, etc. As the field keeps growing, so does the demand for professionals. In O’Fallon Labs we offer professional services to help individuals prepare for Data Science roles through hands-on [Training Programs](https://saeedmirshekari.com/data-science-training-program/) and [1-on-1 Mentorship Programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) led directly by top Data Scientists.
+Data Science has emerged into an all-inclusive job role that encompasses data mining, business analysis, predictive modeling, quality analysis, etc. As the field keeps growing, so does the demand for professionals. In O’Fallon Labs we offer professional services to help individuals prepare for Data Science roles through hands-on [Training Programs](https://saeedmirshekari.com/data-science-training-program/) and [1-on-1 Mentorship Programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring/) led directly by top Data Scientists.
 
 <!--EndFragment-->

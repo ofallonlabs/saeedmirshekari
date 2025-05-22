@@ -97,7 +97,7 @@ The job requisites that many companies put forth in their descriptions tend to b
 
 ## **Choose trustable mentoring programs.**
 
-As somebody [new to the data science industry](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/) in the US, you can put your faith in reputed and experienced data science mentors. The mentoring programs offer A to Z support regarding various facades of the country's data science career options. You can know your place in the competition and work to enhance your skills with adequate [guidance](https://saeedmirshekari.com/data-science-one-on-one-mentoring//).
+As somebody [new to the data science industry](https://saeedmirshekari.com/blog/2022-04-17-5-things-you-need-to-get-your-first-job-in-data-science-analytics/) in the US, you can put your faith in reputed and experienced data science mentors. The mentoring programs offer A to Z support regarding various facades of the country's data science career options. You can know your place in the competition and work to enhance your skills with adequate [guidance](https://saeedmirshekari.com/data-science-one-on-one-mentoring/).
 
 ## **Join comprehensive [online courses](https://saeedmirshekari.com/data-science-learning-program/)**
 

@@ -60,7 +60,7 @@ With plenty of impactful opportunities in the industry, your data science journe
 
 <h2>Are There Any Growth Opportunities?</h2>
 
-It doesn’t matter if you are in the academia-industry sourcing [analytics courses online](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) or lectures; you can easily find better opportunities in the data science world. Data science contains sub-categories of many other roles like an applied scientist, big data engineer, database engineer, data analyst, data architect, machine learning engineer, and more. 
+It doesn’t matter if you are in the academia-industry sourcing [analytics courses online](https://saeedmirshekari.com/data-science-one-on-one-mentoring/) or lectures; you can easily find better opportunities in the data science world. Data science contains sub-categories of many other roles like an applied scientist, big data engineer, database engineer, data analyst, data architect, machine learning engineer, and more. 
 
 So, there are countless opportunities with sub-markets in it, unlike the academia-industry. With your academic background, especially in quantitative fields and data science, you will have a significant head start and a solid foundation to boost your career. 
 

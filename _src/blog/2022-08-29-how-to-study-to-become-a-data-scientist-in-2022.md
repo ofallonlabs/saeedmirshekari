@@ -163,4 +163,4 @@ In order to be selected for your first data science interview, networking is a r
 
 As soon as you've established a connection with the recruiters, the next step is to demonstrate and explain how your data science expertise can assist their organizations in solving the issue. After that, your first interview will occur. Go for these interviews, interact, get feedback and ensure you implement this collected feedbacks. 
 
-In this article, we have walked you through valuable tips to follow in order to study effectively to become a Data Scientist in 2022 and beyond. When you implement these tips and with the guidance of an [experienced professional](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) ( mentor) your success is guaranteed.
+In this article, we have walked you through valuable tips to follow in order to study effectively to become a Data Scientist in 2022 and beyond. When you implement these tips and with the guidance of an [experienced professional](https://saeedmirshekari.com/data-science-one-on-one-mentoring/) ( mentor) your success is guaranteed.

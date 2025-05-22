@@ -36,7 +36,7 @@ After you've written to them a few times, inquire if they have time for an infor
 
 <h3> One-on-One Online Mentorship Coaching Programs </h3>
 
-1-on-1 online mentorship programs are hyper-personalized mentorship programs that have been designed uniquely to be completely “mentee-driven”. An expert from the field of Data Science works with you more closely. Some of the advantages that [one-on-one mentorship/coaching programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) have over other forms of mentorships include:
+1-on-1 online mentorship programs are hyper-personalized mentorship programs that have been designed uniquely to be completely “mentee-driven”. An expert from the field of Data Science works with you more closely. Some of the advantages that [one-on-one mentorship/coaching programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring/) have over other forms of mentorships include:
 
 * Weekly 1-on-1 to talk about: your progress, your questions, and the next steps
 * Full support via direct messaging access in private text channels
@@ -70,4 +70,4 @@ If you choose to go through the FREE mentorship path, make sure you fully unders
 
 Having a mentor who can help you with learning new skills, writing a resume, creating a portfolio, job searching, getting ready for interviews, and negotiating a salary can make the process easier and improve your chances of success, especially in the tech industry.
 
-**Do you feel lost, unsure of what to do next, or simply need someone to talk to about your Data Science career goals and concerns? Schedule a free one-on-one call today with [Saeed](https://saeedmirshekari.com/team//), one of the trusted experts and mentors in the field of Data Science. Mentors like him are ready to listen to you and guide you in the right direction. You can also [follow him on LinkedIn](https://www.linkedin.com/in/saeedmirshekari/).**
+**Do you feel lost, unsure of what to do next, or simply need someone to talk to about your Data Science career goals and concerns? Schedule a free one-on-one call today with [Saeed](https://saeedmirshekari.com/team/), one of the trusted experts and mentors in the field of Data Science. Mentors like him are ready to listen to you and guide you in the right direction. You can also [follow him on LinkedIn](https://www.linkedin.com/in/saeedmirshekari/).**

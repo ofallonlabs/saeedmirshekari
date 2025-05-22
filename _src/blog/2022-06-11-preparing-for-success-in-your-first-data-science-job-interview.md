@@ -106,7 +106,7 @@ In your follow-up emails, reiterate your interest and, if appropriate, give exam
 
 The Data Science career path is a journey and to successfully navigate through to reach the top, you need the right guidance and proper mentoring. 
 
-Mentors are like the helmsman of your Data Science Career. An expert guides you through the entire job interview preparation process, mastering the right technical skills to create a good resume, up until when you are fully established in your field with practical advice and support and this is exactly what we offer at  [O’Fallon Labs.](http://saeedmirshekari.com) 
+Mentors are like the helmsman of your Data Science Career. An expert guides you through the entire job interview preparation process, mastering the right technical skills to create a good resume, up until when you are fully established in your field with practical advice and support and this is exactly what we offer at  [O’Fallon Labs.](https://saeedmirshekari.com) 
 
 You can change your future and career job search narrative by getting proper mentoring from trained and experienced experts at O'Fallon Labs. We will also show you how to do a data science project from scratch with little to no coding background. 
 
