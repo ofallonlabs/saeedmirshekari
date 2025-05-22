@@ -80,5 +80,5 @@ gious Landscape Survey. Pew Forum on Religion
 \[2] "U.S. Obesity trends". Center for Disease Con-
 trol. Retrieved 23 July 2011.
 
-\[3] "http://www.gallup.com". Frank Newport, 17
+\[3] "https://www.gallup.com". Frank Newport, 17
 February 2010.

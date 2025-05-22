@@ -73,7 +73,7 @@ According to *[Indeed](https://www.indeed.com/career/data-scientist/salaries)*, 
 
 <h2> Talent Gap and Opportunities Today </h2>
 
-According to the Stitch Benchmark *[report](https://www.stitchdata.com/resources/the-state-of-data-science/)*, there were only 11,400 data scientists available worldwide in 2014. Although now this number has increased so much, it’s still a lot less than what the industry requires.
+According to the Stitch Benchmark *[report](https://stitchdata.com/resources/the-state-of-data-science/)*, there were only 11,400 data scientists available worldwide in 2014. Although now this number has increased so much, it’s still a lot less than what the industry requires.
 
 Data scientists are in high demand as companies like Amazon, Meta, and Google, magnify user experience, grow profits, and accomplish strategic objectives using data. Data exists in multiple formats and forms.
 

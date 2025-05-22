@@ -94,7 +94,7 @@ On election day, data science tools can provide real-time monitoring and analysi
 
 ### Detecting Fraud and Ensuring Integrity
 
-Data science techniques can help detect irregularities and potential fraud in elections. By analyzing voting patterns and identifying anomalies, authorities can take steps to ensure the integrity of the electoral process. [Scientific American - Election Integrity](https://www.scientificamerican.com/article/how-data-science-can-help-secure-our-elections/)
+Data science techniques can help detect irregularities and potential fraud in elections. By analyzing voting patterns and identifying anomalies, authorities can take steps to ensure the integrity of the electoral process. [Scientific American - Election Integrity](https://scientificamerican.com/article/how-data-science-can-help-secure-our-elections/)
 
 ## Case Studies of Data Analytics in French Elections
 

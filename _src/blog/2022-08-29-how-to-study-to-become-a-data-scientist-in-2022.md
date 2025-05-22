@@ -75,7 +75,7 @@ Learn more about the [technical and non-technical skills](https://saeedmirshekar
 
 <h3>Watch Lectures </h3>
 
-In the beginning, it will be very hard to do things on your own. You will need to take help from experts. Watch how experts approach projects and how they solve problems. [Kaggle](http://kaggle.com) and [freecodecamp.org](http://freecodecamp.org) are great resources to watch experts solve problems. In this [12 Beginner Python Projects](https://youtu.be/8ext9G7xspg) video from freecodecamp, they built 12 interesting Beginner Python Projects from scratch. The lecture walks you through the implementation of these projects step by step making it very easy for you to follow. Don't just watch the lectures passively. Follow along as you watch and understand what is being done. 
+In the beginning, it will be very hard to do things on your own. You will need to take help from experts. Watch how experts approach projects and how they solve problems. [Kaggle](https://kaggle.com) and [freecodecamp.org](https://freecodecamp.org) are great resources to watch experts solve problems. In this [12 Beginner Python Projects](https://youtu.be/8ext9G7xspg) video from freecodecamp, they built 12 interesting Beginner Python Projects from scratch. The lecture walks you through the implementation of these projects step by step making it very easy for you to follow. Don't just watch the lectures passively. Follow along as you watch and understand what is being done. 
 
 Again, do not rush to learn how problems are being solved. Learn the basic concepts before moving on to watch how problems are being solved so you can get a grasp on what is being done and so that you don't get overwhelmed. The basic concepts you have to learn include: 
 

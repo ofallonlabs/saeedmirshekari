@@ -21,7 +21,7 @@ thumbnail: /assets/img/uploads/undraw_gifts_0ceh.png
 
 The journey to success in data science is exciting but often filled with challenges. Whether you're navigating the complexity of machine learning, tackling your first real-world project, or preparing for a competitive job market, having the right guidance can make all the difference. That’s where **O'Mentors** steps in—a platform designed to connect you with top industry mentors in data science and help you reach your career goals.  
 
-We’re thrilled to announce the upcoming launch of our latest version at [www.omentors.com](http://www.omentors.com), featuring two game-changing updates: **secure payment** and **instant booking**. These enhancements ensure a seamless experience, making it easier than ever to find and collaborate with the perfect mentor.  
+We’re thrilled to announce the upcoming launch of our latest version at [www.omentors.com](https://www.omentors.com), featuring two game-changing updates: **secure payment** and **instant booking**. These enhancements ensure a seamless experience, making it easier than ever to find and collaborate with the perfect mentor.  
 
 In this blog, we’ll explore how O'Mentors empowers aspiring data scientists and professionals to achieve their goals, overcome challenges, and unlock their potential.  
 
@@ -147,7 +147,7 @@ From foundational skills to career strategy, O'Mentors provides comprehensive gu
 ## How to Get Started with O'Mentors  
 
 ### Step 1: Sign Up for Free  
-Visit [www.omentors.com](http://www.omentors.com) to create a free account.  
+Visit [www.omentors.com](https://www.omentors.com) to create a free account.  
 
 ### Step 2: Explore Mentors  
 Browse through a curated list of mentors, each with detailed profiles highlighting their expertise, experience, and availability.  
@@ -169,7 +169,7 @@ The journey to success in data science doesn’t have to be solitary. With O'Men
 
 By integrating secure payment and instant booking, we’ve made mentorship more accessible, transparent, and efficient than ever before. Whether you’re just starting out or looking to take your career to the next level, O'Mentors is your trusted partner in achieving data science success.  
 
-Explore the possibilities and unlock your potential at [www.omentors.com](http://www.omentors.com). The future of your career is just one mentorship away!  
+Explore the possibilities and unlock your potential at [www.omentors.com](https://www.omentors.com). The future of your career is just one mentorship away!  
 
 ---
 

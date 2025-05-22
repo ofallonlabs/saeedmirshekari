@@ -233,7 +233,7 @@ You’ll likely face **technical**, **behavioral**, and **case-style interviews*
 
 ### Resources:
 
-* [StrataScratch](https://www.stratascratch.com) – SQL practice
+* [StrataScratch](https://stratascratch.com) – SQL practice
 * [Interview Query](https://www.interviewquery.com) – DS interviews
 * [LeetCode](https://www.leetcode.com) – For those applying to FAANG
 

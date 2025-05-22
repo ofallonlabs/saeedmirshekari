@@ -68,7 +68,7 @@ Following are the responsibilities of a data scientist:
 
 Data scientists became increasingly popular a couple of years ago. Professionals from every other field were rushing to take a career chance in data science. However, the question many experts are asking today is whether data scientists are still popular in 2022?  
 
-And the answer is yes. Due to the pandemic, there was a surge of digital data at a global level, leading to a record number of data scientists hiring in the year 2021. In the US alone, [11,400 data scientists](https://www.stitchdata.com/resources/the-state-of-data-science/#:~:text=We%20found%2011%2C400%20data%20scientists%20currently%20employed%20by%20companies%20known%20to%20LinkedIn.) were working in different companies as of June 2015. So you can imagine how high the number would be in 2022. 
+And the answer is yes. Due to the pandemic, there was a surge of digital data at a global level, leading to a record number of data scientists hiring in the year 2021. In the US alone, [11,400 data scientists](https://stitchdata.com/resources/the-state-of-data-science/#:~:text=We%20found%2011%2C400%20data%20scientists%20currently%20employed%20by%20companies%20known%20to%20LinkedIn.) were working in different companies as of June 2015. So you can imagine how high the number would be in 2022. 
 
 <h2> How Many More Are Needed? </h2> 
 

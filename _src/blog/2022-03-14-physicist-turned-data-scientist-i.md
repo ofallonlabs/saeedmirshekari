@@ -87,7 +87,7 @@ rating: 4
 
                     <img style="border:1px dashed DarkSlateBlue;" src="/assets/img/bdsf-01.jpg" class="img-fluid" alt="" >
 
-                    <figcaption><em><small>The myth of the data scientist unicorn. See <a href="http://www.theguardian.com/media-network/2015/feb/12/data-scientists-as-rare-as-unicorns">this Guardian article</a> on “Data Scientists: As Rare as Unicorns”</small></em>
+                    <figcaption><em><small>The myth of the data scientist unicorn. See <a href="https://www.theguardian.com/media-network/2015/feb/12/data-scientists-as-rare-as-unicorns">this Guardian article</a> on “Data Scientists: As Rare as Unicorns”</small></em>
 
                     </figcaption><br>
 
@@ -271,17 +271,17 @@ The data scientist must have knowledge in applied science, with an extensive exp
 
                 <ol>
 
-                  <li><a href="http://goo.gl/aTUEY">Astronomer to Data Scientist</a>, a brief but very useful post on transitioning from academia to data science which was very helpful to me when I was getting started. \[introductory level] [if you are curious what happened to her after this post, read <a href="http://womeninastronomy.blogspot.com/2014/06/career-profiles-astronomer-to-data.html">this interview</a> with her after a year and half after]</li>
+                  <li><a href="https://goo.gl/aTUEY">Astronomer to Data Scientist</a>, a brief but very useful post on transitioning from academia to data science which was very helpful to me when I was getting started. \[introductory level] [if you are curious what happened to her after this post, read <a href="https://womeninastronomy.blogspot.com/2014/06/career-profiles-astronomer-to-data.html">this interview</a> with her after a year and half after]</li>
 
-                  <li><a href="http://www.dataschool.io/">Data School</a> \[introductory level]</li>
+                  <li><a href="https://www.dataschool.io/">Data School</a> \[introductory level]</li>
 
                   <li><a href="https://101.datascience.community/">Data Science 101</a> \[introductory and technical level]</li>
 
-                  <li><a href="http://www.datasciencecentral.com/">Data  Science Central</a> \[introductory and advanced level]</li>
+                  <li><a href="https://www.datasciencecentral.com/">Data  Science Central</a> \[introductory and advanced level]</li>
 
-                  <li><a href="http://flowingdata.com/">FlowingData</a> \[technical and detailed level]</li>
+                  <li><a href="https://flowingdata.com/">FlowingData</a> \[technical and detailed level]</li>
 
-                  <li><a href="http://www.r-bloggers.com/">R-bloggers</a> \[technical level]</li>
+                  <li><a href="https://www.r-bloggers.com/">R-bloggers</a> \[technical level]</li>
 
                 </ol>
 
@@ -361,9 +361,9 @@ The data scientist must have knowledge in applied science, with an extensive exp
 
                 <ol>
 
-                  <li><a href="http://www.insightdatascience.com/">Insight Data Science Fellows Program</a>: A 6-weeks bootcamp on data science started in New York City. Completed or approaching completion of a Ph.D. is required. \[FREE]</li>
+                  <li><a href="https://www.insightdatascience.com/">Insight Data Science Fellows Program</a>: A 6-weeks bootcamp on data science started in New York City. Completed or approaching completion of a Ph.D. is required. \[FREE]</li>
 
-                  <li><a href="http://www.thedataincubator.com/?ref=fc13528c1ff5&ch=ge#homeFS">The Data Incubator</a>: A 6-8 weeks bootcamp on data science in New York and Washington D.C. \[FREE]</li>
+                  <li><a href="https://www.thedataincubator.com/?ref=fc13528c1ff5&ch=ge#homeFS">The Data Incubator</a>: A 6-8 weeks bootcamp on data science in New York and Washington D.C. \[FREE]</li>
 
                   <li><a href="https://ds3.research.microsoft.com/">Microsoft Research Data Science Summer School</a>: An 8 weeks bootcamp on data science in New York \[FREE]</li>
 
@@ -391,7 +391,7 @@ The data scientist must have knowledge in applied science, with an extensive exp
 
                 <p>
 
-                  Recently, there have been started many Master programs in various schools and universities in the US including in Columbia and Stanford University. <a href="http://goo.gl/gZpA9X">A list of master programs in Data Science in the US</a> is available online. A full-time master program of data science usually takes 1-2 years. Due to this relatively long duration of these programs and high costs, they are only recommended for undergraduates interested in data science or for those who already have a job in analytics teams of corporation and want to learn about data science in an academic system.
+                  Recently, there have been started many Master programs in various schools and universities in the US including in Columbia and Stanford University. <a href="https://goo.gl/gZpA9X">A list of master programs in Data Science in the US</a> is available online. A full-time master program of data science usually takes 1-2 years. Due to this relatively long duration of these programs and high costs, they are only recommended for undergraduates interested in data science or for those who already have a job in analytics teams of corporation and want to learn about data science in an academic system.
 
                 </p>
 
@@ -455,7 +455,7 @@ The data scientist must have knowledge in applied science, with an extensive exp
 
                 <p>
 
-                  There are many interesting data science projects out there that you can work on in this stage. Participating in an internship program of a nice company would be certainly a good idea if you have the time to do it. Keep in mind that in this case, you have to go through all the application process and paperwork to do an internship. But if for any reason doing a data scientist internship is not working for you, I recommend working on a project on your own. It is more flexible and less time consuming. If you choose so, I strongly recommend participating in one of the <a href="http://kaggle.com/">Kaggle</a> competitions.
+                  There are many interesting data science projects out there that you can work on in this stage. Participating in an internship program of a nice company would be certainly a good idea if you have the time to do it. Keep in mind that in this case, you have to go through all the application process and paperwork to do an internship. But if for any reason doing a data scientist internship is not working for you, I recommend working on a project on your own. It is more flexible and less time consuming. If you choose so, I strongly recommend participating in one of the <a href="https://kaggle.com/">Kaggle</a> competitions.
 
                 </p>
 
@@ -517,6 +517,6 @@ The data scientist must have knowledge in applied science, with an extensive exp
 
                 <p>
 
-                  Third, always be connected and be updated. Internet social networks are powerful tools. Use <a href="https://www.linkedin.com/jobs/data-scientist-jobs">LinkedIn</a>, <a href="http://jobs.monster.com/v-science-q-data-scientist-jobs.aspx">Monster</a>, <a href="http://www.indeed.com/q-Data-Scientist-jobs.html">Indeed</a>, <a href="https://www.kaggle.com/jobs">Kaggle job board</a>, and <a href="https://www.glassdoor.com/">Glassdoor</a> for your best. They are actually functional. Face-to-face conversations are great but do not underestimate online tools in your job search and make the best use out of them. Follow popular data scientists on social media specially those who are in your target geographical region and discover what they are up to.
+                  Third, always be connected and be updated. Internet social networks are powerful tools. Use <a href="https://www.linkedin.com/jobs/data-scientist-jobs">LinkedIn</a>, <a href="https://jobs.monster.com/v-science-q-data-scientist-jobs.aspx">Monster</a>, <a href="https://www.indeed.com/q-Data-Scientist-jobs.html">Indeed</a>, <a href="https://www.kaggle.com/jobs">Kaggle job board</a>, and <a href="https://www.glassdoor.com/">Glassdoor</a> for your best. They are actually functional. Face-to-face conversations are great but do not underestimate online tools in your job search and make the best use out of them. Follow popular data scientists on social media specially those who are in your target geographical region and discover what they are up to.
 
                 </p>

@@ -74,7 +74,7 @@ For more information, visit [MentorCruise](https://mentorcruise.com/).
 - **Business Focused:** Primarily geared towards entrepreneurs and small business owners.
 - **Potential Wait Times:** Matching with a mentor might take some time due to demand.
 
-Learn more at [SCORE](https://www.score.org/).
+Learn more at [SCORE](https://score.org/).
 
 ### 3. ADPList
 
@@ -146,7 +146,7 @@ Choosing the right mentoring program can be a game-changer in your career or bus
 
 For further reading, explore the following resources:
 - [MentorCruise](https://mentorcruise.com/)
-- [SCORE](https://www.score.org/)
+- [SCORE](https://score.org/)
 - [ADPList](https://adplist.org/)
 - [LinkedIn Career Advice](https://www.linkedin.com/)
 - [MicroMentor](https://www.micromentor.org/)

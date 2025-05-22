@@ -44,7 +44,7 @@ Here we have some in demand job positions in the data science domain that are pr
 
 ## [Salary](https://www.careerexplorer.com/careers/data-scientist/salary/)
 
-As per the figures for 2019-2020, the mean salary figure for data science professionals in the US is around $87,000, much better than the national average. Salaries usually begin at $67,000 and can move as high as $180,000. The average [hourly wage rate](https://www.salary.com/research/salary/benchmark/data-scientist-i-hourly-wages) is $35 as of the start of 2022.
+As per the figures for 2019-2020, the mean salary figure for data science professionals in the US is around $87,000, much better than the national average. Salaries usually begin at $67,000 and can move as high as $180,000. The average [hourly wage rate](https://salary.com/research/salary/benchmark/data-scientist-i-hourly-wages) is $35 as of the start of 2022.
 
 ## [Gender categorization ](https://www.careerexplorer.com/careers/data-scientist/demographics/)
 
