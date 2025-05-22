@@ -94,7 +94,7 @@ layout: blog_base_nobody.njk
     {% if page == 0 %}
       <a href="/blogs_projects/" style='background-color:#94c045; color:#111;'><b>{{page}}</b></a>
     {% else %}
-      <a href="/blogs_projects/{{ page }}" style='background-color:#94c045; color:#000;'><b>{{page}}</b></a>
+      <a href="/blogs_projects/{{ page }}/" style='background-color:#94c045; color:#000;'><b>{{page}}</b></a>
     {% endif %}
 
   {% else %}
@@ -106,7 +106,7 @@ layout: blog_base_nobody.njk
       {% if page == 0 %}
       <a href="/blogs_projects/" style='background-color:#ddd; color:#111;'>{{page}}</a>
       {% else %}
-      <a href="/blogs_projects/{{ page }}" style='background-color:#ddd; color:#000;'>{{page}}</a>
+      <a href="/blogs_projects/{{ page }}/" style='background-color:#ddd; color:#000;'>{{page}}</a>
       {% endif %}
 
     {% endif %}
@@ -118,7 +118,7 @@ layout: blog_base_nobody.njk
 {# end---------- #}
 
 {% if (pagination.pageNumber) < (pagination.pages.length - 1)  %}
-  <a href="/blogs_projects/{{ pagination.pages.length-1}}">>></a>
+  <a href="/blogs_projects/{{ pagination.pages.length-1}}/">>></a>
 {% endif %}
 
 {% if pagination.pageNumber == pagination.pages.length - 1  %}
