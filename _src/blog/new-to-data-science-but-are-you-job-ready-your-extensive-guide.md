@@ -64,11 +64,11 @@ Moreover, create a well-structured resume. A good resume should be short, tell y
 
 
 
-Remember, a resume is the first step to qualifying for a job interview. So, hire [professional help](https://saeedmirshekari.com/team/); a [mentor](https://saeedmirshekari.com/data-science-one-on-one-mentoring//). They’ll help you design the best resume that stands out in the eyes of recruiters. 
+Remember, a resume is the first step to qualifying for a job interview. So, hire [professional help](https://saeedmirshekari.com/team/); a [mentor](https://saeedmirshekari.com/data-science-one-on-one-mentoring/). They’ll help you design the best resume that stands out in the eyes of recruiters. 
 
 
 
-Check out the [best online data science programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring//), including a free course [here](https://saeedmirshekari.com/services/). 
+Check out the [best online data science programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring/), including a free course [here](https://saeedmirshekari.com/services/). 
 
 <h3>3. Understand Yourself - Gain Self-Awareness</h3>
 

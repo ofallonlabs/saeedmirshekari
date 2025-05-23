@@ -76,7 +76,7 @@ A well-thought-out data science mentoring program
 * is job oriented i.e it focuses on preparing you with what you need to land your dream job, not teaching what you don't need. 
 * has mentors who are dedicated to MENTORING and seeing their mentee reach heights!
 
-A good [Data Science course](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) supported by a good mentorship program has an ultimate focus which is essentially to help you reach your goal port– the Data Science certification and landing your first job.
+A good [Data Science course](https://saeedmirshekari.com/data-science-one-on-one-mentoring/) supported by a good mentorship program has an ultimate focus which is essentially to help you reach your goal port– the Data Science certification and landing your first job.
 
 <h2> Advantages of one-on-one mentoring in DS compared to other DS training methods </h2> 
 
@@ -96,7 +96,7 @@ A data science mentor can provide an adequate connection to the valuable network
 
 Along with your certification, mentoring is one of the most beneficial chances you can have. Your personal development and performance can be enhanced by receiving the advice, inspiration, and assistance of a dependable and skilled professional. You can anticipate a fantastic Data Science adventure if you work hard and effectively as a crew member in support of your mentor.
 
-A [mentor-steered course](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) stands out from the herd when you are faced with a choice of institutes. A good mentoring program shouldn’t claim part of your first year salary. Here at O’Fallon Labs we simply don't think this is right. Our 1-on-1 Data science mentoring program is perfectly designed in a way that it operates on a monthly subscription basis. You pay for your mentor's time as much as you use, nothing more. Your salary is yours and we assist you in getting the best job with awesome pay! Some people need less help and some people need more.
+A [mentor-steered course](https://saeedmirshekari.com/data-science-one-on-one-mentoring/) stands out from the herd when you are faced with a choice of institutes. A good mentoring program shouldn’t claim part of your first year salary. Here at O’Fallon Labs we simply don't think this is right. Our 1-on-1 Data science mentoring program is perfectly designed in a way that it operates on a monthly subscription basis. You pay for your mentor's time as much as you use, nothing more. Your salary is yours and we assist you in getting the best job with awesome pay! Some people need less help and some people need more.
 
 [O'Fallon Labs](https://www.linkedin.com/company/ofallonlabs) offers a [mentor-driven Data Science course](https://saeedmirshekari.com/data-science-learning-program/). Your search for the right Data Science course with the right Mentorship stops here!
 

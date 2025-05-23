@@ -120,7 +120,7 @@ Your career’s first job is never easy. It always highlights new strengths and 
 
 
 
-If you have just stepped foot in the data science world, learning data science and finding the [best data science courses](https://saeedmirshekari.com/data-science-one-on-one-mentoring//) can be challenging without proper guidance. 
+If you have just stepped foot in the data science world, learning data science and finding the [best data science courses](https://saeedmirshekari.com/data-science-one-on-one-mentoring/) can be challenging without proper guidance. 
 
 
 

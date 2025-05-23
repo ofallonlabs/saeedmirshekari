@@ -58,7 +58,7 @@ We all know time is money, especially in your 40s. Time is a luxury you can’t 
 
 <h3>5. Get Enrolled in an Online Data Science Bootcamp</h3>
 
-Aspiring data scientists can learn DS skills and experience through virtual bootcamps. While you can teach yourself at your decided pace, it’s best to enroll in a **[data science online course](https://saeedmirshekari.com/data-science-one-on-one-mentoring//)** as it has the proper structure and support you need to score a job. 
+Aspiring data scientists can learn DS skills and experience through virtual bootcamps. While you can teach yourself at your decided pace, it’s best to enroll in a **[data science online course](https://saeedmirshekari.com/data-science-one-on-one-mentoring/)** as it has the proper structure and support you need to score a job. 
 
 Here’s how a bootcamp or online course can help you:
 

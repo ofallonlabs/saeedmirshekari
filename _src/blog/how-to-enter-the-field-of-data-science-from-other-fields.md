@@ -85,7 +85,7 @@ The portfolio you create will show your passion for the field and your knack for
 
 This will help you gain visibility and attract recruiters. These projects you work on can come from:
 
-* Courses you took - the [best data science programs](https://saeedmirshekari.com/services) offer hands-on experience along with theoretical knowledge to develop technical skills. Typically, an industry leader will grade the project, which adds weight to your resume. 
+* Courses you took - the [best data science programs](https://saeedmirshekari.com/services/) offer hands-on experience along with theoretical knowledge to develop technical skills. Typically, an industry leader will grade the project, which adds weight to your resume. 
 * Personal coding projects - mastering the required data science languages and working on personal coding projects is another great way to build technical skills. You won’t have to worry about grades or deadlines this way. 
 * Projects with your mentor - working on DS projects with a mentor means a foolproof way to enter the industry. Mentors offer invaluable inputs throughout your project lifecycle and spark your creative thinking even when you hit roadblocks. 
 * Internships - you can also get hands-on experience while interning for a firm. This will give you a lot of exposure while you work in a fast-paced environment. 
