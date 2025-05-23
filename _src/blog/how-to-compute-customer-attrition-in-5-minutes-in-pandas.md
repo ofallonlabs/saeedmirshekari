@@ -58,7 +58,7 @@ Here is the p﻿ython scripts you need to compute the Customer Attrition:
 
 <script src="https://gist.github.com/smirs/d08a76aebf4f152fae294c48fb76ecdf.js"></script>
 
-# Summary
+## Summary
 
 If you're just getting started with data analysis, you will quickly come to realize the importance of computing customer attrition. It's a critical aspect of any business to have an understanding of customer retention metrics, and pandas makes the process extremely easy. 
 

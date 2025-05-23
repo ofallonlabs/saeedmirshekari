@@ -1,10 +1,10 @@
 ---
 layout: blog_base.njk
-title: "Is St. Louis Home?"
+title: "Is St. Louis Home? Since 14 Years Ago"
 description: From starting a PhD program in physics at Washington University to
   working in industries like smart grid, modern ag, and finance, my 14-year
   journey in St. Louis has been nothing short of extraordinary.
-meta_title: "Is St. Louis Home?"
+meta_title: "Is St. Louis Home? Since 14 Years Ago"
 meta_description: "From starting a PhD program in physics at Washington
   University to working in industries like smart grid, modern ag, and finance,
   my 14-year journey in St. Louis has been nothing short of extraordinary."

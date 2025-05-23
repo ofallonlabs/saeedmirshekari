@@ -79,7 +79,7 @@ Any jobseeker from a foreign land wanting to set sail to the country of dreams a
 * Creative thinking abilities and industry knowledge
 * Know-how of required programming languages and databases
 
-# **Troubles US immigrant job seekers with high educational qualifications might have to tackle to get their first job in data science.**
+## **Troubles US immigrant job seekers with high educational qualifications might have to tackle to get their first job in data science.**
 
 ## **Availability of reliable guidance**
 
