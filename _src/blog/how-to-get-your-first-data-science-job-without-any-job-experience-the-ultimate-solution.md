@@ -2,13 +2,12 @@
 meta_description: "Do you want to score a Data Scientist job but don’t have any
   relevant experience? Try our tried-and-tested techniques to land your first
   job quickly. "
-meta_title: How To Get Your First Data Science Job Without Any Job Experience
+meta_title: THow To Get Your First Data Science Job Without Any Job Experience
 layout: blog_base_fatima.njk
 title: How To Get Your First Data Science Job Without Any Job Experience
 description: Do you want to score a Data Scientist job but don’t have any
   relevant experience? Try our tried-and-tested techniques to land your first
   job   quickly.
-meta_title: 5 Ways to Get Your First Data Science Job | O’Fallon Labs
 author: Fatima Haroon
 date: 2022-09-24T15:23:38.088Z
 tags:
