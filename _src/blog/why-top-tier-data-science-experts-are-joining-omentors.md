@@ -1,16 +1,17 @@
 ---
 layout: blog_base.njk
 title: Why Top-Tier Data Science Experts Are Joining OMentors
-description: O’Mentors connects elite data professionals with motivated mentees,
+description: OMentors connects elite data professionals with motivated mentees,
   offering flexible, paid mentorship and visibility as a founding expert.
-meta_title: Why Top-Tier Data Science Experts Are Joining O’Mentors
-meta_description: O’Mentors connects elite data professionals with motivated
+meta_title: Why Top-Tier Data Science Experts Are Joining OMentors
+meta_description: OMentors connects elite data professionals with motivated
   mentees, offering flexible, paid mentorship and visibility as a founding
   expert.
 author: Saeed Mirshekari
-date: 2025-05-23T14:33:56.392Z
+date: 2025-05-23T14:55:13.670Z
 tags:
-  - post.mentoring
+  - post
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_people_re_8spw.svg
 ---
 
