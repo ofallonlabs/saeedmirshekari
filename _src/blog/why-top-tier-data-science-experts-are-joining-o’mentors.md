@@ -197,7 +197,7 @@ There’s no cost to become a mentor, and registration takes only a few minutes.
 
 Once you’re live, you’ll be featured as one of our founding experts—visible to hundreds (soon thousands) of serious learners seeking exactly your kind of expertise.
 
-🌐 **[Join now at omentors.com](https://omentors.com)**
+🌐 **[Join now at omentors.com](https://www.omentors.com/auth/register)**
 
 And if you know another stellar mentor in your network—someone you’ve worked with, collaborated with, or learned from—please send them our way. This is a community by and for top professionals, and we’re excited to grow it with intention.
 
