@@ -1,11 +1,11 @@
 ---
 layout: blog_base.njk
-title: Is Getting Hired at MAANG Companies Overrated? The Pros, Cons, and Alternatives
+title: Is Getting Hired at MAANG Companies Overrated?
 description: Working at MAANG companies offers prestige, high compensation, and
   access to cutting-edge technology, but comes with intense work culture,
   limited autonomy, and job insecurity. Alternatives like startups, mid-sized
   tech firms, and freelancing may offer a more balanced and fulfilling career.
-meta_title: Is Getting Hired at MAANG Companies Overrated? The Pros, Cons, and Alternatives
+meta_title: Is Getting Hired at MAANG Companies Overrated?
 meta_description: Working at MAANG companies offers prestige, high compensation,
   and access to cutting-edge technology, but comes with intense work culture,
   limited autonomy, and job insecurity. Alternatives like startups, mid-sized

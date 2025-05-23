@@ -1,12 +1,10 @@
 ---
 layout: blog_base.njk
-title: "Joe Biden's Political Journey: The Role of Data Analytics in His
-  Historic Campaign"
+title: "The Data Analysis of Joe Biden's Campaign"
 description: Joe Biden's political career, spanning decades, highlights his
   resilience. Data analytics were pivotal in his 2020 presidential campaign,
   shaping strategy, targeting, and outreach, securing his historic victory.
-meta_title: "Joe Biden's Political Journey: The Role of Data Analytics in His
-  Historic Campaign"
+meta_title: "The Data Analysis of Joe Biden's Campaign"
 meta_description: Joe Biden's political career, spanning decades, highlights his
   resilience. Data analytics were pivotal in his 2020 presidential campaign,
   shaping strategy, targeting, and outreach, securing his historic victory.

@@ -1,21 +1,16 @@
 ---
 layout: blog_base.njk
-title: "Lost in Translation: Is Your Data Science Career Doomed if You Can't
-  Speak 'Normal' Human?"
+title: "Is Your Data Science Career Doomed?"
 description: In the data science realm, effective communication is a silent
   challenge. The technical Tower of Babel and stakeholder stalemates can hinder
   career growth. Strategies like tailoring communication, mastering data
-  storytelling, and fostering dialogue can bridge the gap. Success stories
-  emphasize that communication skills are strategic assets for propelling data
+  storytelling, and fostering dialogue can bridge the gap.
   science careers.
-meta_title: "Lost in Translation: Is Your Data Science Career Doomed if You
-  Can't Speak 'Normal' Human?"
+meta_title: Is Your Data Science Career Doomed?"
 meta_description: In the data science realm, effective communication is a silent
   challenge. The technical Tower of Babel and stakeholder stalemates can hinder
   career growth. Strategies like tailoring communication, mastering data
-  storytelling, and fostering dialogue can bridge the gap. Success stories
-  emphasize that communication skills are strategic assets for propelling data
-  science careers.
+  storytelling, and fostering dialogue can bridge the gap.
 author: Saeed Mirshekari
 date: 2023-12-15T14:56:58.492Z
 tags:

@@ -1,17 +1,13 @@
 ---
 layout: blog_base.njk
-title: Let's Be Honest. Isn't "Generative AI" Just A Better "Automation"?
+title: Isn't "Generative AI" Just A Better "Automation"?
 description: Generative AI, often hailed as revolutionary, is essentially a form
   of automation, not true creativity. It relies heavily on input data and human
-  oversight. Without constant exposure to diverse ideas, it risks becoming
-  repetitive. Human expertise remains crucial, ensuring its responsible
-  application across various industries.
-meta_title: Let's Be Honest. Isn't "Generative AI" Just A Better "Automation"?
+  oversight.
+meta_title: Isn't "Generative AI" Just A Better "Automation"?
 meta_description: Generative AI, often hailed as revolutionary, is essentially a
   form of automation, not true creativity. It relies heavily on input data and
-  human oversight. Without constant exposure to diverse ideas, it risks becoming
-  repetitive. Human expertise remains crucial, ensuring its responsible
-  application across various industries.
+  human oversight.
 author: Saeed Mirshekari
 date: 2024-04-01T17:10:53.073Z
 tags:

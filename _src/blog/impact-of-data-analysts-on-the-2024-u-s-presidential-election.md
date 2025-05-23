@@ -1,11 +1,11 @@
 ---
 layout: blog_base.njk
-title: Impact of Data Analysts on the 2024 U.S. Presidential Election
+title: Impact of Data Analysts on the U.S. Presidential Election
 description: Data analysts significantly impacted the 2024 U.S. Presidential
   Election by using advanced technologies for targeted strategies, predictive
   models, and real-time responses, highlighting the need for ethical practices
   and transparency.
-meta_title: Impact of Data Analysts on the 2024 U.S. Presidential Election
+meta_title: Impact of Data Analysts on the U.S. Presidential Election
 meta_description: Data analysts significantly impacted the 2024 U.S.
   Presidential Election by using advanced technologies for targeted strategies,
   predictive models, and real-time responses, highlighting the need for ethical

@@ -1,11 +1,11 @@
 ---
 layout: blog_base.njk
-title: "Limnic Eruptions: Statistical Analysis for Prediction and Loss Minimization"
+title: "Limnic Eruptions: Statistical Analysis"
 description: Limnic eruptions, deadly CO2 releases from deep lakes, pose
   catastrophic risks. Statistical analysis and machine learning aid prediction
   and mitigation efforts, enabling early warnings and data-driven strategies for
   minimizing loss.
-meta_title: "Limnic Eruptions: Statistical Analysis for Prediction and Loss Minimization"
+meta_title: "Limnic Eruptions: Statistical Analysis"
 meta_description: Limnic eruptions, deadly CO2 releases from deep lakes, pose
   catastrophic risks. Statistical analysis and machine learning aid prediction
   and mitigation efforts, enabling early warnings and data-driven strategies for

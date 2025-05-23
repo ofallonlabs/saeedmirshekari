@@ -1,12 +1,10 @@
 ---
 layout: blog_base.njk
-title: Is Using Data Science to Influence Election Results Cheating? A Deep Dive
-  into Ethics and Practice
+title: Is Using Data Science to Influence Election Results Cheating
 description: Exploring the ethical dimensions of using data science in
   elections, assessing its potential as a tool for democratic participation
   versus concerns of manipulation.
-meta_title: Is Using Data Science to Influence Election Results Cheating? A Deep
-  Dive into Ethics and Practice
+meta_title: Is Using Data Science to Influence Election Results Cheating
 meta_description: Exploring the ethical dimensions of using data science in
   elections, assessing its potential as a tool for democratic participation
   versus concerns of manipulation.

@@ -1,18 +1,13 @@
 ---
 layout: blog_base.njk
-title: Lessons Learned From The First Data Science Technical Phone Interview
+title: The First Data Science Technical Phone Interview
 description: This blog recounts a firsthand experience of a debut data science
   phone interview, highlighting the significance of mastering fundamentals,
-  clear communication, and industry context. It offers insights on overcoming
-  pitfalls, emphasizing the value of embracing the learning curve, seeking
-  feedback, and continuous improvement for success in future interviews.
-meta_title: Lessons Learned From The First Data Science Technical Phone Interview
+  clear communication, and industry context.
+meta_title: The First Data Science Technical Phone Interview
 meta_description: Explore a debut data science phone interview experience,
   uncovering lessons in mastering fundamentals, clear communication, and
-  industry context. Learn from pitfalls and discover the value of embracing the
-  learning curve, seeking feedback, and continuous improvement for success in
-  future interviews. Explore relevant questions to enhance your data science
-  interview preparation and overall performance.
+  industry context.
 author: Saeed Mirshekari
 date: 2024-01-31T01:40:53.578Z
 tags:

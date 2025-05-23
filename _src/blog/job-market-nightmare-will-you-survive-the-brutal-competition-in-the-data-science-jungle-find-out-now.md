@@ -1,15 +1,13 @@
 ---
 layout: blog_base.njk
-title: "Job Market Nightmare: Will You Survive the Brutal Competition in the
-  Data Science Jungle? Find Out NOW!"
+title: "Will You Survive the Data Science Competition"
 description: Surviving the competitive data science job market requires
   strategic skills. Navigating challenges like entry-level saturation and
   technical interviews demands continuous learning, industry specialization, and
   networking. Building a robust portfolio, emphasizing soft skills, and staying
   resilient are crucial for thriving. Conquer the data science jungle with
   adaptability and a growth mindset for lasting success.
-meta_title: "Job Market Nightmare: Will You Survive the Brutal Competition in
-  the Data Science Jungle? Find Out NOW!"
+meta_title: "Will You Survive the Data Science Competition"
 meta_description: Surviving the competitive data science job market requires
   strategic skills. Navigating challenges like entry-level saturation and
   technical interviews demands continuous learning, industry specialization, and
