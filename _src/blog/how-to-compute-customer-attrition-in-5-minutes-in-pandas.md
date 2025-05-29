@@ -32,13 +32,13 @@ We will show you the details steps in a real example of a data science project, 
 
 Here is a snapshot of the input data for you to see what we are dealing with:
 
-<img src="/assets/img/uploads/input_attr.png" width="100%" />
+<img src="/assets/img/uploads/input_attr.png" width="100%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 ## The Expected Output
 
 It is always nice to have a clear idea of the expected output shape of the data. For computing the Customer Attrition here is what we would expect as the output:
 
-<img src="/assets/img/uploads/output_attr.png" width="80%" />
+<img src="/assets/img/uploads/output_attr.png" width="80%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 ## Data Manipulations
 

@@ -26,7 +26,7 @@ Bank churn, or the loss of customers to other financial institutions, is a signi
 [![web link](https://img.shields.io/badge/slides_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kliang696/Bank_Churn_Prediction/blob/main/slides.pdf)
 
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/payroll-ge74d913c9_1920.jpg" width="100%">
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/payroll-ge74d913c9_1920.jpg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 ## Data Description
 
@@ -63,7 +63,7 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
    target.value_counts().plot.pie(autopct='%.2f',figsize=(6, 5))
    ```
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/databalance.png" width=60%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/databalance.png" width=60% alt="One-on-one Mentorship Data Science and Machine Learning">
 
 - - -
 
@@ -83,7 +83,7 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
 
    * For the categorical data, we convert binary features to 0 and 1. For example, we map `Existing Customer` to 0 and `Attrited Customer` to 1, and so on, and  For ordinal features that can be ordered, we assign values from 0 to 5 based on their order. For example, for card categories, the lowest level is "blue," so we assign it a value of 0, and "silver" is assigned a value of 1, "gold" is assigned a value of 2, and so on. For nominal features, which cannot be ordered, we will use one-hot encoding to transform them into separate columns in the feature engineering phase.
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/Cat.png" width=100%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/Cat.png" width=100% alt="One-on-one Mentorship Data Science and Machine Learning">
 
 - - -
 
@@ -92,7 +92,7 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
    * **Histograms**:
 
    Plot histograms of numerical data to detect outliers. From the histogram below, we did not find major outliers, which suggests that they are unlikely to have a big impact on our model.
-   <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/num.png" width=100%>
+   <img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/num.png" width=100% alt="One-on-one Mentorship Data Science and Machine Learning">
 
    * **Heatmap**:
 
@@ -100,7 +100,7 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
 
    * Heat maps can be helpful to visualize the relationship between two variables, with the strength of the relationship indicated by the intensity of the color.
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/heat1.png" width=100%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/heat1.png" width=100% alt="One-on-one Mentorship Data Science and Machine Learning">
 
 * The top 5 numerical features that correlated with target are:
 
@@ -121,7 +121,7 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
 
      * Since the "marry_status" feature is a nominal variable and cannot be ordered, we will use one-hot encoding to transform it into three separate columns: "is_married," "is_single," and "is_unknown." If a customer is married, the "is_married" column will be set to 1, while the other two columns will be set to 0. 
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/marital.png" width=65%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/marital.png" width=65% alt="One-on-one Mentorship Data Science and Machine Learning">
 
 - - -
 
@@ -142,14 +142,14 @@ One notable aspect of this dataset is that it is slightly imbalanced, with only 
 Random over-sampling is a technique that is used to balance an imbalanced dataset by generating new synthetic samples from the minority class,which can help the model learn more about the minority class and make more accurate predictions. 
 
 <p align="center">
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/ROS.png" w﻿idth=100% > </p>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/ROS.png" width=100%  alt="One-on-one Mentorship Data Science and Machine Learning"> </p>
 
 ## Evaluation Metrics
 
 * In this churn problem, our goal is to minimize the customer who actually left bank but the model fails to detect(FN). This is because a failure to detect a customer who has actually left (FN) can result in the bank losing money, while a false alarm (FP) does not have the same issue. Therefore, we will prioritize **recall** over precision. 
 
 <p align="center">
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/cm.jpeg" width=65%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/cm.jpeg" width=65% alt="One-on-one Mentorship Data Science and Machine Learning">
 </p>
 
 ## Model Performance Evaluation
@@ -157,7 +157,7 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 * For the model performance, we use Recall, F1, PR AUC, ROC AUC as our main metrics. As this is dataset is imbalanced, we will put more emphasize on Recall, F1 and PR because the TN is not being included in the calculation.  
 * The table below shows that the model's performance has significantly improved when using balanced data. The XG Boost classifier outperformed the other two models in this comparison.
 
-<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=100%>
+<img src="https://user-images.githubusercontent.com/89816441/210045716-cad7d973-2656-4852-8d5d-105a82b612c9.png" width=100% alt="One-on-one Mentorship Data Science and Machine Learning">
 
 # Model Optimization: Parameter Tuning
 
@@ -171,11 +171,11 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 * To obtain the best results from hyperparameter tuning, we retrained the XGBoost model using the optimal hyperparameters. We then used 5-fold cross-validation to evaluate the model's performance and took the average of the validation scores as the final measure of the model's performance.
 
-<img src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png" width=100%>
+<img src="https://user-images.githubusercontent.com/89816441/210045875-7d6188df-ef59-4e83-837a-0d11a2dd56c6.png" width=100% alt="One-on-one Mentorship Data Science and Machine Learning">
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png" width=100%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/pr.png" width=100% alt="One-on-one Mentorship Data Science and Machine Learning">
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png" width=100%>
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/roc.png" width=100% alt="One-on-one Mentorship Data Science and Machine Learning">
 
 ## Feature Importance
 
@@ -193,15 +193,15 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
   * Lower values for `Total _Ct_Chng_04_Q1` associated with a higher likelihood of churn. Higher values for `Total _Ct_Chng_04_Q1` associated with a lower likelihood of churn
   * Lower values for `Total_Relationship_Count` associated with a higher likelihood of churn. Higher values for `Total_Relationship_Count` associated with a lower likelihood of churn
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/Shap.png" width="90%">
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/Shap.png" width="90%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
-<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/shap2.png" width="90%">
+<img src="https://github.com/kliang696/Bank_Churn_Prediction/raw/main/Plots/EDA/shap2.png" width="90%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
 ## Business Impact: Dollar Values
 
-<img src="https://user-images.githubusercontent.com/89816441/210699843-f462204d-aeba-4609-b2c1-90b7d9090a2b.png" width="100%">
+<img src="https://user-images.githubusercontent.com/89816441/210699843-f462204d-aeba-4609-b2c1-90b7d9090a2b.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 * This table illustrates the potential savings for the bank using different threshold levels for the model's churn prediction. The column `dollar value 11` represents a correct prediction, where the model accurately predicts that a customer will churn and how much money can be saved totally by retaining the customer. 
 
@@ -212,12 +212,12 @@ Random over-sampling is a technique that is used to balance an imbalanced datase
 
 ## Cloud Deployment
 
-<img src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png" width="90%">
+<img src="https://user-images.githubusercontent.com/89816441/211234068-2fd4f79a-8504-433d-a52e-992f12c9f505.png" width="90%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
 * In this part of the process, we will use the top 5 most influential features identified by `SHAP` values to build a `XG-Boost` model. We will then deploy this model using Python `Flask` to allow for real-time prediction for the new customers. This will enable us to quickly and efficiently make predictions using the model in a live setting.
 
-<img src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png" width="90%">
+<img src="https://user-images.githubusercontent.com/89816441/211236430-2f42b17e-9a03-4181-afdf-f9d300b7d889.png" width="90%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
 ## Conclusion

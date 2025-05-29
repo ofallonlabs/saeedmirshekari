@@ -1,7 +1,6 @@
 ---
 layout: blog_base_ai_mentor.njk
-title: "Saeed's World Through Data: Did The World Sell Lots of Arms to Iraq
-  During the Iran-Iraq War in 80's? Yes, but also to Iran."
+title: "Did The World Sell Lots of Arms to Iraq in 80's?"
 description: "World Through Data Science: One Question at A Time! In these
   series of blogs I'll share my most interesting findings for the most
   interesting questions I have asked. I use Python and pandas to look at
@@ -43,7 +42,7 @@ But this is all only part of a bigger story. The story of arms imports to Iran i
 
 The Shah of Iran, Mohammad Reza Pahlavi, was a key ally of the United States during the Cold War. The United States saw Iran as an important partner in the region, and as a result, they provided significant military aid to the Shah's regime. According to data from the[ Stockholm International Peace Research Institute (SIPRI)](https://www.sipri.org/), Iran was one of the largest arms importers in the world in the 1970s, with the United States being its primary supplier.
 
-<img src="/assets/img/uploads/iran_iraq_arm_import.png" width="100%" />
+<img src="/assets/img/uploads/iran_iraq_arm_import.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 ## The Python Codes
 

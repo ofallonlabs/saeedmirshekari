@@ -30,7 +30,7 @@ The ''annual population growth rate'' (`r`) is the rate at which the number of i
 
 where `N_0` is the living population at the initial time. Population in the world is currently growing at a rate of about `1.14%` per year [2] and the current world's average life expectancy is `67.88` years [3].
 
-<img src="/assets/img/dead-alive.png" width="100%">Figure 1: The estimated size of human population from 10,000 BCE-2000 CE. [3]
+<img src="/assets/img/dead-alive.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">Figure 1: The estimated size of human population from 10,000 BCE-2000 CE. [3]
 
 ## How Many People Are Dead?
 

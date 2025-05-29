@@ -66,7 +66,7 @@ So why wait? Sign up for O'Mentors today and embark on your mentorship journey t
 
 [Sign Up Now](https://olabs.ck.page/waitlist)
 
-<img src="/assets/img/uploads/user_journey_omentors.png" width="100%">
+<img src="/assets/img/uploads/user_journey_omentors.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
 

@@ -24,7 +24,7 @@ In this blog post, I will be giving you a practical guide that shows you how you
 <h2>How to study effectively to become a Data Scientist  </h2> 
 
 <h2>1. Covering the Bases: Coding and Statistics</h2>  
-<img src="/assets/img/uploads/undraw_fatherhood_7i19.png" width="100%">
+<img src="/assets/img/uploads/undraw_fatherhood_7i19.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 Coding and Statistics are the first foundational knowledge you need to acquire to begin a career in Data Science. Programming is the most valuable skill anyone should learn in this digital world today because having the knowledge of coding alone gives you the toolkit to do just anything and this makes you very valuable in the tech space. 
 
@@ -96,7 +96,7 @@ Assignments prompt you to think more deeply about what you are learning and this
 
 <h2>2. Challenge Yourself</h2>  
 
-<img src="/assets/img/uploads/undraw_skateboard_re_we2n.svg" width="100%">
+<img src="/assets/img/uploads/undraw_skateboard_re_we2n.svg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 This point is very crucial in your journey as you study. Changeling yourself fuels you to keep going. It's how you keep yourself excited and motivated in the journey. 
 
@@ -147,7 +147,7 @@ Don't go copying other people's code; instead, try and understand what each line
 The fastest way to learn an unfamiliar concept is to start by doing what someone else has done and then applying that knowledge to your own projects
 
 <h2> 3. Communicate with the Outside World</h2>
-<img src="/assets/img/uploads/undraw_people_re_8spw.svg" width="100%">
+<img src="/assets/img/uploads/undraw_people_re_8spw.svg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 <h3> Join Communities </h3>
 

@@ -32,11 +32,11 @@ Before answering this question, let’s pause for a moment here and think about 
 
 In one of his classes Ram talked about the history of Cosmology and I clearly remember he beautifully pointed out a fundamental difference between the nature of different branches of knowledge. 
 
-<img src="/assets/img/uploads/vertical-ladder-1024x682.png" width="90%">
+<img src="/assets/img/uploads/vertical-ladder-1024x682.png" width="90%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 He used the term “Vertical Ladder” as a metaphor for the branches of knowledge such as Mathematics, Physics, and Biology to some extent. And here is what he meant by that: in order to reach step #10 of the ladder you need to climb from the first step all the way up to step 9. You cannot skip steps when the latter is in a vertical position!
 
-<img src="/assets/img/uploads/horizontal-ladder-1024x682.png " width="65%">
+<img src="/assets/img/uploads/horizontal-ladder-1024x682.png " width="65%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 However, in some other branches of knowledge such as History or Geography you don’t necessarily have to go through step 1 to 9 to reach 10. You can just walk straight to step 10 and you will be just fine. These are examples of the cases that Prof. Cowsik was calling the “Horizontal Ladder” models. You can reach any step of the ladder anytime you want when the ladder is in a horizontal position.
 
@@ -63,7 +63,7 @@ A handyman, however, has got life experiences on things he can do well. He may b
 Would you hire a handyperson or a contractor? It really depends! It depends on what you are trying to achieve, the nature of the work, your future plans and the scope of the project. 
 If you want to get the job done, a contractor might be the best choice. On the other hand, if you are thinking more long term and might need some custom solutions or need to build totally new products then hiring a handyman would make much more sense.
 
-<img src="/assets/img/uploads/worker-ladder.jpg" width="100%">
+<img src="/assets/img/uploads/worker-ladder.jpg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 It is not very different when it comes to hiring for Data Science jobs. A true Data Scientist (handyperson) with his own ladder under his arm ready to climb pretty much anything or a Data Science expert (contractor) who can jump up to the Horizontal Ladder of your data science projects. 
 Which type of Data Scientist would YOU hire?

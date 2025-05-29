@@ -60,14 +60,14 @@ Training an AI model is an iterative process. I performed multiple training iter
 
 Before delving into the visual results, let's briefly touch upon the evaluation metrics used to assess the model's performance. Precision, recall, and mAP are standard metrics in object detection. Precision measures the accuracy of positive predictions, recall gauges the model's ability to capture all relevant instances, and mAP provides a comprehensive assessment of overall performance.
 
-<img src="/assets/img/uploads/model_plots.png" width="100%" />
+<img src="/assets/img/uploads/model_plots.png" width="100%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 ### Visual Results
 
 Now, let's feast our eyes on the model's performance. Below are screenshots showcasing the object detection model in action.
 
-<img src="/assets/img/uploads/dogs_001.png" width="60%" />
-<img src="/assets/img/uploads/dogs_004.png" width="60%" />
+<img src="/assets/img/uploads/dogs_001.png" width="60%" alt="One-on-one Mentorship Data Science and Machine Learning" />
+<img src="/assets/img/uploads/dogs_004.png" width="60%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 In these images, you can observe the bounding boxes drawn around the dog's face, with a specific focus on the regions associated with growling. The model successfully identifies instances of growling with high precision and recall.
 

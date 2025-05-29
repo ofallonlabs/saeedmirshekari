@@ -25,10 +25,10 @@ Health care fraud  is a huge problem in the United States. As the FBI website no
 
 As expected the data is heavily unbalanced with a lot more providers who have not committed fraud than those who did commit fraud by a factor of 9 with 506 out of 5410 providers potentially committing fraud. From the beneficiaries dataset, it is clear and that the most of the beneficiaries were covered for the entire 12 months in an year and a large percentage of them have chronic conditions. Furthermore we can can look at procedure codes and diagnostic codes for the inpatient and outpatient claims and extract the top100 most common codes as features to improve our prediction of fraudulent providers. A word cloud of the diagnosis codes for outpatient claims is shown below.
 
-<img title="Out patient Claim diagnostic codes" alt="Alt text" src="https://github.com/pradlanka/medical-fraud-detection-analysis/blob/main/images/ClaimsDiagnosisOutpatient.png?raw=true" width="100%">
+<img title="Out patient Claim diagnostic codes"  alt="One-on-one Mentorship Data Science and Machine Learning" src="https://github.com/pradlanka/medical-fraud-detection-analysis/blob/main/images/ClaimsDiagnosisOutpatient.png?raw=true" width="100%">
 
 An important feature in prediction of fraudulent providers could be the days of stay at the hospital for inpatient claims which is shown in the figure below.
-<img title="Days spent in Hospital for in patients" alt="Alt text" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/DaysInHospital.png" width="100%">
+<img title="Days spent in Hospital for in patients"  alt="One-on-one Mentorship Data Science and Machine Learning" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/DaysInHospital.png" width="100%">
 
 ## 3. Data cleaning and Preparation
 
@@ -48,8 +48,8 @@ Furthermore we use either grid search or randomized search along with cross-vali
 ## 5. Evaluation
 
 We evaluated the best models with optimal set of hyperparameters  for each classifier tested on the hold-out test data. The ROC curves which plot the false-positive rates and the true-positive rates for several thresholds as well as the precision-recall curves are shown for all the classifiers. Furthermore, the classifiers are evaluated in several metrics including, accuracy, recall, precision, F1-score, AUC for the ROC curve.
-<img title="ROC Curves" alt="Alt text" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/ROCCurve.png" width="100%">
-<img title="Precision-Recall Curves" alt="Alt text" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/PRCurve.png" width="100%">
+<img title="ROC Curves"  alt="One-on-one Mentorship Data Science and Machine Learning" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/ROCCurve.png" width="100%">
+<img title="Precision-Recall Curves"  alt="One-on-one Mentorship Data Science and Machine Learning" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/PRCurve.png" width="100%">
 
 | Classifier          | F1 Score     | Precision    | Recall       | Accuracy     | AUC          |
 | ------------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -65,14 +65,14 @@ From the above performance metrics, it appears that CatBoost provides a good bal
 ## 6. Deployment
 
 Since, the trained CatBoost model has several hundreds of features, we would want to deploy a model with fewer features. The plot below shows the feature importance for the top features. 
-<img title="Top important features scores" alt="Alt text" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/FeatureImportance.png" width="100%">
+<img title="Top important features scores"  alt="One-on-one Mentorship Data Science and Machine Learning" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/FeatureImportance.png" width="100%">
 
 From the plot, it is clear that top 5 features have very high scores. Hence we select the 5 most informative features from CatBoost based on the feature importance and train a new model on those 5 features which we will deploy on Streamlit. 
 The distribution of values for the top 5 features is shown below
-<img title="Top 5 most important features" alt="Alt text" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/Top5Features.png" width="100%">
+<img title="Top 5 most important features"  alt="One-on-one Mentorship Data Science and Machine Learning" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/Top5Features.png" width="100%">
 The ROC Curve and the precision-recall curve for the CatBoost classifier with just the top 5 features is shown below. 
-<img title="PR and ROC curves" alt="Alt text" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/CatBoost5.png" width="100%">
+<img title="PR and ROC curves"  alt="One-on-one Mentorship Data Science and Machine Learning" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/CatBoost5.png" width="100%">
 
 The deployed model is hosted on Streamlit at [Provider-fraud-detection](https://medical-fraud-detection-analysis-pradlanka.streamlit.app) where the user can enter the provider's features  and get a prediction on the whether a provider is potentially fraudulent or not. A screenshot of the App is displayed below 
 
-[<img title="App GUI" alt="Alt text" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/AppGUI.png" width="100%">](https://medical-fraud-detection-analysis-pradlanka.streamlit.app)
+[<img title="App GUI"  alt="One-on-one Mentorship Data Science and Machine Learning" src="https://github.com/pradlanka/medical-fraud-detection-analysis/raw/main/images/AppGUI.png" width="100%">](https://medical-fraud-detection-analysis-pradlanka.streamlit.app)

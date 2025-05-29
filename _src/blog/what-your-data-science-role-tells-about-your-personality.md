@@ -26,7 +26,7 @@ In the intricate tapestry of data science, where algorithms weave patterns and i
 
 ### Role: Data Engineer
 
-<img src="/assets/img/uploads/2b1a2790-879b-4855-bcbe-7319bdd36b96.jpg" width="100%">
+<img src="/assets/img/uploads/2b1a2790-879b-4855-bcbe-7319bdd36b96.jpg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 While the data scientist revels in the artistry of algorithms, the data engineer emerges as the architect of order in the data ecosystem. Their personality is marked by pragmatism and methodical thinking. These individuals are responsible for constructing the foundations that support the data science edifice. Data engineers bring stability and structure to the ever-expanding world of data, much like architects crafting a sturdy building.
 
@@ -40,7 +40,7 @@ While the data scientist revels in the artistry of algorithms, the data engineer
 
 ### Role: Data Scientist
 
-<img src="/assets/img/uploads/hrth.jpg" width="100%">
+<img src="/assets/img/uploads/hrth.jpg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 The data scientist, often dubbed as the artisan of algorithms, possesses a personality that resonates with curiosity and creativity. These individuals are the architects of predictive models, the explorers of data's hidden realms. Their insatiable appetite for unraveling patterns and making sense of complex datasets speaks volumes about their inquisitive nature. The data scientist's personality is akin to that of a detective, always on the hunt for the story that numbers and patterns have to tell.
 
@@ -54,7 +54,7 @@ The data scientist, often dubbed as the artisan of algorithms, possesses a perso
 
 ### Role: Data Analyst
 
-<img src="/assets/img/uploads/5bfa0851-82c5-4dab-9af2-bdcf034bc730.jpg"  width="100%">
+<img src="/assets/img/uploads/5bfa0851-82c5-4dab-9af2-bdcf034bc730.jpg"  width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 Amidst the intricate dance of algorithms and the strategic orchestration of data initiatives, the data analyst emerges as the precision artist. Their role is marked by a meticulous examination of data, uncovering actionable insights that drive decision-making. The personality of a data analyst is characterized by attention to detail, a love for data storytelling, and a commitment to transforming raw data into valuable nuggets of information.
 
@@ -68,7 +68,7 @@ Amidst the intricate dance of algorithms and the strategic orchestration of data
 
 ### Role: Data Science Lead
 
-<img src="/assets/img/uploads/output2.jpg" width="100%">
+<img src="/assets/img/uploads/output2.jpg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 As we ascend the hierarchy, the role of a data science lead comes into focus. These individuals are the strategic navigators, steering the ship of data science initiatives towards the shores of organizational goals. The data science lead's personality is marked by a blend of analytical acumen and strategic thinking. They are not just interpreters of data; they are architects of data strategies.
 
@@ -82,7 +82,7 @@ As we ascend the hierarchy, the role of a data science lead comes into focus. Th
 
 ### Role: Data Science Manager
 
-<img src="/assets/img/uploads/output44.jpg" width="100%">
+<img src="/assets/img/uploads/output44.jpg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 At the pinnacle of the data science hierarchy sits the data science manager, the orchestrator of the entire data symphony. Their personality encompasses a diverse set of skills, balancing technical expertise with managerial finesse. Data science managers bridge the worlds of technology and business, translating data insights into actionable strategies. Their personality is a harmonious blend of leadership, adaptability, and a deep understanding of the ever-changing landscape of data science.
 
