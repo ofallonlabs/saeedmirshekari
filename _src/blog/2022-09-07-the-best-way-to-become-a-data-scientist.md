@@ -44,6 +44,6 @@ And when it’s time for you to enter the field, they will give you tips, advice
 
 So take part in a 1-on-1 data science mentoring session with O’Fallon Labs NOW and reach your dreams without breaking the bank!
 
-<img src="/assets/img/uploads/solution_table.png" width="100%">
+<img src="/assets/img/uploads/solution_table.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 <br>

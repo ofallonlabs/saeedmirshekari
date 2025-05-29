@@ -73,7 +73,7 @@ In random oversampling, random instances from the minority class are duplicated 
 
 ### 2. SMOTE (Synthetic Minority Over-sampling Technique)
 
-<img src="/assets/img/uploads/smote_animation.gif" width="80%">
+<img src="/assets/img/uploads/smote_animation.gif" width="80%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 SMOTE is a more sophisticated approach that generates synthetic samples for the minority class. It works by selecting a data point from the minority class and creating synthetic samples by interpolating between it and its nearest neighbors. This method addresses the overfitting issue of random oversampling.
 

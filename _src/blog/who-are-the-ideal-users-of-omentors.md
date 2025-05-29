@@ -31,7 +31,7 @@ At Omentors, we understand the unique challenges that recent graduates face as t
 
 ## Who We Can Help
 
-<img src="/assets/img/uploads/can_we_help_u.png" width="100%">
+<img src="/assets/img/uploads/can_we_help_u.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
 

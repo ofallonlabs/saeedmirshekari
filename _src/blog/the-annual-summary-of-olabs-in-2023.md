@@ -22,7 +22,7 @@ Here is a quick summary of O'Labs in 2023:
 
 Thank you for being with me in this journey this year!
 
-<img src="/assets/img/uploads/growth_2023.png" width="100%">
-<img src="/assets/img/uploads/map_2023_3.png" width="100%">
+<img src="/assets/img/uploads/growth_2023.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
+<img src="/assets/img/uploads/map_2023_3.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 Happy holidays!

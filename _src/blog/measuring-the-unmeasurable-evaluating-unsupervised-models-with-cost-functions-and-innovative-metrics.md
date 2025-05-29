@@ -75,7 +75,7 @@ Let's explore these innovative evaluation techniques and metrics that can help u
 
 ### Silhouette Score
 
-<img src="/assets/img/uploads/silhouette-coefficient-example.png" width="100%">
+<img src="/assets/img/uploads/silhouette-coefficient-example.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 The Silhouette Score measures the similarity of each data point to its own cluster compared to other clusters. It ranges from -1 to 1, where a higher value indicates better-defined clusters.
 

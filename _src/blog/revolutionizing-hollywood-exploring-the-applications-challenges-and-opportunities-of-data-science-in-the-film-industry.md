@@ -1,7 +1,6 @@
 ---
 layout: blog_base.njk
-title: "Revolutionizing Hollywood: Exploring the Applications, Challenges, and
-  Opportunities of Data Science in the Film Industry"
+title: "Data Science in the Hollywood Movie Industry"
 description: This research explores how data science is reshaping Hollywood,
   from predicting box office success and enhancing storytelling to personalized
   marketing and immersive experiences. Challenges include data privacy concerns

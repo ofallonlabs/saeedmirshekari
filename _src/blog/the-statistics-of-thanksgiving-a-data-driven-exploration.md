@@ -35,13 +35,13 @@ Thanksgiving is synonymous with travel, as families crisscross the country to co
 
 ### 2.1 Flight Bookings: The Sky's the Limit
 
-<img src="/assets/img/uploads/thanksgiving-flight-patterns-by-new-york-times-316522350.png" width="100%" />
+<img src="/assets/img/uploads/thanksgiving-flight-patterns-by-new-york-times-316522350.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 This plot shows the common flying paths between the cities across the united states in Thanksgiving holidays.
 
 ### 2.2 Road Trips: Journeying Across the States
 
-<img src="/assets/img/uploads/roadtripusa-11-cross-country-road-trip-routes-1024x690-3972767465.png" width="100%" />
+<img src="/assets/img/uploads/roadtripusa-11-cross-country-road-trip-routes-1024x690-3972767465.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 This plot shows the most popular road trip routes during the Thanksgiving holiday, along with key points of interest. 
 
@@ -51,7 +51,7 @@ While Thanksgiving is steeped in tradition, it also serves as the kickoff for th
 
 ### 3.1 Black Friday Sales: A Shopper's Delight
 
-<img src="/assets/img/uploads/th-3213448650" width="100%" />
+<img src="/assets/img/uploads/th-3213448650" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 ## 4. Social Media and Thanksgiving: #Grateful
 
@@ -59,7 +59,7 @@ In the age of social media, holidays are shared and celebrated online. Analyzing
 
 ### 4.1 Hashtag Popularity: Trending Thanks
 
-<img src="/assets/img/uploads/choosing-thanksgiving-hashtags-633614708.jpg" width="100%" />
+<img src="/assets/img/uploads/choosing-thanksgiving-hashtags-633614708.jpg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 ## 5. Regional Variations: A Tapestry of Traditions
 
@@ -67,7 +67,7 @@ Thanksgiving traditions vary across regions. Analyzing regional data unveils uni
 
 ### 5.1 Regional Thanksgiving Customs: Diverse Celebrations
 
-<img src="/assets/img/uploads/d24d3784f8b5a71cec1121bdc598aa0f-186069441.png" width="100%" />
+<img src="/assets/img/uploads/d24d3784f8b5a71cec1121bdc598aa0f-186069441.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 ## 6. Environmental Impact: Beyond the Table
 
@@ -75,7 +75,7 @@ The environmental impact of Thanksgiving is a growing concern. Analyzing data re
 
 ### 6.1 Food Waste Statistics: Nourishing the Earth
 
-<img src="/assets/img/uploads/c04795f40848e585fdd10a2569329569-2609048131.png" width="100%" />
+<img src="/assets/img/uploads/c04795f40848e585fdd10a2569329569-2609048131.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 The amount of food waste generated during the Thanksgiving holiday, emphasizing the need for sustainable practices is huge.
 

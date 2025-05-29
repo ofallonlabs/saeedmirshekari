@@ -67,7 +67,7 @@ Then we asked this question: How deadly was the pandemic in each country over ti
 
 Check out the result plot below. From this plot it looks like the most critical period of the pandemic has been the first 100 days in which the mortality rate reached to its peak! After 200 days the mortality rate drops and becomes stable from that point.
 
-<img src="/assets/img/uploads/mortality_rate.png" width="100%" />
+<img src="/assets/img/uploads/mortality_rate.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 I﻿n some countries the mortality rate have reached beyond 20% very quickly. That means from every 100 confirmed cases more than 20 people were dying because of the virus at the earlier stages of the pandemic.
 
@@ -80,11 +80,11 @@ T﻿he second question I wanted to answer through this data was: How badly each 
 
 T﻿o help you imagine the size of the crowd of 22,000 people, here is a photo of the CityPark stadium in St. Louis:
 
-<img src="/assets/img/uploads/citypark.png" width="100%" />
+<img src="/assets/img/uploads/citypark.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 N﻿ow let see if we monitor a sample of people with the same size of the City Park stadium in each country, how many we have lost over time? The results shows US and UK have lost pretty significantly and China's numbers are unbelievably low when you take the populations into the account.
 
-<img src="/assets/img/uploads/death_per_capita.png" width="100%" />
+<img src="/assets/img/uploads/death_per_capita.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 B﻿elow you can find the full code for creating the plots above.
 
