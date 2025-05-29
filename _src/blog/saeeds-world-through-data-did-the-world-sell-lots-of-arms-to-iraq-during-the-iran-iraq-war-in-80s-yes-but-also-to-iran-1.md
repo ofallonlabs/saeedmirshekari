@@ -1,7 +1,6 @@
 ---
 layout: blog_base_ai_mentor.njk
-title: "Saeed's World Through Data: Did The World Sell Lots of Arms to Iraq
-  During the Iran-Iraq War in 80's? Yes, but also to Iran."
+title: "Did The World Sell Lots of Arms to Iraq in 80's?"
 description: "World Through Data Science: One Question at A Time! In these
   series of blogs I'll share my most interesting findings for the most
   interesting questions I have asked. I use Python and pandas to look at
