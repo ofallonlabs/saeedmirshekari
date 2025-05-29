@@ -98,7 +98,7 @@ Now that we've grasped the concept of cost functions, let's explore performance 
 
 ## Performance Metrics for Regression
 
-<img src="/assets/img/uploads/rmse.gif" width="100%">
+<img src="/assets/img/uploads/rmse.gif" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 Assessing the performance of a regression model involves more than just looking at the cost function. A variety of performance metrics help us interpret the model's predictions effectively. Let's delve into these metrics:
 

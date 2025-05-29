@@ -33,7 +33,7 @@ Feel free to browse the repository, explore the various datasets and code script
 
 This project has completed as a part of a mentoring program in O'Fallon Labs.
 
-<img src="https://cdn.shopify.com/s/files/1/0902/2046/products/NYC-Rowhouses-final-2000px-w_1200x1200.jpg?v=1661202266" width="100%" />
+<img src="https://cdn.shopify.com/s/files/1/0902/2046/products/NYC-Rowhouses-final-2000px-w_1200x1200.jpg?v=1661202266" width="100%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 
 <h2> NYC Housing Price Prediction & Streamlit App </h2>
@@ -54,14 +54,14 @@ Heads up: This model is based on 2021 and current year predictions require retra
 <h2> Model and Evaluation</h2>
 The best Model with the lowest was CatBoost with `RMSE: 92593.91` and `R2: 0.84`.  
 
-<img src="https://user-images.githubusercontent.com/70281148/236565968-bcb5a7e7-cbc5-43d6-a4a4-ec10418fe4ed.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/70281148/236565968-bcb5a7e7-cbc5-43d6-a4a4-ec10418fe4ed.png" width="100%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 
 <h2> Shap Values and Feature Importance </h2>
 
-<img src="https://user-images.githubusercontent.com/70281148/236566746-0abd4f03-0a57-4968-b837-7f8c017276f6.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/70281148/236566746-0abd4f03-0a57-4968-b837-7f8c017276f6.png" width="100%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
-<img src="https://user-images.githubusercontent.com/70281148/236566744-80e41452-23c2-460d-898e-f94b4ef90d55.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/70281148/236566744-80e41452-23c2-460d-898e-f94b4ef90d55.png" width="100%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 
 <h2> App </h2>

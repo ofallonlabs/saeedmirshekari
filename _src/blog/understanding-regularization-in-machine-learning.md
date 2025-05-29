@@ -38,7 +38,7 @@ L1 regularization adds a penalty proportional to the sum of the absolute values 
 
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{Lasso}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j|" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{Lasso}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j|"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 
 
@@ -53,7 +53,7 @@ where \( ![\Large \lambda](https://latex.codecogs.com/svg.latex?\Large&space;\la
 
 L2 regularization adds a penalty proportional to the sum of the squares of the coefficients to the loss function. For linear regression, the objective function with L2 regularization (Ridge) is:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{Ridge}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} \beta_j^2" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{Ridge}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} \beta_j^2"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 
 
@@ -67,7 +67,7 @@ where \( ![\Large \lambda](https://latex.codecogs.com/svg.latex?\Large&space;\la
 
 Elastic Net regularization combines both L1 and L2 penalties in the loss function:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{ElasticNet}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda_1 \sum_{j=1}^{p} |\beta_j| + \lambda_2 \sum_{j=1}^{p} \beta_j^2" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\text{Loss}_{\text{ElasticNet}} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda_1 \sum_{j=1}^{p} |\beta_j| + \lambda_2 \sum_{j=1}^{p} \beta_j^2"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 
 

@@ -45,11 +45,11 @@ Several methods can be used to scale features, each with its specific use cases 
 
 Min-max scaling, also known as normalization, transforms features to a fixed range, typically [0, 1]. This is done using the formula:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;X' = \frac{X - X_{min}}{X_{max} - X_{min}}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;X' = \frac{X - X_{min}}{X_{max} - X_{min}}" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 
 
-where \( X' \) is the scaled feature, \( X \) is the original feature, \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;X_{min}" /> \) is the minimum value of the feature, and \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;X_{max}" /> \) is the maximum value of the feature.
+where \( X' \) is the scaled feature, \( X \) is the original feature, \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;X_{min}" alt="One-on-one Mentorship Data Science and Machine Learning" /> \) is the minimum value of the feature, and \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;X_{max}"  alt="One-on-one Mentorship Data Science and Machine Learning"/> \) is the maximum value of the feature.
 
 #### Advantages
 - Preserves the relationships between features.
@@ -62,10 +62,10 @@ where \( X' \) is the scaled feature, \( X \) is the original feature, \( <img s
 
 Standardization transforms features to have a mean of 0 and a standard deviation of 1. This is done using the formula:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;X' = \frac{X - \mu}{\sigma}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;X' = \frac{X - \mu}{\sigma}"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 
-where \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mu" /> \) is the mean of the feature and \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma " />\) is the standard deviation.
+where \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mu"  alt="One-on-one Mentorship Data Science and Machine Learning"/> \) is the mean of the feature and \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma "  alt="One-on-one Mentorship Data Science and Machine Learning"/>\) is the standard deviation.
 
 #### Advantages
 - Makes features have comparable scales while preserving differences in distribution.
@@ -78,7 +78,7 @@ where \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mu" /> \) 
 
 Robust scaling uses the median and the interquartile range (IQR) for scaling. The formula is:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;X' = \frac{X - \text{median}}{\text{IQR}}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;X' = \frac{X - \text{median}}{\text{IQR}}"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 
 
@@ -94,9 +94,9 @@ where IQR is the difference between the 75th and 25th percentiles.
 
 MaxAbs scaling scales each feature by its maximum absolute value, transforming the data within the range [-1, 1]. The formula is:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;X' = \frac{X}{|X_{max}|}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;X' = \frac{X}{|X_{max}|}"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
-where \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;|X_{max}|" /> is the maximum absolute value of the feature.
+where \( <img src="https://latex.codecogs.com/svg.latex?\Large&space;|X_{max}|"  alt="One-on-one Mentorship Data Science and Machine Learning"/> is the maximum absolute value of the feature.
 
 #### Advantages
 - Preserves sparsity in sparse datasets.

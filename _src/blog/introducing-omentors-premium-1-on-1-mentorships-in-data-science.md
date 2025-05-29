@@ -35,7 +35,7 @@ O'Mentors is more than just a platform; it's a gateway to unparalleled mentorshi
 3. **Connect with Mentors**: Explore our curated list of top-quality mentors, each with a wealth of experience and expertise in data science. Whether you're interested in machine learning, data visualization, or any other aspect of the field, you'll find mentors who can guide you on your path.
 4. **Book Your First 1-on-1 Meeting**: Once you've found the perfect mentor, schedule your first one-on-one meeting directly through our platform. Engage in insightful discussions, receive personalized guidance, and accelerate your learning journey like never before.
 
-<img src="/assets/img/uploads/user_journey_omentors.png" width="100%">
+<img src="/assets/img/uploads/user_journey_omentors.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 **Join Us in Shaping the Future of O'Mentors**
 

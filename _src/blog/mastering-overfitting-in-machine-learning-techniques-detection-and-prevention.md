@@ -42,7 +42,7 @@ At its core, overfitting is an issue that arises when a machine learning model c
 
 Let's illustrate this concept with an example. Imagine you're building a model to predict the price of houses based on their square footage. You collect data on various houses, fit a model to it, and achieve great results. However, if your model is too complex, it might start capturing peculiarities specific to your training data, such as a single house with an unusually low price due to unique circumstances. This would make your model less useful when you try to predict house prices for a different dataset.
 
-<img src="/assets/img/uploads/overfitting1.jpg" width="100%">
+<img src="/assets/img/uploads/overfitting1.jpg" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 To visualize overfitting, let's create a simple polynomial regression example:
 

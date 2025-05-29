@@ -158,7 +158,7 @@ The F1-Score is particularly useful when you want a single metric that captures 
 
 ### ROC Curve and AUC
 
-<img src="/assets/img/uploads/roc_cutoff-1.gif" width="80%">
+<img src="/assets/img/uploads/roc_cutoff-1.gif" width="80%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 The Receiver Operating Characteristic (ROC) curve is a graphical representation of a classifier's performance across different thresholds. It plots the true positive rate (recall) against the false positive rate as the decision threshold varies.
 
