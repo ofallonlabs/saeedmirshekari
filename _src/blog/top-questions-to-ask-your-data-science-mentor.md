@@ -35,7 +35,7 @@ As a data scientist, you may have technical questions that are specific to your 
 * How do I learn these tools and techniques?
 * What are the most important things I should know about my industry?
 
-<a href="https:\\www.omentors.com"><img src="/assets/img/gifs/omentors-animation.gif" width="100%"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
+<a href="https:\\www.omentors.com"><img src="/assets/img/gifs/omentors-animation.gif" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
 </a>
 
 ## Industry

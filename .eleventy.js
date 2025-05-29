@@ -3,6 +3,16 @@ const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
 
+    // Add a filter to format dates
+    eleventyConfig.addFilter("truncate", (str, length, useWordBoundary, ending = "...")=> {
+        if (!str) return "";
+        if (str.length <= length) return str;
+        const subString = str.substr(0, length - ending.length);
+        return useWordBoundary
+        ? subString.substr(0, subString.lastIndexOf(" ")) + ending
+        : subString + ending;
+    });
+
     // Adding the custom filter
     eleventyConfig.addFilter("dateFull", (dateObj) => {
         return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toLocaleString(DateTime.DATE_FULL);

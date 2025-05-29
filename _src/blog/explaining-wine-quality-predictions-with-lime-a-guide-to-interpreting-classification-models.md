@@ -36,7 +36,7 @@ Lime (Local Interpretable Model-Agnostic Explanations) is a popular library used
 
 To demonstrate the use of Lime, we need a wine quality dataset. We'll start by obtaining a dataset that includes various characteristics of wines, such as acidity, pH level, alcohol content, and more. It should also include a quality rating for each wine. This dataset will serve as the foundation for training our classification model.
 
-<img src="/assets/img/quality_dist.png" width="50%" />
+<img src="/assets/img/quality_dist.png" width="50%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 <h2>3. Building and Training the Classification Model </h2>
 
@@ -56,8 +56,8 @@ Lime provides visualizations that make it easier to interpret the explanations. 
 
 H﻿ere are just two examples for you from "Good" wines and why Lime thinks the model have labeled them as "Good". The reasons make sense to me! :)
 
-<img src="/assets/img/wine_example1.png" width="100%" />
-<img src="/assets/img/wine_example2.png" width="100%" />
+<img src="/assets/img/wine_example1.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
+<img src="/assets/img/wine_example2.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning" />
 
 <h2>6. Interpreting and Validating the Explanations </h2> 
 Interpreting Lime explanations requires careful analysis and validation. It's important to consider the context and domain knowledge to ensure the explanations align with our expectations. Additionally, we can validate the explanations by comparing them with our own understanding of wine quality and expert opinions.

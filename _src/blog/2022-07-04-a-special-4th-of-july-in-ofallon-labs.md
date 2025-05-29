@@ -31,9 +31,9 @@ Today I’m writing here to share these happy moments with all of you in O'Fallo
 As you can see from the attached pictures (almost 40 years apart) you may lose lots of hair along the way to live your dreams, but it is not impossible. Do your best and have a great Monday!
 
 <p float="left">
-  <img src="/assets/img/uploads/1985.png" width="47%" />
-  <img src="/assets/img/uploads/003.png" width="47%" /> 
-  <img src="/assets/img/uploads/007.jpg" width="47%" />
-  <img src="/assets/img/uploads/004.jpg" width="47%" />
-  <img src="/assets/img/uploads/002.jpg" width="47%" />
+  <img src="/assets/img/uploads/1985.png" width="47%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
+  <img src="/assets/img/uploads/003.png" width="47%"  alt="One-on-one Mentorship Data Science and Machine Learning"/> 
+  <img src="/assets/img/uploads/007.jpg" width="47%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
+  <img src="/assets/img/uploads/004.jpg" width="47%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
+  <img src="/assets/img/uploads/002.jpg" width="47%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 </p>

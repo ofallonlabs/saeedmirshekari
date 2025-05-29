@@ -16,7 +16,13 @@
   {% set pageTitle = title%}
 {% endif %}
   
-<title>{{ pageTitle }}</title>
+<title>
+{% if title.size < 10 %}
+  {{ pageTitle }} –  | O'Mentors Blog for Data Science Mentoring
+{% else %}
+  {{ pageTitle }}
+{% endif %}
+</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N4WBFLP0G4"></script>
@@ -27,6 +33,14 @@
 
   gtag('config', 'G-N4WBFLP0G4');
 </script>
+
+ <!-- SEO -->
+  <meta name="description" content="{{ description | truncate(160, true, '...') }}"/>
+
+  <meta name="author" content="{{author}}"/> 
+  <meta name="image" content={{thumbnail}}/>
+  <meta name="title" content="{{title}}"/>
+  <meta name="robots" content="index, follow"/>
 
   <meta charset="UTF-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>

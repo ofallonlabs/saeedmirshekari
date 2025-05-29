@@ -35,7 +35,7 @@ In this article, we will explore each one of these roles, what they do in organi
 
 <h2>Different Shades of Data Science</h2>
 
-<img src="/assets/img/uploads/4shades.png" width="100%" />
+<img src="/assets/img/uploads/4shades.png" width="100%"  alt="One-on-one Mentorship Data Science and Machine Learning"/>
 
 <h2> 1. D﻿ata Engineer </h2> 
 

@@ -1,13 +1,13 @@
 ---
 layout: blog_base_michael.njk
-title: A Fraud Detection Model for Car Insurance Claims
-description: Fraud detection for car insurance claims using ML models to analyze
+title: "A Fraud Detection Model for Car Insurance Claims"
+description: "Fraud detection for car insurance claims using ML models to analyze
   claim patterns, reducing fraud and ensuring accurate, efficient claim
-  processing.
-meta_title: A Fraud Detection Model for Car Insurance Claims
-meta_description: Fraud detection for car insurance claims using ML models to
+  processing."
+meta_title: "A Fraud Detection Model for Car Insurance Claims"
+meta_description: "Fraud detection for car insurance claims using ML models to
   analyze claim patterns, reducing fraud and ensuring accurate, efficient claim
-  processing.
+  processing."
 author: Michael Hirschberger
 date: 2024-09-19T16:19:01.773Z
 tags:
@@ -35,11 +35,11 @@ Y﻿ou can find a copy of my Python scripts for this project in [This GitHub Rep
 
 To begin, exploratory data analysis was performed to identify relationships in the data and to ascertain correlations between features and the incidence of fraud. Three relationships in particular demonstrated a clear relationship:
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-1.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-1.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-2.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-2.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
 ## Data Cleansing
@@ -52,13 +52,13 @@ Next, data cleansing was performed to prepare the data for modeling. In order to
 
 The first type of model performed was Logistic Regression. The best performing ROC and PR curves for this model were as follows:
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-23.png" width="100%">
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-24.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-23.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-24.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
 The ROC AUC of 0.80 indicates decent performance of the model, but there is still room for improvement. The PR AUC of 0.156 indicates poor recall.
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-25.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-25.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 The feature importance bar chart shown above indicates that `Fault_ThirdParty` and `Fault_PolicyHolder` were the two features that were the largest predictors of fraud in the model.
 
@@ -66,12 +66,12 @@ The feature importance bar chart shown above indicates that `Fault_ThirdParty` a
 
 The Random Forest model was performed next. The results were as follows:
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-14.png" width="100%">
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-15.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-14.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-15.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
  ﻿
 The ROC AUC of 0.85 indicates strong performance of the model, but there is still room for improvement. The PR AUC of 0.269 shows an improvement in recall over Logistic Regression. Overall, Random Forest performed better than Logistic Regression in this analysis.
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-16.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-16.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 In contrast to Logistic Regression, `PolicyNumber` was seen to be the most important feature when using the Random Forest model.
 
@@ -79,13 +79,13 @@ In contrast to Logistic Regression, `PolicyNumber` was seen to be the most impor
 
 CatBoost is a framework that can solve for categorical features. The results for the best performing model were as follows: 
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-17.png" width="100%">
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-18.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-17.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-18.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
 These results showed significant improvement from the first two models, both in the ROC Curve and the PR Curve.
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-19.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-19.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 Like Random Forest, `PolicyNumber` was seen to be the most important feature when running the model using CatBoost. 
 
@@ -93,11 +93,11 @@ Like Random Forest, `PolicyNumber` was seen to be the most important feature whe
 
 XGBoost showed results similar to CatBoost. However, the most important features for XGBoost were `Fault_Third Party`and `Fault_Policy Holder`:
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-20.png" width="100%">
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-21.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-20.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-21.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
-<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-22.png" width="100%">
+<img src="https://raw.githubusercontent.com/MHirschberger/car-insurance-fraud-detection/refs/heads/main/image-22.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 
 
 
