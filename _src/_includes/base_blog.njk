@@ -16,7 +16,13 @@
   {% set pageTitle = title%}
 {% endif %}
   
-<title>{{ pageTitle }}</title>
+<title>
+{% if title.size < 10 %}
+  {{ pageTitle }} –  | O'Mentors Blog for Data Science Mentoring
+{% else %}
+  {{ pageTitle }}
+{% endif %}
+</title>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N4WBFLP0G4"></script>
@@ -29,7 +35,7 @@
 </script>
 
  <!-- SEO -->
-  <meta name="description" content="{% if pagination.pageNumber > 0 %}Page {{ pagination.pageNumber | plus: 1 }} – {{ description }}{% else %}{{ description }}{% endif %}">
+  <meta name="description" content="{{ description | truncate(160, true, '...') }}"/>
 
   <meta name="author" content="{{author}}"/> 
   <meta name="image" content={{thumbnail}}/>
