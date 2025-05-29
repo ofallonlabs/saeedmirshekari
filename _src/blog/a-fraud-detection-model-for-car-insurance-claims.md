@@ -1,13 +1,13 @@
 ---
 layout: blog_base_michael.njk
-title: A Fraud Detection Model for Car Insurance Claims
-description: Fraud detection for car insurance claims using ML models to analyze
+title: "A Fraud Detection Model for Car Insurance Claims"
+description: "Fraud detection for car insurance claims using ML models to analyze
   claim patterns, reducing fraud and ensuring accurate, efficient claim
-  processing.
-meta_title: A Fraud Detection Model for Car Insurance Claims
-meta_description: Fraud detection for car insurance claims using ML models to
+  processing."
+meta_title: "A Fraud Detection Model for Car Insurance Claims"
+meta_description: "Fraud detection for car insurance claims using ML models to
   analyze claim patterns, reducing fraud and ensuring accurate, efficient claim
-  processing.
+  processing."
 author: Michael Hirschberger
 date: 2024-09-19T16:19:01.773Z
 tags:

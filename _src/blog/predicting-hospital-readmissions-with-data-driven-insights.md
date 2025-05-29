@@ -1,19 +1,19 @@
 ---
 layout: blog_base_mady.njk
-title: Predicting Hospital Readmissions with Data-Driven Insights
-description: This project aims to predict 30-day hospital readmissions using
+title: "Predicting Hospital Readmissions with Data-Driven Insights"
+description: "This project aims to predict 30-day hospital readmissions using
   models like LightGBM, achieving an Average Precision of 15.7%. Key predictors
   include the number of previous visits, diagnoses, and length of hospital stay.
   Despite class imbalance and the complexity of readmissions, the analysis
   offers insights to improve patient care by targeting high-risk individuals
-  based on key features.
-meta_title: Predicting Hospital Readmissions with Data-Driven Insights
-meta_description: This project aims to predict 30-day hospital readmissions
+  based on key features."
+meta_title: "Predicting Hospital Readmissions with Data-Driven Insights"
+meta_description: "This project aims to predict 30-day hospital readmissions
   using models like LightGBM, achieving an Average Precision of 15.7%. Key
   predictors include the number of previous visits, diagnoses, and length of
   hospital stay. Despite class imbalance and the complexity of readmissions, the
   analysis offers insights to improve patient care by targeting high-risk
-  individuals based on key features.
+  individuals based on key features."
 author: Madoka Hazemi
 date: 2024-10-20T17:26:55.668Z
 tags:
@@ -91,7 +91,7 @@ Key features include:
 
 Correlation between numerical features:
 
-<img src="https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/EDA_Heatmap.png?raw=true" width="100%">
+<img src="https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/EDA_Heatmap.png?raw=true" width="100%" alt = "predicting hospital readmission">
 
 Top 3 models (with hypertuned parameters):
 
@@ -103,11 +103,11 @@ Top 3 models (with hypertuned parameters):
 
 Model evaluation (Confusion matrix, ROC-Curve and PR-Curve of LightGBM classifier):
 
-<img src="https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/LightGBM_evaluation.png?raw=true" width="100%">
+<img src="https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/LightGBM_evaluation.png?raw=true" width="100%" alt="predicting hospital readmission">
 
 Feature importance:
 
-<img src="https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/LightGBM_FeatureImportance.png?raw=true" width="100%">
+<img src="https://github.com/madokahazemi/diabetes-readmission-prediction/blob/main/assets/LightGBM_FeatureImportance.png?raw=true" width="100%" alt="predicting hospital readmission">
 
 - **The final model used for this project: LightGBM**
 - **Metrics used: Average Precision**
