@@ -29,7 +29,8 @@
 </script>
 
  <!-- SEO -->
-  <meta name="description" content="{{description}}"/>
+  <meta name="description" content="{% if pagination.pageNumber > 0 %}Page {{ pagination.pageNumber | plus: 1 }} – {{ description }}{% else %}{{ description }}{% endif %}">
+
   <meta name="author" content="{{author}}"/> 
   <meta name="image" content={{thumbnail}}/>
   <meta name="title" content="{{title}}"/>
