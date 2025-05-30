@@ -30,7 +30,7 @@ pageDescription
 
 {# SEO optimization: append brand if short, truncate if long #}
 {% if pageTitle|length < 40 %}
-  {% set pageTitle = pageTitle ~ " – Best Data Science Mentors" %}
+  {% set pageTitle = pageTitle ~ " – Best Mentors" %}
 {% elseif pageTitle|length > 60 %}
   {% set pageTitle = pageTitle|truncate(60, true, '...') %}
 {% endif %}
