@@ -37,7 +37,7 @@ The data science and machine learning fields are highly competitive. So, a gener
 
 A crisp and direct resume highlighting your skill set will differentiate you from the rest. Use specific information and measurable results to woo the hiring managers and demonstrate your skills. 
 
-We recommend that you get your resume reviewed by a [professional](https://saeedmirshekari.com/) in the data science field. A [Data Science mentor](https://saeedmirshekari.com/team/) will help you correct your resume and make it stand out from others, increasing your chances of scoring data science roles. 
+We recommend that you get your resume reviewed by a [professional](https://saeedmirshekari.com/) in the data science field. A [career mentor](https://omentors.com/mentors/) will help you correct your resume and make it stand out from others, increasing your chances of scoring data science roles. 
 
 <h3>2. ATS Rejecting You</h3>
 
