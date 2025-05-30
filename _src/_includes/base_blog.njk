@@ -8,21 +8,24 @@
 <head style="font-family: 'Helvetica', 'Arial', sans-serif;">
 
 
-{# Set the page title based on pagination #}
-{# If pagination is defined and pageNumber is greater than -1, append the page number to the title #}
+{# Base pageTitle is the original title #}
+{% set pageTitle = title %}
+
+{# If pagination is defined and pageNumber > -1, append page number #}
 {% if pagination and pagination.pageNumber > -1 %}
-  {% set pageTitle = title ~ " Page " ~ (pagination.pageNumber)%}
-{% else %}
-  {% set pageTitle = title%}
+  {% set pageTitle = pageTitle ~ " Page " ~ pagination.pageNumber %}
 {% endif %}
-  
-<title>
-{% if title.size < 10 %}
-  {{ pageTitle }} –  | O'Mentors Blog for Data Science Mentoring
-{% else %}
-  {{ pageTitle }}
+
+{# SEO optimization: append brand if short, truncate if long #}
+{% if pageTitle|length < 40 %}
+  {% set pageTitle = pageTitle ~ " – Premium 1-on-1 Data Science Mentoring" %}
+{% elseif pageTitle|length > 60 %}
+  {% set pageTitle = pageTitle|truncate(60, true, '...') %}
 {% endif %}
-</title>
+
+<title>{{ pageTitle }}</title>
+
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N4WBFLP0G4"></script>
