@@ -58,7 +58,7 @@ It's also important to join relevant groups and participate in discussions. This
 
 <h2>Utilize Mentorship Programs</h2>
 
-[Mentorship programs](https://saeedmirshekari.com/services/) can also be a valuable resource for building your network in data science. Mentorship programs provide an opportunity to learn from experienced professionals, gain insights into the industry, and receive guidance and support in your career.
+[Data Science mentorship programs](https://saeedmirshekari.com/services/) can also be a valuable resource for building your network in data science. Mentorship programs provide an opportunity to learn from experienced professionals, gain insights into the industry, and receive guidance and support in your career.
 
 Many universities and professional organizations offer mentorship programs for data science professionals. It's also possible to find mentorship opportunities through online communities and social media.
 

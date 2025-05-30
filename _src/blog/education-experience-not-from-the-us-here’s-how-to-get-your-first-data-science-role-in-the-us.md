@@ -73,11 +73,11 @@ Some bootcamps can be as costly as $30,000 with more than six months of classes 
 
 <h3>6. Hire a Mentor</h3>
 
-It’s always best to talk to somebody who has already been through all these steps and succeeded. Don’t think you can conquer the world alone. It’s better to make an impact with the help of a [qualified mentor](https://saeedmirshekari.com/results/) than to run alone in the dark. 
+It’s always best to talk to somebody who has already been through all these steps and succeeded. Don’t think you can conquer the world alone. It’s better to make an impact with the help of a [Data Science mentor](https://omentors.com/mentors/) than to run alone in the dark. 
 
 Mentors like [Saeed MirShekari](https://saeedmirshekari.com/team/) will guide you in the right direction. These individuals know how vast the [talent gap](https://saeedmirshekari.com/blog/2022-05-19-the-talent-gap-in-data-science-today-and-tomorrow/) in the data science field is. And how [immigrants](https://saeedmirshekari.com/blog/2022-05-23-data-science-opportunities-and-immigrants-with-higher-educations/) can take advantage of this talent gap.
 
-Check out our data analytics for beginners course [here](https://saeedmirshekari.com/data-science-learning-program/). 
+Check out our [data analytics for beginners course](https://saeedmirshekari.com/data-science-learning-program/). 
 
 <h2>Conclusion</h2>
 

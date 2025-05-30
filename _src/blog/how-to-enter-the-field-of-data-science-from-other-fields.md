@@ -42,7 +42,7 @@ This can only be done when your curriculum includes:
 
 Don’t, for once, think that you can do all this alone without guidance. Start looking for [free data analytics courses](https://saeedmirshekari.com/data-science-learning-program/) with or without certificates to acquire experience-based skills. Industry leaders design these courses for aspiring individuals. 
 
-They also offer other perks like [mentorship programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring/), career counseling, and more. Earning a data science degree typically takes 2 to 4 years, which is a long time. But there are different, more beneficial ways to learn all the essentials and gain skills and experience - \[from 6-month online data science programs and bootcamps](<https://saeedmirshekari.com/blog/202
+They also offer other perks like [one-on-one Data Science mentorship programs](https://saeedmirshekari.com/data-science-one-on-one-mentoring/), career counseling, and more. Earning a data science degree typically takes 2 to 4 years, which is a long time. But there are different, more beneficial ways to learn all the essentials and gain skills and experience - \[from 6-month online data science programs and bootcamps](<https://saeedmirshekari.com/blog/202
 2-09-07-the-best-way-to-become-a-
 data-scientist/>).  
 
@@ -67,7 +67,7 @@ Networking implies building strong connections to gain visibility and benefits f
 
 Mentors like [Saeed Mirshekari](https://saeedmirshekari.com/team/) can teach novices the mojo of networking. He will tell you how to talk, socialize, use networking apps to the fullest, and make better relationships with potential big names in the industry. 
 
-Check out Saeed’s results and accomplishments in the Data Science industry [here](https://saeedmirshekari.com/results/).
+Check out [Saeed’s results and accomplishments in the Data Science industry](https://saeedmirshekari.com/results/).
 
 <h3>Inside Industry Tips</h3>
 

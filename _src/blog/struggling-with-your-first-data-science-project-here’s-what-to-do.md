@@ -84,7 +84,7 @@ Just remember that panicking won’t do anything good for you. Try to understand
 
 
 
-Let your managers know what results to expect and the time required to achieve those results. Keep them frequently updated on the progress to manage their expectations of you. And if you need help, ask for it. Seeking a [qualified mentor](https://saeedmirshekari.com/results/) is a great choice. 
+Let your managers know what results to expect and the time required to achieve those results. Keep them frequently updated on the progress to manage their expectations of you. And if you need help, ask for it. Seeking a [qualified data science mentor](https://saeedmirshekari.com/results/) is a great choice. 
 
 <h2>4. Seek A Mentor</h2>
 

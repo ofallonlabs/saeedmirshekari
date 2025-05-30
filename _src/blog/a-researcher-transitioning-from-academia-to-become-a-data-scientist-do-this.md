@@ -18,7 +18,7 @@ rating: 5
 ---
 <!--StartFragment-->
 
-[Data science](https://saeedmirshekari.com/blog/2022-05-14-the-talent-gap-in-data-science-today-and-tomorrow/) is full of untapped potential and opportunities. It isn’t uncommon for professionals from academia to transition to the data science industry. So, if you are an individual working as a lecturer or researcher in quantitative fields such as physics and engineering or data science degree programs and are interested in data science, you need professional guidance. 
+[Data science arena](https://saeedmirshekari.com/blog/2022-05-14-the-talent-gap-in-data-science-today-and-tomorrow/) is full of untapped potential and opportunities. It isn’t uncommon for professionals from academia to transition to the data science industry. So, if you are an individual working as a lecturer or researcher in quantitative fields such as physics and engineering or data science degree programs and are interested in data science, you need professional guidance. 
 
 If you have questions like:
 
@@ -88,6 +88,6 @@ Data scientist roles require individuals to be agile and adaptive to new situati
 
 <h2>Conclusion</h2>
 
-Change is the only constant that the data science field requires. To move in the right direction, you can take help from a [qualified mentor](https://saeedmirshekari.com/blog/2022-05-13-mentoring-is-a-road-trip-a-personal-story/) that’ll push you in the right direction. Overall, transitioning from academia to the data science industry is not something new or unconquerable that you can’t do.
+Change is the only constant that the data science field requires. To move in the right direction, you can take help from an [expert mentor](https://saeedmirshekari.com/blog/2022-05-13-mentoring-is-a-road-trip-a-personal-story/) that’ll push you in the right direction. Overall, transitioning from academia to the data science industry is not something new or unconquerable that you can’t do.
 
 <!--EndFragment-->
