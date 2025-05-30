@@ -11,6 +11,18 @@
 {# Base pageTitle is the original title #}
 {% set pageTitle = title %}
 
+pageDescription
+
+{# If pageDescription is not defined, use a default description #}
+{% set pageDescription = description %}
+
+
+{# If pagination is defined, append the page number to the description #}
+{% if pagination and pagination.pageNumber > -1 %}
+  {% set pageDescription = pageDescription ~ " Page " ~ pagination.pageNumber %}
+{% endif %}
+
+
 {# If pagination is defined and pageNumber > -1, append page number #}
 {% if pagination and pagination.pageNumber > -1 %}
   {% set pageTitle = pageTitle ~ " Page " ~ pagination.pageNumber %}
@@ -18,7 +30,7 @@
 
 {# SEO optimization: append brand if short, truncate if long #}
 {% if pageTitle|length < 40 %}
-  {% set pageTitle = pageTitle ~ " – Premium 1-on-1 Data Science Mentoring" %}
+  {% set pageTitle = pageTitle ~ " – Best Data Science Mentors" %}
 {% elseif pageTitle|length > 60 %}
   {% set pageTitle = pageTitle|truncate(60, true, '...') %}
 {% endif %}
@@ -41,8 +53,8 @@
   <meta name="description" content="{{ description | truncate(160, true, '...') }}"/>
 
   <meta name="author" content="{{author}}"/> 
-  <meta name="image" content={{thumbnail}}/>
-  <meta name="title" content="{{title}}"/>
+  <meta name="image" content="{{thumbnail}}"/>
+  <meta name="title" content="{{pageTitle}}"/>
   <meta name="robots" content="index, follow"/>
 
   <meta charset="UTF-8"/>
@@ -51,8 +63,8 @@
 
   <meta name="keywords" content="data science mentoring, data science learning, data analytics courses, top data science courses in the usa, data science mentoring programs in the usa, data science online in the usa, Data science tutorials in the USA, data science online mentoring, data science course online, data science and machine learning course, data analytics courses, best data science mentoring in the usa, best online data science mentors in the usa, data science mentoring, data science mentoring program in the usa, best online data science courses, best online platform to learn data science, best online learning, data science jobs"/>
   <meta property="og:image" content="{{ thumbnail }}"/>
-  <meta property="og:title" content="{{ title }}"/>
-  <meta property="og:description" content="{{ description }}"/>
+  <meta property="og:title" content="{{ pageTitle }}"/>
+  <meta property="og:description" content="{{ pageDescription }}"/>
   <meta property="og:type" content="article"/>
   <meta property="og:url" content="{{ url }}"/>
   <meta property="og:site_name" content="Data Science with Saeed" />

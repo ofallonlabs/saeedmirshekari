@@ -27,7 +27,7 @@ layout: blog_base_nobody.njk
 
 {% if pagination and pagination.pageNumber > 0 %}
   {% set pageTitle = "Data Science Learning Center – Page " ~ (pagination.pageNumber + 1) %}
-  {% set description = "Explore our Data Science Learning Center for expert insights, tutorials, and resources. Page " ~ (pagination.pageNumber + 1) ~ " of our comprehensive guides on Data Science, AI, and more." %}
+  {% set pageDescription = "Explore our Data Science Learning Center for expert insights, tutorials, and resources. Page " ~ (pagination.pageNumber + 1) ~ " of our comprehensive guides on Data Science, AI, and more." %}
 {% else %}
   {% set pageTitle = "Data Science Learning Center" %}
 {% endif %}
