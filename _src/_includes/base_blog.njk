@@ -7,21 +7,16 @@
 
 <head style="font-family: 'Helvetica', 'Arial', sans-serif;">
 
-
 {# Base pageTitle is the original title #}
 {% set pageTitle = title %}
 
-pageDescription
-
 {# If pageDescription is not defined, use a default description #}
 {% set pageDescription = description %}
-
 
 {# If pagination is defined, append the page number to the description #}
 {% if pagination and pagination.pageNumber > -1 %}
   {% set pageDescription = pageDescription ~ " Page " ~ pagination.pageNumber %}
 {% endif %}
-
 
 {# If pagination is defined and pageNumber > -1, append page number #}
 {% if pagination and pagination.pageNumber > -1 %}
@@ -37,8 +32,6 @@ pageDescription
 
 <title>{{ pageTitle }}</title>
 
-
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N4WBFLP0G4"></script>
 <script>
@@ -50,7 +43,7 @@ pageDescription
 </script>
 
  <!-- SEO -->
-  <meta name="description" content="{{ description | truncate(160, true, '...') }}"/>
+  <meta name="description" content="{{ pageDescription | truncate(160, true, '...') }}"/>
 
   <meta name="author" content="{{author}}"/> 
   <meta name="image" content="{{thumbnail}}"/>
