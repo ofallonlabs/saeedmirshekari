@@ -64,7 +64,7 @@ In conclusion, mentorship plays a crucial role in the success and growth of data
 
 So why wait? Sign up for O'Mentors today and embark on your mentorship journey towards data science excellence!
 
-[Sign Up Now](https://olabs.ck.page/waitlist)
+[Sign Up Now](https://olabs.kit.com/waitlist)
 
 <img src="/assets/img/uploads/user_journey_omentors.png" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning">
 

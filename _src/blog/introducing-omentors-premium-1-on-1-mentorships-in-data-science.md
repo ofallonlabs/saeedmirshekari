@@ -41,6 +41,6 @@ O'Mentors is more than just a platform; it's a gateway to unparalleled mentorshi
 
 As we launch the beta testing phase of O'Mentors, we invite you to join us in shaping the future of mentorship in data science. Your participation is invaluable, and together, we can create a platform that empowers learners, fosters growth, and cultivates excellence in the field of data science.
 
-To sign up for beta testing and embark on your mentorship journey with O'Mentors, visit [our website](https://olabs.ck.page/waitlist) today. Seize this opportunity to learn from the best, connect with like-minded individuals, and chart a course towards success in the dynamic world of data science.
+To sign up for beta testing and embark on your mentorship journey with O'Mentors, visit [our website](https://olabs.kit.com/waitlist) today. Seize this opportunity to learn from the best, connect with like-minded individuals, and chart a course towards success in the dynamic world of data science.
 
 Thank you for being a part of this exciting endeavor. We look forward to embarking on this journey together!
