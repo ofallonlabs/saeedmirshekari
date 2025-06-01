@@ -15,7 +15,7 @@
 
 {# If pagination is defined, append the page number to the description #}
 {% if pagination and pagination.pageNumber > -1 %}
-  {% set pageDescription = pageDescription ~ " Page " ~ pagination.pageNumber %}
+  {% set pageDescription = " Page " ~ pagination.pageNumber ~ pageDescription %}
 {% endif %}
 
 {# If pagination is defined and pageNumber > -1, append page number #}
