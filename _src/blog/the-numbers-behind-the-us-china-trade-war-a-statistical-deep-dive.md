@@ -9,7 +9,7 @@ meta_description: Explore the key statistics and economic data driving the
   US-China trade war. This deep dive reveals the numbers shaping global trade
   tensions and their impact on markets.
 author: Saeed Mirshekari
-date: 2025-05-31T20:38:18.385Z
+date: 2025-06-05T16:56:25.704Z
 tags:
   - post
   - trends
