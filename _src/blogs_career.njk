@@ -40,18 +40,26 @@ layout: blog_base_nobody.njk
 
         <div id="right_col">
           <div class="column"> 
-          <a style="line-height:120%; color:#777" href="{{post.url}}" style="position:static; bottom:0px;">
+          <a style="line-height:120%; color:#777; font-size:1.5vh; font-weight: bold; color:#3a3a3a;" href="{{post.url}}" style="position:static; bottom:0px;">
           {{ post.data.title }}</a> 
           <br>
-          <i class="bi bi-clock"></i> <i>{{ post.data.date|dateFull }}</i>
+          {# <i class="bi bi-pen"></i> <i href="{{post.url}}">{{ post.data.writer }}</i> #}
           {# <br> #}
-          <i class="bi bi-pen"></i> <i href="{{post.url}}">{{ post.data.writer }}</i>
-          {# <br> #}
+          {% set tagColors = {
+            'mentoring': '#ff0000',  
+            'career': '#00aa00',     
+            'projects': '#0000ff',   
+            'trends': 'orange'      
+          } %}
           {% for tag in post.data.tags %}
             {% if tag != 'post' %}
-                <i class="bi bi-tags"></i> <i>{{ tag }}</i>
-            {% endif %}          
+              {% set color = tagColors[tag] %}
+              <i class="bi bi-tags {{ color_class }}" style="color: {{ color }}">{{ tag }}</i>
+            {% endif %}
           {% endfor %}
+          <br>
+          <i class="bi bi-clock"></i> {{ post.data.date|dateFull }}
+
           </div>
         </div>
 

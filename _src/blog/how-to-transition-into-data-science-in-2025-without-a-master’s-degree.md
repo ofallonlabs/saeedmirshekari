@@ -14,7 +14,7 @@ author: Saeed Mirshekari
 date: 2025-05-09T23:46:23.520Z
 tags:
   - post
-  - ementoring
+  - mentoring
 thumbnail: /assets/img/uploads/undraw_everyday-life_5bqa.png
 ---
 
