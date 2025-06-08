@@ -1,6 +1,6 @@
 ---
 layout: blog_base.njk
-title: Top 10 Online Platforms for Free Data Science Mentoring
+title: Top 10 Online Platforms for Data Science Mentoring
 description: Unlock your data science potential with free mentorship from these
   top 10 online platforms. Connect with experienced professionals on Kaggle,
   Data Science Central, GitHub, and more. Whether you're seeking project
@@ -10,7 +10,7 @@ description: Unlock your data science potential with free mentorship from these
   success. Don't miss out on this opportunity to learn from the best in the
   field and join vibrant communities where knowledge knows no bounds. Step into
   the world of data science and thrive with free mentoring services today!
-meta_title: Top 10 Online Platforms for Free Data Science Mentoring
+meta_title: Top 10 Online Platforms for Data Science Mentoring
 meta_description: Unlock your data science potential with free mentorship from
   these top 10 online platforms. Connect with experienced professionals on
   Kaggle, Data Science Central, GitHub, and more. Whether you're seeking project
@@ -28,12 +28,13 @@ tags:
 thumbnail: /assets/img/uploads/undraw_regain_focus_ecvj.png
 rating: 5
 ---
-
-
-
 ## Introduction
 
 Data science is an exciting and dynamic field that is constantly evolving. Aspiring data scientists often face challenges and uncertainties along their learning journey. Mentorship plays a pivotal role in helping individuals navigate these obstacles and accelerate their growth in the field. However, finding a suitable mentor can be daunting, especially for those on a tight budget. In this blog post, we will explore the top 10 online platforms that offer free mentoring services in data science, allowing enthusiasts to access invaluable guidance and support from experienced professionals.
+
+## 0. [O'mentors](https://www.omentors.com/)
+O'Mentors is a career mentorship platform connecting aspiring data professionals with top industry experts. It offers 1-on-1 mentorship in Data Science, Machine Learning, Program Management, and Leadership.
+Mentees can explore mentors for free, apply securely, and pay only after their application is accepted. Built for meaningful career growth, O'Mentors makes expert guidance accessible, fast, and personalized.
 
 ## 1. [Kaggle](https://www.kaggle.com/)
 
@@ -77,8 +78,6 @@ LinkedIn hosts numerous data science-related groups where professionals discuss 
 
 <a href="https:\\www.omentors.com"><img src="/assets/img/gifs/omentors-animation.gif" width="100%" alt="One-on-one Mentorship Data Science and Machine Learning"> Click here to connect with Data Science mentors 1-on-1 in just a few minutes!
 </a>
-
-
 
 ### Conclusion
 
