@@ -9,7 +9,7 @@ meta_description: Discover the top 10 high-paying jobs for university graduates
   in 2025. Explore career paths with the best salaries, growth potential, and
   skills employers demand.
 author: Saeed Mirshekari
-date: 2025-05-31T20:31:03.810Z
+date: 2025-06-09T17:10:55.600Z
 tags:
   - post
   - career
