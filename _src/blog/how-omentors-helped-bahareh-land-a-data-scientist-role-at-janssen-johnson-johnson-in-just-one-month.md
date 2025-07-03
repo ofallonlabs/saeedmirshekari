@@ -19,7 +19,7 @@ thumbnail: /assets/img/uploads/bahareh_k_data_scientist.jpeg
 ---
 ## 🌟 Voices of O’Mentors: How Bahareh Landed a Data Scientist Role at Johnson & Johnson in Just One Month
 
-At **O'Mentors**, we believe that the right guidance at the right time can dramatically change the trajectory of someone’s career. One of the most inspiring success stories in our community comes from **Bahareh K.**, a data science professional who transformed her job search in just a matter of weeks.
+At **O'Mentors**, we believe that the right guidance at the right time can dramatically change the trajectory of someone’s career. One of the most inspiring success stories in our community comes from [**Bahareh Kilcoyne**](https://www.linkedin.com/in/bahareh-kilcoyne-bb88b0160/), a data science professional who transformed her job search in just a matter of weeks.
 
 ### 🎯 Before O’Mentors: Stuck in the Search
 
@@ -49,7 +49,7 @@ The results? Nothing short of amazing:
 
 > “After mentoring session with Saeed and applying his suggestion to my resume and mock interviews, I secured a position in a matter of a month.”
 
-Today, **Bahareh is an R\&D Quality Data Scientist at Janssen, a Johnson & Johnson company, based in New Hampshire**—where she applies her data science skills to advance research and development in the healthcare sector.
+Today, **[Bahareh Kilcoyne](https://www.linkedin.com/in/bahareh-kilcoyne-bb88b0160/)** is an **R\&D Quality Data Scientist at Janssen**, a Johnson & Johnson company, based in **New Hampshire**—where she applies her data science skills to advance research and development in the healthcare sector.
 
 ### 🗣️ Would She Recommend O’Mentors?
 
