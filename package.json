@@ -1,7 +1,7 @@
 {
   "name": "npm",
   "version": "1.0.0",
-  "description": "O'Fallon Labs | Data Science Mentoring 1:1",
+  "description": "Data Science Mentoring 1:1",
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --input=_src --serve",
