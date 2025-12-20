@@ -11,7 +11,7 @@ meta_description: Discover the best and worst states for data engineers in the
   potential. Find out where to build your data career or live affordably while
   working remotely.
 author: Saeed Mirshekari
-date: 2025-06-11T15:58:51.870Z
+date: 2025-12-20T17:55:52.293Z
 tags:
   - post
   - mentoring
