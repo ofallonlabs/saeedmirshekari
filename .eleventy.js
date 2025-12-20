@@ -1,6 +1,5 @@
 const { DateTime } = require("luxon");
 
-
 module.exports = function(eleventyConfig) {
 
     // Add a filter to format dates
