@@ -45,7 +45,7 @@ So the obvious question becomes: if Iran is receiving roughly the same amount of
 
 The answer becomes visible only when we shift from looking at total rainfall to examining rainfall per capita.
 
-![Average percipitation over time by coiuntry](/assets/img/uploads/screenshot-from-2026-01-28-11-45-19.png "Iran’s Water Crisis: It’s Not the Rain. It’s the People!")
+![Average percipitation over time by coiuntry](/assets/img/uploads/screenshot-from-2026-01-28-12-20-59.png "Iran’s Water Crisis: It’s Not the Rain. It’s the People!")
 
 - - -
 
