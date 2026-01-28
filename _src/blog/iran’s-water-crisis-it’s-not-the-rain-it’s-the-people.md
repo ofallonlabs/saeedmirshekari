@@ -45,7 +45,10 @@ So the obvious question becomes: if Iran is receiving roughly the same amount of
 
 The answer becomes visible only when we shift from looking at total rainfall to examining rainfall per capita.
 
-![Average percipitation over time by coiuntry](/assets/img/uploads/screenshot-from-2026-01-28-12-20-59.png "Iran’s Water Crisis: It’s Not the Rain. It’s the People!")
+<img src="/assets/img/uploads/screenshot-from-2026-01-28-12-20-59.png"
+     alt="Average precipitation over time by country"
+     title="Iran’s Water Crisis: It’s Not the Rain. It’s the People!"
+     style="width:95%; height:auto;" />
 
 - - -
 
@@ -61,8 +64,10 @@ In 1960, Iran’s population was approximately 22 million. Today, it is close to
 
 The implications of this fact are profound and unavoidable. Iran’s water crisis is fundamentally the result of a collapse in per-capita water availability.
 
-![Average percipitation per million people over time by country](/assets/img/uploads/screenshot-from-2026-01-28-11-44-56.png "Iran’s Water Crisis: It’s Not the Rain. It’s the People!")
-
+<img src="/assets/img/uploads/screenshot-from-2026-01-28-11-44-56.png"
+     alt="AAverage percipitation per million people over time by country"
+     title="Iran’s Water Crisis: It’s Not the Rain. It’s the People!"
+     style="width:95%; height:auto;" />
 - - -
 
 ## Germany as a Natural Comparison
