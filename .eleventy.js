@@ -21,10 +21,10 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addLayoutAlias('default', 'base.njk');
 
 
-    // Copy the `public` directory to the root of the output folder
-    eleventyConfig.addPassthroughCopy({ "public": "." });
-    // Watch the `public` directory for changes
-    eleventyConfig.addWatchTarget("public");
+    // Copy the `_public` directory to the root of the output folder
+    eleventyConfig.addPassthroughCopy({ "_public": "." });
+    // Watch the `_public` directory for changes
+    eleventyConfig.addWatchTarget("_public");
 
 
     eleventyConfig.addPassthroughCopy('./_src/admin');
