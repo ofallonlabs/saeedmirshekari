@@ -2995,7 +2995,6 @@ myh1:hover span{
 .purecounter::after {
   content: '%';
 }
-
 /* ===== Responsive Table → Card Layout ===== */
 
 @media (max-width: 768px) {
@@ -3021,10 +3020,9 @@ myh1:hover span{
   }
 
   .table-responsive td {
-    display: flex;
     justify-content: space-between;
     align-items: center;
-    text-align: right;
+    text-align: center;
     padding: 8px 0;
     border: none;
   }
@@ -3039,10 +3037,24 @@ myh1:hover span{
   .table-responsive td:first-child {
     flex-direction: column;
     align-items: flex-start;
-    text-align: left;
+    text-align: center;
   }
 
   .table-responsive td:first-child::before {
     margin-bottom: 5px;
+  }
+}
+
+@media (max-width: 768px) {
+  .table-responsive td a.btn {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+    font-size: large;
+  }
+
+  .table-responsive td img {
+    width: 100%;
+    height: auto; /* keeps aspect ratio */
   }
 }
