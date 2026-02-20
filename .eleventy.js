@@ -23,6 +23,7 @@ module.exports = function(eleventyConfig) {
 
     // Copy the `_public` directory to the root of the output folder
     eleventyConfig.addPassthroughCopy({ "_public": "." });
+    eleventyConfig.addPassthroughCopy({ "public": "." });
     // Watch the `_public` directory for changes
     eleventyConfig.addWatchTarget("_public");
 
@@ -33,6 +34,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./_src/404.html');
     eleventyConfig.addPassthroughCopy('./_src/terms_of_service.html');
     eleventyConfig.addPassthroughCopy('./_src/privacy_policy.html');
+    eleventyConfig.addPassthroughCopy("assets");
 
 
     eleventyConfig.addCollection("everything", function(collectionApi) {
