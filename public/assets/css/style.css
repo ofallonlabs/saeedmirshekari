@@ -2995,6 +2995,8 @@ myh1:hover span{
 .purecounter::after {
   content: '%';
 }
+
+
 /* ===== Responsive Table → Card Layout ===== */
 
 @media (max-width: 768px) {
@@ -3031,7 +3033,7 @@ myh1:hover span{
     content: attr(data-label);
     font-weight: 600;
     text-align: left;
-    margin-right: 10px;
+    margin-right: 0px;
   }
 
   .table-responsive td:first-child {
